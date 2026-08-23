@@ -717,7 +717,9 @@
       "Statistical Physics",
       "Renormalization Group",
       "Scaling Laws",
-      "Generative Models"
+      "Generative Models",
+      "Flow Matching RG",
+      "Flow Matching"
     ]
   },
   {
@@ -1272,7 +1274,10 @@
       "Renormalization Group",
       "Generative Models",
       "Information Theory",
-      "Training Dynamics"
+      "Training Dynamics",
+      "Flow Matching RG",
+      "Flow Matching",
+      "Symmetry"
     ]
   },
   {
@@ -1607,7 +1612,19 @@
     "url": "https://arxiv.org/abs/2411.00698",
     "tags": [
       "arXiv",
-      "Fluid Dynamics"
+      "Fluid Dynamics",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Few-step Generation",
+      "Diffusion Models",
+      "Benchmarking",
+      "Path Integrals",
+      "Renormalization Group",
+      "Statistical Physics",
+      "Symmetry",
+      "Generative Models"
     ]
   },
   {
@@ -2185,7 +2202,12 @@
     "url": "https://arxiv.org/abs/2605.15419",
     "tags": [
       "arXiv",
-      "Browser bookmark"
+      "Browser bookmark",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
     ]
   },
   {
@@ -3992,7 +4014,13 @@
       "Recommended",
       "Machine Learning",
       "Statistical Physics",
-      "Field Theory"
+      "Field Theory",
+      "Flow Matching RG",
+      "Flow Matching",
+      "Benchmarking",
+      "Renormalization Group",
+      "Symmetry",
+      "Generative Models"
     ]
   },
   {
@@ -4090,7 +4118,11 @@
       "Recommended",
       "Machine Learning",
       "Statistical Physics",
-      "Field Theory"
+      "Field Theory",
+      "arXiv",
+      "Flow Matching RG",
+      "Generative Models",
+      "Flow Matching"
     ]
   },
   {
@@ -4531,7 +4563,11 @@
       "Statistical Physics",
       "Renormalization Group",
       "Scaling Laws",
-      "Generative Models"
+      "Generative Models",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Flow Matching",
+      "Path Integrals"
     ]
   },
   {
@@ -4706,7 +4742,11 @@
       "Machine Learning",
       "Statistical Physics",
       "Renormalization Group",
-      "Generative Models"
+      "Generative Models",
+      "arXiv",
+      "Flow Matching RG",
+      "Symmetry",
+      "Flow Matching"
     ]
   },
   {
@@ -4862,7 +4902,13 @@
       "Recommended",
       "Machine Learning",
       "Statistical Physics",
-      "Training Dynamics"
+      "Training Dynamics",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Flow Matching",
+      "Path Integrals",
+      "Renormalization Group",
+      "Generative Models"
     ]
   },
   {
@@ -5075,6 +5121,1048 @@
       "Recommended",
       "Machine Learning",
       "Video Generation"
+    ]
+  },
+  {
+    "id": "e1b182ad373c34ce",
+    "date": "2026-08-24",
+    "title": "Mean Flows for One-step Generative Modeling",
+    "url": "https://arxiv.org/abs/2505.13447",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Few-step Generation",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "fb8db72307cc1235",
+    "date": "2026-08-24",
+    "title": "An Introduction to Flow Matching and Diffusion Models",
+    "url": "https://arxiv.org/abs/2506.02070",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Few-step Generation",
+      "Diffusion Models",
+      "Benchmarking",
+      "Path Integrals",
+      "Renormalization Group",
+      "Statistical Physics",
+      "Symmetry",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "1e7ab669566f4671",
+    "date": "2026-08-24",
+    "title": "E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS",
+    "url": "https://arxiv.org/abs/2406.18009",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "5a5c48abbfd99710",
+    "date": "2026-08-24",
+    "title": "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching",
+    "url": "https://arxiv.org/abs/2410.06885",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "4588018251b028ad",
+    "date": "2026-08-24",
+    "title": "Flow Generator Matching",
+    "url": "https://arxiv.org/abs/2410.19310",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "b6461f61b11c37b8",
+    "date": "2026-08-24",
+    "title": "RNA-FrameFlow: Flow Matching for de novo 3D RNA Backbone Design",
+    "url": "https://arxiv.org/abs/2406.13839",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "e5e88baa93da03e9",
+    "date": "2026-08-24",
+    "title": "Flow matching meets biology and life science: a survey",
+    "url": "https://doi.org/10.1038/s44387-025-00066-y",
+    "tags": [
+      "Journal",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "b4d7d95594eedfb6",
+    "date": "2026-08-24",
+    "title": "FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space",
+    "url": "https://arxiv.org/abs/2506.15742",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "0860001a6e00e36b",
+    "date": "2026-08-24",
+    "title": "Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design",
+    "url": "https://arxiv.org/abs/2402.04997",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "d907caff0751c3dd",
+    "date": "2026-08-24",
+    "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+    "url": "https://arxiv.org/abs/2412.03603",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "6e0256f42a0788c0",
+    "date": "2026-08-24",
+    "title": "Improved motif-scaffolding with SE(3) flow matching",
+    "url": "https://arxiv.org/abs/2401.04082",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "03c470e1a0129ba7",
+    "date": "2026-08-24",
+    "title": "Improving and generalizing flow-based generative models with minibatch optimal transport",
+    "url": "https://arxiv.org/abs/2302.00482",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "2d6699167b3ea0b5",
+    "date": "2026-08-24",
+    "title": "Optimal Flow Matching: Learning Straight Trajectories in ...",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc8f76d9caadd48f77025b1c889d2e2d-Abstract-Conference.html",
+    "tags": [
+      "Conference",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "7b0c3330f1be25c0",
+    "date": "2026-08-24",
+    "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+    "url": "https://arxiv.org/abs/2403.03206",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "d3593ea6cb44205b",
+    "date": "2026-08-24",
+    "title": "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers",
+    "url": "https://arxiv.org/abs/2401.08740",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "7cc62f0d37b6d5c2",
+    "date": "2026-08-24",
+    "title": "Stable Velocity: A Variance Perspective on Flow Matching",
+    "url": "https://arxiv.org/abs/2602.05435",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "f5723426304434a6",
+    "date": "2026-08-24",
+    "title": "The Amazing Stability of Flow Matching",
+    "url": "https://arxiv.org/abs/2604.16079",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": "a22a128c6c4c47c2",
+    "date": "2026-08-24",
+    "title": "Discrete Flow Matching",
+    "url": "https://arxiv.org/abs/2407.15595",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models",
+      "Benchmarking"
+    ]
+  },
+  {
+    "id": "4ff2d8a087e1ef50",
+    "date": "2026-08-24",
+    "title": "Improving the Training of Rectified Flows",
+    "url": "https://arxiv.org/abs/2405.20320",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "10188947fb0a358a",
+    "date": "2026-08-24",
+    "title": "Movie Gen: A Cast of Media Foundation Models",
+    "url": "https://arxiv.org/abs/2410.13720",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "525f635323cc836e",
+    "date": "2026-08-24",
+    "title": "Pyramidal Flow Matching for Efficient Video Generative Modeling",
+    "url": "https://arxiv.org/abs/2410.05954",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Diffusion Models",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "dfc81cbdbbcf1b33",
+    "date": "2026-08-24",
+    "title": "DISCRETE DIFFUSION LANGUAGE MODELING BY ESTI",
+    "url": "https://openreview.net/pdf/6dcf56ae64ecd6ffb39c0b5f3064025b9e2a297a.pdf",
+    "tags": [
+      "Conference",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Benchmarking"
+    ]
+  },
+  {
+    "id": "af0b5a5bd95c883c",
+    "date": "2026-08-24",
+    "title": "Discrete Flow Matching for Graph Generation - DeFoG",
+    "url": "https://openreview.net/pdf?id=KPRIwWhqAZ",
+    "tags": [
+      "Conference",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Benchmarking"
+    ]
+  },
+  {
+    "id": "0a1de0252faf9272",
+    "date": "2026-08-24",
+    "title": "Eyring-Kramers exit rates for the overdamped Langevin dynamics: the case with saddle points on the boundary",
+    "url": "https://arxiv.org/abs/2207.09284",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Path Integrals"
+    ]
+  },
+  {
+    "id": "124ba7342af02f26",
+    "date": "2026-08-24",
+    "title": "Non Gaussian Denoising Diffusion Models",
+    "url": "https://arxiv.org/abs/2106.07582",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "779731ba4665f15c",
+    "date": "2026-08-24",
+    "title": "Generative Modelling With Inverse Heat Dissipation",
+    "url": "https://arxiv.org/abs/2206.13397",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "1123e0812adab953",
+    "date": "2026-08-24",
+    "title": "Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise",
+    "url": "https://arxiv.org/abs/2208.09392",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "3e6cded2f0754313",
+    "date": "2026-08-24",
+    "title": "Blurring Diffusion Models",
+    "url": "https://arxiv.org/abs/2209.05557",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "0a9cdf115b6fa0ad",
+    "date": "2026-08-24",
+    "title": "Timewarp: Transferable Acceleration of Molecular Dynamics by Learning Time-Coarsened Dynamics",
+    "url": "https://arxiv.org/abs/2302.01170",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "bb22eac7e125b74a",
+    "date": "2026-08-24",
+    "title": "Generative Modeling of Molecular Dynamics Trajectories",
+    "url": "https://arxiv.org/abs/2409.17808",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "e7da69e250c4b5fa",
+    "date": "2026-08-24",
+    "title": "Flow Along the K-Amplitude for Generative Modeling",
+    "url": "https://arxiv.org/abs/2504.19353",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "1fc69cf0b30d65c8",
+    "date": "2026-08-24",
+    "title": "STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation",
+    "url": "https://arxiv.org/abs/2505.18647",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "dd2c72d8e038972e",
+    "date": "2026-08-24",
+    "title": "Is There a Better Source Distribution than Gaussian? Exploring Source Distributions for Image Flow Matching",
+    "url": "https://arxiv.org/abs/2512.18184",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "0f11a8b5baa4378b",
+    "date": "2026-08-24",
+    "title": "Foundations of Schr\\\"odinger Bridges for Generative Modeling",
+    "url": "https://arxiv.org/abs/2603.18992",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "4051502ebe7750f5",
+    "date": "2026-08-24",
+    "title": "Non-Perturbative Renormalization Flow in Quantum Field Theory and Statistical Physics",
+    "url": "https://arxiv.org/abs/hep-ph/0005122",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "a225a99d3c053189",
+    "date": "2026-08-24",
+    "title": "Structure of Exact Renormalization Group Equations for field theory",
+    "url": "https://arxiv.org/abs/1405.0791",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "5a728f10a769abb4",
+    "date": "2026-08-24",
+    "title": "Cognitive Field Theory: Memory-Dressed Collective Dynamics of Intelligence",
+    "url": "https://arxiv.org/abs/2601.10221",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "16deea2a8042b097",
+    "date": "2026-08-24",
+    "title": "Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional | OpenReview",
+    "url": "https://openreview.net/forum?id=QwoGfQzuMa&noteId=GFnC8jkkEK",
+    "tags": [
+      "Conference",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "d45bc2d69a4c687d",
+    "date": "2026-08-24",
+    "title": "F$^3$low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching",
+    "url": "https://arxiv.org/abs/2405.00751",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "6e321ad478528686",
+    "date": "2026-08-24",
+    "title": "Gauge-covariant stochastic neural fields: stability and finite-width effects",
+    "url": "https://doi.org/10.1038/s41598-026-47071-y",
+    "tags": [
+      "Journal",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "9b4652cee4d4eb75",
+    "date": "2026-08-24",
+    "title": "Geometric Trajectory Diffusion Models",
+    "url": "https://arxiv.org/abs/2410.13027",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "f23761c03fd9497a",
+    "date": "2026-08-24",
+    "title": "GUD: Generation with Unified Diffusion",
+    "url": "https://arxiv.org/abs/2410.02667",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "f238cf2cfef0f82c",
+    "date": "2026-08-24",
+    "title": "Holographic generative flows with AdS/CFT",
+    "url": "https://arxiv.org/abs/2601.22033",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "00472db0f830a014",
+    "date": "2026-08-24",
+    "title": "Multisample Flow Matching: Straightening Flows with Minibatch Couplings",
+    "url": "https://arxiv.org/abs/2304.14772",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "9432ed74757674e5",
+    "date": "2026-08-24",
+    "title": "Flow map matching with stochastic interpolants: A mathematical framework for consistency models",
+    "url": "https://arxiv.org/abs/2406.07507",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "615f6599bf75c065",
+    "date": "2026-08-24",
+    "title": "Exact Renormalization Group Equations. An Introductory Review",
+    "url": "https://arxiv.org/abs/hep-th/0002034",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "ae6b8a193d3649c7",
+    "date": "2026-08-24",
+    "title": "How to build a consistency model: Learning flow maps via self-distillation",
+    "url": "https://arxiv.org/abs/2505.18825",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "12672794ce065959",
+    "date": "2026-08-24",
+    "title": "Improving Rectified Flow with Boundary Conditions",
+    "url": "https://arxiv.org/abs/2506.15864",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "c1198d82f39f1679",
+    "date": "2026-08-24",
+    "title": "Source-Guided Flow Matching",
+    "url": "https://arxiv.org/abs/2508.14807",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "e081dffe139abbb4",
+    "date": "2026-08-24",
+    "title": "Laplacian Multi-scale Flow Matching for Generative Modeling",
+    "url": "https://arxiv.org/abs/2602.19461",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "718967ebb315d9b4",
+    "date": "2026-08-24",
+    "title": "Improving Flow Matching by Aligning Flow Divergence",
+    "url": "https://arxiv.org/abs/2602.00869",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "a619bd5c2964e92c",
+    "date": "2026-08-24",
+    "title": "NoiseAR: AutoRegressing Initial Noise Prior for Diffusion Models",
+    "url": "https://arxiv.org/abs/2506.01337",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "5d54e653c95484ec",
+    "date": "2026-08-24",
+    "title": "Physics-informed neural networks for solving functional renormalization group on a lattice",
+    "url": "https://arxiv.org/abs/2312.16038",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "3ef68ddd10603589",
+    "date": "2026-08-24",
+    "title": "Relay Diffusion: Unifying diffusion process across resolutions for image synthesis | OpenReview",
+    "url": "https://openreview.net/forum?id=qTlcbLSm4p",
+    "tags": [
+      "Conference",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "6fbd8b62646ecbe8",
+    "date": "2026-08-24",
+    "title": "Score-based Data Assimilation | OpenReview",
+    "url": "https://openreview.net/forum?id=VUvLSnMZdX",
+    "tags": [
+      "Conference",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "914b139b3661cddc",
+    "date": "2026-08-24",
+    "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+    "url": "https://arxiv.org/abs/2311.15127",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "1bd7871c7b0bf022",
+    "date": "2026-08-24",
+    "title": "Synthetic Lagrangian turbulence by generative diffusion models",
+    "url": "https://doi.org/10.1038/s42256-024-00810-0",
+    "tags": [
+      "Journal",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "e18c172140e13493",
+    "date": "2026-08-24",
+    "title": "The Free Energy Principle for Perception and Action: A Deep Learning Perspective - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8871280",
+    "tags": [
+      "Journal",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Flow Matching",
+      "Renormalization Group",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "2de33675e930f673",
+    "date": "2026-08-24",
+    "title": "Diffusion Schr\\\"odinger Bridge Matching",
+    "url": "https://arxiv.org/abs/2303.16852",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Contextual Reference",
+      "Machine Learning",
+      "Symmetry"
+    ]
+  },
+  {
+    "id": "1e672de62d14de31",
+    "date": "2026-08-24",
+    "title": "An optimal control perspective on diffusion-based generative modeling",
+    "url": "https://arxiv.org/abs/2211.01364",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "fec57c0ff64d46f6",
+    "date": "2026-08-24",
+    "title": "A Unified Approach to Analysis and Design of Denoising Markov Models",
+    "url": "https://arxiv.org/abs/2504.01938",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "610ddc6f4d27aea6",
+    "date": "2026-08-24",
+    "title": "Action Matching: Learning Stochastic Dynamics from Samples",
+    "url": "https://arxiv.org/abs/2210.06662",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "e9c527ecf58323a6",
+    "date": "2026-08-24",
+    "title": "Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling",
+    "url": "https://arxiv.org/abs/2504.10612",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "7a3611fad241760c",
+    "date": "2026-08-24",
+    "title": "From Denoising Diffusions to Denoising Markov Models",
+    "url": "https://arxiv.org/abs/2211.03595",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "5e379f3baa4eff3f",
+    "date": "2026-08-24",
+    "title": "Generator Matching: Generative modeling with arbitrary Markov processes",
+    "url": "https://arxiv.org/abs/2410.20587",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "cb87befa0c182aa1",
+    "date": "2026-08-24",
+    "title": "GenPhys: From Physical Processes to Generative Models",
+    "url": "https://arxiv.org/abs/2304.02637",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "9f515671e11b49f1",
+    "date": "2026-08-24",
+    "title": "Simulation-Free Schrödinger Bridges via Score and Flow Matching",
+    "url": "https://proceedings.mlr.press/v238/tong24a.html",
+    "tags": [
+      "Conference",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "4622bb8c184fb5fd",
+    "date": "2026-08-24",
+    "title": "The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space",
+    "url": "https://arxiv.org/abs/2606.24157",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "579444607faedf8b",
+    "date": "2026-08-24",
+    "title": "Transition Matching: Scalable and Flexible Generative Modeling",
+    "url": "https://arxiv.org/abs/2506.23589",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "bc478f53755f26d4",
+    "date": "2026-08-24",
+    "title": "Unifying Generative Models with Path Integrals",
+    "url": "https://arxiv.org/abs/2608.12438",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
+    ]
+  },
+  {
+    "id": "8ecf7e0a0641b115",
+    "date": "2026-08-24",
+    "title": "Variational Flow Matching for Graph Generation",
+    "url": "https://arxiv.org/abs/2406.04843",
+    "tags": [
+      "arXiv",
+      "Flow Matching RG",
+      "Recommended",
+      "Machine Learning",
+      "Generative Models",
+      "Flow Matching"
     ]
   }
 ]
