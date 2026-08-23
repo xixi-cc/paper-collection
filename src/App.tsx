@@ -4,7 +4,7 @@ type Paper = {
   id: string;
   date: string;
   title: string;
-  url: string;
+  url?: string;
   tags: string[];
 };
 
@@ -162,7 +162,11 @@ function App() {
           <div className="paper-list">
             {filtered.map((paper) => (
               <article className="paper-card" key={paper.id}>
-                <h2><a href={paper.url} target="_blank" rel="noreferrer">{paper.title}</a></h2>
+                <h2>
+                  {paper.url
+                    ? <a href={paper.url} target="_blank" rel="noreferrer">{paper.title}</a>
+                    : paper.title}
+                </h2>
                 <div className="paper-meta">
                   <time>{paper.date}</time>
                   {paper.tags.map((tag) => <button type="button" key={tag} onClick={() => toggleTag(tag)}>{tag}</button>)}

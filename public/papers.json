@@ -1,1 +1,1620 @@
-[]
+[
+  {
+    "id": "6650760870fa5ea5",
+    "date": "2026-08-23",
+    "title": "A Dynamical Mechanism for Irreversibility in Cyclically Driven Amorphous Solids",
+    "url": "https://arxiv.org/abs/2608.11073",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "892101cd9f197aa6",
+    "date": "2026-08-23",
+    "title": "A general paracontrolled ansatz for singular SPDEs",
+    "url": "https://arxiv.org/abs/2608.09700",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "20e9743fd0990037",
+    "date": "2026-08-23",
+    "title": "A ghost mechanism: An analytical model of abrupt learning in recurrent networks",
+    "url": "https://arxiv.org/abs/2501.02378",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "56d7426c35a6cb77",
+    "date": "2026-08-23",
+    "title": "A Mean-Field Framework for Inference-Time Distributional Control of Diffusion Models",
+    "url": "https://arxiv.org/abs/2608.08770",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "f99924cbf60a8e81",
+    "date": "2026-08-23",
+    "title": "A multicellular star-shaped actin network underpins epithelial organization and connectivity",
+    "url": "https://doi.org/10.1038/s41467-025-61438-1",
+    "tags": [
+      "Journal",
+      "Biophysics"
+    ]
+  },
+  {
+    "id": "23d07e3837b6e8d7",
+    "date": "2026-08-23",
+    "title": "A Path-Space Formulation of Prediction in World Models: From a Single Action to Prediction, Planning, and Irreversibility",
+    "url": "https://arxiv.org/abs/2606.28751",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "8f8419e0ec4e0dae",
+    "date": "2026-08-23",
+    "title": "A Survey on Vision-Language-Action Models for Embodied AI",
+    "url": "https://arxiv.org/abs/2405.14093",
+    "tags": [
+      "arXiv",
+      "Robotics"
+    ]
+  },
+  {
+    "id": "e2579c89562fcc13",
+    "date": "2026-08-23",
+    "title": "A theory of data variability in Neural Network Bayesian inference",
+    "url": "https://arxiv.org/abs/2307.16695",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "419c835c82bcdfbc",
+    "date": "2026-08-23",
+    "title": "Active Brownian particle in harmonic trap: exact computation of moments, and re-entrant transition",
+    "url": "https://arxiv.org/abs/2005.14234",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "210d221340cda74a",
+    "date": "2026-08-23",
+    "title": "Active hydraulics laws from frustration principles",
+    "url": "https://doi.org/10.1038/s41567-023-02301-2",
+    "tags": [
+      "Journal"
+    ]
+  },
+  {
+    "id": "80b2bc96f5e576cf",
+    "date": "2026-08-23",
+    "title": "Active Inference for Physical AI Agents -- An Engineering Perspective",
+    "url": "https://arxiv.org/abs/2603.20927",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "347524d9e43b5507",
+    "date": "2026-08-23",
+    "title": "Active Particles Powered by Quincke Rotation in a Bulk Fluid",
+    "url": "https://doi.org/10.1103/PhysRevLett.122.194503",
+    "tags": [
+      "Journal",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "a3b98b596fa7b049",
+    "date": "2026-08-23",
+    "title": "Active-hydraulic flows solve the 6-vertex model (and vice versa)",
+    "url": "https://arxiv.org/abs/2410.13377",
+    "tags": [
+      "arXiv",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "b5f5db392f95ac4f",
+    "date": "2026-08-23",
+    "title": "Adversarial Causal Intervention Falsification",
+    "url": "https://arxiv.org/abs/2608.06427",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "474c820b5224b6bf",
+    "date": "2026-08-23",
+    "title": "AI models collapse when trained on recursively generated data",
+    "url": "https://doi.org/10.1038/s41586-024-07566-y",
+    "tags": [
+      "Journal"
+    ]
+  },
+  {
+    "id": "7790bdcb2c163210",
+    "date": "2026-08-23",
+    "title": "Almost-Linear RNNs Yield Highly Interpretable Symbolic Codes in Dynamical Systems Reconstruction",
+    "url": "https://doi.org/10.52202/079017-1161",
+    "tags": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "f07b3b11fe42ffb4",
+    "date": "2026-08-23",
+    "title": "An Introduction to Motility-Induced Phase Separation",
+    "url": "https://arxiv.org/abs/2112.03979",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "927c9a43f19d68b4",
+    "date": "2026-08-23",
+    "title": "Are Neural Networks Collision Resistant?",
+    "url": "https://arxiv.org/abs/2509.20262",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "c7ca8436ff5fb4b8",
+    "date": "2026-08-23",
+    "title": "Banded non-Hermitian random matrices, neural networks, and eigenvalue degeneracies",
+    "url": "https://arxiv.org/abs/2605.19072",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "a7cb1accb3eec1c2",
+    "date": "2026-08-23",
+    "title": "Cascading Through the Hierarchy: Regularizer-Induced Feature Detection as Phase Transitions in Deep Linear Neural Networks",
+    "url": "https://arxiv.org/abs/2608.06597",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "536355c813fdbff2",
+    "date": "2026-08-23",
+    "title": "Clustered Attractor Manifolds and Dynamical Condensation in Self-Attention",
+    "url": "https://arxiv.org/abs/2608.08922",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "d53f8b645b5dd919",
+    "date": "2026-08-23",
+    "title": "Coherent-state path integral versus coarse-grained effective stochastic equation of motion: From reaction diffusion to stochastic sandpiles",
+    "url": "https://arxiv.org/abs/1501.06514",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "042b7d4050978b43",
+    "date": "2026-08-23",
+    "title": "Collective effects in confined Active Brownian Particles",
+    "url": "https://arxiv.org/abs/2103.13220",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "00b52623fda782a4",
+    "date": "2026-08-23",
+    "title": "Collective Motion of Quincke Rollers with Fully Resolved Hydrodynamics",
+    "url": "https://arxiv.org/abs/2205.03909",
+    "tags": [
+      "arXiv",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "6a4f114547331250",
+    "date": "2026-08-23",
+    "title": "Complex flow profiles in microscopic active crystals",
+    "url": "https://arxiv.org/abs/2311.04288",
+    "tags": [
+      "arXiv",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "8bb046dcdfff2642",
+    "date": "2026-08-23",
+    "title": "Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models",
+    "url": "https://arxiv.org/abs/2605.04830",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "231921777c73da46",
+    "date": "2026-08-23",
+    "title": "Connecting NTK and NNGP: A Unified Theoretical Framework for Wide Neural Network Learning Dynamics",
+    "url": "https://arxiv.org/abs/2309.04522",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "55048d58247c154b",
+    "date": "2026-08-23",
+    "title": "Connectivity structure and dynamics of nonlinear recurrent neural networks",
+    "url": "https://arxiv.org/abs/2409.01969",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "e0a58066cf5e1151",
+    "date": "2026-08-23",
+    "title": "Control of collective activity to crystallize an oscillator gas",
+    "url": "https://doi.org/10.1038/s41567-025-02957-y",
+    "tags": [
+      "Journal"
+    ]
+  },
+  {
+    "id": "422afad05102b1cf",
+    "date": "2026-08-23",
+    "title": "Convergence Guarantees of Gradient Descent for Neural Networks via Generalized Lipschitz Smoothness",
+    "url": "https://arxiv.org/abs/2608.11479",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "c3028ace11fb7a70",
+    "date": "2026-08-23",
+    "title": "Correlated Rigidity Percolation and Colloidal Gels",
+    "url": "https://doi.org/10.1103/PhysRevLett.123.058001",
+    "tags": [
+      "Journal",
+      "Soft Matter"
+    ]
+  },
+  {
+    "id": "c1cbc0e0f313a2d2",
+    "date": "2026-08-23",
+    "title": "Correlation flow governs learning at criticality",
+    "url": "https://arxiv.org/abs/2608.08350",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "fa4bf2319aafb452",
+    "date": "2026-08-23",
+    "title": "Critical dynamics of a scalar field near four spatial dimensions",
+    "url": "https://arxiv.org/abs/2608.07292",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "72da32b72813ebb1",
+    "date": "2026-08-23",
+    "title": "Crossing over universal scaling laws in two-dimensional driven dissipative condensates",
+    "url": "https://arxiv.org/abs/2608.07242",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "b02602be10aad062",
+    "date": "2026-08-23",
+    "title": "Data-driven learning of the generalized Langevin equation with state-dependent memory",
+    "url": "https://arxiv.org/abs/2310.18582",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "9447759c19389e58",
+    "date": "2026-08-23",
+    "title": "Deep learning for predicting rate-induced tipping",
+    "url": "https://doi.org/10.1038/s42256-024-00937-0",
+    "tags": [
+      "Journal"
+    ]
+  },
+  {
+    "id": "6d14e39b9a6e2a8a",
+    "date": "2026-08-23",
+    "title": "Deep neural operator for free boundary problems",
+    "url": "https://doi.org/10.1038/s42256-026-01233-9",
+    "tags": [
+      "Journal",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "d264b597037f6edb",
+    "date": "2026-08-23",
+    "title": "Deriving time-averaged active inference from control principles",
+    "url": "https://arxiv.org/abs/2208.10601",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "5f770f826025c156",
+    "date": "2026-08-23",
+    "title": "Discretization and Statistical Consistency of Functional Flow Matching",
+    "url": "https://arxiv.org/abs/2608.04531",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "c3305c4765375bc3",
+    "date": "2026-08-23",
+    "title": "Dissecting the Interplay of Attention Paths in a Statistical Mechanics Theory of Transformers",
+    "url": "https://doi.org/10.52202/079017-2315",
+    "tags": [
+      "Conference",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "9413c1f50e8eb23b",
+    "date": "2026-08-23",
+    "title": "Distributional Active Inference",
+    "url": "https://arxiv.org/abs/2601.20985",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "29b449105ddea6a8",
+    "date": "2026-08-23",
+    "title": "Diverse behaviors in non-uniform chiral and non-chiral swarmalators",
+    "url": "https://doi.org/10.1038/s41467-023-36563-4",
+    "tags": [
+      "Journal",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "c41f2e420c0b6468",
+    "date": "2026-08-23",
+    "title": "Drift and Dependence: Layer-wise Information-Theoretic Bounds for Replay-Based Continual Learning",
+    "url": "https://arxiv.org/abs/2608.11690",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "dd41517b1203369d",
+    "date": "2026-08-23",
+    "title": "Dynamical Learning in Deep Asymmetric Recurrent Neural Networks",
+    "url": "https://arxiv.org/abs/2509.05041",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "7a530139c13c4d20",
+    "date": "2026-08-23",
+    "title": "Dynamics of driven Janus particles with pure repulsive interactions over obstacle arrays in active bath",
+    "url": "https://doi.org/10.1007/s12648-024-03117-3",
+    "tags": [
+      "Journal"
+    ]
+  },
+  {
+    "id": "c1a2f8103fda3716",
+    "date": "2026-08-23",
+    "title": "Dynamics of electrostatically-driven granular media. Effects of Humidity",
+    "url": "https://arxiv.org/abs/cond-mat/0011068",
+    "tags": [
+      "arXiv",
+      "Soft Matter"
+    ]
+  },
+  {
+    "id": "d42f801bdd49fc14",
+    "date": "2026-08-23",
+    "title": "Electrohydrodynamic interaction of spherical particles under Quincke rotation",
+    "url": "https://doi.org/10.1103/PhysRevE.87.043014",
+    "tags": [
+      "Journal",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "25b7d2119bae4bb3",
+    "date": "2026-08-23",
+    "title": "Emergence of Self-dual Patterns in Active Colloids with Periodical Feedback to Local Density",
+    "url": "https://arxiv.org/abs/2204.07717",
+    "tags": [
+      "arXiv",
+      "Soft Matter"
+    ]
+  },
+  {
+    "id": "89ea39dd881336b0",
+    "date": "2026-08-23",
+    "title": "Emergence of synchronised rotations in dense active matter with disorder",
+    "url": "https://doi.org/10.1038/s42005-023-01173-5",
+    "tags": [
+      "Journal",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "b3ef2f3ab49a8c05",
+    "date": "2026-08-23",
+    "title": "Emergent Chirality and Hyperuniformity in an Active Mixture with Nonreciprocal Interactions",
+    "url": "https://doi.org/10.1103/PhysRevLett.132.118301",
+    "tags": [
+      "Journal"
+    ]
+  },
+  {
+    "id": "2d80ed15e7fcfddf",
+    "date": "2026-08-23",
+    "title": "Entropy Production and Reversibility Criteria for Stochastic Evolution Equations",
+    "url": "https://arxiv.org/abs/2608.11059",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "0e8b3c08d151b2ee",
+    "date": "2026-08-23",
+    "title": "Exact First-Passage Time Response Theory from Steady-State Response",
+    "url": "https://arxiv.org/abs/2608.11202",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "62b041bdc4a23d4d",
+    "date": "2026-08-23",
+    "title": "FACT: Failure-Aware Causal Training for World-Action Models",
+    "url": "https://arxiv.org/abs/2608.10232",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "2a7134ede31921d1",
+    "date": "2026-08-23",
+    "title": "Far-from-equilibrium Ostwald ripening in electrostatically driven granular powders",
+    "url": "https://arxiv.org/abs/cond-mat/0411522",
+    "tags": [
+      "arXiv",
+      "Soft Matter"
+    ]
+  },
+  {
+    "id": "b9d281d536ae599d",
+    "date": "2026-08-23",
+    "title": "Faraday wave–droplet dynamics: discrete-time analysis",
+    "url": "https://doi.org/10.1017/jfm.2017.235",
+    "tags": [
+      "Journal"
+    ]
+  },
+  {
+    "id": "614f7945e1f9bb95",
+    "date": "2026-08-23",
+    "title": "Field-Induced Assembly and Propulsion of Colloids",
+    "url": "https://doi.org/10.1021/acs.langmuir.1c02581",
+    "tags": [
+      "Journal",
+      "Soft Matter"
+    ]
+  },
+  {
+    "id": "496f9f0026d38dab",
+    "date": "2026-08-23",
+    "title": "Fine-Tuning Generative Models for Extreme Events via CVaR-Penalized Wasserstein Gradient Flows",
+    "url": "https://arxiv.org/abs/2608.11544",
+    "tags": [
+      "arXiv",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "668c1c8e9353a533",
+    "date": "2026-08-23",
+    "title": "Finite-Anisotropy-First Derivation of a Reduced (ρ, A, p) Theory for Active Random Organization",
+    "url": "https://scholar.google.com/scholar?q=%22Finite-Anisotropy-First+Derivation+of+a+Reduced+%28%CF%81%2C+A%2C+p%29+Theory+for+Active+Random+Organization%22",
+    "tags": [
+      "Scholar search"
+    ]
+  },
+  {
+    "id": "b5ca84f79cbc57ce",
+    "date": "2026-08-23",
+    "title": "Fisher information flow in artificial neural networks",
+    "url": "https://arxiv.org/abs/2509.02407",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "8c13e66e5bfef470",
+    "date": "2026-08-23",
+    "title": "Fixed and Adaptive Topological DeepONets: Functional Measurements on Hausdorff Locally Convex Spaces",
+    "url": "https://arxiv.org/abs/2608.06428",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "cac2f42d53a43b72",
+    "date": "2026-08-23",
+    "title": "FlashMD: long-stride, universal prediction of molecular dynamics",
+    "url": "https://doi.org/10.52202/085713-2961",
+    "tags": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "222b1081864812cd",
+    "date": "2026-08-23",
+    "title": "Flocking without alignment interactions in attractive active Brownian particles",
+    "url": "https://arxiv.org/abs/2303.07746",
+    "tags": [
+      "arXiv",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "8dd462d7548852bf",
+    "date": "2026-08-23",
+    "title": "Fluctuating kinetic theory and fluctuating hydrodynamics of aligning active particles: the dilute limit",
+    "url": "https://arxiv.org/abs/2206.11777",
+    "tags": [
+      "arXiv",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "ccc9f854bd3d158f",
+    "date": "2026-08-23",
+    "title": "ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation",
+    "url": "https://doi.org/10.52202/085713-3124",
+    "tags": [
+      "Conference",
+      "Robotics"
+    ]
+  },
+  {
+    "id": "315e6790dccd2ff5",
+    "date": "2026-08-23",
+    "title": "Freezing a Flock: Motility-Induced Phase Separation in Polar Active Liquids",
+    "url": "https://doi.org/10.1103/PhysRevX.9.031043",
+    "tags": [
+      "Journal",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "f03116d588c017a4",
+    "date": "2026-08-23",
+    "title": "From Objectives to What Models Learn: A Landau Theory of Invariant Learning",
+    "url": "https://arxiv.org/abs/2608.09396",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "14a1d12f5203dba6",
+    "date": "2026-08-23",
+    "title": "From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability",
+    "url": "https://arxiv.org/abs/2608.08904",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "dd98670a3673c74e",
+    "date": "2026-08-23",
+    "title": "From Square Selection to Triangle–Honeycomb Exchange: A Unified Floquet and Weakly Nonlinear Theory of One- and Two-Pulse Space–Time Crystals",
+    "url": "https://scholar.google.com/scholar?q=%22From+Square+Selection+to+Triangle%E2%80%93Honeycomb+Exchange%3A+A+Unified+Floquet+and+Weakly+Nonlinear+Theory+of+One-+and+Two-Pulse+Space%E2%80%93Time+Crystals%22",
+    "tags": [
+      "Scholar search"
+    ]
+  },
+  {
+    "id": "4348d7c4202f4a9e",
+    "date": "2026-08-23",
+    "title": "Gauge-field-induced duality group in metamaterials",
+    "url": "https://doi.org/10.1038/s41467-026-73117-w",
+    "tags": [
+      "Journal"
+    ]
+  },
+  {
+    "id": "57aa2858399f5962",
+    "date": "2026-08-23",
+    "title": "General Mean-Field Theory of Period-Two Dual Spatiotemporal Lattices",
+    "url": "https://scholar.google.com/scholar?q=%22General+Mean-Field+Theory+of+Period-Two+Dual+Spatiotemporal+Lattices%22",
+    "tags": [
+      "Scholar search"
+    ]
+  },
+  {
+    "id": "3544b61603e9e772",
+    "date": "2026-08-23",
+    "title": "Generalised stochastic curvature flow in $d \\geq 2$, and sharp interface limit for the stochastic Allen-Cahn equation with nonlinear diffusion",
+    "url": "https://arxiv.org/abs/2608.11695",
+    "tags": [
+      "arXiv",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "093f07a2155d13db",
+    "date": "2026-08-23",
+    "title": "Generalized Master Stability of Heterogeneous Delay-Coupled Networks",
+    "url": "https://arxiv.org/abs/2608.10076",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "3085eeff02291362",
+    "date": "2026-08-23",
+    "title": "Generative diffusion for perceptron problems: statistical physics analysis and efficient algorithms",
+    "url": "https://arxiv.org/abs/2502.16292",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "d5f9896b23484efd",
+    "date": "2026-08-23",
+    "title": "Generative diffusion model with inverse renormalization group flows",
+    "url": "https://arxiv.org/abs/2501.09064",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "e8bfcc6769249a39",
+    "date": "2026-08-23",
+    "title": "Generator-Guided Inverse Sampling for Lévy-Driven Generative Models",
+    "url": "https://arxiv.org/abs/2608.10384",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "c145550afceb8306",
+    "date": "2026-08-23",
+    "title": "Geometric Dynamics of Signal Propagation Predict Trainability of Transformers",
+    "url": "https://arxiv.org/abs/2403.02579",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "6f97a8735f5c5759",
+    "date": "2026-08-23",
+    "title": "Giant density fluctuations in locally hyperuniform states",
+    "url": "https://arxiv.org/abs/2410.18741",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "9922453993afb3e2",
+    "date": "2026-08-23",
+    "title": "Globally correlated states and control of vortex lattices in active roller fluids",
+    "url": "https://doi.org/10.1103/PhysRevResearch.5.023040",
+    "tags": [
+      "Journal",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "b3f2fe99270f7949",
+    "date": "2026-08-23",
+    "title": "Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents",
+    "url": "https://arxiv.org/abs/2607.08448",
+    "tags": [
+      "arXiv",
+      "Robotics"
+    ]
+  },
+  {
+    "id": "e123b7056eb70117",
+    "date": "2026-08-23",
+    "title": "HarnessWAM: Bridging Prediction and Deliberation in World Action Models",
+    "url": "https://arxiv.org/abs/2608.09516",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "c6b8c4d73dd415ce",
+    "date": "2026-08-23",
+    "title": "How Deep Neural Networks Learn Compositional Data: The Random Hierarchy Model",
+    "url": "https://arxiv.org/abs/2307.02129",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "bbaef0aee3fb00f5",
+    "date": "2026-08-23",
+    "title": "Hydrodynamic description of proliferating active matter",
+    "url": "https://arxiv.org/abs/2608.03317",
+    "tags": [
+      "arXiv",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "70c81f9af49a8d3a",
+    "date": "2026-08-23",
+    "title": "Hydrodynamic Theory of the Active Random Organization (ARO) Model Computational Physicist",
+    "url": "https://scholar.google.com/scholar?q=%22Hydrodynamic+Theory+of+the+Active+Random+Organization+%28ARO%29+Model+Computational+Physicist%22",
+    "tags": [
+      "Scholar search",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "4df44d1db80e07a7",
+    "date": "2026-08-23",
+    "title": "IADD-TR: Intervention-Aware Dynamics Decoupling with Targeted Regularization for Model-Based Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2608.10634",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "9d545916ead45e59",
+    "date": "2026-08-23",
+    "title": "Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation",
+    "url": "https://arxiv.org/abs/2608.09385",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "065095b8e507c6a1",
+    "date": "2026-08-23",
+    "title": "Infinite Neural Operators: Gaussian processes on functions",
+    "url": "https://doi.org/10.52202/085713-4294",
+    "tags": [
+      "Conference",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "46d3f0b1dade5aa6",
+    "date": "2026-08-23",
+    "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+    "url": "https://arxiv.org/abs/2608.07457",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "4d616cbafd470135",
+    "date": "2026-08-23",
+    "title": "Interface dynamics in tissue invasion",
+    "url": "https://arxiv.org/abs/2608.08735",
+    "tags": [
+      "arXiv",
+      "Biophysics"
+    ]
+  },
+  {
+    "id": "6b05755ae585b66c",
+    "date": "2026-08-23",
+    "title": "Interpretable Machine Learning in Physics: A Review",
+    "url": "https://arxiv.org/abs/2503.23616",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "5e4de6bbf5e1e027",
+    "date": "2026-08-23",
+    "title": "Interpreting neural operators: how nonlinear waves propagate in non-reciprocal solids",
+    "url": "https://arxiv.org/abs/2404.12918",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "794de480ad9aba5b",
+    "date": "2026-08-23",
+    "title": "Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability",
+    "url": "https://arxiv.org/abs/2608.10172",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "391a03f3269d7207",
+    "date": "2026-08-23",
+    "title": "Is Forward Prediction Enough? Physical State Grounding for JEPA World Models",
+    "url": "https://arxiv.org/abs/2608.06799",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "1896beebfcd3fb9c",
+    "date": "2026-08-23",
+    "title": "Kernel Methods for Learning Operators with Multiple Inputs and Outputs",
+    "url": "https://arxiv.org/abs/2608.11831",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "05c3d9c12deb17b4",
+    "date": "2026-08-23",
+    "title": "Langevin dynamics along the zero set of real-analytic potentials",
+    "url": "https://arxiv.org/abs/2608.09840",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "82e35b0590248725",
+    "date": "2026-08-23",
+    "title": "Large Language Models and Financial Market Sentiment",
+    "url": "https://doi.org/10.2139/ssrn.4584928",
+    "tags": [
+      "Journal"
+    ]
+  },
+  {
+    "id": "3817ff5ef8949446",
+    "date": "2026-08-23",
+    "title": "Large Spin-Wave Fluctuations Suppress Activity in Malthusian Flocks",
+    "url": "https://arxiv.org/abs/2608.05805",
+    "tags": [
+      "arXiv",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "dba9e7dafa79fb18",
+    "date": "2026-08-23",
+    "title": "Learning Hamiltonian neural Koopman operator and simultaneously sustaining and discovering conservation law",
+    "url": "https://arxiv.org/abs/2406.02154",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "0c22a679680e1ca2",
+    "date": "2026-08-23",
+    "title": "Lee-Yang Theory Guided Force Field Refinement Based on Phase Diagrams",
+    "url": "https://arxiv.org/abs/2608.08546",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "58dd56c906a98b98",
+    "date": "2026-08-23",
+    "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
+    "url": "https://arxiv.org/abs/2603.19312",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "a5484591a903e089",
+    "date": "2026-08-23",
+    "title": "Limit Points of Reflow with Minibatch Optimal Transport",
+    "url": "https://arxiv.org/abs/2608.07042",
+    "tags": [
+      "arXiv",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "46ff6d3707ee93f9",
+    "date": "2026-08-23",
+    "title": "Lost in Retraining: Roaming the Parameter Space of Exponential Families Under Closed-Loop Learning",
+    "url": "https://arxiv.org/abs/2506.20623",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "627cdead07cb305c",
+    "date": "2026-08-23",
+    "title": "Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads",
+    "url": "https://arxiv.org/abs/2608.11661",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "b6934c217c1df0f8",
+    "date": "2026-08-23",
+    "title": "Machine-learning optimized measurements of chaotic dynamical systems via the information bottleneck",
+    "url": "https://arxiv.org/abs/2311.04896",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "9ea26320d5c329eb",
+    "date": "2026-08-23",
+    "title": "Macroscopic fluctuation theory for the multi-time statistics of current in non-stationary diffusive systems",
+    "url": "https://arxiv.org/abs/2608.12119",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "778a15beab361ab0",
+    "date": "2026-08-23",
+    "title": "Magnetopological mechanics in Maxwell lattice frustrated Mott insulators",
+    "url": "https://arxiv.org/abs/2602.12168",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "d5b5232b98757c72",
+    "date": "2026-08-23",
+    "title": "Maximum diffusion reinforcement learning",
+    "url": "https://arxiv.org/abs/2309.15293",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "80460de6013e0b22",
+    "date": "2026-08-23",
+    "title": "Micro/Nanorobotic Swarms: From Fundamentals to Functionalities",
+    "url": "https://doi.org/10.1021/acsnano.2c11733",
+    "tags": [
+      "Journal",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "fe7093ed0b7d6a09",
+    "date": "2026-08-23",
+    "title": "Microscopic derivation of a field equation for active Brownian particles",
+    "url": "https://arxiv.org/abs/2608.11184",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "802e950118ecc5be",
+    "date": "2026-08-23",
+    "title": "Motility-Induced Phase Separation of Active Particles in the Presence of Velocity Alignment",
+    "url": "https://doi.org/10.1007/s10955-014-1008-9",
+    "tags": [
+      "Journal",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "59005da35cc413bd",
+    "date": "2026-08-23",
+    "title": "Near-threshold selection of the square Bravais lattice in the pulsed density–polarization field theory",
+    "url": "https://scholar.google.com/scholar?q=%22Near-threshold+selection+of+the+square+Bravais+lattice+in+the+pulsed+density%E2%80%93polarization+field+theory%22",
+    "tags": [
+      "Scholar search"
+    ]
+  },
+  {
+    "id": "744d5ea48e4907c2",
+    "date": "2026-08-23",
+    "title": "No-Free-Lunch Theories for Tensor-Network Machine Learning Models",
+    "url": "https://arxiv.org/abs/2412.05674",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "3df45acf3acc918f",
+    "date": "2026-08-23",
+    "title": "Non-equilibrium Phase Transitions with Long-Range Interactions",
+    "url": "https://arxiv.org/abs/cond-mat/0702169",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "a6ad0bc068521ed8",
+    "date": "2026-08-23",
+    "title": "Nonequilbrium physics of generative diffusion models",
+    "url": "https://arxiv.org/abs/2405.11932",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "135b71ae06a5b561",
+    "date": "2026-08-23",
+    "title": "Nonisospectral Integrability and Exact Current Fluctuations in the Two-Dimensional SSEP",
+    "url": "https://arxiv.org/abs/2608.08480",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "95a65196f5ad52df",
+    "date": "2026-08-23",
+    "title": "Novel Type of Phase Transition in a System of Self-Driven Particles",
+    "url": "https://doi.org/10.1103/physrevlett.75.1226",
+    "tags": [
+      "Journal",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "8e61789d08568052",
+    "date": "2026-08-23",
+    "title": "Nucleation beyond Equilibrium: Fronts Control Invasion in Bistable Ecosystems",
+    "url": "https://arxiv.org/abs/2608.05251",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "2411c1e7a24e6993",
+    "date": "2026-08-23",
+    "title": "Origin of yield stress and mechanical plasticity in model biological tissues",
+    "url": "https://doi.org/10.1038/s41467-025-58526-7",
+    "tags": [
+      "Journal",
+      "Biophysics"
+    ]
+  },
+  {
+    "id": "31091d15c0f8ca60",
+    "date": "2026-08-23",
+    "title": "PAC-Bayes Beyond Parameter Space: Behavioral Equivalence, Z-Information, and Exact Complexity Decomposition",
+    "url": "https://arxiv.org/abs/2608.11465",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "0a0b564bed928702",
+    "date": "2026-08-23",
+    "title": "Particle-based Generalised Stochastic Optimisation",
+    "url": "https://arxiv.org/abs/2608.02844",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "604b2b22ade536e7",
+    "date": "2026-08-23",
+    "title": "Phase Separation and Coarsening in Electrostatically Driven Granular Media",
+    "url": "https://arxiv.org/abs/cond-mat/0107443",
+    "tags": [
+      "arXiv",
+      "Soft Matter"
+    ]
+  },
+  {
+    "id": "b73fbda7cf49287a",
+    "date": "2026-08-23",
+    "title": "Phase transition on a context-sensitive random language model with short range interactions",
+    "url": "https://arxiv.org/abs/2604.00947",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "18c4ab021b9922e3",
+    "date": "2026-08-23",
+    "title": "Polar state reversal in active fluids",
+    "url": "https://doi.org/10.1038/s41567-021-01442-6",
+    "tags": [
+      "Journal",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "32d40c9d190d8179",
+    "date": "2026-08-23",
+    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+    "url": "https://arxiv.org/abs/2608.11215",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "f8a93a5f3481da6d",
+    "date": "2026-08-23",
+    "title": "Potential Matching Optimal Transport: Continuous Normalizing Flows for Exact $p$-Wasserstein Dynamics",
+    "url": "https://arxiv.org/abs/2608.05666",
+    "tags": [
+      "arXiv",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "a8987e749b0465af",
+    "date": "2026-08-23",
+    "title": "Protein pattern morphology and dynamics emerging from effective interfacial tension",
+    "url": "https://doi.org/10.1038/s41567-025-03101-6",
+    "tags": [
+      "Journal",
+      "Biophysics"
+    ]
+  },
+  {
+    "id": "60096bf95584ec8b",
+    "date": "2026-08-23",
+    "title": "Pure Vision Language Action (VLA) Models: A Comprehensive Survey",
+    "url": "https://arxiv.org/abs/2509.19012",
+    "tags": [
+      "arXiv",
+      "Robotics"
+    ]
+  },
+  {
+    "id": "30685821a868d8a3",
+    "date": "2026-08-23",
+    "title": "Random organization criticality with long-range hydrodynamic interactions",
+    "url": "https://arxiv.org/abs/2506.14330",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "101391aaff8d052e",
+    "date": "2026-08-23",
+    "title": "Reconstructed Theory of the Absorbing-State Transition in a Two-Dimensional Pulse-Driven Hard-Particle System with Vector Inverse-Square Interactions Revised theoretical manuscript",
+    "url": "https://scholar.google.com/scholar?q=%22Reconstructed+Theory+of+the+Absorbing-State+Transition+in+a+Two-Dimensional+Pulse-Driven+Hard-Particle+System+with+Vector+Inverse-Square+Interactions+Revised+theoretical+manuscript%22",
+    "tags": [
+      "Scholar search"
+    ]
+  },
+  {
+    "id": "98f4831608edb32d",
+    "date": "2026-08-23",
+    "title": "Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review",
+    "url": "https://arxiv.org/abs/1805.00909",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "4512c0c8ec21ba53",
+    "date": "2026-08-23",
+    "title": "Relevant and Irrelevant: A Renormalization Group Analysis of Transformer Attention",
+    "url": "https://arxiv.org/abs/2607.15449",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "2c83eaac8910e88a",
+    "date": "2026-08-23",
+    "title": "Renormalization Group Flow as Optimal Transport",
+    "url": "https://arxiv.org/abs/2202.11737",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "b4ffa8eb414bcc2b",
+    "date": "2026-08-23",
+    "title": "SANN-PSZ: Spatially Adaptive Neural Network for Head-Tracked Personal Sound Zones",
+    "url": "https://doi.org/10.1109/TASLPRO.2025.3581123",
+    "tags": [
+      "Journal",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "9eddce578e9dcf52",
+    "date": "2026-08-23",
+    "title": "Scaling behavior in non-reciprocal and odd conserved dynamics near criticality",
+    "url": "https://arxiv.org/abs/2608.05027",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "baeffcad7925b214",
+    "date": "2026-08-23",
+    "title": "Scaling Laws and Representation Learning in Simple Hierarchical Languages: Transformers vs. Convolutional Architectures",
+    "url": "https://arxiv.org/abs/2505.07070",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "3679f3a96b77ee04",
+    "date": "2026-08-23",
+    "title": "Self-organized quantization and oscillations on continuous fixed-energy sandpiles",
+    "url": "https://arxiv.org/abs/2111.04470",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "edca440d3fc312e7",
+    "date": "2026-08-23",
+    "title": "Shortcuts to Parameter Sweeps",
+    "url": "https://arxiv.org/abs/2608.12154",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "0d71d07519234ebd",
+    "date": "2026-08-23",
+    "title": "Simulation of hydrodynamically interacting particles near a no-slip boundary",
+    "url": "https://doi.org/10.1063/1.2803837",
+    "tags": [
+      "Journal",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "befae0a92a07baa6",
+    "date": "2026-08-23",
+    "title": "Simulation-free and finite-time diffusion model",
+    "url": "https://arxiv.org/abs/2608.03117",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "1e3606b840cafffc",
+    "date": "2026-08-23",
+    "title": "Small-Scale Experiments: Are We There Yet?",
+    "url": "https://arxiv.org/abs/2608.11859",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "cb1bb9a8f824187f",
+    "date": "2026-08-23",
+    "title": "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics",
+    "url": "https://arxiv.org/abs/2506.01844",
+    "tags": [
+      "arXiv",
+      "Robotics"
+    ]
+  },
+  {
+    "id": "5e3bfc21bacde26a",
+    "date": "2026-08-23",
+    "title": "Spontaneous shock waves in pulse-stimulated flocks of Quincke rollers",
+    "url": "https://doi.org/10.21203/rs.3.rs-3011793/v1",
+    "tags": [
+      "Journal",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "d6a0433020a229cb",
+    "date": "2026-08-23",
+    "title": "Spring-block theory of feature learning in deep neural networks",
+    "url": "https://arxiv.org/abs/2407.19353",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "3a2f6a54e6f935b0",
+    "date": "2026-08-23",
+    "title": "Statistical physics analysis of graph neural networks: Approaching optimality in the contextual stochastic block model",
+    "url": "https://arxiv.org/abs/2503.01361",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "e021df620cf47de8",
+    "date": "2026-08-23",
+    "title": "STEAP: simultaneous trajectory estimation and planning",
+    "url": "https://arxiv.org/abs/1807.10425",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "f212b514d8d47156",
+    "date": "2026-08-23",
+    "title": "Stochastic Homogenization of Non-local Hamilton-Jacobi-Bellman equations",
+    "url": "https://arxiv.org/abs/2608.06814",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "28b45f9fa02765a4",
+    "date": "2026-08-23",
+    "title": "Stochastic Optimal Control as Approximate Input Inference",
+    "url": "https://arxiv.org/abs/1910.03003",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "74e3573c7f5e3bec",
+    "date": "2026-08-23",
+    "title": "Surveying the space of descriptions of a composite system with machine learning",
+    "url": "https://arxiv.org/abs/2411.18579",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "3c13a4fe581990d8",
+    "date": "2026-08-23",
+    "title": "The inconvenient truth about flocks",
+    "url": "https://arxiv.org/abs/2503.17064",
+    "tags": [
+      "arXiv",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "3cf20aca27c574e8",
+    "date": "2026-08-23",
+    "title": "The Kuramoto Neural Operator: Learning to Solve PDEs via Coupled Oscillator Dynamics",
+    "url": "https://arxiv.org/abs/2608.10234",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "164e39cac3e9b155",
+    "date": "2026-08-23",
+    "title": "The Physics of the Vicsek Model",
+    "url": "https://arxiv.org/abs/1511.01451",
+    "tags": [
+      "arXiv",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "d18c975ff77d8885",
+    "date": "2026-08-23",
+    "title": "Theory of Phase Ordering Kinetics",
+    "url": "https://arxiv.org/abs/cond-mat/9501089",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "27496310bb2b94ff",
+    "date": "2026-08-23",
+    "title": "Theory of the Absorbing-State Transition in a Two-Dimensional Pulse-Driven Hard-Particle System with Vector Inverse-Square Interactions",
+    "url": "https://scholar.google.com/scholar?q=%22Theory+of+the+Absorbing-State+Transition+in+a+Two-Dimensional+Pulse-Driven+Hard-Particle+System+with+Vector+Inverse-Square+Interactions%22",
+    "tags": [
+      "Scholar search"
+    ]
+  },
+  {
+    "id": "604163ff526eea66",
+    "date": "2026-08-23",
+    "title": "Transformers Struggle to Use Their Emergent World Models: Revisiting the Tower of Hanoi, and the Illusion of Thinking",
+    "url": "https://arxiv.org/abs/2608.07077",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "c70ceacaf6b2ae2f",
+    "date": "2026-08-23",
+    "title": "Tunable Memory and Activity of Quincke Particles in Micellar Fluid",
+    "url": "https://doi.org/10.1088/0256-307X/40/12/126401",
+    "tags": [
+      "Journal",
+      "Active Matter"
+    ]
+  },
+  {
+    "id": "f3015709b43c2137",
+    "date": "2026-08-23",
+    "title": "Unconventional criticality, scaling breakdown, and diverse universality classes in the Wilson-Cowan model of neural dynamics",
+    "url": "https://arxiv.org/abs/2301.06839",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "19b82c60ea862d1d",
+    "date": "2026-08-23",
+    "title": "Unifying Model Predictive Path Integral Control, Reinforcement Learning, and Diffusion Models for Optimal Control and Planning",
+    "url": "https://arxiv.org/abs/2502.20476",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "10aad06f27252e7e",
+    "date": "2026-08-23",
+    "title": "Universal crossovers in weakly-monitored quantum critical states",
+    "url": "https://arxiv.org/abs/2608.02716",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "32a8409016cbce3e",
+    "date": "2026-08-23",
+    "title": "Universal interface fluctuations in absorbing-state phase transitions",
+    "url": "https://arxiv.org/abs/2605.17781",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "7419ddc22aa2fd0a",
+    "date": "2026-08-23",
+    "title": "Universal Scaling Laws of Absorbing Phase Transitions in Artificial Deep Neural Networks",
+    "url": "https://arxiv.org/abs/2307.02284",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "bd393ea82f3f94bc",
+    "date": "2026-08-23",
+    "title": "Universal Spin Models are Universal Approximators in Machine Learning",
+    "url": "https://arxiv.org/abs/2507.07669",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "952ac3355f7d9e17",
+    "date": "2026-08-23",
+    "title": "Variational Bounds for Perceptron Learning from Structured Data",
+    "url": "https://arxiv.org/abs/2608.04882",
+    "tags": [
+      "arXiv"
+    ]
+  },
+  {
+    "id": "96825cf6fdbc83f9",
+    "date": "2026-08-23",
+    "title": "Variational Treatment of Hydrodynamic Interaction in Polymers",
+    "url": "https://doi.org/10.1063/1.1670977",
+    "tags": [
+      "Journal",
+      "Soft Matter"
+    ]
+  },
+  {
+    "id": "2476d5ff63d6203f",
+    "date": "2026-08-23",
+    "title": "VIScore: Diagnosing Planning-Relevant Quality in Latent World Models",
+    "url": "https://arxiv.org/abs/2608.11174",
+    "tags": [
+      "arXiv",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "35b9fad5b156b6ac",
+    "date": "2026-08-23",
+    "title": "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications",
+    "url": "https://arxiv.org/abs/2510.07077",
+    "tags": [
+      "arXiv",
+      "Robotics"
+    ]
+  },
+  {
+    "id": "e4bf7b8b669248c9",
+    "date": "2026-08-23",
+    "title": "Wasserstein Flow Matching: Generative Modeling Over Families of Distributions",
+    "url": "https://arxiv.org/abs/2411.00698",
+    "tags": [
+      "arXiv",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "168af9a86ead7a49",
+    "date": "2026-08-23",
+    "title": "Wetting by active fluids",
+    "url": "https://doi.org/10.1038/s41567-026-03208-4",
+    "tags": [
+      "Journal",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "0066b5cc70e439ad",
+    "date": "2026-08-23",
+    "title": "When Does Population Diversity Matter? A Unified Framework for Binary-Choice Dynamics",
+    "url": "https://doi.org/10.1103/4db2-7dpd",
+    "tags": [
+      "Journal"
+    ]
+  },
+  {
+    "id": "c4965ae414124bf9",
+    "date": "2026-08-23",
+    "title": "Why Extensile and Contractile Tissues Could be Hard to Tell Apart",
+    "url": "https://arxiv.org/abs/2511.07012",
+    "tags": [
+      "arXiv",
+      "Biophysics"
+    ]
+  },
+  {
+    "id": "00e89f549666c4b1",
+    "date": "2026-08-23",
+    "title": "Zetta $ζ$: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence",
+    "url": "https://arxiv.org/abs/2608.16590",
+    "tags": [
+      "arXiv",
+      "Robotics"
+    ]
+  }
+]
