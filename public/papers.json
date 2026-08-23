@@ -1,0 +1,647 @@
+[
+  {
+    "id": "2608.06597",
+    "date": "2026-08-11",
+    "title": "Cascading Through the Hierarchy: Regularizer-Induced Feature Detection as Phase Transitions in Deep Linear Neural Networks",
+    "titleZh": "层级级联：正则化诱导的特征检测作为深度线性神经网络中的相变",
+    "url": "https://arxiv.org/abs/2608.06597",
+    "note": "调低 $\\beta$ 时，数据协方差的奇异方向按奇异值从大到小依次被学习，$r_{\\max}(\\beta)$ 阶梯式增加；当 $\\beta>\\beta_{\\mathrm{onset}}$ 时端到端映射秩为 0，而 $\\beta\\to0$ 时恢复到 $\\operatorname{rank}(\\Sigma_{yx})$。",
+    "details": "作者：Björn Ladewig、Ibrahim Talha Ersoy、Karoline Wiesner。 机构：Institute of Physics and Astronomy, University of Potsdam。 版本：arXiv:2608.06597v1，2026-08-06；分类 cond-mat.stat-mech。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cond-mat.stat-mech"
+    ]
+  },
+  {
+    "id": "2608.07042",
+    "date": "2026-08-11",
+    "title": "Limit Points of Reflow with Minibatch Optimal Transport",
+    "titleZh": "带小批量最优传输的 Reflow 极限点",
+    "url": "https://arxiv.org/abs/2608.07042",
+    "note": "定理 11：Algorithm 1 的任一极限点都是 $N$-循环单调，而且 minibatch-OT 前后极限点具有相同二次代价；推论 12 在 $\\mu_0$ 绝对连续时进一步得到 rectifiable 和 straight，即最优 flow-matching loss 为 0。",
+    "details": "作者：Antonin Chambolle、Johannes Hertrich。 机构：Université Paris Dauphine–PSL & Inria；ENS Paris。 版本：arXiv:2608.07042v1，2026-08-07；分类 math.PR。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "math.PR"
+    ]
+  },
+  {
+    "id": "2608.07292",
+    "date": "2026-08-11",
+    "title": "Critical dynamics of a scalar field near four spatial dimensions",
+    "titleZh": "四维空间附近标量场的临界动力学",
+    "url": "https://arxiv.org/abs/2608.07292",
+    "note": "静态方面，传播与过阻尼理论共享 Gaussian 和 Wilson–Fisher 固定点；差异只在动力学标度。Gaussian 端点分别为 $z_{od,G}=2$ 与 $z_{prop,G}=1$。",
+    "details": "作者：Laura Batini、Eduardo Grossi。 机构：ETH Zürich Institute für Theoretische Physik；Università di Firenze / INFN Firenze。 版本：arXiv:2608.07292v1，2026-08-07；分类 hep-th。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "hep-th"
+    ]
+  },
+  {
+    "id": "2608.07242",
+    "date": "2026-08-11",
+    "title": "Crossing over universal scaling laws in two-dimensional driven dissipative condensates",
+    "titleZh": "二维驱动耗散凝聚体中普适标度律的交叉",
+    "url": "https://arxiv.org/abs/2608.07242",
+    "note": "在较强相互作用的 $\\hbar\\delta=-5.2$ meV 区，$p=P/P_{th}=1.21,1.25,1.27$ 等功率下，时间和空间相干在选定窗口对 $\\Delta t^{2\\beta}$、$\\Delta r^{2\\chi}$ 呈直线，拟合指数与二维 KPZ 的 0.24/0.39 相容。",
+    "details": "作者：Q. Fontaine、F. Helluin、M. Escalera、D. Pinto Dias、A. Lemaître、M. Morassi、M. Wouters、A. Minguzzi、L. Canet、S. Ravets、J. Bloch。 机构：Université Paris-Saclay/CNRS C2N、Universiteit Antwerpen、Université Grenoble Alpes/CNRS LPMMC。 版本：arXiv:2608.07242v1，2026-08-07；分类 cond-mat.quant-gas。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cond-mat.quant-gas"
+    ]
+  },
+  {
+    "id": "2608.07457",
+    "date": "2026-08-11",
+    "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+    "titleZh": "交互创造孤立状态下不存在的 AI 动力学行为",
+    "url": "https://arxiv.org/abs/2608.07457",
+    "note": "在 $T=0.01$，隔离 AI 与 boss 的 D fraction 约 0.04，而单向交互的 subordinate 约 0.25；发送者很少输出 D，接收者却进入 D-rich 状态，因此不是简单模仿。双向时两个模型都转入相近的 D-rich 状态。",
+    "details": "作者：Bella Xinrui Li、Frank Yingjie Huo、Neil F. Johnson。 机构：Physics Department, George Washington University。 版本：arXiv:2608.07457v1，2026-08-07；分类 cs.AI。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.07077",
+    "date": "2026-08-11",
+    "title": "Transformers Struggle to Use Their Emergent World Models",
+    "titleZh": "Transformer 难以使用其涌现的世界模型",
+    "url": "https://arxiv.org/abs/2608.07077",
+    "note": "小模型达到 99.2% token-level、93.2% sequence-level 验证准确率；SEP 最佳层的几何 probe Spearman 约 0.94、Pearson 约 0.90，81 状态最近邻检索完全正确，图 3 重建 Sierpiński 结构。",
+    "details": "作者：Devin Pereira、Willem Zuidema。 机构：University of Amsterdam Artificial Intelligence Program、ELLIS Unit Amsterdam、Institute for Logic Language and Computation。 版本：arXiv:2608.07077v1，2026-08-07；分类 cs.AI。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.06428",
+    "date": "2026-08-11",
+    "title": "Fixed and Adaptive Topological DeepONets: Functional Measurements on Hausdorff Locally Convex Spaces",
+    "titleZh": "固定与自适应拓扑 DeepONet：Hausdorff 局部凸空间上的泛函测量",
+    "url": "https://arxiv.org/abs/2608.06428",
+    "note": "反导任务的 400 个测试样本全部满足理论误差界；界的最大 sharpness 为自适应 0.94、固定 0.97，说明分解不仅形式成立，在该任务上也接近观测误差。",
+    "details": "作者：Khemraj Shukla、George Em Karniadakis。 机构：Division of Applied Mathematics, Brown University。 版本：arXiv:2608.06428v1，2026-08-05；分类 cs.LG。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.06427",
+    "date": "2026-08-11",
+    "title": "Adversarial Causal Intervention Falsification",
+    "titleZh": "对抗性因果干预证伪",
+    "url": "https://arxiv.org/abs/2608.06427",
+    "note": "最重要的识别结论是“识别到干预等价类”：若两个 SCM 对允许干预族产生同一组分布，ACIF 无法也不应区分它们；只有当干预族具有 separating 性质时，才提升为点识别。",
+    "details": "作者：Mojtaba Eslami。 机构：University of Calgary。 版本：arXiv:2608.06427v1，2026-08-05；分类 cs.LG。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.06814",
+    "date": "2026-08-11",
+    "title": "Stochastic Homogenization of Non-local Hamilton-Jacobi-Bellman equations",
+    "titleZh": "非局域 Hamilton–Jacobi–Bellman 方程的随机均匀化",
+    "url": "https://arxiv.org/abs/2608.06814",
+    "note": "作者：Wenjia Jing、Qi Zhang。 版本：arXiv:2608.06814v1，2026-08-07；分类 math.AP。 主题：随机均匀化、非局域 HJB、跳扩散与随机环境。",
+    "details": "作者：Wenjia Jing、Qi Zhang。 版本：arXiv:2608.06814v1，2026-08-07；分类 math.AP。 主题：随机均匀化、非局域 HJB、跳扩散与随机环境。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "math.AP"
+    ]
+  },
+  {
+    "id": "2608.06799",
+    "date": "2026-08-11",
+    "title": "Is Forward Prediction Enough? Physical State Grounding for JEPA World Models",
+    "titleZh": "前向预测是否足够？JEPA 世界模型的物理状态锚定",
+    "url": "https://arxiv.org/abs/2608.06799",
+    "note": "探针结果显示两类目标作用互补：移除 static objective 对单状态可辨识性伤害最大，移除 transition objective 则对多步变化恢复和规划伤害最大，支持“单 latent 状态”和“latent pair 转移”不是同一监督。",
+    "details": "作者：Haodong Yan、Jiaguan Zhu、Mingyuan Jia、Ruiqing Yin、Junjie He、Zhide Zhong、Junfeng Li、Jinxuan Lu、Hengtao Li、Tianran Zhang、Jiayi Chen、Wenxuan Song、Wen Chen、Yuxiang Gao、Haoang Li。 机构：The Hong Kong University of Science and Technology (Guangzhou)；COCO Matrix。 版本：arXiv:2608.06799v1，2026-08-07；分类 cs.RO。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "2608.09840",
+    "date": "2026-08-12",
+    "title": "Langevin dynamics along the zero set of real-analytic potentials",
+    "titleZh": "沿实解析势零集的 Langevin 动力学",
+    "url": "https://arxiv.org/abs/2608.09840",
+    "note": "Theorem 1.1/第 4 节给出原 Dirichlet forms 对分层极限 forms 的点态/层级收敛，明确每个 $(\\lambda,m)$ strata 的速度测度与切向能量。",
+    "details": "作者：Martin Larsson。 机构：Carnegie Mellon University Department of Mathematical Sciences。 版本：arXiv:2608.09840v1，2026-08-10；分类 math.PR。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "math.PR"
+    ]
+  },
+  {
+    "id": "2608.08922",
+    "date": "2026-08-12",
+    "title": "Clustered Attractor Manifolds and Dynamical Condensation in Self-Attention",
+    "titleZh": "自注意力中的簇状吸引流形与动力学凝聚",
+    "url": "https://arxiv.org/abs/2608.08922",
+    "note": "有限 overlap gap 使簇间注意力按 $\\exp[-c\\beta\\sqrt N]$ 消失，因此热力学极限存在高维 clustered fixed-point manifold，而不是唯一 rank-one fixed point。",
+    "details": "作者：Qucheng Gao、Zuyi Yang、Xiao Chen。 机构：Boston College Department of Physics；Tsinghua University Department of Physics。 版本：arXiv:2608.08922v1，2026-08-09；分类 cond-mat.dis-nn。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cond-mat.dis-nn"
+    ]
+  },
+  {
+    "id": "2608.08350",
+    "date": "2026-08-12",
+    "title": "Correlation flow governs learning at criticality",
+    "titleZh": "临界点处的相关流支配学习",
+    "url": "https://arxiv.org/abs/2608.08350",
+    "note": "临界点且满足 $\\phi_2=0$ 时，输出相关在无限深仍显式依赖输入相关；端到端 Jacobian 的第一谱矩却按代数律约 $1/L$ 消失，因此 dynamical isometry 失败并不妨碍可预测 NTK。",
+    "details": "作者：Andrea Combette、Nelly Pustelnik、Antoine Venaille。 机构：CNRS、ENS de Lyon、Laboratoire de Physique UMR5672。 版本：arXiv:2608.08350v1，2026-08-08；分类 cs.LG。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.09396",
+    "date": "2026-08-12",
+    "title": "From Objectives to What Models Learn: A Landau Theory of Invariant Learning",
+    "titleZh": "从目标函数到模型所学：不变学习的 Landau 理论",
+    "url": "https://arxiv.org/abs/2608.09396",
+    "note": "表 1 给出表型分类：quadratic objective 有有限阈值 mode elimination；quartic objective 有渐近残留；higher-order/off-target 项控制大强度非单调、失稳和 collapse。",
+    "details": "作者：Pinli Wang、Yue He、Peng Cui。 机构：Tsinghua University Department of Physics；Department of Computer Science and Technology。 版本：arXiv:2608.09396v1，2026-08-10；分类 cs.LG。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.09700",
+    "date": "2026-08-12",
+    "title": "A general paracontrolled ansatz for singular SPDEs",
+    "titleZh": "奇异 SPDE 的一般拟控制 Ansatz",
+    "url": "https://arxiv.org/abs/2608.09700",
+    "note": "Theorem 1.1 给出 expansion $u=\\sum_{|I(\\tau)|<\\gamma}P(u_\\tau,\\widehat Z_{I(\\tau)})+u^\\#$；对 $u_0\\in C^\\gamma$ 与给定低阶随机数据，存在小时间唯一解，并连续依赖初值和 stochastic data。",
+    "details": "作者：Yvain Bruned、Nicolas Moench。 机构：Université de Lorraine、CNRS、IECL。 版本：arXiv:2608.09700v1，2026-08-10；分类 math.PR；全文 107 页。",
+    "readingMinutes": 10,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "math.PR"
+    ]
+  },
+  {
+    "id": "2608.08770",
+    "date": "2026-08-12",
+    "title": "A Mean-Field Framework for Inference-Time Distributional Control of Diffusion Models",
+    "titleZh": "扩散模型推理时分布控制的平均场框架",
+    "url": "https://arxiv.org/abs/2608.08770",
+    "note": "二维可解 MMD 例子目标为 $KL(\\mu\\|p_1)+\\lambda^*MMD^2(\\mu,\\nu)$。图 2 显示 gradient-only 虽把粒子推向 $\\nu$，却不采样规定的 $\\mu^*$；加权 mean-field 方法与可计算真目标一致。",
+    "details": "作者：Samuel Howard、Nikolas Nüsken。 机构：University of Oxford Department of Statistics；King’s College London Department of Mathematics。 录用：ICML 2026 Structured Probabilistic Inference & Generative Modeling workshop；arXiv:2608.08770v1。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "AI × Physics",
+      "arXiv"
+    ]
+  },
+  {
+    "id": "2608.08480",
+    "date": "2026-08-12",
+    "title": "Nonisospectral Integrability and Exact Current Fluctuations in the Two-Dimensional SSEP",
+    "titleZh": "非等谱可积性与二维 SSEP 的精确电流涨落",
+    "url": "https://arxiv.org/abs/2608.08480",
+    "note": "最先解决的关键是降维合法性：凸性与旋转不变性保证全二维变分问题存在径向对称最优解，因此后续一维径向散射不是未经证明的 ansatz。",
+    "details": "作者：Tingfei Li。 机构：Hebei University；Hebei Key Laboratory / Research Center for Computational Physics；UCAS Kavli Institute for Theoretical Sciences。 版本：arXiv:2608.08480v1，2026-08-09；分类 cond-mat.stat-mech。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cond-mat.stat-mech"
+    ]
+  },
+  {
+    "id": "2608.09385",
+    "date": "2026-08-12",
+    "title": "Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation",
+    "titleZh": "想象式生成 AI：跨越熵墙进入超越模仿的世界",
+    "url": "https://arxiv.org/abs/2608.09385",
+    "note": "理论给出熵约束投影、惩罚路径与自洽 tilt 的存在/特征化，并显示 entropy energy 奖励当前 $Q$ 欠覆盖的谱方向。",
+    "details": "作者：Farzan Farnia、Hossein Goli、Amin Gohari。 机构：The Chinese University of Hong Kong。 版本：arXiv:2608.09385v2，2026-08-11；分类 cs.LG。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.08735",
+    "date": "2026-08-12",
+    "title": "Interface dynamics in tissue invasion",
+    "titleZh": "组织侵袭中的界面动力学",
+    "url": "https://arxiv.org/abs/2608.08735",
+    "note": "在相同 compressibility、由 homeostatic pressure 差驱动的 pushed-front 区，即使 $B=0$，长波色散仍是稳定的 $q^2$ 恢复形式：传播水动力学本身生成正的 capillary effective surface tension。",
+    "details": "作者：Nino Despeignes、Lila Sarfati、Marc Durand、Frédéric van Wijland。 机构：Université Paris Cité & CNRS Laboratoire Matière et Systèmes Complexes；Kyoto University YITP。 版本：arXiv:2608.08735v1，2026-08-09；分类 cond-mat.soft。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cond-mat.soft"
+    ]
+  },
+  {
+    "id": "2608.08546",
+    "date": "2026-08-12",
+    "title": "Lee-Yang Theory Guided Force Field Refinement Based on Phase Diagrams",
+    "titleZh": "基于相图的 Lee–Yang 理论引导力场精修",
+    "url": "https://arxiv.org/abs/2608.08546",
+    "note": "Lennard–Jones 气–液共存的平均绝对误差从 0.0148 降至 0.0007（95.1% 改善）；固–液从 0.0246 降至 0.0038（84.4% 改善），说明同一模目标跨两类一阶转变工作。",
+    "details": "作者：Bin Jin、Qijun Ye、Xinzheng Li、Kuang Yu、Shenzhen Xu。 机构：Peking University 多个材料/物理研究机构；ByteDance Seed – AI for Science。 版本：arXiv:2608.08546v1，2026-08-09；分类 cond-mat.stat-mech。",
+    "readingMinutes": 7,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cond-mat.stat-mech"
+    ]
+  },
+  {
+    "id": "2608.08904",
+    "date": "2026-08-12",
+    "title": "From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability",
+    "titleZh": "从恢复到骤降：动作后训练如何削弱 VLM 后层深度可解码性",
+    "url": "https://arxiv.org/abs/2608.08904",
+    "note": "VLM 从 L0 的约 0.71 降至 L8 约 0.66，最终恢复至 0.752；VLA 在全部 36 层更差。表 2 的 early/mid/late 均值分别为 VLM 0.705/0.701/0.744，对应 VLA 0.617/0.606/0.578。",
+    "details": "作者：Alexander Hackett、Arnaud Denis-Remillard、Axel Cassou。 机构：New York University、Reflex、Université de Montréal、Maastricht University。 版本：arXiv:2608.08904v2，2026-08-14；分类 cs.CV。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.11059",
+    "date": "2026-08-13",
+    "title": "Entropy Production and Reversibility Criteria for Stochastic Evolution Equations",
+    "titleZh": "随机演化方程的熵产生与可逆性判据",
+    "url": "https://arxiv.org/abs/2608.11059",
+    "note": "局部熵产生密度为 $ep(x)=\\frac12\\|2F(x)-Q\\nabla\\log\\rho(x)\\|_{Q^{-1}}^2$，总率是对 $\\rho d\\nu$ 的积分，故非负。",
+    "details": "作者：Jinqiao Duan、Ao Zhang、Johannes Zimmer。 机构：Great Bay University、Central South University、Technical University of Munich。 版本：arXiv:2608.11059v1，2026-08-11；分类 math.AP。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "math.AP"
+    ]
+  },
+  {
+    "id": "2608.10172",
+    "date": "2026-08-13",
+    "title": "Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability",
+    "titleZh": "内禀结构：机制可解释性的谱可识别性",
+    "url": "https://arxiv.org/abs/2608.10172",
+    "note": "Qwen3-8B-Base 的 split-half spectral distance 在最大样本处 log-log slope 为 −0.506±0.031，符合 $M^{-1/2}$；GPT-2 small 较浅为 −0.286，显示有限样本/字典尚未到渐近区。",
+    "details": "作者：Ashim Dhor、Pin-Yu Chen。 机构：IISER Bhopal；IBM Research。 版本：arXiv:2608.10172v1，2026-08-10；分类 cs.LG。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.10384",
+    "date": "2026-08-13",
+    "title": "Generator-Guided Inverse Sampling for Lévy-Driven Generative Models",
+    "titleZh": "生成元引导的 Lévy 驱动生成模型逆采样",
+    "url": "https://arxiv.org/abs/2608.10384",
+    "note": "Proposition 1 证明反向 jump kernel 含非局部 density ratio，形式上解释为何把 diffusion score sampler 直接搬到 Lévy 动力学不正确。",
+    "details": "作者：Tianfu Qi、Jun Wang、Jun Zhang。 版本：arXiv:2608.10384v1，2026-08-11；分类 cs.LG。 主题：Lévy 跳过程、时间反演生成元与逆采样。",
+    "readingMinutes": 7,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.11184",
+    "date": "2026-08-13",
+    "title": "Microscopic derivation of a field equation for active Brownian particles",
+    "titleZh": "活性布朗粒子场方程的微观推导",
+    "url": "https://arxiv.org/abs/2608.11184",
+    "note": "推导说明 purely repulsive ABP 的减速来自持续碰撞/滑移时间，微观上产生非凸 effective chemical potential 与 phase separation。",
+    "details": "作者：Martín Pinto-Goldberg、Rodrigo Soto。 机构：Universidad de Chile, Departamento de Física。 版本：arXiv:2608.11184v1，2026-08-11；分类 cond-mat.soft。",
+    "readingMinutes": 7,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cond-mat.soft"
+    ]
+  },
+  {
+    "id": "2608.11202",
+    "date": "2026-08-13",
+    "title": "Exact First-Passage Time Response Theory from Steady-State Response",
+    "titleZh": "由稳态响应得到的精确首次通过时间响应理论",
+    "url": "https://arxiv.org/abs/2608.11202",
+    "note": "主 correspondence 将本质瞬态的 first-passage response 完全写成辅助系统 steady-state response，适用于任意起点–终点和任意单边 rate perturbation。",
+    "details": "作者：Ruicheng Bao、Shiling Liang。 机构：University of Tokyo；Center for Systems Biology Dresden；MPI-PKS；MPI-CBG。 版本：arXiv:2608.11202v1，2026-08-11；分类 cond-mat.stat-mech。",
+    "readingMinutes": 7,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cond-mat.stat-mech"
+    ]
+  },
+  {
+    "id": "2608.11073",
+    "date": "2026-08-13",
+    "title": "A Dynamical Mechanism for Irreversibility in Cyclically Driven Amorphous Solids",
+    "titleZh": "循环驱动非晶固体中不可逆性的动力学机制",
+    "url": "https://arxiv.org/abs/2608.11073",
+    "note": "即便不可逆区，邻近轨迹在 branching 前的扰动平均衰减而非指数增长，排除 sustained positive Lyapunov-style sensitivity 是主机制。",
+    "details": "作者：Sauvik Chatterjee、Asaf Szulc、Ido Regev。 机构：Ben-Gurion University of the Negev。 版本：arXiv:2608.11073v1，2026-08-11；分类 cond-mat.soft。",
+    "readingMinutes": 7,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cond-mat.soft"
+    ]
+  },
+  {
+    "id": "2608.10634",
+    "date": "2026-08-13",
+    "title": "IADD-TR: Intervention-Aware Dynamics Decoupling with Targeted Regularization for Model-Based Reinforcement Learning",
+    "titleZh": "IADD-TR：面向模型强化学习的干预感知动力学解耦与靶向正则化",
+    "url": "https://arxiv.org/abs/2608.10634",
+    "note": "IADD-TR 在 HalfCheetah、Walker2d、Ant、Humanoid 相对 MBPO 提升最明显，Hopper 前期更快且最终相当；IADD 与 TR 单独通常各有增益，组合在多任务最强。",
+    "details": "作者：Zefeng Liang、Jie Qiao、Ruichu Cai、Weilin Chen、Zhifeng Hao。 版本：arXiv:2608.10634v1，2026-08-11；分类 cs.LG。 主题：模型强化学习、动作干预分解与 targeted policy-gradient estimation。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.10076",
+    "date": "2026-08-13",
+    "title": "Generalized Master Stability of Heterogeneous Delay-Coupled Networks",
+    "titleZh": "异质延迟耦合网络的广义主稳定性",
+    "url": "https://arxiv.org/abs/2608.10076",
+    "note": "时间延迟一般缩小 MSF 稳定区，但也改变最深稳定点随 indegree 的位置；在 LK 模型 $\\tau>0$ 时出现非单调度依赖，而 $\\tau=0$ 时增加 indegree 单调改善。",
+    "details": "作者：Ana Elisa D. Barioni、Arthur N. Montanari、Adilson E. Motter。 机构：Northwestern University Physics、Center for Network Dynamics、ESAM、NICO。 版本：arXiv:2608.10076v1，2026-08-10；分类 nlin.AO。",
+    "readingMinutes": 7,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "nlin.AO"
+    ]
+  },
+  {
+    "id": "2608.10234",
+    "date": "2026-08-13",
+    "title": "The Kuramoto Neural Operator: Learning to Solve PDEs via Coupled Oscillator Dynamics",
+    "titleZh": "Kuramoto 神经算子：通过耦合振子动力学学习求解 PDE",
+    "url": "https://arxiv.org/abs/2608.10234",
+    "note": "表 1 中 KNO 在 8 个任务的 ID/OOD 分别有 7/6 个排名第一或第二；对五个局部结构显著的任务，ID 与 OOD 均第一。",
+    "details": "作者：Petr Badolia、Leonid Obukhov、Dmitry Bylinkin、Aleksandr Beznosikov。 机构：Basic Research of Artificial Intelligence Laboratory（BRAIn Lab）；Innopolis University。 版本：arXiv:2608.10234v1，2026-08-10；分类 cs.CE。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.CE"
+    ]
+  },
+  {
+    "id": "2608.10232",
+    "date": "2026-08-13",
+    "title": "FACT: Failure-Aware Causal Training for World-Action Models",
+    "titleZh": "FACT：面向世界—动作模型的失败感知因果训练",
+    "url": "https://arxiv.org/abs/2608.10232",
+    "note": "RoboTwin 中 video co-training 将平均成功率从 81.8% 提至 85.6%，failure-aware 进一步到 87.5%，接近 Motus 87.8% 而报告推理约快 3×。",
+    "details": "作者：Quanquan Peng、Yutong Liang、Rui Yan、Nicklas Hansen、Xiaolong Wang。 机构：University of California San Diego。 版本：arXiv:2608.10232v1，2026-08-10；分类 cs.RO。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "2608.11174",
+    "date": "2026-08-13",
+    "title": "VIScore: Diagnosing Planning-Relevant Quality in Latent World Models",
+    "titleZh": "VIScore：诊断潜在世界模型中与规划相关的质量",
+    "url": "https://arxiv.org/abs/2608.11174",
+    "note": "短期规划中 VIS-WM 三 seed：PushT $92\\pm3.9$、Reacher $82\\pm3.8$、OGBench-Cube $70\\pm1.7$、Two-Room $92\\pm3.7$；对应 LeWM 在可比三项约 91/82/90。",
+    "details": "作者：Haiyu Wu、Randall Balestriero、Morgan Levine。 机构：Altos Labs；Brown University。 版本：arXiv:2608.11174v2，2026-08-12；分类 cs.RO。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "2608.11661",
+    "date": "2026-08-14",
+    "title": "Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads",
+    "titleZh": "低交互秩学习：统一乘性双编码器头",
+    "url": "https://arxiv.org/abs/2608.11661",
+    "note": "线性矩阵回归实例中，Theorem 7 的 excess-risk 标度为 $\\sigma^2d(2p-d)/n$；图 1 对样本数、秩和环境维度的扫描支持该标度。",
+    "details": "作者：Zijian Zhao、Sen Li（通讯作者）。 机构：香港科技大学；香港科技大学（广州）。 版本：arXiv:2608.11661v1，2026-08-12；论文提供 Mul-Net 代码仓库。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "AI × Physics",
+      "arXiv"
+    ]
+  },
+  {
+    "id": "2608.11695",
+    "date": "2026-08-14",
+    "title": "Generalised stochastic curvature flow in d≥2, and sharp interface limit for the stochastic Allen-Cahn equation with nonlinear diffusion",
+    "titleZh": "d≥2 的广义随机曲率流，以及非线性扩散随机 Allen–Cahn 方程的尖锐界面极限",
+    "url": "https://arxiv.org/abs/2608.11695",
+    "note": "Theorem 1.2：对光滑初始闭超曲面，几乎必然存在随机时间 $\\tau>0$ 与局部演化 $\\Sigma_t$；法向速度满足方向相关 Stratonovich 随机曲率流 $Vdt=-\\sum_{ij}\\mu_{ij}(n)\\partial_{x_i}n_jdt-b(n)\\sigma(x)dW$。",
+    "details": "作者：Weijun Xu、Shuhan Zhou。 机构：西湖大学理论科学研究院；北京大学数学科学学院。 版本：arXiv:2608.11695v1，2026-08-12；math.PR。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "AI × Physics",
+      "arXiv"
+    ]
+  },
+  {
+    "id": "2608.11544",
+    "date": "2026-08-14",
+    "title": "Fine-Tuning Generative Models for Extreme Events via CVaR-Penalized Wasserstein Gradient Flows",
+    "titleZh": "通过 CVaR 惩罚 Wasserstein 梯度流微调极端事件生成模型",
+    "url": "https://arxiv.org/abs/2608.11544",
+    "note": "图 1 的 2D Student-t $\\nu=1$、N=5000：Lip-KL-GPA 20,000 iterations 后速度几乎处处消失且漏尾；CVaR 项在极端半径恢复非零速度。",
+    "details": "作者：Thejani Gamage、Hyemin Gu、Zhizhen Zhang、Ziyu Chen、Markos Katsoulakis、Luc Rey-Bellet。 机构：University of Massachusetts Amherst；University of North Carolina at Chapel Hill。 版本：arXiv:2608.11544v1，2026-08-12；分类 stat.ML。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "2608.11465",
+    "date": "2026-08-14",
+    "title": "PAC-Bayes Beyond Parameter Space: Behavioral Equivalence, Z-Information, and Exact Complexity Decomposition",
+    "titleZh": "超越参数空间的 PAC-Bayes：行为等价、Z-信息与精确复杂度分解",
+    "url": "https://arxiv.org/abs/2608.11465",
+    "note": "分解是测度论恒等式，不依赖 fiber 是光滑 manifold；参数对称性、permutation、scaling 和 flat minima 仅是后续几何直觉。",
+    "details": "作者：Vasant G. Honavar、Satish Kumar Keshri、Neil Ashtekar、Zehao Liu。 机构：Pennsylvania State University Artificial Intelligence Research Laboratory。 版本：arXiv:2608.11465v1，2026-08-11；分类 cs.LG。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.12119",
+    "date": "2026-08-14",
+    "title": "Macroscopic fluctuation theory for the multi-time statistics of current in non-stationary diffusive systems",
+    "titleZh": "非平稳扩散系统中电流多时统计的宏观涨落理论",
+    "url": "https://arxiv.org/abs/2608.12119",
+    "note": "电流涨落的统计一直是非平衡物理中的核心研究对象。现有工作大多聚焦单时统计，而对其多时推广的研究相对不足。本文扩展宏观涨落理论（Macroscopic Fluctuation Theory, MFT）的涨落流体动力学框架，用于研究无限直线上扩散系统在非平稳状态下的多时统计。对于最简单的非相互作用晶格气体和硬核 Brownian 点粒子，作者给出 MFT 的显式解，从而得到多时大偏差统计。对于一般系统，作者对 MFT 作微扰求解，得到双时关联的显式结果。这些结果表明：此前在平坦初态下观察到的电流涨落与 fractional Brownian motion 之间的联系，在阶跃初态下不再成立。作者还通过求解非相互作用气体和 symmetric simple exclusion process（SSEP）的相应微观动力学，对上述流体动力学结果进行了独立验证，并进一步用数值模拟加以确认。",
+    "details": "电流涨落的统计一直是非平衡物理中的核心研究对象。现有工作大多聚焦单时统计，而对其多时推广的研究相对不足。本文扩展宏观涨落理论（Macroscopic Fluctuation Theory, MFT）的涨落流体动力学框架，用于研究无限直线上扩散系统在非平稳状态下的多时统计。对于最简单的非相互作用晶格气体和硬核 Brownian 点粒子，作者给出 MFT 的显式解，从而得到多时大偏差统计。对于一般系统，作者对 MFT 作微扰求解，得到双时关联的显式结果。这些结果表明：此前在平坦初态下观察到的电流涨落与 fractional Brownian motion 之间的联系，在阶跃初态下不再成立。作者还通过求解非相互作用气体和 symmetric simple exclusion process（SSEP）的相应微观动力学，对上述流体动力学结果进行了独立验证，并进一步用数值模拟加以确认。",
+    "readingMinutes": 16,
+    "tags": [
+      "2026-08",
+      "AI × Physics",
+      "arXiv"
+    ]
+  },
+  {
+    "id": "2608.11690",
+    "date": "2026-08-14",
+    "title": "Drift and Dependence: Layer-wise Information-Theoretic Bounds for Replay-Based Continual Learning",
+    "titleZh": "漂移与依赖：基于回放的持续学习的逐层信息论界",
+    "url": "https://arxiv.org/abs/2608.11690",
+    "note": "边界分析表明输入层的 representation proxy channel 与深层 amplification 的主导关系不同，最小化 $D_\\ell\\bar\\rho_\\ell$ 可直接选择要稳定的层，而不是默认冻结最浅或最深层。",
+    "details": "作者：Tieliang Gong、Zhongbo Zhang、Wen Wen、Yong-Jin Liu。 版本：arXiv:2608.11690v1，2026-08-12；IEEE 风格预印本。 主题：experience replay 持续学习的逐层泛化理论与在线遗忘诊断。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "AI × Physics",
+      "arXiv"
+    ]
+  },
+  {
+    "id": "2608.11479",
+    "date": "2026-08-14",
+    "title": "Convergence Guarantees of Gradient Descent for Neural Networks via Generalized Lipschitz Smoothness",
+    "titleZh": "通过广义 Lipschitz 光滑性保证神经网络梯度下降收敛",
+    "url": "https://arxiv.org/abs/2608.11479",
+    "note": "主结果对任意 width/depth、任意 initialization 和 dataset 成立，不需要 NTK、可分性或接近全局最优。",
+    "details": "作者：Siqiao Mu、Diego Klabjan。 版本：arXiv:2608.11479v1，2026-08-11；分类 cs.LG。 研究对象：任意宽度/深度 feedforward network 的 full-batch gradient descent。",
+    "readingMinutes": 7,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.11215",
+    "date": "2026-08-14",
+    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+    "titleZh": "穷人版智能体建模：在笔记本上模拟大型 LLM 智能体社会",
+    "url": "https://arxiv.org/abs/2608.11215",
+    "note": "global perception 下 scalar surrogate error 随 $N^{-1/2}$ 消失；community perception 随 $N$ 保持 floor、仅随 communities 数 $B$ 约 $B^{-1/2}$ 降低，符合图 2。",
+    "details": "作者：Igor Itkin（Independent Researcher, Tel Aviv）。 版本：arXiv:2608.11215v1，2026-07-19；分类 cs.AI。 目标：用少量真实 LLM elicitation 拟合低参数 surrogate，再在笔记本扩展社会规模。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "arXiv",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.12154",
+    "date": "2026-08-14",
+    "title": "Shortcuts to Parameter Sweeps",
+    "titleZh": "参数扫描的捷径",
+    "url": "https://arxiv.org/abs/2608.12154",
+    "note": "三个测试均把 $\\lambda:2\\to4$ 在协议时间 $\\tau=2$ 内扫描，时间步 $10^{-3}$，用 $10^5$ 条独立轨迹，observable 为 $A=U_0$。",
+    "details": "作者：Chi Xiang、Guodong Cheng、Geng Li（通讯作者）。 机构：北京师范大学系统科学学院、物理与天文学院。 版本：arXiv:2608.12154v1，2026-08-12；cond-mat.stat-mech。",
+    "readingMinutes": 8,
+    "tags": [
+      "2026-08",
+      "AI × Physics",
+      "arXiv"
+    ]
+  },
+  {
+    "id": "2608.11831",
+    "date": "2026-08-14",
+    "title": "Kernel Methods for Learning Operators with Multiple Inputs and Outputs",
+    "titleZh": "多输入多输出算子学习的核方法",
+    "url": "https://arxiv.org/abs/2608.11831",
+    "note": "近似理论的关键结论是：多输入/多输出数量可增加，但收敛率由最难的 constituent approximation 控制，而不是所有分量维数相乘；常数和测量预算仍会随任务数增长。",
+    "details": "作者：Adrien Weihs、Chunyang Liao、Jingmin Sun、Hayden Schaeffer。 机构：UCLA、University of Arkansas、Johns Hopkins University。 版本：arXiv:2608.11831v1，2026-08-12；代码仓库 kernelMO。",
+    "readingMinutes": 10,
+    "tags": [
+      "2026-08",
+      "AI × Physics",
+      "arXiv"
+    ]
+  },
+  {
+    "id": "2608.11859",
+    "date": "2026-08-14",
+    "title": "Small-Scale Experiments: Are We There Yet?",
+    "titleZh": "小规模实验：我们准备好了吗？",
+    "url": "https://arxiv.org/abs/2608.11859",
+    "note": "scaling law 从 4M 就能出现，但必须沿 fully tuned frontier；4M 模型单 GPU 不到一小时，使数百次搜索仍可能比少量十亿参数运行便宜。",
+    "details": "作者：Nicholas Lourie、Kyunghyun Cho、Karen Ullrich、Sanae Lotfi。 机构：FAIR at Meta Superintelligence Labs；New York University。 版本：arXiv:2608.11859v1，2026-08-12；分析代码使用 OPDA。",
+    "readingMinutes": 9,
+    "tags": [
+      "2026-08",
+      "AI × Physics",
+      "arXiv"
+    ]
+  }
+]
