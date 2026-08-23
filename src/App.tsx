@@ -4,15 +4,13 @@ type Paper = {
   id: string;
   date: string;
   title: string;
-  titleZh?: string;
   url: string;
-  note?: string;
-  details?: string;
   tags: string[];
 };
 
 type MatchMode = 'all' | 'any';
 type SortMode = 'newest' | 'oldest' | 'title';
+type Theme = 'light' | 'dark';
 
 const SOURCE_TAGS = new Set(['arXiv', 'OpenReview', 'Journal', 'Conference']);
 
@@ -30,6 +28,7 @@ function App() {
   const [sort, setSort] = useState<SortMode>('newest');
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [loadError, setLoadError] = useState(false);
+  const [theme, setTheme] = useState<Theme>(() => document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light');
 
   useEffect(() => {
     fetch('./papers.json')
@@ -56,7 +55,7 @@ function App() {
     const normalized = query.trim().toLocaleLowerCase();
     return papers
       .filter((paper) => {
-        const matchesQuery = !normalized || [paper.title, paper.titleZh, paper.note, paper.details, ...paper.tags]
+        const matchesQuery = !normalized || [paper.title, ...paper.tags]
           .filter(Boolean)
           .join(' ')
           .toLocaleLowerCase()
@@ -81,10 +80,23 @@ function App() {
     setActiveTags([]);
   }
 
+  function toggleTheme() {
+    const nextTheme = theme === 'dark' ? 'light' : 'dark';
+    setTheme(nextTheme);
+    document.documentElement.dataset.theme = nextTheme;
+    window.localStorage.setItem('paper-collection-theme', nextTheme);
+    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', nextTheme === 'dark' ? '#0f1419' : '#f0f1ef');
+  }
+
   return (
     <div className="layout">
       <aside className={`sidebar ${filtersOpen ? 'open' : ''}`}>
-        <a className="back-home" href="https://github.com/xixi-cc" target="_blank" rel="noreferrer">← GitHub profile</a>
+        <div className="sidebar-top">
+          <a className="back-home" href="https://github.com/xixi-cc" target="_blank" rel="noreferrer">← GitHub profile</a>
+          <button className="theme-toggle" type="button" onClick={toggleTheme} aria-label={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`}>
+            {theme === 'dark' ? 'Light' : 'Dark'}
+          </button>
+        </div>
 
         <div className="brand">
           <h1>Paper Collection</h1>
@@ -97,7 +109,7 @@ function App() {
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Search title, tags, notes…"
+            placeholder="Search title or tags…"
           />
         </label>
 
@@ -125,7 +137,12 @@ function App() {
       <main className="main">
         <div className="mobile-bar">
           <strong>Paper Collection</strong>
-          <button type="button" onClick={() => setFiltersOpen(!filtersOpen)} aria-expanded={filtersOpen}>Filters</button>
+          <div className="mobile-actions">
+            <button type="button" onClick={toggleTheme} aria-label={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`}>
+              {theme === 'dark' ? 'Light' : 'Dark'}
+            </button>
+            <button type="button" onClick={() => setFiltersOpen(!filtersOpen)} aria-expanded={filtersOpen}>Filters</button>
+          </div>
         </div>
 
         <div className="stats-bar">
@@ -146,12 +163,10 @@ function App() {
             {filtered.map((paper) => (
               <article className="paper-card" key={paper.id}>
                 <h2><a href={paper.url} target="_blank" rel="noreferrer">{paper.title}</a></h2>
-                {paper.titleZh && <p className="title-zh">{paper.titleZh}</p>}
                 <div className="paper-meta">
                   <time>{paper.date}</time>
                   {paper.tags.map((tag) => <button type="button" key={tag} onClick={() => toggleTag(tag)}>{tag}</button>)}
                 </div>
-                {paper.note && <p className="paper-note">{paper.note}</p>}
               </article>
             ))}
           </div>

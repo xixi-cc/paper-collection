@@ -8,12 +8,11 @@
 
 - `id`：稳定且唯一的标识，arXiv 文章建议直接使用 arXiv ID；
 - `date`：收录日期，格式为 `YYYY-MM-DD`；
-- `title` / `titleZh`：英文与中文标题；
+- `title`：页面中显示的文章题目；
 - `url`：论文页面；
-- `note`：你为什么收藏它、最值得记住的结论；
-- `details`：作者、机构或其他可搜索信息；
-- `readingMinutes`：预计阅读时间；
 - `tags`：来源、月份和主题标签。
+
+页面只展示文章题目、收录日期和标签，不显示文章介绍。
 
 提交到 `main` 分支后，GitHub Actions 会自动重新发布网站。
 
