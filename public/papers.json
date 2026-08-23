@@ -138,7 +138,11 @@
     "title": "AI models collapse when trained on recursively generated data",
     "url": "https://doi.org/10.1038/s41586-024-07566-y",
     "tags": [
-      "Journal"
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
     ]
   },
   {
@@ -378,7 +382,10 @@
     "url": "https://doi.org/10.52202/079017-2315",
     "tags": [
       "Conference",
-      "Machine Learning"
+      "Machine Learning",
+      "Meaningful Chat",
+      "Recommended",
+      "Transformer Theory"
     ]
   },
   {
@@ -559,7 +566,10 @@
     "url": "https://arxiv.org/abs/2509.02407",
     "tags": [
       "arXiv",
-      "Machine Learning"
+      "Machine Learning",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics"
     ]
   },
   {
@@ -701,7 +711,13 @@
     "url": "https://arxiv.org/abs/2501.09064",
     "tags": [
       "arXiv",
-      "Machine Learning"
+      "Machine Learning",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Scaling Laws",
+      "Generative Models"
     ]
   },
   {
@@ -768,7 +784,11 @@
     "url": "https://arxiv.org/abs/2307.02129",
     "tags": [
       "arXiv",
-      "Machine Learning"
+      "Machine Learning",
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics"
     ]
   },
   {
@@ -1244,7 +1264,15 @@
     "url": "https://arxiv.org/abs/2202.11737",
     "tags": [
       "arXiv",
-      "Statistical Physics"
+      "Statistical Physics",
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Renormalization Group",
+      "Generative Models",
+      "Information Theory",
+      "Training Dynamics"
     ]
   },
   {
@@ -1341,7 +1369,11 @@
     "url": "https://doi.org/10.21203/rs.3.rs-3011793/v1",
     "tags": [
       "Journal",
-      "Active Matter"
+      "Active Matter",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Fluid Dynamics",
+      "Machine Learning"
     ]
   },
   {
@@ -1866,7 +1898,11 @@
     "url": "https://www.nature.com/articles/s41567-025-02791-2",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Browser bookmark",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
     ]
   },
   {
@@ -1941,7 +1977,11 @@
     "tags": [
       "Journal",
       "Browser bookmark",
-      "Machine Learning"
+      "Machine Learning",
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics"
     ]
   },
   {
@@ -1952,7 +1992,12 @@
     "tags": [
       "Journal",
       "Browser bookmark",
-      "Active Matter"
+      "Active Matter",
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
     ]
   },
   {
@@ -1974,7 +2019,11 @@
     "tags": [
       "Journal",
       "Browser bookmark",
-      "Statistical Physics"
+      "Statistical Physics",
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning"
     ]
   },
   {
@@ -1985,7 +2034,11 @@
     "tags": [
       "Journal",
       "Browser bookmark",
-      "Statistical Physics"
+      "Statistical Physics",
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning"
     ]
   },
   {
@@ -1995,7 +2048,11 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041032",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Browser bookmark",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
     ]
   },
   {
@@ -2005,7 +2062,12 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.011013",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Browser bookmark",
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
     ]
   },
   {
@@ -2016,7 +2078,11 @@
     "tags": [
       "Journal",
       "Browser bookmark",
-      "Machine Learning"
+      "Machine Learning",
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics"
     ]
   },
   {
@@ -2027,7 +2093,12 @@
     "tags": [
       "Journal",
       "Browser bookmark",
-      "Nonreciprocal Systems"
+      "Nonreciprocal Systems",
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
     ]
   },
   {
@@ -2037,7 +2108,12 @@
     "url": "https://journals.aps.org/prl/accepted/10.1103/xbk2-ggcf",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Browser bookmark",
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
     ]
   },
   {
@@ -2047,7 +2123,12 @@
     "url": "https://journals.aps.org/prl/abstract/10.1103/kwyy-1xln",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Browser bookmark",
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
     ]
   },
   {
@@ -2058,7 +2139,11 @@
     "tags": [
       "Journal",
       "Browser bookmark",
-      "Statistical Physics"
+      "Statistical Physics",
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning"
     ]
   },
   {
@@ -2068,7 +2153,12 @@
     "url": "https://arxiv.org/abs/2502.18553",
     "tags": [
       "arXiv",
-      "Browser bookmark"
+      "Browser bookmark",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
     ]
   },
   {
@@ -2079,7 +2169,13 @@
     "tags": [
       "arXiv",
       "Browser bookmark",
-      "Machine Learning"
+      "Machine Learning",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Scaling Laws",
+      "Training Dynamics"
     ]
   },
   {
@@ -2090,6 +2186,2895 @@
     "tags": [
       "arXiv",
       "Browser bookmark"
+    ]
+  },
+  {
+    "id": "feb006436d857bb3",
+    "date": "2026-08-24",
+    "title": "Formalizing dimensional analysis using the Lean theorem prover",
+    "url": "https://arxiv.org/abs/2509.13142",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "6ce0e7d14f58b7c4",
+    "date": "2026-08-24",
+    "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+    "url": "https://arxiv.org/abs/2604.23002",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "4e8bf8c8c318b027",
+    "date": "2026-08-24",
+    "title": "A Multi-agent Framework for Physical Laws Discovery",
+    "url": "https://arxiv.org/abs/2411.16416",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "41e7366b0f4f26ed",
+    "date": "2026-08-24",
+    "title": "A self-correcting multi-agent LLM framework for language-based physics simulation and explanation",
+    "url": "https://doi.org/10.1038/s44387-025-00057-z",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "aed809c2b334b178",
+    "date": "2026-08-24",
+    "title": "AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning",
+    "url": "https://arxiv.org/abs/2511.07262",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "5a7471fad7e68bf1",
+    "date": "2026-08-24",
+    "title": "AI Agents Can Already Autonomously Perform Experimental High Energy Physics",
+    "url": "https://arxiv.org/abs/2603.20179",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "a92d150747fd05c8",
+    "date": "2026-08-24",
+    "title": "AI Feynman: A physics-inspired method for symbolic regression",
+    "url": "https://doi.org/10.1126/sciadv.aay2631",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "87af3d012ea2b914",
+    "date": "2026-08-24",
+    "title": "AI Scientists Fail Without Strong Implementation Capability",
+    "url": "https://arxiv.org/abs/2506.01372",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "19c6b72f81e0dea5",
+    "date": "2026-08-24",
+    "title": "AI-Newton: A Concept-Driven Physical Law Discovery System without Prior Physical Knowledge",
+    "url": "https://arxiv.org/abs/2504.01538",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "8ef0ddf205efab26",
+    "date": "2026-08-24",
+    "title": "AutoDFT: A Closed-Loop Multi-Agent Framework for Autonomous DFT Calculations",
+    "url": "https://arxiv.org/abs/2605.26179",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "7dab7d89d3aeda7c",
+    "date": "2026-08-24",
+    "title": "Discovering Symbolic Models from Deep Learning with Inductive Biases",
+    "url": "https://arxiv.org/abs/2006.11287",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "aa5333bcc32a6d7a",
+    "date": "2026-08-24",
+    "title": "Dr.Sai: An agentic AI for real-world physics analysis at BESIII",
+    "url": "https://arxiv.org/abs/2604.22541",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "b42bfb25f6d0c823",
+    "date": "2026-08-24",
+    "title": "Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl",
+    "url": "https://arxiv.org/abs/2305.01582",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "155d977401d19b7b",
+    "date": "2026-08-24",
+    "title": "Scaling deep learning for materials discovery",
+    "url": "https://doi.org/10.1038/s41586-023-06735-9",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "d303debab0c75f9b",
+    "date": "2026-08-24",
+    "title": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+    "url": "https://arxiv.org/abs/2504.08066",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "0f24a798a385583b",
+    "date": "2026-08-24",
+    "title": "The Denario project: Deep knowledge AI agents for scientific discovery",
+    "url": "https://arxiv.org/abs/2510.26887",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "4d73dc618d0726e0",
+    "date": "2026-08-24",
+    "title": "Cosmos World Foundation Model Platform for Physical AI",
+    "url": "https://arxiv.org/abs/2501.03575",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "3454844f3a50a629",
+    "date": "2026-08-24",
+    "title": "Agentic AI in Industry: Adoption Level and Deployment Barriers",
+    "url": "https://arxiv.org/abs/2605.14675",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "148c46dc8ad025d7",
+    "date": "2026-08-24",
+    "title": "An autonomous laboratory for the accelerated synthesis of inorganic materials",
+    "url": "https://doi.org/10.1038/s41586-023-06734-w",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "9ae5933a40d0368d",
+    "date": "2026-08-24",
+    "title": "DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators",
+    "url": "https://arxiv.org/abs/1910.03193",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "dc2d5cd4a2625a22",
+    "date": "2026-08-24",
+    "title": "Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation",
+    "url": "https://arxiv.org/abs/2605.12997",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "0e770c23d85e7101",
+    "date": "2026-08-24",
+    "title": "Neural Operators for Accelerating Scientific Simulations and Design",
+    "url": "https://arxiv.org/abs/2309.15325",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "cee7619e23629279",
+    "date": "2026-08-24",
+    "title": "Neural operators struggle to learn complex PDEs in pedestrian mobility: Hughes model case study",
+    "url": "https://arxiv.org/abs/2504.18267",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "cb81349fdf71cda0",
+    "date": "2026-08-24",
+    "title": "Operator Learning: A Statistical Perspective",
+    "url": "https://arxiv.org/abs/2504.03503",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "e671184d5faabf92",
+    "date": "2026-08-24",
+    "title": "Operator Learning: Algorithms and Analysis",
+    "url": "https://arxiv.org/abs/2402.15715",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "f0f1def0323d25cc",
+    "date": "2026-08-24",
+    "title": "RealPDEBench: A Benchmark for Complex Physical Systems with Real-World Data",
+    "url": "https://arxiv.org/abs/2601.01829",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "cd13d8918751a55a",
+    "date": "2026-08-24",
+    "title": "Neural Operator: Learning Maps Between Function Spaces",
+    "url": "https://arxiv.org/abs/2108.08481",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators",
+      "Scientific ML"
+    ]
+  },
+  {
+    "id": "856c5efb749715d5",
+    "date": "2026-08-24",
+    "title": "PDEBENCH: An Extensive Benchmark for Scientific Machine Learning",
+    "url": "https://arxiv.org/abs/2210.07182",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators",
+      "Scientific ML"
+    ]
+  },
+  {
+    "id": "8ac134f15004bc8b",
+    "date": "2026-08-24",
+    "title": "Physics-Informed Neural Operator for Learning Partial Differential Equations",
+    "url": "https://arxiv.org/abs/2111.03794",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "AI for Science",
+      "Neural Operators",
+      "Scientific ML"
+    ]
+  },
+  {
+    "id": "d9131f6cc4f74a02",
+    "date": "2026-08-24",
+    "title": "Training Compute-Optimal Large Language Models",
+    "url": "https://arxiv.org/abs/2203.15556",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "628cb9ff7024c4e2",
+    "date": "2026-08-24",
+    "title": "mHC: Manifold-Constrained Hyper-Connections",
+    "url": "https://arxiv.org/abs/2512.24880",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "c3b2e6bec6f0f3c5",
+    "date": "2026-08-24",
+    "title": "Challenges and Research Directions for Large Language Model Inference Hardware",
+    "url": "https://arxiv.org/abs/2601.05047",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "5631a15ca6e32d75",
+    "date": "2026-08-24",
+    "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+    "url": "https://arxiv.org/abs/2602.16763",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "e8569899d9c85b28",
+    "date": "2026-08-24",
+    "title": "Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws",
+    "url": "https://arxiv.org/abs/2401.00448",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "f7332aacefe6a6a2",
+    "date": "2026-08-24",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "8355e49ff30a5fbe",
+    "date": "2026-08-24",
+    "title": "DeepSeek-V3 Technical Report",
+    "url": "https://arxiv.org/abs/2412.19437",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "8e2b6b945b541727",
+    "date": "2026-08-24",
+    "title": "Demystifying Synthetic Data in LLM Pre-training: A Systematic Study of Scaling Laws, Benefits, and Pitfalls",
+    "url": "https://arxiv.org/abs/2510.01631",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "f4d7602eaf0478b5",
+    "date": "2026-08-24",
+    "title": "Emergent Abilities of Large Language Models",
+    "url": "https://arxiv.org/abs/2206.07682",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "5f794009f618d822",
+    "date": "2026-08-24",
+    "title": "Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data",
+    "url": "https://arxiv.org/abs/2404.01413",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "c6dc2d738541a81f",
+    "date": "2026-08-24",
+    "title": "Scaling Behaviors of LLM Reinforcement Learning Post-Training: An Empirical Study in Mathematical Reasoning",
+    "url": "https://arxiv.org/abs/2509.25300",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "a051e0c2f0e4205d",
+    "date": "2026-08-24",
+    "title": "Scaling Laws for Generative Mixed-Modal Language Models",
+    "url": "https://arxiv.org/abs/2301.03728",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "5a80b953a716eb35",
+    "date": "2026-08-24",
+    "title": "Scaling Laws for Neural Language Models",
+    "url": "https://arxiv.org/abs/2001.08361",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "effa8dc9d83b5b5f",
+    "date": "2026-08-24",
+    "title": "Scaling Laws for Post Training Quantized Large Language Models",
+    "url": "https://arxiv.org/abs/2410.12119",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "ec8902d1b16568bd",
+    "date": "2026-08-24",
+    "title": "Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms",
+    "url": "https://arxiv.org/abs/2406.02900",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "d15073157caacd9d",
+    "date": "2026-08-24",
+    "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+    "url": "https://arxiv.org/abs/2408.03314",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "f094d310059a6320",
+    "date": "2026-08-24",
+    "title": "Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning | OpenReview",
+    "url": "https://openreview.net/forum?id=4FWAwZtd2n",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "e8df98ee576570a8",
+    "date": "2026-08-24",
+    "title": "Scaling Parameter-Constrained Language Models with Quality Data",
+    "url": "https://arxiv.org/abs/2410.03083",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "5d02ca111b30d307",
+    "date": "2026-08-24",
+    "title": "Towards Precise Scaling Laws for Video Diffusion Transformers",
+    "url": "https://arxiv.org/abs/2411.17470",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "7cb6ba289b5ea0f5",
+    "date": "2026-08-24",
+    "title": "Scaling Laws For Diffusion Transformers",
+    "url": "https://arxiv.org/abs/2410.08184",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws",
+      "Statistical Physics",
+      "Renormalization Group"
+    ]
+  },
+  {
+    "id": "9eb614bda1130862",
+    "date": "2026-08-24",
+    "title": "Scaling Laws for Autoregressive Generative Modeling",
+    "url": "https://arxiv.org/abs/2010.14701",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scaling Laws",
+      "Statistical Physics",
+      "Renormalization Group"
+    ]
+  },
+  {
+    "id": "3cd06ee7f3bd59e0",
+    "date": "2026-08-24",
+    "title": "Kinetic theory of decentralized learning for smart active matter",
+    "url": "https://arxiv.org/abs/2501.03948",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "a6c6adc35a75c401",
+    "date": "2026-08-24",
+    "title": "Reinforcement Learning for Active Matter",
+    "url": "https://arxiv.org/abs/2503.23308",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "52f02190cdec5aa7",
+    "date": "2026-08-24",
+    "title": "An effective control of large systems of active particles: An application to evacuation problem",
+    "url": "https://arxiv.org/abs/2509.19972",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "b5698126fa9327c6",
+    "date": "2026-08-24",
+    "title": "Active Matter Flocking via Predictive Alignment",
+    "url": "https://arxiv.org/abs/2504.07778",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "3e70d7e8aced1c65",
+    "date": "2026-08-24",
+    "title": "Active matter under control: Insights from response theory",
+    "url": "https://arxiv.org/abs/2305.11078",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "f4470a3ee5019c07",
+    "date": "2026-08-24",
+    "title": "Deep learning probability flows and entropy production rates in active matter",
+    "url": "https://arxiv.org/abs/2309.12991",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "dbc55830c3a61a1d",
+    "date": "2026-08-24",
+    "title": "Efficient rare event sampling with unsupervised normalizing flows",
+    "url": "https://doi.org/10.1038/s42256-024-00918-3",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "92b6eba53ee7220b",
+    "date": "2026-08-24",
+    "title": "Automated Discovery of Local Rules for Desired Collective-Level Behavior Through Reinforcement Learning",
+    "url": "https://doi.org/10.3389/fphy.2020.00200",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "13b194226b8b60fa",
+    "date": "2026-08-24",
+    "title": "Learning hydrodynamic equations for active matter from particle simulations and experiments",
+    "url": "https://doi.org/10.1073/pnas.2206994120",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning",
+      "arXiv",
+      "Fluid Dynamics"
+    ]
+  },
+  {
+    "id": "968aa04a14848371",
+    "date": "2026-08-24",
+    "title": "Learning to Control Active Matter",
+    "url": "https://arxiv.org/abs/2105.04641",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "2624e1e69131305b",
+    "date": "2026-08-24",
+    "title": "Mastering diverse control tasks through world models",
+    "url": "https://doi.org/10.1038/s41586-025-08744-2",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "d6eed589f725c1d2",
+    "date": "2026-08-24",
+    "title": "Metareview: a survey of active matter reviews",
+    "url": "https://doi.org/10.1140/epje/s10189-024-00466-z",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "604445bde1900a99",
+    "date": "2026-08-24",
+    "title": "Optimal Control in Soft and Active Matter",
+    "url": "https://arxiv.org/abs/2504.08676",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "c60356ed39e9882a",
+    "date": "2026-08-24",
+    "title": "Programmable active matter across scales | Programmable Materials | Cambridge Core",
+    "url": "https://cambridge.org/core/journals/programmable-materials/article/programmable-active-matter-across-scales/7832B782B4A52DFD0719F9D5DBB71ABF",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "913f9cbf33039eb7",
+    "date": "2026-08-24",
+    "title": "Reinforcement learning with artificial microswimmers",
+    "url": "https://doi.org/10.1126/scirobotics.abd9285",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "cb0034d057552056",
+    "date": "2026-08-24",
+    "title": "Symmetry, Thermodynamics and Topology in Active Matter",
+    "url": "https://arxiv.org/abs/2107.00724",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "1899272149a453cf",
+    "date": "2026-08-24",
+    "title": "Tissue Active Matter: Integrating Mechanics and Signaling ...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38951023",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "414046b36132d954",
+    "date": "2026-08-24",
+    "title": "What exactly is 'active matter'?",
+    "url": "https://arxiv.org/abs/2507.21621",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Active Matter",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "3526acd9c1713a6c",
+    "date": "2026-08-24",
+    "title": "Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes",
+    "url": "https://arxiv.org/abs/0812.4360",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "897f8f1177809141",
+    "date": "2026-08-24",
+    "title": "Deep Variational Information Bottleneck",
+    "url": "https://arxiv.org/abs/1612.00410",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "4d38daadaeb5b4d6",
+    "date": "2026-08-24",
+    "title": "Language Modeling Is Compression",
+    "url": "https://arxiv.org/abs/2309.10668",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "5958e2ecc77fb0d7",
+    "date": "2026-08-24",
+    "title": "Learning and Leveraging World Models in Visual Representation Learning",
+    "url": "https://arxiv.org/abs/2403.00504",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "002e259088de9677",
+    "date": "2026-08-24",
+    "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+    "url": "https://arxiv.org/abs/2506.09985",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "0d7d5968a1175e12",
+    "date": "2026-08-24",
+    "title": "A Comprehensive Survey on World Models for Embodied AI",
+    "url": "https://arxiv.org/abs/2510.16732",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "05d5d6c52c35510f",
+    "date": "2026-08-24",
+    "title": "A Generalized Information Bottleneck Theory of Deep Learning",
+    "url": "https://arxiv.org/abs/2509.26327",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "f069379fcbb20834",
+    "date": "2026-08-24",
+    "title": "Artificial Agency Program: Curiosity, compression, and communication in agents",
+    "url": "https://arxiv.org/abs/2602.24100",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "fad8258cd8949414",
+    "date": "2026-08-24",
+    "title": "Compression Represents Intelligence Linearly",
+    "url": "https://arxiv.org/abs/2404.09937",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "3a1c7815e90418b3",
+    "date": "2026-08-24",
+    "title": "Evaluating Large Language Models for Generalization and Robustness via Data Compression",
+    "url": "https://arxiv.org/abs/2402.00861",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "fa8d1f78ec39c516",
+    "date": "2026-08-24",
+    "title": "Gaussian Information Bottleneck and the Non-Perturbative Renormalization Group",
+    "url": "https://arxiv.org/abs/2107.13700",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "43d8383ddfd3ce34",
+    "date": "2026-08-24",
+    "title": "Is Compression Really Linear with Code Intelligence?",
+    "url": "https://arxiv.org/abs/2505.11441",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "376d6e92ced023d5",
+    "date": "2026-08-24",
+    "title": "Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction",
+    "url": "https://arxiv.org/abs/2006.08558",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "6b3ebe959a8a7238",
+    "date": "2026-08-24",
+    "title": "Learning Latent Dynamics for Planning from Pixels",
+    "url": "https://arxiv.org/abs/1811.04551",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "2262ca7bc224406b",
+    "date": "2026-08-24",
+    "title": "Predictability, complexity and learning",
+    "url": "https://arxiv.org/abs/physics/0007070",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "4a26e778bf20d796",
+    "date": "2026-08-24",
+    "title": "Relevance in the Renormalization Group and in Information Theory",
+    "url": "https://arxiv.org/abs/2012.01447",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "5480901a1a13d3fc",
+    "date": "2026-08-24",
+    "title": "The information bottleneck method",
+    "url": "https://arxiv.org/abs/physics/0004057",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "2fcf56099e45a899",
+    "date": "2026-08-24",
+    "title": "The Information-Theoretic Imperative: Compression and the Epistemic Foundations of Intelligence",
+    "url": "https://arxiv.org/abs/2510.25883",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "dcd7f7faced75f74",
+    "date": "2026-08-24",
+    "title": "To Compress or Not to Compress- Self-Supervised Learning and Information Theory: A Review",
+    "url": "https://arxiv.org/abs/2304.09355",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "9c814e3ecbd108ed",
+    "date": "2026-08-24",
+    "title": "Universal Intelligence: A Definition of Machine Intelligence",
+    "url": "https://arxiv.org/abs/0712.3329",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "b561221070c4d77d",
+    "date": "2026-08-24",
+    "title": "World Models",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models"
+    ]
+  },
+  {
+    "id": "511d970684a27575",
+    "date": "2026-08-24",
+    "title": "Mutual information, neural networks and the renormalization group",
+    "url": "https://doi.org/10.1038/s41567-018-0081-4",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "3e3bd7ec82a2c7f2",
+    "date": "2026-08-24",
+    "title": "An exact mapping between the Variational Renormalization Group and Deep Learning",
+    "url": "https://arxiv.org/abs/1410.3831",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Information Theory",
+      "World Models",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Scaling Laws",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "718dc1ac444b3183",
+    "date": "2026-08-24",
+    "title": "The RL Perceptron: Generalisation Dynamics of Policy Learning in High Dimensions",
+    "url": "https://arxiv.org/abs/2306.10404",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "4031a860f6cbc640",
+    "date": "2026-08-24",
+    "title": "KAN 2.0: Kolmogorov-Arnold Networks Meet Science",
+    "url": "https://arxiv.org/abs/2408.10205",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "a592ef38f18db604",
+    "date": "2026-08-24",
+    "title": "A data-driven approach for discovering stochastic dynamical systems with non-Gaussian Lévy noise - ScienceDirect",
+    "url": "https://sciencedirect.com/science/article/pii/S0167278920308319",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "56bc183d58cbbde2",
+    "date": "2026-08-24",
+    "title": "Active Ising Models of flocking: a field-theoretic approach - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10603022",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "087f80e139250b41",
+    "date": "2026-08-24",
+    "title": "Boltzmann and hydrodynamic description for self-propelled particles",
+    "url": "https://doi.org/10.1103/physreve.74.022101",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "1db9d90525affb02",
+    "date": "2026-08-24",
+    "title": "Computational models for active matter",
+    "url": "https://doi.org/10.1038/s42254-020-0152-1",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "743c890458f9494f",
+    "date": "2026-08-24",
+    "title": "Data-Driven Discovery of Active Nematic Hydrodynamics",
+    "url": "https://doi.org/10.1103/physrevlett.129.258001",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "390b8e9b9479daa3",
+    "date": "2026-08-24",
+    "title": "Data-driven discovery of partial differential equations - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5406137",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "1ae2eb274403f4be",
+    "date": "2026-08-24",
+    "title": "Data-Driven Discovery of Stochastic Differential Equations - ScienceDirect",
+    "url": "https://sciencedirect.com/science/article/pii/S209580992200145X",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "53f0bbe1eb06ac49",
+    "date": "2026-08-24",
+    "title": "DeepMoD: Deep learning for model discovery in noisy data - ScienceDirect",
+    "url": "https://sciencedirect.com/science/article/pii/S0021999120307592",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "8d02528b4e10e2a4",
+    "date": "2026-08-24",
+    "title": "Discovering governing equations from data by sparse identification of nonlinear dynamical systems - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4839439",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "c8d3e59a68e46938",
+    "date": "2026-08-24",
+    "title": "Discovering stochastic partial differential equations from limited data using variational Bayes inference - ScienceDirect",
+    "url": "https://sciencedirect.com/science/article/abs/pii/S0045782523006369",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "8435903d8f185524",
+    "date": "2026-08-24",
+    "title": "Emergence of macroscopic directed motion in populations of motile colloids",
+    "url": "https://doi.org/10.1038/nature12673",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "0a010fa07503f768",
+    "date": "2026-08-24",
+    "title": "Emergent vortices in populations of colloidal rollers",
+    "url": "https://doi.org/10.1038/ncomms8470",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "a31e711a0f0c5d20",
+    "date": "2026-08-24",
+    "title": "Finite sampling interval effects in Kramers–Moyal analysis - ScienceDirect",
+    "url": "https://sciencedirect.com/science/article/abs/pii/S0375960109010172",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "b336bfda0ec9a9fc",
+    "date": "2026-08-24",
+    "title": "Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7219083",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "770220f9508b5e10",
+    "date": "2026-08-24",
+    "title": "Identification of linear systems with multiplicative noise from multiple trajectory data - ScienceDirect",
+    "url": "https://sciencedirect.com/science/article/pii/S0005109822003454",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "11c38ab40d550f7d",
+    "date": "2026-08-24",
+    "title": "Kinetic theory of flocking: Derivation of hydrodynamic equations",
+    "url": "https://doi.org/10.1103/physreve.83.030901",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "36071a0581a1017d",
+    "date": "2026-08-24",
+    "title": "Learning fast, accurate, and stable closures of a kinetic theory of an active fluid - ScienceDirect",
+    "url": "https://sciencedirect.com/science/article/pii/S0021999124001189",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "37ebcfc7f9e65194",
+    "date": "2026-08-24",
+    "title": "Learning interpretable dynamics of stochastic complex systems from experimental data",
+    "url": "https://doi.org/10.1038/s41467-024-50378-x",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "6190d5a20eefd8cc",
+    "date": "2026-08-24",
+    "title": "Learning non-stationary Langevin dynamics from stochastic observations of latent trajectories",
+    "url": "https://doi.org/10.1038/s41467-021-26202-1",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "b190514e354e6fa5",
+    "date": "2026-08-24",
+    "title": "Learning protocols for the fast and efficient control of active matter",
+    "url": "https://doi.org/10.1038/s41467-024-52878-2",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "c65ba3d17ce216b5",
+    "date": "2026-08-24",
+    "title": "Machine learning active-nematic hydrodynamics - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7958379",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "410bd81b48760e99",
+    "date": "2026-08-24",
+    "title": "Machine learning for active matter",
+    "url": "https://doi.org/10.1038/s42256-020-0146-9",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "e59dd3f1b8f69ef0",
+    "date": "2026-08-24",
+    "title": "Physically informed data-driven modeling of active nematics - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10321743",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "3418e7b2e0b58e2b",
+    "date": "2026-08-24",
+    "title": "Physics-informed learning of governing equations from scarce data",
+    "url": "https://doi.org/10.1038/s41467-021-26434-1",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "aa856c468aa42fde",
+    "date": "2026-08-24",
+    "title": "Physics-informed neural networks for solving forward and inverse flow problems via the Boltzmann-BGK formulation - ScienceDirect",
+    "url": "https://sciencedirect.com/science/article/pii/S0021999121005714",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "52733712d33cf0cd",
+    "date": "2026-08-24",
+    "title": "Quantitative kinetic theory of flocking with three-particle closure - PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34654183",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "8ae792fdc6e22ec9",
+    "date": "2026-08-24",
+    "title": "Sparse inference and active learning of stochastic differential equations from data - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9755218",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "d592ab7cb81d857c",
+    "date": "2026-08-24",
+    "title": "Sparse inference and active learning of stochastic differential equations from data",
+    "url": "https://doi.org/10.1038/s41598-022-25638-9",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "05dd7873e0b06005",
+    "date": "2026-08-24",
+    "title": "Spinodal decomposition and phase separation in polar active matter",
+    "url": "https://doi.org/10.1103/physreve.109.034606",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "cd01d3578fe73e63",
+    "date": "2026-08-24",
+    "title": "Stochastic continuity equations with conservative noise - ScienceDirect",
+    "url": "https://sciencedirect.com/science/article/pii/S002178241930039X",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "ec6401f3ac40453e",
+    "date": "2026-08-24",
+    "title": "The Dean–Kawasaki Equation and the Structure of Density Fluctuations in Systems of Diffusing Particles",
+    "url": "https://doi.org/10.1007/s00205-023-01903-7",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "1c62d958272af773",
+    "date": "2026-08-24",
+    "title": "WEAK SINDY FOR PARTIAL DIFFERENTIAL EQUATIONS - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8570254",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Active Matter",
+      "Fluid Dynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "485b76318e41d653",
+    "date": "2026-08-24",
+    "title": "Non-Gaussian processes and neural networks at finite widths",
+    "url": "https://arxiv.org/abs/1910.00019",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "66fd1c074e372787",
+    "date": "2026-08-24",
+    "title": "Neural Networks and Quantum Field Theory",
+    "url": "https://arxiv.org/abs/2008.08601",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "ed189695c2b2b746",
+    "date": "2026-08-24",
+    "title": "Introduction to Normalizing Flows for Lattice Field Theory",
+    "url": "https://arxiv.org/abs/2101.08176",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "3defde399fb7adf3",
+    "date": "2026-08-24",
+    "title": "Self-supervised Representation Learning With Path Integral Clustering For Speaker Diarization",
+    "url": "https://arxiv.org/abs/2104.09456",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "1d621814988a5812",
+    "date": "2026-08-24",
+    "title": "Path Integral Sampler: a stochastic control approach for sampling",
+    "url": "https://arxiv.org/abs/2111.15141",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "42643d6683734bf6",
+    "date": "2026-08-24",
+    "title": "Diffusion Autoencoders: Toward a Meaningful and Decodable Representation",
+    "url": "https://arxiv.org/abs/2111.15640",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "d8d9c97e8215bdcb",
+    "date": "2026-08-24",
+    "title": "Flow Matching for Generative Modeling",
+    "url": "https://arxiv.org/abs/2210.02747",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "76d3033b1386cf39",
+    "date": "2026-08-24",
+    "title": "Representation Learning with Diffusion Models",
+    "url": "https://arxiv.org/abs/2210.11058",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "79c5ae95f841f064",
+    "date": "2026-08-24",
+    "title": "Neural Network Field Theories: Non-Gaussianity, Actions, and Locality",
+    "url": "https://arxiv.org/abs/2307.03223",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "5b9a89dd6954b815",
+    "date": "2026-08-24",
+    "title": "Masked Diffusion as Self-supervised Representation Learner",
+    "url": "https://arxiv.org/abs/2308.05695",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "12e459e68d2179c9",
+    "date": "2026-08-24",
+    "title": "Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation",
+    "url": "https://arxiv.org/abs/2411.14863",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "ac099926b4ddd8a6",
+    "date": "2026-08-24",
+    "title": "BridgeShape: Latent Diffusion Schr\\\"odinger Bridge for 3D Shape Completion",
+    "url": "https://arxiv.org/abs/2506.23205",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "48c4c9615019ef41",
+    "date": "2026-08-24",
+    "title": "Adaptive Path-Integral Autoencoder: Representation Learning and Planning for Dynamical Systems",
+    "url": "https://arxiv.org/abs/1807.02128",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "8364a2a233d4ec9e",
+    "date": "2026-08-24",
+    "title": "Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2021/file/940392f5f32a7ade1cc201767cf83e31-Paper.pdf",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "7bf4c67140c643f3",
+    "date": "2026-08-24",
+    "title": "Flow-based sampling for fermionic lattice field theories",
+    "url": "https://arxiv.org/abs/2106.05934",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "3c07c1608916f3ba",
+    "date": "2026-08-24",
+    "title": "Plan2Vec: Unsupervised Representation Learning by Latent Plans",
+    "url": "https://arxiv.org/abs/2005.03648",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "47b9d5c3c37edcd4",
+    "date": "2026-08-24",
+    "title": "Solving the Quantum Many-Body Problem with Artificial Neural Networks",
+    "url": "https://arxiv.org/abs/1606.02318",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "d370dbf7389a2607",
+    "date": "2026-08-24",
+    "title": "Understanding Diffusion Models by Feynman’s Path Integral",
+    "url": "https://proceedings.mlr.press/v235/hirono24a.html",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory"
+    ]
+  },
+  {
+    "id": "973f8c462f936860",
+    "date": "2026-08-24",
+    "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "url": "https://arxiv.org/abs/2011.13456",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Field Theory",
+      "Renormalization Group",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "e2f9f7c34d2ecd6e",
+    "date": "2026-08-24",
+    "title": "Deep Information Propagation",
+    "url": "https://arxiv.org/abs/1611.01232",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "f7567078898c3449",
+    "date": "2026-08-24",
+    "title": "Deep Neural Networks as Gaussian Processes",
+    "url": "https://arxiv.org/abs/1711.00165",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "bddffd6b3fd137d7",
+    "date": "2026-08-24",
+    "title": "A Mean Field View of the Landscape of Two-Layers Neural Networks",
+    "url": "https://arxiv.org/abs/1804.06561",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "227f376aa23c3384",
+    "date": "2026-08-24",
+    "title": "A Mean-Field Optimal Control Formulation of Deep Learning",
+    "url": "https://arxiv.org/abs/1807.01083",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "596df03cebf8e81d",
+    "date": "2026-08-24",
+    "title": "Neural Tangent Kernel Beyond the Infinite-Width Limit: Effects of Depth and Initialization",
+    "url": "https://arxiv.org/abs/2202.00553",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "967d799a2604e1f8",
+    "date": "2026-08-24",
+    "title": "Neural Tangent Kernel: Convergence and Generalization in Neural Networks",
+    "url": "https://arxiv.org/abs/1806.07572",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "7d4e1f2895b79b9b",
+    "date": "2026-08-24",
+    "title": "Online stochastic gradient descent on non-convex losses from high-dimensional inference",
+    "url": "https://jmlr.org/papers/v22/20-1288.html",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "e09961a5caff848f",
+    "date": "2026-08-24",
+    "title": "Tensor Programs VI: Feature Learning in Infinite Depth Neural Networks | OpenReview",
+    "url": "https://openreview.net/forum?id=17pVDnpwwl",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics"
+    ]
+  },
+  {
+    "id": "633ee36ab4dd4efe",
+    "date": "2026-08-24",
+    "title": "Neural Ordinary Differential Equations",
+    "url": "https://arxiv.org/abs/1806.07366",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Scientific ML",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "eaaf43f1277a07d8",
+    "date": "2026-08-24",
+    "title": "Mean-field theory of two-layers neural networks: dimension-free bounds and kernel limit",
+    "url": "https://arxiv.org/abs/1902.06015",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "0ed3c8d2f7130e28",
+    "date": "2026-08-24",
+    "title": "Harnessing synthetic active particles for physical reservoir computing",
+    "url": "https://doi.org/10.1038/s41467-024-44856-5",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "40f4f3a520795df4",
+    "date": "2026-08-24",
+    "title": "Physical reservoir computing with emerging electronics",
+    "url": "https://doi.org/10.1038/s41928-024-01133-z",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Contextual Reference",
+      "Machine Learning",
+      "AI for Science"
+    ]
+  },
+  {
+    "id": "ce900e20f76ed5c2",
+    "date": "2026-08-24",
+    "title": "DSO: Dual-Scale Neural Operators for Stable Long-term Fluid Dynamics Forecasting",
+    "url": "https://arxiv.org/abs/2603.26800",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scientific ML",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "ec2cb6f81cdd58d9",
+    "date": "2026-08-24",
+    "title": "Fourier Neural Operator for Parametric Partial Differential Equations",
+    "url": "https://arxiv.org/abs/2010.08895",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scientific ML",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "0bee563c36d224a2",
+    "date": "2026-08-24",
+    "title": "KoopGen: Koopman Generator Networks for Representing and Predicting Dynamical Systems with Continuous Spectra",
+    "url": "https://arxiv.org/abs/2602.14011",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scientific ML",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "27be254755870b20",
+    "date": "2026-08-24",
+    "title": "Neural Stochastic PDEs: Resolution-Invariant Learning of Continuous Spatiotemporal Dynamics",
+    "url": "https://arxiv.org/abs/2110.10249",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scientific ML",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "c7a5d345af0bbe98",
+    "date": "2026-08-24",
+    "title": "Probabilistic neural operators for functional uncertainty quantification",
+    "url": "https://arxiv.org/abs/2502.12902",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scientific ML",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "5741dd405b567ba7",
+    "date": "2026-08-24",
+    "title": "Score-based Diffusion Models in Function Space",
+    "url": "https://arxiv.org/abs/2302.07400",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scientific ML",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "5c6b1c9b793b7001",
+    "date": "2026-08-24",
+    "title": "SGNO: Spectral Generator Neural Operators for Stable Long Horizon PDE Rollouts",
+    "url": "https://arxiv.org/abs/2602.18801",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Scientific ML",
+      "Neural Operators"
+    ]
+  },
+  {
+    "id": "63171e6a4b189239",
+    "date": "2026-08-24",
+    "title": "Enhancing Gravitational-Wave Detection: A Machine Learning Pipeline Combination Approach with Robust Uncertainty Quantification",
+    "url": "https://doi.org/10.1103/yfb3-fgf2",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "8acf20b062a73f83",
+    "date": "2026-08-24",
+    "title": "Photonic Restricted Boltzmann Machine for Content Generation Tasks",
+    "url": "https://doi.org/10.1103/k6f7-gtr7",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "f9013ded711d08ef",
+    "date": "2026-08-24",
+    "title": "Statistical Mechanics of Transfer Learning in Fully Connected Networks in the Proportional Limit",
+    "url": "https://doi.org/10.1103/physrevlett.134.177301",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "f3e6efb4e89a1e17",
+    "date": "2026-08-24",
+    "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+    "url": "https://arxiv.org/abs/1503.03585",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "baf3f2b22980bf29",
+    "date": "2026-08-24",
+    "title": "Explaining Neural Scaling Laws",
+    "url": "https://arxiv.org/abs/2102.06701",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "bcd11d0a54fedb0e",
+    "date": "2026-08-24",
+    "title": "Neural Network Renormalization Group",
+    "url": "https://arxiv.org/abs/1802.02840",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "ef2edf90e2952e25",
+    "date": "2026-08-24",
+    "title": "RG-Flow: A hierarchical and explainable flow model based on renormalization group and sparse prior",
+    "url": "https://arxiv.org/abs/2010.00029",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Scaling Laws"
+    ]
+  },
+  {
+    "id": "e224d89f844755a5",
+    "date": "2026-08-24",
+    "title": "Renormalizing Diffusion Models",
+    "url": "https://arxiv.org/abs/2308.12355",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Scaling Laws",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "500a6d5ef3a90190",
+    "date": "2026-08-24",
+    "title": "Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D",
+    "url": "https://arxiv.org/abs/2305.13266",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "7fc155cd48360cde",
+    "date": "2026-08-24",
+    "title": "Information theory and renormalization group flows - ScienceDirect",
+    "url": "https://sciencedirect.com/science/article/pii/S037843711100642X",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Information Theory"
+    ]
+  },
+  {
+    "id": "2ab2bcae7eb34580",
+    "date": "2026-08-24",
+    "title": "Numerical fluid dynamics for FRG flow equations: Zero-dimensional QFTs as numerical test cases. II. Entropy production and irreversibility of RG flows",
+    "url": "https://doi.org/10.1103/physrevd.106.065013",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Information Theory"
+    ]
+  },
+  {
+    "id": "f79a10f0333402b4",
+    "date": "2026-08-24",
+    "title": "Optimal Renormalization Group Transformation from Information Theory",
+    "url": "https://doi.org/10.1103/physrevx.10.011037",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Information Theory"
+    ]
+  },
+  {
+    "id": "1828d76c91e190d7",
+    "date": "2026-08-24",
+    "title": "Relative entropy and proximity of quantum field theories",
+    "url": "https://doi.org/10.1007/jhep05(2015)104",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Information Theory"
+    ]
+  },
+  {
+    "id": "a57e23586f7b3bdb",
+    "date": "2026-08-24",
+    "title": "Statistical Physics through the Lens of Real-Space Mutual Information",
+    "url": "https://doi.org/10.1103/physrevlett.127.240603",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Information Theory"
+    ]
+  },
+  {
+    "id": "8d2c96b69f64b78d",
+    "date": "2026-08-24",
+    "title": "Diffusion models as stochastic quantization in lattice field theory",
+    "url": "https://doi.org/10.1007/jhep05(2024)060",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "5907a6891e0aea7f",
+    "date": "2026-08-24",
+    "title": "GUD: Generation with Unified Diffusion | OpenReview",
+    "url": "https://openreview.net/forum?id=zn0eqMtsrw",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "a5d8a5efa902df8d",
+    "date": "2026-08-24",
+    "title": "Learning trivializing gradient flows for lattice gauge theories",
+    "url": "https://doi.org/10.1103/physrevd.107.l051504",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "b86455323b635ac8",
+    "date": "2026-08-24",
+    "title": "Physics-conditioned diffusion models for lattice gauge theory",
+    "url": "https://doi.org/10.1007/jhep03(2026)111",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "9185034ca2d581a8",
+    "date": "2026-08-24",
+    "title": "renormalization group and the diffusion equation | Progress of Theoretical and Experimental Physics | Oxford Academic",
+    "url": "https://academic.oup.com/ptep/article/2021/2/023B02/6020279",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "71b518265b03b2fb",
+    "date": "2026-08-24",
+    "title": "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions",
+    "url": "https://jmlr.org/beta/papers/v26/23-1605.html",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "f1774dbbf19ceda8",
+    "date": "2026-08-24",
+    "title": "Stochastic renormalization group and gradient flow",
+    "url": "https://doi.org/10.1007/jhep01(2020)172",
+    "tags": [
+      "Journal",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "f556c7709f95836f",
+    "date": "2026-08-24",
+    "title": "Wavelet Score-Based Generative Modeling",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/03474669b759f6d38cdca6fb4eb905f4-Abstract-Conference.html",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Renormalization Group",
+      "Generative Models"
+    ]
+  },
+  {
+    "id": "c39c676b928a264f",
+    "date": "2026-08-24",
+    "title": "Is Deep Learning a Renormalization Group Flow?",
+    "url": "https://arxiv.org/abs/1906.05212",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "e2efca2cc8ff49ce",
+    "date": "2026-08-24",
+    "title": "A Diffusion Theory For Deep Learning Dynamics: Stochastic Gradient Descent Exponentially Favors Flat Minima",
+    "url": "https://arxiv.org/abs/2002.03495",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "b6ca098cb4d12fdb",
+    "date": "2026-08-24",
+    "title": "Bayesian RG Flow in Neural Network Field Theories",
+    "url": "https://arxiv.org/abs/2405.17538",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "3f027a13f14d1e56",
+    "date": "2026-08-24",
+    "title": "Kernel Dynamics under Path Entropy Maximization",
+    "url": "https://arxiv.org/abs/2603.27880",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "785b72b087f4ceeb",
+    "date": "2026-08-24",
+    "title": "A Framework on Dynamics of Feature Emergence and ...",
+    "url": "https://openreview.net/forum?id=ceIBRhJpUr",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "53f45db2a0ac7222",
+    "date": "2026-08-24",
+    "title": "A simple mean field model of feature learning",
+    "url": "https://openreview.net/forum?id=FVQzqSIJcC",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "31835a0579aa03b0",
+    "date": "2026-08-24",
+    "title": "Bayesian Renormalization",
+    "url": "https://arxiv.org/abs/2305.10491",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "de7541eb8ecbcd8f",
+    "date": "2026-08-24",
+    "title": "How Feature Learning Can Improve Neural Scaling Laws",
+    "url": "https://openreview.net/forum?id=dEypApI1MZ",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "a380a4d5043e88ad",
+    "date": "2026-08-24",
+    "title": "Renormalization Group flow, Optimal Transport and Diffusion-based Generative Model",
+    "url": "https://arxiv.org/abs/2402.17090",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "e61f03c44e0d83b5",
+    "date": "2026-08-24",
+    "title": "Scaling Laws and Spectra of Shallow Neural Networks in ...",
+    "url": "https://openreview.net/forum?id=Q3yLIIkt7z",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "c8ad8d9f9e693da1",
+    "date": "2026-08-24",
+    "title": "The Inverse of Exact Renormalization Group Flows as Statistical Inference",
+    "url": "https://arxiv.org/abs/2212.11379",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "d65f26b6af5cd650",
+    "date": "2026-08-24",
+    "title": "Understanding Scaling Laws in Deep Neural Networks via ...",
+    "url": "https://openreview.net/forum?id=LD0W6HEwsq",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "a88b9bb69dd7ec7c",
+    "date": "2026-08-24",
+    "title": "Wilsonian Renormalization of Neural Network Gaussian Processes",
+    "url": "https://arxiv.org/abs/2405.06008",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Statistical Physics",
+      "Training Dynamics"
+    ]
+  },
+  {
+    "id": "3ea17d1258ea9b9b",
+    "date": "2026-08-24",
+    "title": "A Unified Perspective on the Dynamics of Deep Transformers",
+    "url": "https://arxiv.org/abs/2501.18322",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Transformer Theory"
+    ]
+  },
+  {
+    "id": "736b3f9c1f275b31",
+    "date": "2026-08-24",
+    "title": "Clustering in Causal Attention Masking",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/d18d208fa9c333483e5724ade7beff0f-Abstract-Conference.html",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Transformer Theory"
+    ]
+  },
+  {
+    "id": "19b49abae7d3c238",
+    "date": "2026-08-24",
+    "title": "Dynamical Mean-Field Theory of Self-Attention Neural Networks",
+    "url": "https://arxiv.org/abs/2406.07247",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Transformer Theory"
+    ]
+  },
+  {
+    "id": "94bdcd00b170e8be",
+    "date": "2026-08-24",
+    "title": "Mind the Gap: a Spectral Analysis of Rank Collapse and Signal Propagation in Attention Layers",
+    "url": "https://proceedings.mlr.press/v267/nait-saada25a.html",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Transformer Theory"
+    ]
+  },
+  {
+    "id": "b378b5e0070cf951",
+    "date": "2026-08-24",
+    "title": "Normalization in Attention Dynamics",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c82ad2a73009cbde6da1ce6ba572e687-Abstract-Conference.html",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Transformer Theory"
+    ]
+  },
+  {
+    "id": "982fc46bbe09aee7",
+    "date": "2026-08-24",
+    "title": "Recurrent Self-Attention Dynamics: An Energy-Agnostic Perspective from Jacobians",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/cca569b38ec3612904e625dad7a743dc-Abstract-Conference.html",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Transformer Theory"
+    ]
+  },
+  {
+    "id": "9caed7beb916e4e6",
+    "date": "2026-08-24",
+    "title": "Self-Attention Dynamics with Rotary Position Embeddings: Twisted States and Explicit Consensus Rates on the Sphere",
+    "url": "https://arxiv.org/abs/2607.24502",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Transformer Theory"
+    ]
+  },
+  {
+    "id": "bc1bcd4f795ee4f1",
+    "date": "2026-08-24",
+    "title": "The Mean-Field Dynamics of Transformers",
+    "url": "https://arxiv.org/abs/2512.01868",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Transformer Theory"
+    ]
+  },
+  {
+    "id": "18f39c24e7e7af25",
+    "date": "2026-08-24",
+    "title": "Understanding Softmax Attention Layers:\\\\ Exact Mean-Field Analysis on a Toy Problem",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/2cf63608d264a3c65e68e3cff860c152-Abstract-Conference.html",
+    "tags": [
+      "Conference",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Transformer Theory"
+    ]
+  },
+  {
+    "id": "1f9c1585090b9ff6",
+    "date": "2026-08-24",
+    "title": "Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation",
+    "url": "https://arxiv.org/abs/2506.19774",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Video Generation"
+    ]
+  },
+  {
+    "id": "4d124aa87b3150b9",
+    "date": "2026-08-24",
+    "title": "Transition Matching Distillation for Fast Video Generation",
+    "url": "https://arxiv.org/abs/2601.09881",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Video Generation"
+    ]
+  },
+  {
+    "id": "91c76234d9010370",
+    "date": "2026-08-24",
+    "title": "Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator",
+    "url": "https://arxiv.org/abs/2604.08121",
+    "tags": [
+      "arXiv",
+      "Meaningful Chat",
+      "Recommended",
+      "Machine Learning",
+      "Video Generation"
     ]
   }
 ]
