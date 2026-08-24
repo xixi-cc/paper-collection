@@ -20,10 +20,6 @@ function sitesStaticAssets() {
           recursive: entry.isDirectory(),
         });
       }
-
-      await cp(resolve('.openai', 'drizzle'), resolve(outputDirectory, '.openai', 'drizzle'), {
-        recursive: true,
-      });
     },
   };
 }
