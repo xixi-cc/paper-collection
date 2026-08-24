@@ -16,6 +16,10 @@
 
 页面默认按正式发表日期排序。若尚未正式发表，则使用 arXiv 初次提交日期；也可按 topic、收录日期或标题排序。
 
+## Topic 规则
+
+每篇文章只保留一个 topic。`scripts/assign_topics.py` 使用受控主题表：明确的方法或研究领域（例如 `Neural Operators`、`Flow Matching`、`Renormalization Group`、`Active Matter`）优先于宽泛分类；没有更强规则时才保留已有人工分类。歧义标题使用可审计的显式覆盖，不使用 `Other` 作为默认兜底。
+
 提交到 `main` 分支后，GitHub Actions 会自动重新发布网站。
 
 ## 本地预览
