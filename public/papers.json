@@ -1,20 +1,5 @@
 [
   {
-    "id": "6650760870fa5ea5",
-    "date": "2026-08-23",
-    "title": "A Dynamical Mechanism for Irreversibility in Cyclically Driven Amorphous Solids",
-    "url": "https://arxiv.org/abs/2608.11073",
-    "tags": [
-      "arXiv",
-      "Soft Matter"
-    ],
-    "published": "2026-08-11",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2608.11073"
-    },
-    "source_detail": "arXiv"
-  },
-  {
     "id": "892101cd9f197aa6",
     "date": "2026-08-23",
     "title": "A general paracontrolled ansatz for singular SPDEs",
@@ -111,24 +96,6 @@
     "source_detail": "arXiv"
   },
   {
-    "id": "419c835c82bcdfbc",
-    "date": "2026-08-23",
-    "title": "Active Brownian particle in harmonic trap: exact computation of moments, and re-entrant transition",
-    "url": "https://doi.org/10.1088/1742-5468/abd031",
-    "tags": [
-      "Journal of Statistical Mechanics: Theory and Experiment",
-      "Active Matter"
-    ],
-    "published": "2021-01-01",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2005.14234",
-      "publication": "https://doi.org/10.1088/1742-5468/abd031"
-    },
-    "venue": "Journal of Statistical Mechanics: Theory and Experiment",
-    "publication_type": "Journal",
-    "source_detail": "Journal of Statistical Mechanics: Theory and Experiment"
-  },
-  {
     "id": "210d221340cda74a",
     "date": "2026-08-23",
     "title": "Active hydraulics laws from frustration principles",
@@ -189,21 +156,6 @@
     "published": "2024-10-17",
     "links": {
       "arxiv": "https://arxiv.org/abs/2410.13377"
-    },
-    "source_detail": "arXiv"
-  },
-  {
-    "id": "b5f5db392f95ac4f",
-    "date": "2026-08-23",
-    "title": "Adversarial Causal Intervention Falsification",
-    "url": "https://arxiv.org/abs/2608.06427",
-    "tags": [
-      "arXiv",
-      "Complex Systems"
-    ],
-    "published": "2026-08-05",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2608.06427"
     },
     "source_detail": "arXiv"
   },
@@ -375,21 +327,6 @@
     "venue": "Advanced Theory and Simulations",
     "publication_type": "Journal",
     "source_detail": "Advanced Theory and Simulations"
-  },
-  {
-    "id": "6a4f114547331250",
-    "date": "2026-08-23",
-    "title": "Complex flow profiles in microscopic active crystals",
-    "url": "https://arxiv.org/abs/2311.04288",
-    "tags": [
-      "arXiv",
-      "Active Matter"
-    ],
-    "published": "2023-11-07",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2311.04288"
-    },
-    "source_detail": "arXiv"
   },
   {
     "id": "8bb046dcdfff2642",
@@ -668,21 +605,6 @@
     "source_detail": "Nature Communications"
   },
   {
-    "id": "c41f2e420c0b6468",
-    "date": "2026-08-23",
-    "title": "Drift and Dependence: Layer-wise Information-Theoretic Bounds for Replay-Based Continual Learning",
-    "url": "https://arxiv.org/abs/2608.11690",
-    "tags": [
-      "arXiv",
-      "Information Theory"
-    ],
-    "published": "2026-08-12",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2608.11690"
-    },
-    "source_detail": "arXiv"
-  },
-  {
     "id": "dd41517b1203369d",
     "date": "2026-08-23",
     "title": "Dynamical Learning in Deep Asymmetric Recurrent Neural Networks",
@@ -716,24 +638,6 @@
     "venue": "Indian Journal of Physics",
     "publication_type": "Journal",
     "source_detail": "Indian Journal of Physics"
-  },
-  {
-    "id": "c1a2f8103fda3716",
-    "date": "2026-08-23",
-    "title": "Dynamics of electrostatically-driven granular media. Effects of Humidity",
-    "url": "https://doi.org/10.1103/physreve.63.050301",
-    "tags": [
-      "Physical Review E",
-      "Soft Matter"
-    ],
-    "published": "2001-04-19",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/cond-mat/0011068",
-      "publication": "https://doi.org/10.1103/physreve.63.050301"
-    },
-    "venue": "Physical Review E",
-    "publication_type": "Journal",
-    "source_detail": "Physical Review E"
   },
   {
     "id": "d42f801bdd49fc14",
@@ -832,21 +736,6 @@
     "source_detail": "arXiv"
   },
   {
-    "id": "62b041bdc4a23d4d",
-    "date": "2026-08-23",
-    "title": "FACT: Failure-Aware Causal Training for World-Action Models",
-    "url": "https://arxiv.org/abs/2608.10232",
-    "tags": [
-      "arXiv",
-      "World Models"
-    ],
-    "published": "2026-08-10",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2608.10232"
-    },
-    "source_detail": "arXiv"
-  },
-  {
     "id": "2a7134ede31921d1",
     "date": "2026-08-23",
     "title": "Far-from-equilibrium Ostwald ripening in electrostatically driven granular powders",
@@ -897,21 +786,6 @@
     "venue": "Langmuir",
     "publication_type": "Journal",
     "source_detail": "Langmuir"
-  },
-  {
-    "id": "496f9f0026d38dab",
-    "date": "2026-08-23",
-    "title": "Fine-Tuning Generative Models for Extreme Events via CVaR-Penalized Wasserstein Gradient Flows",
-    "url": "https://arxiv.org/abs/2608.11544",
-    "tags": [
-      "arXiv",
-      "Generative Models"
-    ],
-    "published": "2026-08-12",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2608.11544"
-    },
-    "source_detail": "arXiv"
   },
   {
     "id": "b5ca84f79cbc57ce",
@@ -1081,21 +955,6 @@
     "source_detail": "Nature Communications"
   },
   {
-    "id": "3544b61603e9e772",
-    "date": "2026-08-23",
-    "title": "Generalised stochastic curvature flow in $d \\geq 2$, and sharp interface limit for the stochastic Allen-Cahn equation with nonlinear diffusion",
-    "url": "https://arxiv.org/abs/2608.11695",
-    "tags": [
-      "arXiv",
-      "Fluid Dynamics"
-    ],
-    "published": "2026-08-12",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2608.11695"
-    },
-    "source_detail": "arXiv"
-  },
-  {
     "id": "093f07a2155d13db",
     "date": "2026-08-23",
     "title": "Generalized Master Stability of Heterogeneous Delay-Coupled Networks",
@@ -1193,23 +1052,6 @@
     "venue": "Physical Review E",
     "publication_type": "Journal",
     "source_detail": "Physical Review E"
-  },
-  {
-    "id": "9922453993afb3e2",
-    "date": "2026-08-23",
-    "title": "Globally correlated states and control of vortex lattices in active roller fluids",
-    "url": "https://doi.org/10.1103/PhysRevResearch.5.023040",
-    "tags": [
-      "Physical Review Research",
-      "Fluid Dynamics"
-    ],
-    "published": "2023-04-19",
-    "links": {
-      "publication": "https://doi.org/10.1103/PhysRevResearch.5.023040"
-    },
-    "venue": "Physical Review Research",
-    "publication_type": "Journal",
-    "source_detail": "Physical Review Research"
   },
   {
     "id": "b3f2fe99270f7949",
@@ -1479,21 +1321,6 @@
     "source_detail": "Physical Review Research"
   },
   {
-    "id": "0c22a679680e1ca2",
-    "date": "2026-08-23",
-    "title": "Lee-Yang Theory Guided Force Field Refinement Based on Phase Diagrams",
-    "url": "https://arxiv.org/abs/2608.08546",
-    "tags": [
-      "arXiv",
-      "AI for Science"
-    ],
-    "published": "2026-08-09",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2608.08546"
-    },
-    "source_detail": "arXiv"
-  },
-  {
     "id": "58dd56c906a98b98",
     "date": "2026-08-23",
     "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
@@ -1587,21 +1414,6 @@
     "source_detail": "arXiv"
   },
   {
-    "id": "778a15beab361ab0",
-    "date": "2026-08-23",
-    "title": "Magnetopological mechanics in Maxwell lattice frustrated Mott insulators",
-    "url": "https://arxiv.org/abs/2602.12168",
-    "tags": [
-      "arXiv",
-      "Condensed Matter"
-    ],
-    "published": "2026-02-12",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2602.12168"
-    },
-    "source_detail": "arXiv"
-  },
-  {
     "id": "d5b5232b98757c72",
     "date": "2026-08-23",
     "title": "Maximum diffusion reinforcement learning",
@@ -1618,23 +1430,6 @@
     "venue": "Nature Machine Intelligence",
     "publication_type": "Journal",
     "source_detail": "Nature Machine Intelligence"
-  },
-  {
-    "id": "80460de6013e0b22",
-    "date": "2026-08-23",
-    "title": "Micro/Nanorobotic Swarms: From Fundamentals to Functionalities",
-    "url": "https://doi.org/10.1021/acsnano.2c11733",
-    "tags": [
-      "Others",
-      "Active Matter"
-    ],
-    "published": "2023-07-11",
-    "links": {
-      "publication": "https://doi.org/10.1021/acsnano.2c11733"
-    },
-    "venue": "ACS Nano",
-    "publication_type": "Journal",
-    "source_detail": "ACS Nano"
   },
   {
     "id": "fe7093ed0b7d6a09",
@@ -1847,21 +1642,6 @@
     "source_detail": "Nature Physics"
   },
   {
-    "id": "32d40c9d190d8179",
-    "date": "2026-08-23",
-    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-    "url": "https://arxiv.org/abs/2608.11215",
-    "tags": [
-      "arXiv",
-      "AI Agents"
-    ],
-    "published": "2026-07-19",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2608.11215"
-    },
-    "source_detail": "arXiv"
-  },
-  {
     "id": "f8a93a5f3481da6d",
     "date": "2026-08-23",
     "title": "Potential Matching Optimal Transport: Continuous Normalizing Flows for Exact $p$-Wasserstein Dynamics",
@@ -1956,23 +1736,6 @@
     "venue": "Physical Review D",
     "publication_type": "Journal",
     "source_detail": "Physical Review D"
-  },
-  {
-    "id": "b4ffa8eb414bcc2b",
-    "date": "2026-08-23",
-    "title": "SANN-PSZ: Spatially Adaptive Neural Network for Head-Tracked Personal Sound Zones",
-    "url": "https://doi.org/10.1109/TASLPRO.2025.3581123",
-    "tags": [
-      "Others",
-      "Machine Learning"
-    ],
-    "published": "2025",
-    "links": {
-      "publication": "https://doi.org/10.1109/TASLPRO.2025.3581123"
-    },
-    "venue": "IEEE Transactions on Audio, Speech and Language Processing",
-    "publication_type": "Journal",
-    "source_detail": "IEEE Transactions on Audio, Speech and Language Processing"
   },
   {
     "id": "9eddce578e9dcf52",
@@ -2115,24 +1878,6 @@
     "venue": "Nature Communications",
     "publication_type": "Journal",
     "source_detail": "Nature Communications"
-  },
-  {
-    "id": "d6a0433020a229cb",
-    "date": "2026-08-23",
-    "title": "Spring-block theory of feature learning in deep neural networks",
-    "url": "https://doi.org/10.1103/ys4n-2tj3",
-    "tags": [
-      "Physical Review Letters",
-      "Training Dynamics"
-    ],
-    "published": "2025-06-27",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2407.19353",
-      "publication": "https://doi.org/10.1103/ys4n-2tj3"
-    },
-    "venue": "Physical Review Letters",
-    "publication_type": "Journal",
-    "source_detail": "Physical Review Letters"
   },
   {
     "id": "3a2f6a54e6f935b0",
@@ -2317,24 +2062,6 @@
     "source_detail": "Chinese Physics Letters"
   },
   {
-    "id": "f3015709b43c2137",
-    "date": "2026-08-23",
-    "title": "Unconventional criticality, scaling breakdown, and diverse universality classes in the Wilson-Cowan model of neural dynamics",
-    "url": "https://doi.org/10.1103/physreve.108.034110",
-    "tags": [
-      "Physical Review E",
-      "Scaling Laws"
-    ],
-    "published": "2023-09-11",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2301.06839",
-      "publication": "https://doi.org/10.1103/physreve.108.034110"
-    },
-    "venue": "Physical Review E",
-    "publication_type": "Journal",
-    "source_detail": "Physical Review E"
-  },
-  {
     "id": "19b82c60ea862d1d",
     "date": "2026-08-23",
     "title": "Unifying Model Predictive Path Integral Control, Reinforcement Learning, and Diffusion Models for Optimal Control and Planning",
@@ -2346,21 +2073,6 @@
     "published": "2025-02-27",
     "links": {
       "arxiv": "https://arxiv.org/abs/2502.20476"
-    },
-    "source_detail": "arXiv"
-  },
-  {
-    "id": "10aad06f27252e7e",
-    "date": "2026-08-23",
-    "title": "Universal crossovers in weakly-monitored quantum critical states",
-    "url": "https://arxiv.org/abs/2608.02716",
-    "tags": [
-      "arXiv",
-      "Quantum Physics"
-    ],
-    "published": "2026-08-03",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2608.02716"
     },
     "source_detail": "arXiv"
   },
@@ -2431,23 +2143,6 @@
     "source_detail": "arXiv"
   },
   {
-    "id": "96825cf6fdbc83f9",
-    "date": "2026-08-23",
-    "title": "Variational Treatment of Hydrodynamic Interaction in Polymers",
-    "url": "https://doi.org/10.1063/1.1670977",
-    "tags": [
-      "Others",
-      "Fluid Dynamics"
-    ],
-    "published": "1969-06-01",
-    "links": {
-      "publication": "https://doi.org/10.1063/1.1670977"
-    },
-    "venue": "The Journal of Chemical Physics",
-    "publication_type": "Journal",
-    "source_detail": "The Journal of Chemical Physics"
-  },
-  {
     "id": "2476d5ff63d6203f",
     "date": "2026-08-23",
     "title": "VIScore: Diagnosing Planning-Relevant Quality in Latent World Models",
@@ -2494,40 +2189,6 @@
       "arxiv": "https://arxiv.org/abs/2411.00698"
     },
     "source_detail": "arXiv"
-  },
-  {
-    "id": "168af9a86ead7a49",
-    "date": "2026-08-23",
-    "title": "Wetting by active fluids",
-    "url": "https://doi.org/10.1038/s41567-026-03208-4",
-    "tags": [
-      "Nature Physics",
-      "Fluid Dynamics"
-    ],
-    "published": "2026-04-03",
-    "links": {
-      "publication": "https://doi.org/10.1038/s41567-026-03208-4"
-    },
-    "venue": "Nature Physics",
-    "publication_type": "Journal",
-    "source_detail": "Nature Physics"
-  },
-  {
-    "id": "0066b5cc70e439ad",
-    "date": "2026-08-23",
-    "title": "When Does Population Diversity Matter? A Unified Framework for Binary-Choice Dynamics",
-    "url": "https://doi.org/10.1103/4db2-7dpd",
-    "tags": [
-      "Physical Review Letters",
-      "Complex Systems"
-    ],
-    "published": "2025-11-18",
-    "links": {
-      "publication": "https://doi.org/10.1103/4db2-7dpd"
-    },
-    "venue": "Physical Review Letters",
-    "publication_type": "Journal",
-    "source_detail": "Physical Review Letters"
   },
   {
     "id": "00e89f549666c4b1",
@@ -2798,23 +2459,6 @@
     "venue": "The European Physical Journal E",
     "publication_type": "Journal",
     "source_detail": "The European Physical Journal E"
-  },
-  {
-    "id": "7246c89930f60e45",
-    "date": "2025-02-26",
-    "title": "Self-organized time crystal in driven-dissipative quantum system",
-    "url": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033185",
-    "tags": [
-      "Physical Review Research",
-      "Quantum Physics"
-    ],
-    "published": "2024-08-19",
-    "links": {
-      "publication": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033185"
-    },
-    "venue": "Physical Review Research",
-    "publication_type": "Journal",
-    "source_detail": "Physical Review Research"
   },
   {
     "id": "e848907cc5cce3a4",
@@ -3792,21 +3436,6 @@
     "source_detail": "NeurIPS 2022"
   },
   {
-    "id": "628cb9ff7024c4e2",
-    "date": "2026-08-24",
-    "title": "mHC: Manifold-Constrained Hyper-Connections",
-    "url": "https://arxiv.org/abs/2512.24880",
-    "tags": [
-      "arXiv",
-      "Scaling Laws"
-    ],
-    "published": "2025-12-31",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2512.24880"
-    },
-    "source_detail": "arXiv"
-  },
-  {
     "id": "c3b2e6bec6f0f3c5",
     "date": "2026-08-24",
     "title": "Challenges and Research Directions for Large Language Model Inference Hardware",
@@ -4327,40 +3956,6 @@
     "source_detail": "The European Physical Journal E"
   },
   {
-    "id": "604445bde1900a99",
-    "date": "2026-08-24",
-    "title": "Optimal Control in Soft and Active Matter",
-    "url": "https://doi.org/10.1146/annurev-conmatphys-031324-031350",
-    "tags": [
-      "Others",
-      "Active Matter"
-    ],
-    "published": "2026-03-13",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2504.08676",
-      "publication": "https://doi.org/10.1146/annurev-conmatphys-031324-031350"
-    },
-    "venue": "Annual Review of Condensed Matter Physics",
-    "publication_type": "Journal",
-    "source_detail": "Annual Review of Condensed Matter Physics"
-  },
-  {
-    "id": "c60356ed39e9882a",
-    "date": "2026-08-24",
-    "title": "Programmable active matter across scales | Programmable Materials | Cambridge Core",
-    "url": "https://cambridge.org/core/journals/programmable-materials/article/programmable-active-matter-across-scales/7832B782B4A52DFD0719F9D5DBB71ABF",
-    "tags": [
-      "Others",
-      "Active Matter"
-    ],
-    "links": {
-      "publication": "https://cambridge.org/core/journals/programmable-materials/article/programmable-active-matter-across-scales/7832B782B4A52DFD0719F9D5DBB71ABF"
-    },
-    "venue": "Programmable Materials",
-    "publication_type": "Journal",
-    "source_detail": "Programmable Materials"
-  },
-  {
     "id": "913f9cbf33039eb7",
     "date": "2026-08-24",
     "title": "Reinforcement learning with artificial microswimmers",
@@ -4394,22 +3989,6 @@
     "venue": "Physical Review X",
     "publication_type": "Journal",
     "source_detail": "Physical Review X"
-  },
-  {
-    "id": "1899272149a453cf",
-    "date": "2026-08-24",
-    "title": "Tissue Active Matter: Integrating Mechanics and Signaling ...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/38951023",
-    "tags": [
-      "Others",
-      "Active Matter"
-    ],
-    "links": {
-      "publication": "https://pubmed.ncbi.nlm.nih.gov/38951023"
-    },
-    "venue": "Cold Spring Harbor Perspectives in Biology",
-    "publication_type": "Journal",
-    "source_detail": "Cold Spring Harbor Perspectives in Biology"
   },
   {
     "id": "414046b36132d954",
@@ -5025,23 +4604,6 @@
     "venue": "Nature Communications",
     "publication_type": "Journal",
     "source_detail": "Nature Communications"
-  },
-  {
-    "id": "a31e711a0f0c5d20",
-    "date": "2026-08-24",
-    "title": "Finite sampling interval effects in Kramers–Moyal analysis - ScienceDirect",
-    "url": "https://sciencedirect.com/science/article/abs/pii/S0375960109010172",
-    "tags": [
-      "Others",
-      "Active Matter"
-    ],
-    "published": "2009-10",
-    "links": {
-      "publication": "https://sciencedirect.com/science/article/abs/pii/S0375960109010172"
-    },
-    "venue": "Physics Letters A",
-    "publication_type": "Journal",
-    "source_detail": "Physics Letters A"
   },
   {
     "id": "b336bfda0ec9a9fc",
@@ -5834,40 +5396,6 @@
       "arxiv": "https://arxiv.org/abs/1902.06015"
     },
     "source_detail": "arXiv"
-  },
-  {
-    "id": "0ed3c8d2f7130e28",
-    "date": "2026-08-24",
-    "title": "Harnessing synthetic active particles for physical reservoir computing",
-    "url": "https://doi.org/10.1038/s41467-024-44856-5",
-    "tags": [
-      "Nature Communications",
-      "Active Matter"
-    ],
-    "published": "2024-01-29",
-    "links": {
-      "publication": "https://doi.org/10.1038/s41467-024-44856-5"
-    },
-    "venue": "Nature Communications",
-    "publication_type": "Journal",
-    "source_detail": "Nature Communications"
-  },
-  {
-    "id": "40f4f3a520795df4",
-    "date": "2026-08-24",
-    "title": "Physical reservoir computing with emerging electronics",
-    "url": "https://doi.org/10.1038/s41928-024-01133-z",
-    "tags": [
-      "Others",
-      "AI for Science"
-    ],
-    "published": "2024-03-12",
-    "links": {
-      "publication": "https://doi.org/10.1038/s41928-024-01133-z"
-    },
-    "venue": "Nature Electronics",
-    "publication_type": "Journal",
-    "source_detail": "Nature Electronics"
   },
   {
     "id": "ce900e20f76ed5c2",
@@ -6794,24 +6322,6 @@
     "source_detail": "arXiv"
   },
   {
-    "id": "1e7ab669566f4671",
-    "date": "2026-08-24",
-    "title": "E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS",
-    "url": "https://doi.org/10.1109/slt61566.2024.10832320",
-    "tags": [
-      "Others",
-      "Flow Matching"
-    ],
-    "published": "2024-12-02",
-    "links": {
-      "arxiv": "https://arxiv.org/abs/2406.18009",
-      "publication": "https://doi.org/10.1109/slt61566.2024.10832320"
-    },
-    "venue": "2024 IEEE Spoken Language Technology Workshop (SLT)",
-    "publication_type": "Conference",
-    "source_detail": "2024 IEEE Spoken Language Technology Workshop (SLT)"
-  },
-  {
     "id": "5a5c48abbfd99710",
     "date": "2026-08-24",
     "title": "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching",
@@ -6858,23 +6368,6 @@
       "arxiv": "https://arxiv.org/abs/2406.13839"
     },
     "source_detail": "arXiv"
-  },
-  {
-    "id": "e5e88baa93da03e9",
-    "date": "2026-08-24",
-    "title": "Flow matching meets biology and life science: a survey",
-    "url": "https://doi.org/10.1038/s44387-025-00066-y",
-    "tags": [
-      "Others",
-      "Flow Matching"
-    ],
-    "published": "2026-01-31",
-    "links": {
-      "publication": "https://doi.org/10.1038/s44387-025-00066-y"
-    },
-    "venue": "npj Artificial Intelligence",
-    "publication_type": "Journal",
-    "source_detail": "npj Artificial Intelligence"
   },
   {
     "id": "b4d7d95594eedfb6",
