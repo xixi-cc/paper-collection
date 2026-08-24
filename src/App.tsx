@@ -4,11 +4,14 @@ type Paper = {
   id: string;
   date: string;
   published?: string;
+  venue?: string;
+  publication_status?: 'published' | 'preprint' | 'submission';
   title: string;
   url?: string;
   links?: {
     publication?: string;
     arxiv?: string;
+    submission?: string;
   };
   tags: [source: string, topic: string];
 };
@@ -58,7 +61,7 @@ function App() {
     const normalized = query.trim().toLocaleLowerCase();
     return papers
       .filter((paper) => {
-        const matchesQuery = !normalized || [paper.title, ...paper.tags]
+        const matchesQuery = !normalized || [paper.title, paper.venue, ...paper.tags]
           .filter(Boolean)
           .join(' ')
           .toLocaleLowerCase()
@@ -180,24 +183,26 @@ function App() {
             {filtered.map((paper) => (
               <article className="paper-card" key={paper.id}>
                 <h2>
-                  {(paper.links?.publication ?? paper.links?.arxiv ?? paper.url)
-                    ? <a href={paper.links?.publication ?? paper.links?.arxiv ?? paper.url} target="_blank" rel="noreferrer">{paper.title}</a>
+                  {(paper.links?.publication ?? paper.links?.arxiv ?? paper.links?.submission ?? paper.url)
+                    ? <a href={paper.links?.publication ?? paper.links?.arxiv ?? paper.links?.submission ?? paper.url} target="_blank" rel="noreferrer">{paper.title}</a>
                     : paper.title}
                 </h2>
                 <div className="paper-meta">
                   <time title={`Added ${paper.date}`}>
                     {paper.published
-                      ? `${paper.links?.publication ? 'Published' : 'First submitted'} ${paper.published}`
-                      : 'Publication date unavailable'}
+                      ? `${paper.publication_status === 'submission' ? 'Submitted' : paper.publication_status === 'preprint' ? 'Posted' : paper.links?.publication ? 'Published' : 'First submitted'} ${paper.published}`
+                      : paper.publication_status === 'submission' ? 'Submission date unavailable' : 'Publication date unavailable'}
                   </time>
                   {paper.tags.map((tag) => <button type="button" key={tag} onClick={() => toggleTag(tag)}>{tag}</button>)}
+                  {paper.venue && <span className="paper-venue">{paper.venue}</span>}
                   <span className="paper-links">
                     {paper.links?.publication && (
                       <a href={paper.links.publication} target="_blank" rel="noreferrer">
-                        {paper.tags[0] === 'Conference' ? 'Conference' : paper.tags[0] === 'Journal' ? 'Journal' : 'Publication'}
+                        {paper.tags[0] === 'Conference' ? 'Conference' : paper.tags[0] === 'Journal' ? 'Journal' : paper.tags[0] === 'Preprint' ? 'Preprint' : 'Publication'}
                       </a>
                     )}
                     {paper.links?.arxiv && <a href={paper.links.arxiv} target="_blank" rel="noreferrer">arXiv</a>}
+                    {paper.links?.submission && <a href={paper.links.submission} target="_blank" rel="noreferrer">OpenReview</a>}
                   </span>
                 </div>
               </article>

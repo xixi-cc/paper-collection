@@ -40,7 +40,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2501.02378",
       "publication": "https://doi.org/10.1103/mjcl-lb4x"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "56d7426c35a6cb77",
@@ -83,7 +84,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2405.14093",
       "publication": "https://doi.org/10.1109/tnnls.2025.3650584"
-    }
+    },
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems"
   },
   {
     "id": "e2579c89562fcc13",
@@ -112,7 +114,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2005.14234",
       "publication": "https://doi.org/10.1088/1742-5468/abd031"
-    }
+    },
+    "venue": "Journal of Statistical Mechanics: Theory and Experiment"
   },
   {
     "id": "210d221340cda74a",
@@ -126,7 +129,8 @@
     "published": "2024-01-09",
     "links": {
       "publication": "https://doi.org/10.1038/s41567-023-02301-2"
-    }
+    },
+    "venue": "Nature Physics"
   },
   {
     "id": "80b2bc96f5e576cf",
@@ -154,7 +158,8 @@
     "published": "2019-05-16",
     "links": {
       "publication": "https://doi.org/10.1103/PhysRevLett.122.194503"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "a3b98b596fa7b049",
@@ -196,7 +201,8 @@
     "published": "2024-07-24",
     "links": {
       "publication": "https://doi.org/10.1038/s41586-024-07566-y"
-    }
+    },
+    "venue": "Nature"
   },
   {
     "id": "7790bdcb2c163210",
@@ -210,7 +216,8 @@
     "published": "2024",
     "links": {
       "publication": "https://doi.org/10.52202/079017-1161"
-    }
+    },
+    "venue": "NeurIPS 2024"
   },
   {
     "id": "f07b3b11fe42ffb4",
@@ -239,7 +246,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2509.20262",
       "publication": "https://doi.org/10.1103/6shh-9h5m"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "c7ca8436ff5fb4b8",
@@ -254,7 +262,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2605.19072",
       "publication": "https://doi.org/10.1103/y8dv-yq7q"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "a7cb1accb3eec1c2",
@@ -297,7 +306,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1501.06514",
       "publication": "https://doi.org/10.1103/physreve.93.042117"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "042b7d4050978b43",
@@ -312,7 +322,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2103.13220",
       "publication": "https://doi.org/10.1063/5.0051315"
-    }
+    },
+    "venue": "The Journal of Chemical Physics"
   },
   {
     "id": "00b52623fda782a4",
@@ -327,7 +338,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2205.03909",
       "publication": "https://doi.org/10.1002/adts.202200683"
-    }
+    },
+    "venue": "Advanced Theory and Simulations"
   },
   {
     "id": "6a4f114547331250",
@@ -384,7 +396,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2409.01969",
       "publication": "https://doi.org/10.1103/2jt7-c8cq"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "e0a58066cf5e1151",
@@ -398,7 +411,8 @@
     "published": "2025-08-04",
     "links": {
       "publication": "https://doi.org/10.1038/s41567-025-02957-y"
-    }
+    },
+    "venue": "Nature Physics"
   },
   {
     "id": "422afad05102b1cf",
@@ -426,7 +440,8 @@
     "published": "2019-07-30",
     "links": {
       "publication": "https://doi.org/10.1103/PhysRevLett.123.058001"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "c1cbc0e0f313a2d2",
@@ -483,7 +498,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2310.18582",
       "publication": "https://doi.org/10.1103/physrevlett.133.077301"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "9447759c19389e58",
@@ -497,7 +513,8 @@
     "published": "2024-11-28",
     "links": {
       "publication": "https://doi.org/10.1038/s42256-024-00937-0"
-    }
+    },
+    "venue": "Nature Machine Intelligence"
   },
   {
     "id": "6d14e39b9a6e2a8a",
@@ -511,7 +528,8 @@
     "published": "2026-05-21",
     "links": {
       "publication": "https://doi.org/10.1038/s42256-026-01233-9"
-    }
+    },
+    "venue": "Nature Machine Intelligence"
   },
   {
     "id": "d264b597037f6edb",
@@ -526,7 +544,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2208.10601",
       "publication": "https://doi.org/10.1007/978-3-031-28719-0_25"
-    }
+    },
+    "venue": "Active Inference"
   },
   {
     "id": "5f770f826025c156",
@@ -554,7 +573,8 @@
     "published": "2024",
     "links": {
       "publication": "https://doi.org/10.52202/079017-2315"
-    }
+    },
+    "venue": "NeurIPS 2024"
   },
   {
     "id": "9413c1f50e8eb23b",
@@ -582,7 +602,8 @@
     "published": "2023-02-20",
     "links": {
       "publication": "https://doi.org/10.1038/s41467-023-36563-4"
-    }
+    },
+    "venue": "Nature Communications"
   },
   {
     "id": "c41f2e420c0b6468",
@@ -611,7 +632,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2509.05041",
       "publication": "https://doi.org/10.1103/lbr6-91sn"
-    }
+    },
+    "venue": "Physical Review Research"
   },
   {
     "id": "7a530139c13c4d20",
@@ -625,7 +647,8 @@
     "published": "2024-02-29",
     "links": {
       "publication": "https://doi.org/10.1007/s12648-024-03117-3"
-    }
+    },
+    "venue": "Indian Journal of Physics"
   },
   {
     "id": "c1a2f8103fda3716",
@@ -640,7 +663,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/cond-mat/0011068",
       "publication": "https://doi.org/10.1103/physreve.63.050301"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "d42f801bdd49fc14",
@@ -654,7 +678,8 @@
     "published": "2013-04-29",
     "links": {
       "publication": "https://doi.org/10.1103/PhysRevE.87.043014"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "25b7d2119bae4bb3",
@@ -682,7 +707,8 @@
     "published": "2023-03-31",
     "links": {
       "publication": "https://doi.org/10.1038/s42005-023-01173-5"
-    }
+    },
+    "venue": "Communications Physics"
   },
   {
     "id": "b3ef2f3ab49a8c05",
@@ -696,7 +722,8 @@
     "published": "2024-03-14",
     "links": {
       "publication": "https://doi.org/10.1103/PhysRevLett.132.118301"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "2d80ed15e7fcfddf",
@@ -753,7 +780,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/cond-mat/0411522",
       "publication": "https://doi.org/10.1103/physreve.71.011307"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "b9d281d536ae599d",
@@ -767,7 +795,8 @@
     "published": "2017-05-22",
     "links": {
       "publication": "https://doi.org/10.1017/jfm.2017.235"
-    }
+    },
+    "venue": "Journal of Fluid Mechanics"
   },
   {
     "id": "614f7945e1f9bb95",
@@ -781,7 +810,8 @@
     "published": "2022-03-03",
     "links": {
       "publication": "https://doi.org/10.1021/acs.langmuir.1c02581"
-    }
+    },
+    "venue": "Langmuir"
   },
   {
     "id": "496f9f0026d38dab",
@@ -798,19 +828,6 @@
     }
   },
   {
-    "id": "668c1c8e9353a533",
-    "date": "2026-08-23",
-    "title": "Finite-Anisotropy-First Derivation of a Reduced (ρ, A, p) Theory for Active Random Organization",
-    "url": "https://scholar.google.com/scholar?q=%22Finite-Anisotropy-First+Derivation+of+a+Reduced+%28%CF%81%2C+A%2C+p%29+Theory+for+Active+Random+Organization%22",
-    "tags": [
-      "Scholar search",
-      "Active Matter"
-    ],
-    "links": {
-      "publication": "https://scholar.google.com/scholar?q=%22Finite-Anisotropy-First+Derivation+of+a+Reduced+%28%CF%81%2C+A%2C+p%29+Theory+for+Active+Random+Organization%22"
-    }
-  },
-  {
     "id": "b5ca84f79cbc57ce",
     "date": "2026-08-23",
     "title": "Fisher information flow in artificial neural networks",
@@ -823,7 +840,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2509.02407",
       "publication": "https://doi.org/10.1103/kn3z-rmm8"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "8c13e66e5bfef470",
@@ -851,7 +869,8 @@
     "published": "2025",
     "links": {
       "publication": "https://doi.org/10.52202/085713-2961"
-    }
+    },
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "222b1081864812cd",
@@ -866,7 +885,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2303.07746",
       "publication": "https://doi.org/10.1103/physrevlett.130.148202"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "8dd462d7548852bf",
@@ -881,7 +901,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2206.11777",
       "publication": "https://doi.org/10.1088/1742-5468/ac9fc6"
-    }
+    },
+    "venue": "Journal of Statistical Mechanics: Theory and Experiment"
   },
   {
     "id": "ccc9f854bd3d158f",
@@ -895,7 +916,8 @@
     "published": "2025",
     "links": {
       "publication": "https://doi.org/10.52202/085713-3124"
-    }
+    },
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "315e6790dccd2ff5",
@@ -909,7 +931,8 @@
     "published": "2019-09-09",
     "links": {
       "publication": "https://doi.org/10.1103/PhysRevX.9.031043"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "f03116d588c017a4",
@@ -940,19 +963,6 @@
     }
   },
   {
-    "id": "dd98670a3673c74e",
-    "date": "2026-08-23",
-    "title": "From Square Selection to Triangle–Honeycomb Exchange: A Unified Floquet and Weakly Nonlinear Theory of One- and Two-Pulse Space–Time Crystals",
-    "url": "https://scholar.google.com/scholar?q=%22From+Square+Selection+to+Triangle%E2%80%93Honeycomb+Exchange%3A+A+Unified+Floquet+and+Weakly+Nonlinear+Theory+of+One-+and+Two-Pulse+Space%E2%80%93Time+Crystals%22",
-    "tags": [
-      "Scholar search",
-      "Condensed Matter"
-    ],
-    "links": {
-      "publication": "https://scholar.google.com/scholar?q=%22From+Square+Selection+to+Triangle%E2%80%93Honeycomb+Exchange%3A+A+Unified+Floquet+and+Weakly+Nonlinear+Theory+of+One-+and+Two-Pulse+Space%E2%80%93Time+Crystals%22"
-    }
-  },
-  {
     "id": "4348d7c4202f4a9e",
     "date": "2026-08-23",
     "title": "Gauge-field-induced duality group in metamaterials",
@@ -964,20 +974,8 @@
     "published": "2026-05-18",
     "links": {
       "publication": "https://doi.org/10.1038/s41467-026-73117-w"
-    }
-  },
-  {
-    "id": "57aa2858399f5962",
-    "date": "2026-08-23",
-    "title": "General Mean-Field Theory of Period-Two Dual Spatiotemporal Lattices",
-    "url": "https://scholar.google.com/scholar?q=%22General+Mean-Field+Theory+of+Period-Two+Dual+Spatiotemporal+Lattices%22",
-    "tags": [
-      "Scholar search",
-      "Field Theory"
-    ],
-    "links": {
-      "publication": "https://scholar.google.com/scholar?q=%22General+Mean-Field+Theory+of+Period-Two+Dual+Spatiotemporal+Lattices%22"
-    }
+    },
+    "venue": "Nature Communications"
   },
   {
     "id": "3544b61603e9e772",
@@ -1020,7 +1018,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2502.16292",
       "publication": "https://doi.org/10.1088/1742-5468/ae8ceb"
-    }
+    },
+    "venue": "Journal of Statistical Mechanics: Theory and Experiment"
   },
   {
     "id": "d5f9896b23484efd",
@@ -1063,7 +1062,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2403.02579",
       "publication": "https://doi.org/10.1103/gjsm-l642"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "6f97a8735f5c5759",
@@ -1078,7 +1078,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2410.18741",
       "publication": "https://doi.org/10.1103/m6bl-dqsd"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "9922453993afb3e2",
@@ -1092,7 +1093,8 @@
     "published": "2023-04-19",
     "links": {
       "publication": "https://doi.org/10.1103/PhysRevResearch.5.023040"
-    }
+    },
+    "venue": "Physical Review Research"
   },
   {
     "id": "b3f2fe99270f7949",
@@ -1135,7 +1137,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2307.02129",
       "publication": "https://doi.org/10.1103/physrevx.14.031001"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "bbaef0aee3fb00f5",
@@ -1149,19 +1152,6 @@
     "published": "2026-08-04",
     "links": {
       "arxiv": "https://arxiv.org/abs/2608.03317"
-    }
-  },
-  {
-    "id": "70c81f9af49a8d3a",
-    "date": "2026-08-23",
-    "title": "Hydrodynamic Theory of the Active Random Organization (ARO) Model Computational Physicist",
-    "url": "https://scholar.google.com/scholar?q=%22Hydrodynamic+Theory+of+the+Active+Random+Organization+%28ARO%29+Model+Computational+Physicist%22",
-    "tags": [
-      "Scholar search",
-      "Active Matter"
-    ],
-    "links": {
-      "publication": "https://scholar.google.com/scholar?q=%22Hydrodynamic+Theory+of+the+Active+Random+Organization+%28ARO%29+Model+Computational+Physicist%22"
     }
   },
   {
@@ -1204,7 +1194,8 @@
     "published": "2025",
     "links": {
       "publication": "https://doi.org/10.52202/085713-4294"
-    }
+    },
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "46d3f0b1dade5aa6",
@@ -1247,7 +1238,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2404.12918",
       "publication": "https://doi.org/10.1103/physrevlett.133.107301"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "794de480ad9aba5b",
@@ -1311,13 +1303,14 @@
     "title": "Large Language Models and Financial Market Sentiment",
     "url": "https://doi.org/10.2139/ssrn.4584928",
     "tags": [
-      "Journal",
+      "Preprint",
       "Machine Learning"
     ],
     "published": "2023",
     "links": {
       "publication": "https://doi.org/10.2139/ssrn.4584928"
-    }
+    },
+    "publication_status": "preprint"
   },
   {
     "id": "3817ff5ef8949446",
@@ -1346,7 +1339,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2406.02154",
       "publication": "https://doi.org/10.1103/physrevresearch.6.l012031"
-    }
+    },
+    "venue": "Physical Review Research"
   },
   {
     "id": "0c22a679680e1ca2",
@@ -1431,7 +1425,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2311.04896",
       "publication": "https://doi.org/10.1103/physrevlett.132.197201"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "9ea26320d5c329eb",
@@ -1474,7 +1469,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2309.15293",
       "publication": "https://doi.org/10.1038/s42256-024-00829-3"
-    }
+    },
+    "venue": "Nature Machine Intelligence"
   },
   {
     "id": "80460de6013e0b22",
@@ -1488,7 +1484,8 @@
     "published": "2023-07-11",
     "links": {
       "publication": "https://doi.org/10.1021/acsnano.2c11733"
-    }
+    },
+    "venue": "ACS Nano"
   },
   {
     "id": "fe7093ed0b7d6a09",
@@ -1516,20 +1513,8 @@
     "published": "2014-05-15",
     "links": {
       "publication": "https://doi.org/10.1007/s10955-014-1008-9"
-    }
-  },
-  {
-    "id": "59005da35cc413bd",
-    "date": "2026-08-23",
-    "title": "Near-threshold selection of the square Bravais lattice in the pulsed density–polarization field theory",
-    "url": "https://scholar.google.com/scholar?q=%22Near-threshold+selection+of+the+square+Bravais+lattice+in+the+pulsed+density%E2%80%93polarization+field+theory%22",
-    "tags": [
-      "Scholar search",
-      "Field Theory"
-    ],
-    "links": {
-      "publication": "https://scholar.google.com/scholar?q=%22Near-threshold+selection+of+the+square+Bravais+lattice+in+the+pulsed+density%E2%80%93polarization+field+theory%22"
-    }
+    },
+    "venue": "Journal of Statistical Physics"
   },
   {
     "id": "744d5ea48e4907c2",
@@ -1558,7 +1543,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/cond-mat/0702169",
       "publication": "https://doi.org/10.1088/1742-5468/2007/07/p07006"
-    }
+    },
+    "venue": "Journal of Statistical Mechanics: Theory and Experiment"
   },
   {
     "id": "a6ad0bc068521ed8",
@@ -1573,7 +1559,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2405.11932",
       "publication": "https://doi.org/10.1103/physreve.111.014111"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "135b71ae06a5b561",
@@ -1601,7 +1588,8 @@
     "published": "1995-08-07",
     "links": {
       "publication": "https://doi.org/10.1103/physrevlett.75.1226"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "8e61789d08568052",
@@ -1658,7 +1646,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/cond-mat/0107443",
       "publication": "https://doi.org/10.1103/physrevlett.88.204301"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "b73fbda7cf49287a",
@@ -1686,7 +1675,8 @@
     "published": "2021-12-23",
     "links": {
       "publication": "https://doi.org/10.1038/s41567-021-01442-6"
-    }
+    },
+    "venue": "Nature Physics"
   },
   {
     "id": "32d40c9d190d8179",
@@ -1743,20 +1733,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2506.14330",
       "publication": "https://doi.org/10.1140/epje/s10189-025-00519-x"
-    }
-  },
-  {
-    "id": "101391aaff8d052e",
-    "date": "2026-08-23",
-    "title": "Reconstructed Theory of the Absorbing-State Transition in a Two-Dimensional Pulse-Driven Hard-Particle System with Vector Inverse-Square Interactions Revised theoretical manuscript",
-    "url": "https://scholar.google.com/scholar?q=%22Reconstructed+Theory+of+the+Absorbing-State+Transition+in+a+Two-Dimensional+Pulse-Driven+Hard-Particle+System+with+Vector+Inverse-Square+Interactions+Revised+theoretical+manuscript%22",
-    "tags": [
-      "Scholar search",
-      "Statistical Physics"
-    ],
-    "links": {
-      "publication": "https://scholar.google.com/scholar?q=%22Reconstructed+Theory+of+the+Absorbing-State+Transition+in+a+Two-Dimensional+Pulse-Driven+Hard-Particle+System+with+Vector+Inverse-Square+Interactions+Revised+theoretical+manuscript%22"
-    }
+    },
+    "venue": "The European Physical Journal E"
   },
   {
     "id": "98f4831608edb32d",
@@ -1799,7 +1777,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2202.11737",
       "publication": "https://doi.org/10.1103/physrevd.108.025003"
-    }
+    },
+    "venue": "Physical Review D"
   },
   {
     "id": "b4ffa8eb414bcc2b",
@@ -1813,7 +1792,8 @@
     "published": "2025",
     "links": {
       "publication": "https://doi.org/10.1109/TASLPRO.2025.3581123"
-    }
+    },
+    "venue": "IEEE Transactions on Audio, Speech and Language Processing"
   },
   {
     "id": "9eddce578e9dcf52",
@@ -1856,7 +1836,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2111.04470",
       "publication": "https://doi.org/10.1103/physreve.105.034314"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "edca440d3fc312e7",
@@ -1884,7 +1865,8 @@
     "published": "2007-11-01",
     "links": {
       "publication": "https://doi.org/10.1063/1.2803837"
-    }
+    },
+    "venue": "Physics of Fluids"
   },
   {
     "id": "befae0a92a07baa6",
@@ -1932,15 +1914,16 @@
     "id": "5e3bfc21bacde26a",
     "date": "2026-08-23",
     "title": "Spontaneous shock waves in pulse-stimulated flocks of Quincke rollers",
-    "url": "https://doi.org/10.21203/rs.3.rs-3011793/v1",
+    "url": "https://doi.org/10.1038/s41467-023-42633-4",
     "tags": [
       "Journal",
       "Active Matter"
     ],
     "published": "2023-06-09",
     "links": {
-      "publication": "https://doi.org/10.21203/rs.3.rs-3011793/v1"
-    }
+      "publication": "https://doi.org/10.1038/s41467-023-42633-4"
+    },
+    "venue": "Nature Communications"
   },
   {
     "id": "d6a0433020a229cb",
@@ -1955,7 +1938,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2407.19353",
       "publication": "https://doi.org/10.1103/ys4n-2tj3"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "3a2f6a54e6f935b0",
@@ -1970,7 +1954,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2503.01361",
       "publication": "https://doi.org/10.1103/lfxj-hbsk"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "e021df620cf47de8",
@@ -1985,7 +1970,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1807.10425",
       "publication": "https://doi.org/10.1007/s10514-018-9770-1"
-    }
+    },
+    "venue": "Autonomous Robots"
   },
   {
     "id": "f212b514d8d47156",
@@ -2028,7 +2014,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2411.18579",
       "publication": "https://doi.org/10.1103/gxrh-2xsv"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "3c13a4fe581990d8",
@@ -2071,7 +2058,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1511.01451",
       "publication": "https://doi.org/10.1140/epjst/e2016-60066-8"
-    }
+    },
+    "venue": "The European Physical Journal Special Topics"
   },
   {
     "id": "d18c975ff77d8885",
@@ -2086,20 +2074,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/cond-mat/9501089",
       "publication": "https://doi.org/10.1080/00018739400101505"
-    }
-  },
-  {
-    "id": "27496310bb2b94ff",
-    "date": "2026-08-23",
-    "title": "Theory of the Absorbing-State Transition in a Two-Dimensional Pulse-Driven Hard-Particle System with Vector Inverse-Square Interactions",
-    "url": "https://scholar.google.com/scholar?q=%22Theory+of+the+Absorbing-State+Transition+in+a+Two-Dimensional+Pulse-Driven+Hard-Particle+System+with+Vector+Inverse-Square+Interactions%22",
-    "tags": [
-      "Scholar search",
-      "Statistical Physics"
-    ],
-    "links": {
-      "publication": "https://scholar.google.com/scholar?q=%22Theory+of+the+Absorbing-State+Transition+in+a+Two-Dimensional+Pulse-Driven+Hard-Particle+System+with+Vector+Inverse-Square+Interactions%22"
-    }
+    },
+    "venue": "Advances in Physics"
   },
   {
     "id": "604163ff526eea66",
@@ -2127,7 +2103,8 @@
     "published": "2023-11-01",
     "links": {
       "publication": "https://doi.org/10.1088/0256-307X/40/12/126401"
-    }
+    },
+    "venue": "Chinese Physics Letters"
   },
   {
     "id": "f3015709b43c2137",
@@ -2142,7 +2119,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2301.06839",
       "publication": "https://doi.org/10.1103/physreve.108.034110"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "19b82c60ea862d1d",
@@ -2199,7 +2177,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2307.02284",
       "publication": "https://doi.org/10.1103/jp61-6sp2"
-    }
+    },
+    "venue": "Physical Review Research"
   },
   {
     "id": "bd393ea82f3f94bc",
@@ -2214,7 +2193,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2507.07669",
       "publication": "https://doi.org/10.1103/b3xp-wtwx"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "952ac3355f7d9e17",
@@ -2242,7 +2222,8 @@
     "published": "1969-06-01",
     "links": {
       "publication": "https://doi.org/10.1063/1.1670977"
-    }
+    },
+    "venue": "The Journal of Chemical Physics"
   },
   {
     "id": "2476d5ff63d6203f",
@@ -2271,7 +2252,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2510.07077",
       "publication": "https://doi.org/10.1109/access.2025.3609980"
-    }
+    },
+    "venue": "IEEE Access"
   },
   {
     "id": "e4bf7b8b669248c9",
@@ -2299,7 +2281,8 @@
     "published": "2026-04-03",
     "links": {
       "publication": "https://doi.org/10.1038/s41567-026-03208-4"
-    }
+    },
+    "venue": "Nature Physics"
   },
   {
     "id": "0066b5cc70e439ad",
@@ -2313,7 +2296,8 @@
     "published": "2025-11-18",
     "links": {
       "publication": "https://doi.org/10.1103/4db2-7dpd"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "00e89f549666c4b1",
@@ -2341,7 +2325,8 @@
     "published": "2024-07-30",
     "links": {
       "publication": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.015003"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "56d6bf41f3b7f24e",
@@ -2355,7 +2340,8 @@
     "published": "2023-12-08",
     "links": {
       "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.238302"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "dab016a78fd58743",
@@ -2369,7 +2355,8 @@
     "published": "2024-06-25",
     "links": {
       "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.268301"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "f2942f284ab442af",
@@ -2383,7 +2370,8 @@
     "published": "2023-05-02",
     "links": {
       "publication": "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.054101"
-    }
+    },
+    "venue": "Physical Review Fluids"
   },
   {
     "id": "4e61e4db8c2718bf",
@@ -2397,7 +2385,8 @@
     "published": "2024-08-15",
     "links": {
       "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.078301"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "a3b5ca6af4d894fb",
@@ -2412,7 +2401,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2408.15431",
       "publication": "https://doi.org/10.1103/physrevlett.133.268301"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "d3400a0e66398ffc",
@@ -2434,12 +2424,13 @@
     "title": "The kinetic regime of the Vicsek model",
     "url": "https://pubs.aip.org/aip/acp/article-abstract/1198/1/25/865936/The-kinetic-regime-of-the-Vicsek-model",
     "tags": [
-      "Journal",
+      "Conference",
       "Active Matter"
     ],
     "links": {
       "publication": "https://pubs.aip.org/aip/acp/article-abstract/1198/1/25/865936/The-kinetic-regime-of-the-Vicsek-model"
-    }
+    },
+    "venue": "3rd Conference on Statistical Physics: Modern Trends and Applications"
   },
   {
     "id": "08747a6f761ee233",
@@ -2453,7 +2444,8 @@
     "published": "2021-11-30",
     "links": {
       "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.238001"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "22dc44d551c207e7",
@@ -2467,7 +2459,8 @@
     "published": "2021-05-05",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021028"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "02f9ded942dc60bf",
@@ -2481,7 +2474,8 @@
     "published": "2021-03-19",
     "links": {
       "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.118003"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "abbbdd1f1314d86f",
@@ -2495,7 +2489,8 @@
     "published": "2019-12-01",
     "links": {
       "publication": "https://pubs.aip.org/aip/jmp/article-abstract/60/12/123301/1019104/Ito-vs-Stratonovich-in-the-presence-of-absorbing"
-    }
+    },
+    "venue": "Journal of Mathematical Physics"
   },
   {
     "id": "25f3280f90e7488d",
@@ -2510,7 +2505,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2402.19451",
       "publication": "https://doi.org/10.1103/w9pf-3r76"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "1697b1ea5a2604c9",
@@ -2525,7 +2521,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1612.03122",
       "publication": "https://doi.org/10.1103/physreve.96.022137"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "6cd1881cb7f6a7d0",
@@ -2539,7 +2536,8 @@
     "published": "2023-10",
     "links": {
       "publication": "https://doi.org/10.1140/epje/s10189-023-00364-w"
-    }
+    },
+    "venue": "The European Physical Journal E"
   },
   {
     "id": "7246c89930f60e45",
@@ -2553,7 +2551,8 @@
     "published": "2024-08-19",
     "links": {
       "publication": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033185"
-    }
+    },
+    "venue": "Physical Review Research"
   },
   {
     "id": "e848907cc5cce3a4",
@@ -2567,7 +2566,8 @@
     "published": "2023-07-25",
     "links": {
       "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.047101"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "6c32ba54fb47359f",
@@ -2581,7 +2581,8 @@
     "published": "2019-02-14",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011031"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "c31017887f2c476d",
@@ -2596,7 +2597,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2405.05621",
       "publication": "https://doi.org/10.1063/5.0217958"
-    }
+    },
+    "venue": "The Journal of Chemical Physics"
   },
   {
     "id": "87f3f264dbd7ac9d",
@@ -2611,7 +2613,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2312.11181",
       "publication": "https://doi.org/10.1103/physreve.110.024119"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "34ccd3ff52287b90",
@@ -2640,7 +2643,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1510.08707",
       "publication": "https://doi.org/10.1103/physreve.92.062126"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "7c71b567cf91c0f5",
@@ -2654,7 +2658,8 @@
     "published": "2024-04-24",
     "links": {
       "publication": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.044605"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "d748aca86800c37b",
@@ -2668,7 +2673,8 @@
     "published": "2025",
     "links": {
       "publication": "https://www.nature.com/articles/s41567-025-02791-2"
-    }
+    },
+    "venue": "Nature Physics"
   },
   {
     "id": "344836b1342ec68f",
@@ -2682,7 +2688,8 @@
     "published": "2025-03-21",
     "links": {
       "publication": "https://iopscience.iop.org/article/10.1088/1751-8121/adbfe6/meta"
-    }
+    },
+    "venue": "Journal of Physics A: Mathematical and Theoretical"
   },
   {
     "id": "af3db7e12355e717",
@@ -2696,7 +2703,8 @@
     "published": "2022-12",
     "links": {
       "publication": "https://www.sciencedirect.com/science/article/pii/S0550321322003716"
-    }
+    },
+    "venue": "Nuclear Physics B"
   },
   {
     "id": "63787595893799b0",
@@ -2711,7 +2719,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/0912.3000",
       "publication": "https://doi.org/10.1209/0295-5075/90/16003"
-    }
+    },
+    "venue": "EPL (Europhysics Letters)"
   },
   {
     "id": "2d98de46772a1157",
@@ -2725,7 +2734,8 @@
     "published": "2023-11-16",
     "links": {
       "publication": "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.110501"
-    }
+    },
+    "venue": "Physical Review Fluids"
   },
   {
     "id": "1faf5eebfb61cfb6",
@@ -2739,21 +2749,24 @@
     "published": "2025-12-17",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/4t7t-v19l"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "24be133138c9189b",
     "date": "2026-04-06",
     "title": "Foundations of Algorithmic Thermodynamics",
-    "url": "https://deepmind.google/research/publications/82794/",
+    "url": "https://doi.org/10.1103/PhysRevE.111.014118",
     "tags": [
-      "Research page",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2025-01-08",
     "links": {
-      "publication": "https://deepmind.google/research/publications/82794/"
-    }
+      "publication": "https://doi.org/10.1103/PhysRevE.111.014118",
+      "arxiv": "https://arxiv.org/abs/2308.06927"
+    },
+    "venue": "Physical Review E",
+    "published": "2025-01-08"
   },
   {
     "id": "68b0c66bdba0148b",
@@ -2767,7 +2780,8 @@
     "published": "2025-07-30",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/x5vj-8jq9"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "55a5119256ca0bc8",
@@ -2781,7 +2795,8 @@
     "published": "2025-05-12",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021050"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "2ceed9b03362ddf0",
@@ -2795,7 +2810,8 @@
     "published": "2025-05-13",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021051"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "9f94f1f923dc0de3",
@@ -2809,7 +2825,8 @@
     "published": "2024-06-26",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.021052"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "a645297207d3ac53",
@@ -2823,7 +2840,8 @@
     "published": "2023-12-07",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041044"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "89a2dae3d48659b5",
@@ -2837,7 +2855,8 @@
     "published": "2023-11-16",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041032"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "9298a05c35deab16",
@@ -2851,7 +2870,8 @@
     "published": "2023-02-03",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.011013"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "e0fe07aa55fae77b",
@@ -2865,7 +2885,8 @@
     "published": "2021-09-16",
     "links": {
       "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031059"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "c61bbb4b2f401acc",
@@ -2879,7 +2900,8 @@
     "published": "2025-10-30",
     "links": {
       "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.135.187402"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "63b84d59a70324d1",
@@ -2893,7 +2915,8 @@
     "published": "2026-05-15",
     "links": {
       "publication": "https://journals.aps.org/prl/accepted/10.1103/xbk2-ggcf"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "c12d354d97f85090",
@@ -2907,7 +2930,8 @@
     "published": "2025",
     "links": {
       "publication": "https://journals.aps.org/prl/abstract/10.1103/kwyy-1xln"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "60da8b4e31b6d764",
@@ -2921,7 +2945,8 @@
     "published": "2024-11-18",
     "links": {
       "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.217101"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "1c3af6a53d68b366",
@@ -2992,7 +3017,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2604.23002",
       "publication": "https://doi.org/10.18653/v1/2026.acl-long.1057"
-    }
+    },
+    "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
   },
   {
     "id": "4e8bf8c8c318b027",
@@ -3020,7 +3046,8 @@
     "published": "2026-01-20",
     "links": {
       "publication": "https://doi.org/10.1038/s44387-025-00057-z"
-    }
+    },
+    "venue": "npj Artificial Intelligence"
   },
   {
     "id": "aed809c2b334b178",
@@ -3035,7 +3062,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2511.07262",
       "publication": "https://doi.org/10.1038/s44387-026-00102-5"
-    }
+    },
+    "venue": "npj Artificial Intelligence"
   },
   {
     "id": "5a7471fad7e68bf1",
@@ -3063,7 +3091,8 @@
     "published": "2020-04-17",
     "links": {
       "publication": "https://doi.org/10.1126/sciadv.aay2631"
-    }
+    },
+    "venue": "Science Advances"
   },
   {
     "id": "87af3d012ea2b914",
@@ -3161,7 +3190,8 @@
     "published": "2023-11-29",
     "links": {
       "publication": "https://doi.org/10.1038/s41586-023-06735-9"
-    }
+    },
+    "venue": "Nature"
   },
   {
     "id": "d303debab0c75f9b",
@@ -3231,7 +3261,8 @@
     "published": "2023-11-29",
     "links": {
       "publication": "https://doi.org/10.1038/s41586-023-06734-w"
-    }
+    },
+    "venue": "Nature"
   },
   {
     "id": "9ae5933a40d0368d",
@@ -3246,7 +3277,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1910.03193",
       "publication": "https://doi.org/10.1038/s42256-021-00302-5"
-    }
+    },
+    "venue": "Nature Machine Intelligence"
   },
   {
     "id": "dc2d5cd4a2625a22",
@@ -3275,7 +3307,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2309.15325",
       "publication": "https://doi.org/10.1038/s42254-024-00712-5"
-    }
+    },
+    "venue": "Nature Reviews Physics"
   },
   {
     "id": "cee7619e23629279",
@@ -3290,7 +3323,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2504.18267",
       "publication": "https://doi.org/10.1016/j.ait.2025.100005"
-    }
+    },
+    "venue": "Artificial Intelligence for Transportation"
   },
   {
     "id": "cb81349fdf71cda0",
@@ -3305,7 +3339,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2504.03503",
       "publication": "https://doi.org/10.1146/annurev-statistics-042424-070908"
-    }
+    },
+    "venue": "Annual Review of Statistics and Its Application"
   },
   {
     "id": "e671184d5faabf92",
@@ -3362,7 +3397,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2210.07182",
       "publication": "https://doi.org/10.52202/068431-0117"
-    }
+    },
+    "venue": "NeurIPS 2022"
   },
   {
     "id": "8ac134f15004bc8b",
@@ -3377,7 +3413,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2111.03794",
       "publication": "https://doi.org/10.1145/3648506"
-    }
+    },
+    "venue": "ACM / IMS Journal of Data Science"
   },
   {
     "id": "d9131f6cc4f74a02",
@@ -3392,7 +3429,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2203.15556",
       "publication": "https://doi.org/10.52202/068431-2176"
-    }
+    },
+    "venue": "NeurIPS 2022"
   },
   {
     "id": "628cb9ff7024c4e2",
@@ -3421,7 +3459,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2601.05047",
       "publication": "https://doi.org/10.1109/mc.2026.3652916"
-    }
+    },
+    "venue": "Computer"
   },
   {
     "id": "5631a15ca6e32d75",
@@ -3464,7 +3503,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2501.12948",
       "publication": "https://doi.org/10.1038/s41586-025-09422-z"
-    }
+    },
+    "venue": "Nature"
   },
   {
     "id": "8355e49ff30a5fbe",
@@ -3493,7 +3533,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2510.01631",
       "publication": "https://doi.org/10.18653/v1/2025.emnlp-main.544"
-    }
+    },
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing"
   },
   {
     "id": "f4d7602eaf0478b5",
@@ -3536,7 +3577,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2509.25300",
       "publication": "https://doi.org/10.18653/v1/2026.acl-long.1444"
-    }
+    },
+    "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
   },
   {
     "id": "a051e0c2f0e4205d",
@@ -3593,7 +3635,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2406.02900",
       "publication": "https://doi.org/10.52202/079017-4009"
-    }
+    },
+    "venue": "NeurIPS 2024"
   },
   {
     "id": "d15073157caacd9d",
@@ -3612,15 +3655,18 @@
   {
     "id": "f094d310059a6320",
     "date": "2026-08-24",
-    "title": "Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning | OpenReview",
-    "url": "https://openreview.net/forum?id=4FWAwZtd2n",
+    "title": "Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/1b623663fd9b874366f3ce019fdfdd44-Abstract-Conference.html",
     "tags": [
-      "OpenReview",
+      "Conference",
       "Scaling Laws"
     ],
     "links": {
-      "publication": "https://openreview.net/forum?id=4FWAwZtd2n"
-    }
+      "publication": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/1b623663fd9b874366f3ce019fdfdd44-Abstract-Conference.html",
+      "arxiv": "https://arxiv.org/abs/2408.03314"
+    },
+    "venue": "ICLR 2025",
+    "published": "2025"
   },
   {
     "id": "e8df98ee576570a8",
@@ -3635,7 +3681,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2410.03083",
       "publication": "https://doi.org/10.18653/v1/2024.emnlp-industry.8"
-    }
+    },
+    "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track"
   },
   {
     "id": "5d02ca111b30d307",
@@ -3650,7 +3697,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2411.17470",
       "publication": "https://doi.org/10.1109/cvpr52734.2025.01692"
-    }
+    },
+    "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   },
   {
     "id": "7cb6ba289b5ea0f5",
@@ -3693,7 +3741,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2501.03948",
       "publication": "https://doi.org/10.1103/5m44-kwhv"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "a6c6adc35a75c401",
@@ -3708,7 +3757,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2503.23308",
       "publication": "https://doi.org/10.1063/5.0273201"
-    }
+    },
+    "venue": "Biophysics Reviews"
   },
   {
     "id": "52f02190cdec5aa7",
@@ -3723,7 +3773,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2509.19972",
       "publication": "https://doi.org/10.1016/j.cnsns.2025.109359"
-    }
+    },
+    "venue": "Communications in Nonlinear Science and Numerical Simulation"
   },
   {
     "id": "b5698126fa9327c6",
@@ -3738,7 +3789,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2504.07778",
       "publication": "https://doi.org/10.1103/fv6f-r9w9"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "3e70d7e8aced1c65",
@@ -3753,7 +3805,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2305.11078",
       "publication": "https://doi.org/10.1103/physrevx.14.011012"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "f4470a3ee5019c07",
@@ -3761,14 +3814,15 @@
     "title": "Deep learning probability flows and entropy production rates in active matter",
     "url": "https://doi.org/10.1073/pnas.2318106121",
     "tags": [
-      "Conference",
+      "Journal",
       "Active Matter"
     ],
     "published": "2024-06-11",
     "links": {
       "arxiv": "https://arxiv.org/abs/2309.12991",
       "publication": "https://doi.org/10.1073/pnas.2318106121"
-    }
+    },
+    "venue": "Proceedings of the National Academy of Sciences"
   },
   {
     "id": "dbc55830c3a61a1d",
@@ -3782,7 +3836,8 @@
     "published": "2024-11-19",
     "links": {
       "publication": "https://doi.org/10.1038/s42256-024-00918-3"
-    }
+    },
+    "venue": "Nature Machine Intelligence"
   },
   {
     "id": "92b6eba53ee7220b",
@@ -3796,7 +3851,8 @@
     "published": "2020-06-25",
     "links": {
       "publication": "https://doi.org/10.3389/fphy.2020.00200"
-    }
+    },
+    "venue": "Frontiers in Physics"
   },
   {
     "id": "13b194226b8b60fa",
@@ -3804,13 +3860,14 @@
     "title": "Learning hydrodynamic equations for active matter from particle simulations and experiments",
     "url": "https://doi.org/10.1073/pnas.2206994120",
     "tags": [
-      "Conference",
+      "Journal",
       "Active Matter"
     ],
     "published": "2023-02-10",
     "links": {
       "publication": "https://doi.org/10.1073/pnas.2206994120"
-    }
+    },
+    "venue": "Proceedings of the National Academy of Sciences"
   },
   {
     "id": "968aa04a14848371",
@@ -3825,7 +3882,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2105.04641",
       "publication": "https://doi.org/10.1103/physrevresearch.3.033291"
-    }
+    },
+    "venue": "Physical Review Research"
   },
   {
     "id": "2624e1e69131305b",
@@ -3839,7 +3897,8 @@
     "published": "2025-04-02",
     "links": {
       "publication": "https://doi.org/10.1038/s41586-025-08744-2"
-    }
+    },
+    "venue": "Nature"
   },
   {
     "id": "d6eed589f725c1d2",
@@ -3853,7 +3912,8 @@
     "published": "2025-03",
     "links": {
       "publication": "https://doi.org/10.1140/epje/s10189-024-00466-z"
-    }
+    },
+    "venue": "The European Physical Journal E"
   },
   {
     "id": "604445bde1900a99",
@@ -3868,7 +3928,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2504.08676",
       "publication": "https://doi.org/10.1146/annurev-conmatphys-031324-031350"
-    }
+    },
+    "venue": "Annual Review of Condensed Matter Physics"
   },
   {
     "id": "c60356ed39e9882a",
@@ -3881,7 +3942,8 @@
     ],
     "links": {
       "publication": "https://cambridge.org/core/journals/programmable-materials/article/programmable-active-matter-across-scales/7832B782B4A52DFD0719F9D5DBB71ABF"
-    }
+    },
+    "venue": "Programmable Materials"
   },
   {
     "id": "913f9cbf33039eb7",
@@ -3895,7 +3957,8 @@
     "published": "2021-03-17",
     "links": {
       "publication": "https://doi.org/10.1126/scirobotics.abd9285"
-    }
+    },
+    "venue": "Science Robotics"
   },
   {
     "id": "cb0034d057552056",
@@ -3910,7 +3973,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2107.00724",
       "publication": "https://doi.org/10.1103/physrevx.12.010501"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "1899272149a453cf",
@@ -3923,7 +3987,8 @@
     ],
     "links": {
       "publication": "https://pubmed.ncbi.nlm.nih.gov/38951023"
-    }
+    },
+    "venue": "Cold Spring Harbor Perspectives in Biology"
   },
   {
     "id": "414046b36132d954",
@@ -3952,7 +4017,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/0812.4360",
       "publication": "https://doi.org/10.1007/978-3-642-02565-5_4"
-    }
+    },
+    "venue": "Anticipatory Behavior in Adaptive Learning Systems"
   },
   {
     "id": "897f8f1177809141",
@@ -4093,7 +4159,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2107.13700",
       "publication": "https://doi.org/10.1088/1367-2630/ac395d"
-    }
+    },
+    "venue": "New Journal of Physics"
   },
   {
     "id": "43d8383ddfd3ce34",
@@ -4150,7 +4217,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/physics/0007070",
       "publication": "https://doi.org/10.1162/089976601753195969"
-    }
+    },
+    "venue": "Neural Computation"
   },
   {
     "id": "4a26e778bf20d796",
@@ -4165,7 +4233,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2012.01447",
       "publication": "https://doi.org/10.1103/physrevlett.126.240601"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "5480901a1a13d3fc",
@@ -4208,7 +4277,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2304.09355",
       "publication": "https://doi.org/10.3390/e26030252"
-    }
+    },
+    "venue": "Entropy"
   },
   {
     "id": "9c814e3ecbd108ed",
@@ -4223,7 +4293,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/0712.3329",
       "publication": "https://doi.org/10.1007/s11023-007-9079-x"
-    }
+    },
+    "venue": "Minds and Machines"
   },
   {
     "id": "b561221070c4d77d",
@@ -4251,7 +4322,8 @@
     "published": "2018-03-26",
     "links": {
       "publication": "https://doi.org/10.1038/s41567-018-0081-4"
-    }
+    },
+    "venue": "Nature Physics"
   },
   {
     "id": "3e3bd7ec82a2c7f2",
@@ -4280,7 +4352,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2306.10404",
       "publication": "https://doi.org/10.1103/physrevx.15.021051"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "4031a860f6cbc640",
@@ -4308,7 +4381,8 @@
     "published": "2021-03",
     "links": {
       "publication": "https://sciencedirect.com/science/article/pii/S0167278920308319"
-    }
+    },
+    "venue": "Physica D: Nonlinear Phenomena"
   },
   {
     "id": "56bc183d58cbbde2",
@@ -4322,7 +4396,8 @@
     "published": "2023-10",
     "links": {
       "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10603022"
-    }
+    },
+    "venue": "The European Physical Journal. E, Soft Matter"
   },
   {
     "id": "087f80e139250b41",
@@ -4336,7 +4411,8 @@
     "published": "2006-08-02",
     "links": {
       "publication": "https://doi.org/10.1103/physreve.74.022101"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "1db9d90525affb02",
@@ -4350,7 +4426,8 @@
     "published": "2020-03-10",
     "links": {
       "publication": "https://doi.org/10.1038/s42254-020-0152-1"
-    }
+    },
+    "venue": "Nature Reviews Physics"
   },
   {
     "id": "743c890458f9494f",
@@ -4364,7 +4441,8 @@
     "published": "2022-12-16",
     "links": {
       "publication": "https://doi.org/10.1103/physrevlett.129.258001"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "390b8e9b9479daa3",
@@ -4377,7 +4455,8 @@
     ],
     "links": {
       "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5406137"
-    }
+    },
+    "venue": "Science Advances"
   },
   {
     "id": "1ae2eb274403f4be",
@@ -4390,7 +4469,8 @@
     ],
     "links": {
       "publication": "https://sciencedirect.com/science/article/pii/S209580992200145X"
-    }
+    },
+    "venue": "Engineering"
   },
   {
     "id": "53f0bbe1eb06ac49",
@@ -4404,7 +4484,8 @@
     "published": "2021-03",
     "links": {
       "publication": "https://sciencedirect.com/science/article/pii/S0021999120307592"
-    }
+    },
+    "venue": "Journal of Computational Physics"
   },
   {
     "id": "8d02528b4e10e2a4",
@@ -4418,7 +4499,8 @@
     "published": "2016-03-28",
     "links": {
       "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4839439"
-    }
+    },
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America"
   },
   {
     "id": "c8d3e59a68e46938",
@@ -4432,7 +4514,8 @@
     "published": "2024-01",
     "links": {
       "publication": "https://sciencedirect.com/science/article/abs/pii/S0045782523006369"
-    }
+    },
+    "venue": "Computer Methods in Applied Mechanics and Engineering"
   },
   {
     "id": "8435903d8f185524",
@@ -4446,7 +4529,8 @@
     "published": "2013-11",
     "links": {
       "publication": "https://doi.org/10.1038/nature12673"
-    }
+    },
+    "venue": "Nature"
   },
   {
     "id": "0a010fa07503f768",
@@ -4460,7 +4544,8 @@
     "published": "2015-06-19",
     "links": {
       "publication": "https://doi.org/10.1038/ncomms8470"
-    }
+    },
+    "venue": "Nature Communications"
   },
   {
     "id": "a31e711a0f0c5d20",
@@ -4474,7 +4559,8 @@
     "published": "2009-10",
     "links": {
       "publication": "https://sciencedirect.com/science/article/abs/pii/S0375960109010172"
-    }
+    },
+    "venue": "Physics Letters A"
   },
   {
     "id": "b336bfda0ec9a9fc",
@@ -4488,7 +4574,8 @@
     "published": "2020-02-28",
     "links": {
       "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7219083"
-    }
+    },
+    "venue": "Science (New York, N.Y.)"
   },
   {
     "id": "770220f9508b5e10",
@@ -4502,7 +4589,8 @@
     "published": "2022-10",
     "links": {
       "publication": "https://sciencedirect.com/science/article/pii/S0005109822003454"
-    }
+    },
+    "venue": "Automatica"
   },
   {
     "id": "11c38ab40d550f7d",
@@ -4516,7 +4604,8 @@
     "published": "2011-03-16",
     "links": {
       "publication": "https://doi.org/10.1103/physreve.83.030901"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "36071a0581a1017d",
@@ -4529,7 +4618,8 @@
     ],
     "links": {
       "publication": "https://sciencedirect.com/science/article/pii/S0021999124001189"
-    }
+    },
+    "venue": "Journal of Computational Physics"
   },
   {
     "id": "37ebcfc7f9e65194",
@@ -4543,7 +4633,8 @@
     "published": "2024-07-17",
     "links": {
       "publication": "https://doi.org/10.1038/s41467-024-50378-x"
-    }
+    },
+    "venue": "Nature Communications"
   },
   {
     "id": "6190d5a20eefd8cc",
@@ -4557,7 +4648,8 @@
     "published": "2021-10-13",
     "links": {
       "publication": "https://doi.org/10.1038/s41467-021-26202-1"
-    }
+    },
+    "venue": "Nature Communications"
   },
   {
     "id": "b190514e354e6fa5",
@@ -4571,7 +4663,8 @@
     "published": "2024-10-23",
     "links": {
       "publication": "https://doi.org/10.1038/s41467-024-52878-2"
-    }
+    },
+    "venue": "Nature Communications"
   },
   {
     "id": "c65ba3d17ce216b5",
@@ -4584,7 +4677,8 @@
     ],
     "links": {
       "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7958379"
-    }
+    },
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America"
   },
   {
     "id": "410bd81b48760e99",
@@ -4598,7 +4692,8 @@
     "published": "2020-02-14",
     "links": {
       "publication": "https://doi.org/10.1038/s42256-020-0146-9"
-    }
+    },
+    "venue": "Nature Machine Intelligence"
   },
   {
     "id": "e59dd3f1b8f69ef0",
@@ -4611,7 +4706,8 @@
     ],
     "links": {
       "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10321743"
-    }
+    },
+    "venue": "Science Advances"
   },
   {
     "id": "3418e7b2e0b58e2b",
@@ -4625,7 +4721,8 @@
     "published": "2021-10-21",
     "links": {
       "publication": "https://doi.org/10.1038/s41467-021-26434-1"
-    }
+    },
+    "venue": "Nature Communications"
   },
   {
     "id": "aa856c468aa42fde",
@@ -4639,7 +4736,8 @@
     "published": "2021-12",
     "links": {
       "publication": "https://sciencedirect.com/science/article/pii/S0021999121005714"
-    }
+    },
+    "venue": "Journal of Computational Physics"
   },
   {
     "id": "52733712d33cf0cd",
@@ -4653,7 +4751,8 @@
     "published": "2021-09-03",
     "links": {
       "publication": "https://pubmed.ncbi.nlm.nih.gov/34654183"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "8ae792fdc6e22ec9",
@@ -4667,7 +4766,8 @@
     "published": "2022-12-15",
     "links": {
       "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9755218"
-    }
+    },
+    "venue": "Scientific Reports"
   },
   {
     "id": "d592ab7cb81d857c",
@@ -4681,7 +4781,8 @@
     "published": "2022-12-15",
     "links": {
       "publication": "https://doi.org/10.1038/s41598-022-25638-9"
-    }
+    },
+    "venue": "Scientific Reports"
   },
   {
     "id": "05dd7873e0b06005",
@@ -4695,7 +4796,8 @@
     "published": "2024-03-21",
     "links": {
       "publication": "https://doi.org/10.1103/physreve.109.034606"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "cd01d3578fe73e63",
@@ -4709,7 +4811,8 @@
     "published": "2019-08",
     "links": {
       "publication": "https://sciencedirect.com/science/article/pii/S002178241930039X"
-    }
+    },
+    "venue": "Journal de Mathématiques Pures et Appliquées"
   },
   {
     "id": "ec6401f3ac40453e",
@@ -4723,7 +4826,8 @@
     "published": "2023-08-04",
     "links": {
       "publication": "https://doi.org/10.1007/s00205-023-01903-7"
-    }
+    },
+    "venue": "Archive for Rational Mechanics and Analysis"
   },
   {
     "id": "1c62d958272af773",
@@ -4736,7 +4840,8 @@
     ],
     "links": {
       "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8570254"
-    }
+    },
+    "venue": "Journal of computational physics"
   },
   {
     "id": "485b76318e41d653",
@@ -4765,7 +4870,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2008.08601",
       "publication": "https://doi.org/10.1088/2632-2153/abeca3"
-    }
+    },
+    "venue": "Machine Learning: Science and Technology"
   },
   {
     "id": "ed189695c2b2b746",
@@ -4794,7 +4900,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2104.09456",
       "publication": "https://doi.org/10.1109/taslp.2021.3075100"
-    }
+    },
+    "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
   },
   {
     "id": "1d621814988a5812",
@@ -4823,7 +4930,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2111.15640",
       "publication": "https://doi.org/10.1109/cvpr52688.2022.01036"
-    }
+    },
+    "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   },
   {
     "id": "d8d9c97e8215bdcb",
@@ -4866,7 +4974,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2307.03223",
       "publication": "https://doi.org/10.1088/2632-2153/ad17d3"
-    }
+    },
+    "venue": "Machine Learning: Science and Technology"
   },
   {
     "id": "5b9a89dd6954b815",
@@ -4909,7 +5018,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2506.23205",
       "publication": "https://doi.org/10.1609/aaai.v40i7.37493"
-    }
+    },
+    "venue": "AAAI 2026"
   },
   {
     "id": "48c4c9615019ef41",
@@ -4924,7 +5034,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1807.02128",
       "publication": "https://doi.org/10.1088/1742-5468/ab3455"
-    }
+    },
+    "venue": "Journal of Statistical Mechanics: Theory and Experiment"
   },
   {
     "id": "8364a2a233d4ec9e",
@@ -4938,7 +5049,8 @@
     "published": "2021",
     "links": {
       "publication": "https://proceedings.neurips.cc/paper_files/paper/2021/file/940392f5f32a7ade1cc201767cf83e31-Paper.pdf"
-    }
+    },
+    "venue": "NeurIPS 2021"
   },
   {
     "id": "7bf4c67140c643f3",
@@ -4953,7 +5065,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2106.05934",
       "publication": "https://doi.org/10.1103/physrevd.104.114507"
-    }
+    },
+    "venue": "Physical Review D"
   },
   {
     "id": "3c07c1608916f3ba",
@@ -4982,7 +5095,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1606.02318",
       "publication": "https://doi.org/10.1126/science.aag2302"
-    }
+    },
+    "venue": "Science"
   },
   {
     "id": "d370dbf7389a2607",
@@ -4996,7 +5110,8 @@
     "published": "2024",
     "links": {
       "publication": "https://proceedings.mlr.press/v235/hirono24a.html"
-    }
+    },
+    "venue": "ICML 2024"
   },
   {
     "id": "973f8c462f936860",
@@ -5046,14 +5161,15 @@
     "title": "A Mean Field View of the Landscape of Two-Layers Neural Networks",
     "url": "https://doi.org/10.1073/pnas.1806579115",
     "tags": [
-      "Conference",
+      "Journal",
       "Training Dynamics"
     ],
     "published": "2018-07-27",
     "links": {
       "arxiv": "https://arxiv.org/abs/1804.06561",
       "publication": "https://doi.org/10.1073/pnas.1806579115"
-    }
+    },
+    "venue": "Proceedings of the National Academy of Sciences"
   },
   {
     "id": "227f376aa23c3384",
@@ -5068,7 +5184,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1807.01083",
       "publication": "https://doi.org/10.1007/s40687-018-0172-y"
-    }
+    },
+    "venue": "Research in the Mathematical Sciences"
   },
   {
     "id": "596df03cebf8e81d",
@@ -5109,20 +5226,24 @@
     ],
     "links": {
       "publication": "https://jmlr.org/papers/v22/20-1288.html"
-    }
+    },
+    "venue": "Journal of Machine Learning Research"
   },
   {
     "id": "e09961a5caff848f",
     "date": "2026-08-24",
-    "title": "Tensor Programs VI: Feature Learning in Infinite Depth Neural Networks | OpenReview",
-    "url": "https://openreview.net/forum?id=17pVDnpwwl",
+    "title": "Tensor Programs VI: Feature Learning in Infinite Depth Neural Networks",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/f2ce452a4a7352feb7a9fb885267ff24-Abstract-Conference.html",
     "tags": [
-      "OpenReview",
+      "Conference",
       "Training Dynamics"
     ],
     "links": {
-      "publication": "https://openreview.net/forum?id=17pVDnpwwl"
-    }
+      "publication": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/f2ce452a4a7352feb7a9fb885267ff24-Abstract-Conference.html",
+      "arxiv": "https://arxiv.org/abs/2310.02244"
+    },
+    "venue": "ICLR 2024",
+    "published": "2024"
   },
   {
     "id": "633ee36ab4dd4efe",
@@ -5164,7 +5285,8 @@
     "published": "2024-01-29",
     "links": {
       "publication": "https://doi.org/10.1038/s41467-024-44856-5"
-    }
+    },
+    "venue": "Nature Communications"
   },
   {
     "id": "40f4f3a520795df4",
@@ -5178,7 +5300,8 @@
     "published": "2024-03-12",
     "links": {
       "publication": "https://doi.org/10.1038/s41928-024-01133-z"
-    }
+    },
+    "venue": "Nature Electronics"
   },
   {
     "id": "ce900e20f76ed5c2",
@@ -5235,7 +5358,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2110.10249",
       "publication": "https://doi.org/10.52202/068431-0098"
-    }
+    },
+    "venue": "NeurIPS 2022"
   },
   {
     "id": "c7a5d345af0bbe98",
@@ -5291,7 +5415,8 @@
     "published": "2026-01-08",
     "links": {
       "publication": "https://doi.org/10.1103/yfb3-fgf2"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "8acf20b062a73f83",
@@ -5305,7 +5430,8 @@
     "published": "2026-03-31",
     "links": {
       "publication": "https://doi.org/10.1103/k6f7-gtr7"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "f9013ded711d08ef",
@@ -5319,7 +5445,8 @@
     "published": "2025-04-30",
     "links": {
       "publication": "https://doi.org/10.1103/physrevlett.134.177301"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "f3e6efb4e89a1e17",
@@ -5341,14 +5468,15 @@
     "title": "Explaining Neural Scaling Laws",
     "url": "https://doi.org/10.1073/pnas.2311878121",
     "tags": [
-      "Conference",
+      "Journal",
       "Scaling Laws"
     ],
     "published": "2024-06-24",
     "links": {
       "arxiv": "https://arxiv.org/abs/2102.06701",
       "publication": "https://doi.org/10.1073/pnas.2311878121"
-    }
+    },
+    "venue": "Proceedings of the National Academy of Sciences"
   },
   {
     "id": "bcd11d0a54fedb0e",
@@ -5363,7 +5491,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1802.02840",
       "publication": "https://doi.org/10.1103/physrevlett.121.260601"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "ef2edf90e2952e25",
@@ -5378,7 +5507,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2010.00029",
       "publication": "https://doi.org/10.1088/2632-2153/ac8393"
-    }
+    },
+    "venue": "Machine Learning: Science and Technology"
   },
   {
     "id": "e224d89f844755a5",
@@ -5419,7 +5549,8 @@
     ],
     "links": {
       "publication": "https://sciencedirect.com/science/article/pii/S037843711100642X"
-    }
+    },
+    "venue": "Physica A: Statistical Mechanics and its Applications"
   },
   {
     "id": "2ab2bcae7eb34580",
@@ -5433,7 +5564,8 @@
     "published": "2022-09-13",
     "links": {
       "publication": "https://doi.org/10.1103/physrevd.106.065013"
-    }
+    },
+    "venue": "Physical Review D"
   },
   {
     "id": "f79a10f0333402b4",
@@ -5447,7 +5579,8 @@
     "published": "2020-02-14",
     "links": {
       "publication": "https://doi.org/10.1103/physrevx.10.011037"
-    }
+    },
+    "venue": "Physical Review X"
   },
   {
     "id": "1828d76c91e190d7",
@@ -5461,7 +5594,8 @@
     "published": "2015-05",
     "links": {
       "publication": "https://doi.org/10.1007/jhep05(2015)104"
-    }
+    },
+    "venue": "Journal of High Energy Physics"
   },
   {
     "id": "a57e23586f7b3bdb",
@@ -5475,7 +5609,8 @@
     "published": "2021-12-06",
     "links": {
       "publication": "https://doi.org/10.1103/physrevlett.127.240603"
-    }
+    },
+    "venue": "Physical Review Letters"
   },
   {
     "id": "8d2c96b69f64b78d",
@@ -5489,20 +5624,22 @@
     "published": "2024-05-07",
     "links": {
       "publication": "https://doi.org/10.1007/jhep05(2024)060"
-    }
+    },
+    "venue": "Journal of High Energy Physics"
   },
   {
     "id": "5907a6891e0aea7f",
     "date": "2026-08-24",
-    "title": "GUD: Generation with Unified Diffusion | OpenReview",
-    "url": "https://openreview.net/forum?id=zn0eqMtsrw",
+    "title": "GUD: Generation with Unified Diffusion",
+    "url": "https://arxiv.org/abs/2410.02667",
     "tags": [
-      "OpenReview",
+      "arXiv",
       "Renormalization Group"
     ],
     "links": {
-      "publication": "https://openreview.net/forum?id=zn0eqMtsrw"
-    }
+      "arxiv": "https://arxiv.org/abs/2410.02667"
+    },
+    "published": "2024-10-03"
   },
   {
     "id": "a5d8a5efa902df8d",
@@ -5516,7 +5653,8 @@
     "published": "2023-03-20",
     "links": {
       "publication": "https://doi.org/10.1103/physrevd.107.l051504"
-    }
+    },
+    "venue": "Physical Review D"
   },
   {
     "id": "b86455323b635ac8",
@@ -5530,7 +5668,8 @@
     "published": "2026-03-11",
     "links": {
       "publication": "https://doi.org/10.1007/jhep03(2026)111"
-    }
+    },
+    "venue": "Journal of High Energy Physics"
   },
   {
     "id": "9185034ca2d581a8",
@@ -5544,7 +5683,8 @@
     "published": "2021",
     "links": {
       "publication": "https://academic.oup.com/ptep/article/2021/2/023B02/6020279"
-    }
+    },
+    "venue": "Progress of Theoretical and Experimental Physics"
   },
   {
     "id": "71b518265b03b2fb",
@@ -5558,7 +5698,8 @@
     "published": "2023",
     "links": {
       "publication": "https://jmlr.org/beta/papers/v26/23-1605.html"
-    }
+    },
+    "venue": "Journal of Machine Learning Research"
   },
   {
     "id": "f1774dbbf19ceda8",
@@ -5572,7 +5713,8 @@
     "published": "2020-01-28",
     "links": {
       "publication": "https://doi.org/10.1007/jhep01(2020)172"
-    }
+    },
+    "venue": "Journal of High Energy Physics"
   },
   {
     "id": "f556c7709f95836f",
@@ -5586,7 +5728,8 @@
     "published": "2022",
     "links": {
       "publication": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/03474669b759f6d38cdca6fb4eb905f4-Abstract-Conference.html"
-    }
+    },
+    "venue": "NeurIPS 2022"
   },
   {
     "id": "c39c676b928a264f",
@@ -5601,7 +5744,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/1906.05212",
       "publication": "https://doi.org/10.1109/access.2020.3000901"
-    }
+    },
+    "venue": "IEEE Access"
   },
   {
     "id": "e2efca2cc8ff49ce",
@@ -5630,7 +5774,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2405.17538",
       "publication": "https://doi.org/10.21468/scipostphyscore.8.1.027"
-    }
+    },
+    "venue": "SciPost Physics Core"
   },
   {
     "id": "3f027a13f14d1e56",
@@ -5649,28 +5794,32 @@
   {
     "id": "785b72b087f4ceeb",
     "date": "2026-08-24",
-    "title": "A Framework on Dynamics of Feature Emergence and ...",
-    "url": "https://openreview.net/forum?id=ceIBRhJpUr",
+    "title": "Li₂: A Framework on Dynamics of Feature Emergence and Delayed Generalization",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/7ce5da35e01cfa8d303c2dc71e61a470-Abstract-Conference.html",
     "tags": [
-      "OpenReview",
+      "Conference",
       "Training Dynamics"
     ],
     "links": {
-      "publication": "https://openreview.net/forum?id=ceIBRhJpUr"
-    }
+      "publication": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/7ce5da35e01cfa8d303c2dc71e61a470-Abstract-Conference.html",
+      "arxiv": "https://arxiv.org/abs/2509.21519"
+    },
+    "venue": "ICLR 2026",
+    "published": "2026"
   },
   {
     "id": "53f45db2a0ac7222",
     "date": "2026-08-24",
-    "title": "A simple mean field model of feature learning",
-    "url": "https://openreview.net/forum?id=FVQzqSIJcC",
+    "title": "A Simple Mean Field Model of Feature Learning",
+    "url": "https://arxiv.org/abs/2510.15174",
     "tags": [
-      "OpenReview",
+      "arXiv",
       "Training Dynamics"
     ],
     "links": {
-      "publication": "https://openreview.net/forum?id=FVQzqSIJcC"
-    }
+      "arxiv": "https://arxiv.org/abs/2510.15174"
+    },
+    "published": "2025-10-16"
   },
   {
     "id": "31835a0579aa03b0",
@@ -5685,20 +5834,24 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2305.10491",
       "publication": "https://doi.org/10.1088/2632-2153/ad0102"
-    }
+    },
+    "venue": "Machine Learning: Science and Technology"
   },
   {
     "id": "de7541eb8ecbcd8f",
     "date": "2026-08-24",
     "title": "How Feature Learning Can Improve Neural Scaling Laws",
-    "url": "https://openreview.net/forum?id=dEypApI1MZ",
+    "url": "https://doi.org/10.1088/1742-5468/adefb1",
     "tags": [
-      "OpenReview",
+      "Journal",
       "Scaling Laws"
     ],
     "links": {
-      "publication": "https://openreview.net/forum?id=dEypApI1MZ"
-    }
+      "publication": "https://doi.org/10.1088/1742-5468/adefb1",
+      "arxiv": "https://arxiv.org/abs/2409.17858"
+    },
+    "venue": "Journal of Statistical Mechanics: Theory and Experiment",
+    "published": "2025-08-05"
   },
   {
     "id": "a380a4d5043e88ad",
@@ -5713,20 +5866,24 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2402.17090",
       "publication": "https://doi.org/10.1103/physreve.111.015304"
-    }
+    },
+    "venue": "Physical Review E"
   },
   {
     "id": "e61f03c44e0d83b5",
     "date": "2026-08-24",
-    "title": "Scaling Laws and Spectra of Shallow Neural Networks in ...",
-    "url": "https://openreview.net/forum?id=Q3yLIIkt7z",
+    "title": "Scaling Laws and Spectra of Shallow Neural Networks in the Feature Learning Regime",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b117cd5a0af6f5ecfdac7b47b893b96f-Abstract-Conference.html",
     "tags": [
-      "OpenReview",
+      "Conference",
       "Scaling Laws"
     ],
     "links": {
-      "publication": "https://openreview.net/forum?id=Q3yLIIkt7z"
-    }
+      "publication": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b117cd5a0af6f5ecfdac7b47b893b96f-Abstract-Conference.html",
+      "arxiv": "https://arxiv.org/abs/2509.24882"
+    },
+    "venue": "ICLR 2026",
+    "published": "2026"
   },
   {
     "id": "c8ad8d9f9e693da1",
@@ -5741,20 +5898,22 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2212.11379",
       "publication": "https://doi.org/10.3390/e26050389"
-    }
+    },
+    "venue": "Entropy"
   },
   {
     "id": "d65f26b6af5cd650",
     "date": "2026-08-24",
-    "title": "Understanding Scaling Laws in Deep Neural Networks via ...",
-    "url": "https://openreview.net/forum?id=LD0W6HEwsq",
+    "title": "Understanding Scaling Laws in Deep Neural Networks via Feature Learning Dynamics",
+    "url": "https://arxiv.org/abs/2512.21075",
     "tags": [
-      "OpenReview",
+      "arXiv",
       "Scaling Laws"
     ],
     "links": {
-      "publication": "https://openreview.net/forum?id=LD0W6HEwsq"
-    }
+      "arxiv": "https://arxiv.org/abs/2512.21075"
+    },
+    "published": "2025-12-24"
   },
   {
     "id": "a88b9bb69dd7ec7c",
@@ -5769,7 +5928,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2405.06008",
       "publication": "https://doi.org/10.1088/2632-2153/adc8fc"
-    }
+    },
+    "venue": "Machine Learning: Science and Technology"
   },
   {
     "id": "3ea17d1258ea9b9b",
@@ -5797,7 +5957,8 @@
     "published": "2024",
     "links": {
       "publication": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/d18d208fa9c333483e5724ade7beff0f-Abstract-Conference.html"
-    }
+    },
+    "venue": "NeurIPS 2024"
   },
   {
     "id": "19b49abae7d3c238",
@@ -5825,7 +5986,8 @@
     "published": "2025",
     "links": {
       "publication": "https://proceedings.mlr.press/v267/nait-saada25a.html"
-    }
+    },
+    "venue": "ICML 2025"
   },
   {
     "id": "b378b5e0070cf951",
@@ -5839,7 +6001,8 @@
     "published": "2025",
     "links": {
       "publication": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c82ad2a73009cbde6da1ce6ba572e687-Abstract-Conference.html"
-    }
+    },
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "982fc46bbe09aee7",
@@ -5853,7 +6016,8 @@
     "published": "2025",
     "links": {
       "publication": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/cca569b38ec3612904e625dad7a743dc-Abstract-Conference.html"
-    }
+    },
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "9caed7beb916e4e6",
@@ -5882,7 +6046,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2512.01868",
       "publication": "https://doi.org/10.1137/25m1826342"
-    }
+    },
+    "venue": "Proceedings of the International Congress of Mathematicians 2026 - Volume 7: Invited Lectures (Sections 15–20)"
   },
   {
     "id": "18f39c24e7e7af25",
@@ -5896,7 +6061,8 @@
     "published": "2025",
     "links": {
       "publication": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/2cf63608d264a3c65e68e3cff860c152-Abstract-Conference.html"
-    }
+    },
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "1f9c1585090b9ff6",
@@ -5953,7 +6119,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2505.13447",
       "publication": "https://doi.org/10.52202/085713-2534"
-    }
+    },
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "fb8db72307cc1235",
@@ -5982,7 +6149,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2406.18009",
       "publication": "https://doi.org/10.1109/slt61566.2024.10832320"
-    }
+    },
+    "venue": "2024 IEEE Spoken Language Technology Workshop (SLT)"
   },
   {
     "id": "5a5c48abbfd99710",
@@ -5997,7 +6165,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2410.06885",
       "publication": "https://doi.org/10.18653/v1/2025.acl-long.313"
-    }
+    },
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
   },
   {
     "id": "4588018251b028ad",
@@ -6039,7 +6208,8 @@
     "published": "2026-01-31",
     "links": {
       "publication": "https://doi.org/10.1038/s44387-025-00066-y"
-    }
+    },
+    "venue": "npj Artificial Intelligence"
   },
   {
     "id": "b4d7d95594eedfb6",
@@ -6123,7 +6293,8 @@
     "published": "2024",
     "links": {
       "publication": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc8f76d9caadd48f77025b1c889d2e2d-Abstract-Conference.html"
-    }
+    },
+    "venue": "NeurIPS 2024"
   },
   {
     "id": "7b0c3330f1be25c0",
@@ -6152,7 +6323,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2401.08740",
       "publication": "https://doi.org/10.1007/978-3-031-72980-5_2"
-    }
+    },
+    "venue": "ECCV 2024"
   },
   {
     "id": "7cc62f0d37b6d5c2",
@@ -6195,7 +6367,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2407.15595",
       "publication": "https://doi.org/10.52202/079017-4239"
-    }
+    },
+    "venue": "NeurIPS 2024"
   },
   {
     "id": "4ff2d8a087e1ef50",
@@ -6210,7 +6383,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2405.20320",
       "publication": "https://doi.org/10.52202/079017-2014"
-    }
+    },
+    "venue": "NeurIPS 2024"
   },
   {
     "id": "10188947fb0a358a",
@@ -6243,28 +6417,32 @@
   {
     "id": "dfc81cbdbbcf1b33",
     "date": "2026-08-24",
-    "title": "DISCRETE DIFFUSION LANGUAGE MODELING BY ESTI",
+    "title": "Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution",
     "url": "https://openreview.net/pdf/6dcf56ae64ecd6ffb39c0b5f3064025b9e2a297a.pdf",
     "tags": [
-      "OpenReview",
+      "OpenReview submission",
       "Transformer Theory"
     ],
     "links": {
-      "publication": "https://openreview.net/pdf/6dcf56ae64ecd6ffb39c0b5f3064025b9e2a297a.pdf"
-    }
+      "submission": "https://openreview.net/pdf/6dcf56ae64ecd6ffb39c0b5f3064025b9e2a297a.pdf"
+    },
+    "publication_status": "submission"
   },
   {
     "id": "af0b5a5bd95c883c",
     "date": "2026-08-24",
-    "title": "Discrete Flow Matching for Graph Generation - DeFoG",
-    "url": "https://openreview.net/pdf?id=KPRIwWhqAZ",
+    "title": "Discrete Flow Matching for Graph Generation",
+    "url": "https://proceedings.mlr.press/v267/qin25d.html",
     "tags": [
-      "OpenReview",
+      "Conference",
       "Flow Matching"
     ],
     "links": {
-      "publication": "https://openreview.net/pdf?id=KPRIwWhqAZ"
-    }
+      "publication": "https://proceedings.mlr.press/v267/qin25d.html",
+      "arxiv": "https://arxiv.org/abs/2410.04263"
+    },
+    "venue": "ICML 2025",
+    "published": "2025"
   },
   {
     "id": "0a1de0252faf9272",
@@ -6279,7 +6457,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2207.09284",
       "publication": "https://doi.org/10.5802/jep.303"
-    }
+    },
+    "venue": "Journal de l’École polytechnique — Mathématiques"
   },
   {
     "id": "124ba7342af02f26",
@@ -6350,7 +6529,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2302.01170",
       "publication": "https://doi.org/10.52202/075280-2300"
-    }
+    },
+    "venue": "NeurIPS 2023"
   },
   {
     "id": "bb22eac7e125b74a",
@@ -6365,7 +6545,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2409.17808",
       "publication": "https://doi.org/10.52202/079017-1282"
-    }
+    },
+    "venue": "NeurIPS 2024"
   },
   {
     "id": "e7da69e250c4b5fa",
@@ -6436,7 +6617,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/hep-ph/0005122",
       "publication": "https://doi.org/10.1016/s0370-1573(01)00098-9"
-    }
+    },
+    "venue": "Physics Reports"
   },
   {
     "id": "a225a99d3c053189",
@@ -6469,15 +6651,18 @@
   {
     "id": "16deea2a8042b097",
     "date": "2026-08-24",
-    "title": "Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional | OpenReview",
-    "url": "https://openreview.net/forum?id=QwoGfQzuMa&noteId=GFnC8jkkEK",
+    "title": "Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional",
+    "url": "https://proceedings.mlr.press/v267/raja25a.html",
     "tags": [
-      "OpenReview",
+      "Conference",
       "Generative Models"
     ],
     "links": {
-      "publication": "https://openreview.net/forum?id=QwoGfQzuMa&noteId=GFnC8jkkEK"
-    }
+      "publication": "https://proceedings.mlr.press/v267/raja25a.html",
+      "arxiv": "https://arxiv.org/abs/2504.18506"
+    },
+    "venue": "ICML 2025",
+    "published": "2025"
   },
   {
     "id": "d45bc2d69a4c687d",
@@ -6505,7 +6690,8 @@
     "published": "2026-04-06",
     "links": {
       "publication": "https://doi.org/10.1038/s41598-026-47071-y"
-    }
+    },
+    "venue": "Scientific Reports"
   },
   {
     "id": "9b4652cee4d4eb75",
@@ -6520,7 +6706,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2410.13027",
       "publication": "https://doi.org/10.52202/079017-0806"
-    }
+    },
+    "venue": "NeurIPS 2024"
   },
   {
     "id": "f23761c03fd9497a",
@@ -6591,7 +6778,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/hep-th/0002034",
       "publication": "https://doi.org/10.1016/s0370-1573(00)00137-x"
-    }
+    },
+    "venue": "Physics Reports"
   },
   {
     "id": "ae6b8a193d3649c7",
@@ -6606,7 +6794,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2505.18825",
       "publication": "https://doi.org/10.52202/085713-1121"
-    }
+    },
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "12672794ce065959",
@@ -6621,7 +6810,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2506.15864",
       "publication": "https://doi.org/10.1109/iccv51701.2025.01689"
-    }
+    },
+    "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV)"
   },
   {
     "id": "c1198d82f39f1679",
@@ -6692,34 +6882,40 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2312.16038",
       "publication": "https://doi.org/10.1103/physrevb.109.214205"
-    }
+    },
+    "venue": "Physical Review B"
   },
   {
     "id": "3ef68ddd10603589",
     "date": "2026-08-24",
-    "title": "Relay Diffusion: Unifying diffusion process across resolutions for image synthesis | OpenReview",
-    "url": "https://openreview.net/forum?id=qTlcbLSm4p",
+    "title": "Relay Diffusion: Unifying Diffusion Process across Resolutions for Image Synthesis",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/522ef98b1e52f5918e5abc868651175d-Abstract-Conference.html",
     "tags": [
-      "OpenReview",
+      "Conference",
       "Flow Matching"
     ],
     "links": {
-      "publication": "https://openreview.net/forum?id=qTlcbLSm4p"
-    }
+      "publication": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/522ef98b1e52f5918e5abc868651175d-Abstract-Conference.html",
+      "arxiv": "https://arxiv.org/abs/2309.03350"
+    },
+    "venue": "ICLR 2024",
+    "published": "2024"
   },
   {
     "id": "6fbd8b62646ecbe8",
     "date": "2026-08-24",
-    "title": "Score-based Data Assimilation | OpenReview",
-    "url": "https://openreview.net/forum?id=VUvLSnMZdX",
+    "title": "Score-based Data Assimilation",
+    "url": "https://doi.org/10.52202/075280-1763",
     "tags": [
-      "OpenReview",
+      "Conference",
       "Generative Models"
     ],
-    "published": "2023",
     "links": {
-      "publication": "https://openreview.net/forum?id=VUvLSnMZdX"
-    }
+      "publication": "https://doi.org/10.52202/075280-1763",
+      "arxiv": "https://arxiv.org/abs/2306.10574"
+    },
+    "venue": "NeurIPS 2023",
+    "published": "2023"
   },
   {
     "id": "914b139b3661cddc",
@@ -6747,7 +6943,8 @@
     "published": "2024-04-17",
     "links": {
       "publication": "https://doi.org/10.1038/s42256-024-00810-0"
-    }
+    },
+    "venue": "Nature Machine Intelligence"
   },
   {
     "id": "e18c172140e13493",
@@ -6760,7 +6957,8 @@
     ],
     "links": {
       "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8871280"
-    }
+    },
+    "venue": "Entropy"
   },
   {
     "id": "2de33675e930f673",
@@ -6831,7 +7029,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2504.10612",
       "publication": "https://doi.org/10.52202/085713-0291"
-    }
+    },
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "7a3611fad241760c",
@@ -6846,7 +7045,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2211.03595",
       "publication": "https://doi.org/10.1093/jrsssb/qkae005"
-    }
+    },
+    "venue": "Journal of the Royal Statistical Society Series B: Statistical Methodology"
   },
   {
     "id": "5e379f3baa4eff3f",
@@ -6888,7 +7088,8 @@
     "published": "2024",
     "links": {
       "publication": "https://proceedings.mlr.press/v238/tong24a.html"
-    }
+    },
+    "venue": "AISTATS 2024"
   },
   {
     "id": "4622bb8c184fb5fd",
@@ -6917,7 +7118,8 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2506.23589",
       "publication": "https://doi.org/10.52202/085713-4144"
-    }
+    },
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "bc478f53755f26d4",
@@ -6946,6 +7148,7 @@
     "links": {
       "arxiv": "https://arxiv.org/abs/2406.04843",
       "publication": "https://doi.org/10.52202/079017-0374"
-    }
+    },
+    "venue": "NeurIPS 2024"
   }
 ]
