@@ -6,6 +6,10 @@ type Paper = {
   published?: string;
   title: string;
   url?: string;
+  links?: {
+    publication?: string;
+    arxiv?: string;
+  };
   tags: [source: string, topic: string];
 };
 
@@ -176,15 +180,25 @@ function App() {
             {filtered.map((paper) => (
               <article className="paper-card" key={paper.id}>
                 <h2>
-                  {paper.url
-                    ? <a href={paper.url} target="_blank" rel="noreferrer">{paper.title}</a>
+                  {(paper.links?.publication ?? paper.links?.arxiv ?? paper.url)
+                    ? <a href={paper.links?.publication ?? paper.links?.arxiv ?? paper.url} target="_blank" rel="noreferrer">{paper.title}</a>
                     : paper.title}
                 </h2>
                 <div className="paper-meta">
                   <time title={`Added ${paper.date}`}>
-                    {paper.published ? `Published ${paper.published}` : 'Publication date unavailable'}
+                    {paper.published
+                      ? `${paper.links?.publication ? 'Published' : 'First submitted'} ${paper.published}`
+                      : 'Publication date unavailable'}
                   </time>
                   {paper.tags.map((tag) => <button type="button" key={tag} onClick={() => toggleTag(tag)}>{tag}</button>)}
+                  <span className="paper-links">
+                    {paper.links?.publication && (
+                      <a href={paper.links.publication} target="_blank" rel="noreferrer">
+                        {paper.tags[0] === 'Conference' ? 'Conference' : paper.tags[0] === 'Journal' ? 'Journal' : 'Publication'}
+                      </a>
+                    )}
+                    {paper.links?.arxiv && <a href={paper.links.arxiv} target="_blank" rel="noreferrer">arXiv</a>}
+                  </span>
                 </div>
               </article>
             ))}

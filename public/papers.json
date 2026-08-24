@@ -8,7 +8,10 @@
       "arXiv",
       "Soft Matter"
     ],
-    "published": "2026-08"
+    "published": "2026-08-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11073"
+    }
   },
   {
     "id": "892101cd9f197aa6",
@@ -19,18 +22,25 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.09700"
+    }
   },
   {
     "id": "20e9743fd0990037",
     "date": "2026-08-23",
     "title": "A ghost mechanism: An analytical model of abrupt learning in recurrent networks",
-    "url": "https://arxiv.org/abs/2501.02378",
+    "url": "https://doi.org/10.1103/mjcl-lb4x",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "2025-01"
+    "published": "2026-06-23",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2501.02378",
+      "publication": "https://doi.org/10.1103/mjcl-lb4x"
+    }
   },
   {
     "id": "56d7426c35a6cb77",
@@ -41,7 +51,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-08"
+    "published": "2026-08-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.08770"
+    }
   },
   {
     "id": "f99924cbf60a8e81",
@@ -52,7 +65,10 @@
       "Journal",
       "Biophysics"
     ],
-    "published": "2025-07-04"
+    "published": "2025-07-04",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41467-025-61438-1"
+    }
   },
   {
     "id": "23d07e3837b6e8d7",
@@ -63,18 +79,25 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-06"
+    "published": "2026-06-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2606.28751"
+    }
   },
   {
     "id": "8f8419e0ec4e0dae",
     "date": "2026-08-23",
     "title": "A Survey on Vision-Language-Action Models for Embodied AI",
-    "url": "https://arxiv.org/abs/2405.14093",
+    "url": "https://doi.org/10.1109/tnnls.2025.3650584",
     "tags": [
-      "arXiv",
+      "Journal",
       "Robotics"
     ],
-    "published": "2024-05"
+    "published": "2026-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2405.14093",
+      "publication": "https://doi.org/10.1109/tnnls.2025.3650584"
+    }
   },
   {
     "id": "e2579c89562fcc13",
@@ -85,18 +108,25 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2023-07"
+    "published": "2023-07-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2307.16695"
+    }
   },
   {
     "id": "419c835c82bcdfbc",
     "date": "2026-08-23",
     "title": "Active Brownian particle in harmonic trap: exact computation of moments, and re-entrant transition",
-    "url": "https://arxiv.org/abs/2005.14234",
+    "url": "https://doi.org/10.1088/1742-5468/abd031",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2020-05"
+    "published": "2021-01-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2005.14234",
+      "publication": "https://doi.org/10.1088/1742-5468/abd031"
+    }
   },
   {
     "id": "210d221340cda74a",
@@ -107,7 +137,10 @@
       "Journal",
       "Other"
     ],
-    "published": "2024-01-09"
+    "published": "2024-01-09",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41567-023-02301-2"
+    }
   },
   {
     "id": "80b2bc96f5e576cf",
@@ -118,7 +151,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-03"
+    "published": "2026-03-21",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2603.20927"
+    }
   },
   {
     "id": "347524d9e43b5507",
@@ -129,7 +165,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2019-05-16"
+    "published": "2019-05-16",
+    "links": {
+      "publication": "https://doi.org/10.1103/PhysRevLett.122.194503"
+    }
   },
   {
     "id": "a3b98b596fa7b049",
@@ -140,7 +179,10 @@
       "arXiv",
       "Fluid Dynamics"
     ],
-    "published": "2024-10"
+    "published": "2024-10-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.13377"
+    }
   },
   {
     "id": "b5f5db392f95ac4f",
@@ -151,7 +193,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.06427"
+    }
   },
   {
     "id": "474c820b5224b6bf",
@@ -162,7 +207,10 @@
       "Journal",
       "Scaling Laws"
     ],
-    "published": "2024-07-24"
+    "published": "2024-07-24",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41586-024-07566-y"
+    }
   },
   {
     "id": "7790bdcb2c163210",
@@ -173,7 +221,10 @@
       "Conference",
       "Other"
     ],
-    "published": "2024"
+    "published": "2024",
+    "links": {
+      "publication": "https://doi.org/10.52202/079017-1161"
+    }
   },
   {
     "id": "f07b3b11fe42ffb4",
@@ -184,29 +235,40 @@
       "arXiv",
       "Active Matter"
     ],
-    "published": "2021-12"
+    "published": "2021-12-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2112.03979"
+    }
   },
   {
     "id": "927c9a43f19d68b4",
     "date": "2026-08-23",
     "title": "Are Neural Networks Collision Resistant?",
-    "url": "https://arxiv.org/abs/2509.20262",
+    "url": "https://doi.org/10.1103/6shh-9h5m",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2025-09"
+    "published": "2026-06-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2509.20262",
+      "publication": "https://doi.org/10.1103/6shh-9h5m"
+    }
   },
   {
     "id": "c7ca8436ff5fb4b8",
     "date": "2026-08-23",
     "title": "Banded non-Hermitian random matrices, neural networks, and eigenvalue degeneracies",
-    "url": "https://arxiv.org/abs/2605.19072",
+    "url": "https://doi.org/10.1103/y8dv-yq7q",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2026-05"
+    "published": "2026-08-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2605.19072",
+      "publication": "https://doi.org/10.1103/y8dv-yq7q"
+    }
   },
   {
     "id": "a7cb1accb3eec1c2",
@@ -217,7 +279,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-08"
+    "published": "2026-08-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.06597"
+    }
   },
   {
     "id": "536355c813fdbff2",
@@ -228,40 +293,55 @@
       "arXiv",
       "Transformer Theory"
     ],
-    "published": "2026-08"
+    "published": "2026-08-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.08922"
+    }
   },
   {
     "id": "d53f8b645b5dd919",
     "date": "2026-08-23",
     "title": "Coherent-state path integral versus coarse-grained effective stochastic equation of motion: From reaction diffusion to stochastic sandpiles",
-    "url": "https://arxiv.org/abs/1501.06514",
+    "url": "https://doi.org/10.1103/physreve.93.042117",
     "tags": [
-      "arXiv",
+      "Journal",
       "Field Theory"
     ],
-    "published": "2015-01"
+    "published": "2016-04-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1501.06514",
+      "publication": "https://doi.org/10.1103/physreve.93.042117"
+    }
   },
   {
     "id": "042b7d4050978b43",
     "date": "2026-08-23",
     "title": "Collective effects in confined Active Brownian Particles",
-    "url": "https://arxiv.org/abs/2103.13220",
+    "url": "https://doi.org/10.1063/5.0051315",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2021-03"
+    "published": "2021-06-22",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2103.13220",
+      "publication": "https://doi.org/10.1063/5.0051315"
+    }
   },
   {
     "id": "00b52623fda782a4",
     "date": "2026-08-23",
     "title": "Collective Motion of Quincke Rollers with Fully Resolved Hydrodynamics",
-    "url": "https://arxiv.org/abs/2205.03909",
+    "url": "https://doi.org/10.1002/adts.202200683",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2022-05"
+    "published": "2023-02-03",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2205.03909",
+      "publication": "https://doi.org/10.1002/adts.202200683"
+    }
   },
   {
     "id": "6a4f114547331250",
@@ -272,7 +352,10 @@
       "arXiv",
       "Fluid Dynamics"
     ],
-    "published": "2023-11"
+    "published": "2023-11-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2311.04288"
+    }
   },
   {
     "id": "8bb046dcdfff2642",
@@ -283,7 +366,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-05"
+    "published": "2026-05-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2605.04830"
+    }
   },
   {
     "id": "231921777c73da46",
@@ -294,18 +380,25 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2023-09"
+    "published": "2023-09-08",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2309.04522"
+    }
   },
   {
     "id": "55048d58247c154b",
     "date": "2026-08-23",
     "title": "Connectivity structure and dynamics of nonlinear recurrent neural networks",
-    "url": "https://arxiv.org/abs/2409.01969",
+    "url": "https://doi.org/10.1103/2jt7-c8cq",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2024-09"
+    "published": "2025-11-03",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2409.01969",
+      "publication": "https://doi.org/10.1103/2jt7-c8cq"
+    }
   },
   {
     "id": "e0a58066cf5e1151",
@@ -316,7 +409,10 @@
       "Journal",
       "Other"
     ],
-    "published": "2025-08-04"
+    "published": "2025-08-04",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41567-025-02957-y"
+    }
   },
   {
     "id": "422afad05102b1cf",
@@ -327,7 +423,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-08"
+    "published": "2026-08-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11479"
+    }
   },
   {
     "id": "c3028ace11fb7a70",
@@ -338,7 +437,10 @@
       "Journal",
       "Soft Matter"
     ],
-    "published": "2019-07-30"
+    "published": "2019-07-30",
+    "links": {
+      "publication": "https://doi.org/10.1103/PhysRevLett.123.058001"
+    }
   },
   {
     "id": "c1cbc0e0f313a2d2",
@@ -349,7 +451,10 @@
       "arXiv",
       "Statistical Physics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-08",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.08350"
+    }
   },
   {
     "id": "fa4bf2319aafb452",
@@ -360,7 +465,10 @@
       "arXiv",
       "Statistical Physics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.07292"
+    }
   },
   {
     "id": "72da32b72813ebb1",
@@ -371,18 +479,25 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2026-08"
+    "published": "2026-08-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.07242"
+    }
   },
   {
     "id": "b02602be10aad062",
     "date": "2026-08-23",
     "title": "Data-driven learning of the generalized Langevin equation with state-dependent memory",
-    "url": "https://arxiv.org/abs/2310.18582",
+    "url": "https://doi.org/10.1103/physrevlett.133.077301",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "2023-10"
+    "published": "2024-08-13",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2310.18582",
+      "publication": "https://doi.org/10.1103/physrevlett.133.077301"
+    }
   },
   {
     "id": "9447759c19389e58",
@@ -393,7 +508,10 @@
       "Journal",
       "Machine Learning"
     ],
-    "published": "2024-11-28"
+    "published": "2024-11-28",
+    "links": {
+      "publication": "https://doi.org/10.1038/s42256-024-00937-0"
+    }
   },
   {
     "id": "6d14e39b9a6e2a8a",
@@ -404,18 +522,25 @@
       "Journal",
       "Machine Learning"
     ],
-    "published": "2026-05-21"
+    "published": "2026-05-21",
+    "links": {
+      "publication": "https://doi.org/10.1038/s42256-026-01233-9"
+    }
   },
   {
     "id": "d264b597037f6edb",
     "date": "2026-08-23",
     "title": "Deriving time-averaged active inference from control principles",
-    "url": "https://arxiv.org/abs/2208.10601",
+    "url": "https://doi.org/10.1007/978-3-031-28719-0_25",
     "tags": [
-      "arXiv",
+      "Conference",
       "Other"
     ],
-    "published": "2022-08"
+    "published": "2023",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2208.10601",
+      "publication": "https://doi.org/10.1007/978-3-031-28719-0_25"
+    }
   },
   {
     "id": "5f770f826025c156",
@@ -426,7 +551,10 @@
       "arXiv",
       "Statistical Physics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.04531"
+    }
   },
   {
     "id": "c3305c4765375bc3",
@@ -437,7 +565,10 @@
       "Conference",
       "Transformer Theory"
     ],
-    "published": "2024"
+    "published": "2024",
+    "links": {
+      "publication": "https://doi.org/10.52202/079017-2315"
+    }
   },
   {
     "id": "9413c1f50e8eb23b",
@@ -448,7 +579,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-01"
+    "published": "2026-01-28",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2601.20985"
+    }
   },
   {
     "id": "29b449105ddea6a8",
@@ -459,7 +593,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2023-02-20"
+    "published": "2023-02-20",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41467-023-36563-4"
+    }
   },
   {
     "id": "c41f2e420c0b6468",
@@ -470,18 +607,25 @@
       "arXiv",
       "Information Theory"
     ],
-    "published": "2026-08"
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11690"
+    }
   },
   {
     "id": "dd41517b1203369d",
     "date": "2026-08-23",
     "title": "Dynamical Learning in Deep Asymmetric Recurrent Neural Networks",
-    "url": "https://arxiv.org/abs/2509.05041",
+    "url": "https://doi.org/10.1103/lbr6-91sn",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2025-09"
+    "published": "2026-06-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2509.05041",
+      "publication": "https://doi.org/10.1103/lbr6-91sn"
+    }
   },
   {
     "id": "7a530139c13c4d20",
@@ -492,18 +636,25 @@
       "Journal",
       "Other"
     ],
-    "published": "2024-02-29"
+    "published": "2024-02-29",
+    "links": {
+      "publication": "https://doi.org/10.1007/s12648-024-03117-3"
+    }
   },
   {
     "id": "c1a2f8103fda3716",
     "date": "2026-08-23",
     "title": "Dynamics of electrostatically-driven granular media. Effects of Humidity",
-    "url": "https://arxiv.org/abs/cond-mat/0011068",
+    "url": "https://doi.org/10.1103/physreve.63.050301",
     "tags": [
-      "arXiv",
+      "Journal",
       "Soft Matter"
     ],
-    "published": "2000-11"
+    "published": "2001-04-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/cond-mat/0011068",
+      "publication": "https://doi.org/10.1103/physreve.63.050301"
+    }
   },
   {
     "id": "d42f801bdd49fc14",
@@ -514,7 +665,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2013-04-29"
+    "published": "2013-04-29",
+    "links": {
+      "publication": "https://doi.org/10.1103/PhysRevE.87.043014"
+    }
   },
   {
     "id": "25b7d2119bae4bb3",
@@ -525,7 +679,10 @@
       "arXiv",
       "Soft Matter"
     ],
-    "published": "2022-04"
+    "published": "2022-04-16",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2204.07717"
+    }
   },
   {
     "id": "89ea39dd881336b0",
@@ -536,7 +693,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2023-03-31"
+    "published": "2023-03-31",
+    "links": {
+      "publication": "https://doi.org/10.1038/s42005-023-01173-5"
+    }
   },
   {
     "id": "b3ef2f3ab49a8c05",
@@ -547,7 +707,10 @@
       "Journal",
       "Nonreciprocal Systems"
     ],
-    "published": "2024-03-14"
+    "published": "2024-03-14",
+    "links": {
+      "publication": "https://doi.org/10.1103/PhysRevLett.132.118301"
+    }
   },
   {
     "id": "2d80ed15e7fcfddf",
@@ -558,7 +721,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11059"
+    }
   },
   {
     "id": "0e8b3c08d151b2ee",
@@ -569,7 +735,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11202"
+    }
   },
   {
     "id": "62b041bdc4a23d4d",
@@ -580,18 +749,25 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2026-08"
+    "published": "2026-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.10232"
+    }
   },
   {
     "id": "2a7134ede31921d1",
     "date": "2026-08-23",
     "title": "Far-from-equilibrium Ostwald ripening in electrostatically driven granular powders",
-    "url": "https://arxiv.org/abs/cond-mat/0411522",
+    "url": "https://doi.org/10.1103/physreve.71.011307",
     "tags": [
-      "arXiv",
+      "Journal",
       "Soft Matter"
     ],
-    "published": "2004-11"
+    "published": "2005-01-25",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/cond-mat/0411522",
+      "publication": "https://doi.org/10.1103/physreve.71.011307"
+    }
   },
   {
     "id": "b9d281d536ae599d",
@@ -602,7 +778,10 @@
       "Journal",
       "Fluid Dynamics"
     ],
-    "published": "2017-05-22"
+    "published": "2017-05-22",
+    "links": {
+      "publication": "https://doi.org/10.1017/jfm.2017.235"
+    }
   },
   {
     "id": "614f7945e1f9bb95",
@@ -613,7 +792,10 @@
       "Journal",
       "Soft Matter"
     ],
-    "published": "2022-03-03"
+    "published": "2022-03-03",
+    "links": {
+      "publication": "https://doi.org/10.1021/acs.langmuir.1c02581"
+    }
   },
   {
     "id": "496f9f0026d38dab",
@@ -624,7 +806,10 @@
       "arXiv",
       "Fluid Dynamics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11544"
+    }
   },
   {
     "id": "668c1c8e9353a533",
@@ -634,18 +819,25 @@
     "tags": [
       "Scholar search",
       "Other"
-    ]
+    ],
+    "links": {
+      "publication": "https://scholar.google.com/scholar?q=%22Finite-Anisotropy-First+Derivation+of+a+Reduced+%28%CF%81%2C+A%2C+p%29+Theory+for+Active+Random+Organization%22"
+    }
   },
   {
     "id": "b5ca84f79cbc57ce",
     "date": "2026-08-23",
     "title": "Fisher information flow in artificial neural networks",
-    "url": "https://arxiv.org/abs/2509.02407",
+    "url": "https://doi.org/10.1103/kn3z-rmm8",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2025-09"
+    "published": "2025-09-16",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2509.02407",
+      "publication": "https://doi.org/10.1103/kn3z-rmm8"
+    }
   },
   {
     "id": "8c13e66e5bfef470",
@@ -656,7 +848,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2026-08"
+    "published": "2026-08-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.06428"
+    }
   },
   {
     "id": "cac2f42d53a43b72",
@@ -667,29 +862,40 @@
       "Conference",
       "Other"
     ],
-    "published": "2025"
+    "published": "2025",
+    "links": {
+      "publication": "https://doi.org/10.52202/085713-2961"
+    }
   },
   {
     "id": "222b1081864812cd",
     "date": "2026-08-23",
     "title": "Flocking without alignment interactions in attractive active Brownian particles",
-    "url": "https://arxiv.org/abs/2303.07746",
+    "url": "https://doi.org/10.1103/physrevlett.130.148202",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2023-03"
+    "published": "2023-04-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2303.07746",
+      "publication": "https://doi.org/10.1103/physrevlett.130.148202"
+    }
   },
   {
     "id": "8dd462d7548852bf",
     "date": "2026-08-23",
     "title": "Fluctuating kinetic theory and fluctuating hydrodynamics of aligning active particles: the dilute limit",
-    "url": "https://arxiv.org/abs/2206.11777",
+    "url": "https://doi.org/10.1088/1742-5468/ac9fc6",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2022-06"
+    "published": "2022-11-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2206.11777",
+      "publication": "https://doi.org/10.1088/1742-5468/ac9fc6"
+    }
   },
   {
     "id": "ccc9f854bd3d158f",
@@ -700,7 +906,10 @@
       "Conference",
       "Robotics"
     ],
-    "published": "2025"
+    "published": "2025",
+    "links": {
+      "publication": "https://doi.org/10.52202/085713-3124"
+    }
   },
   {
     "id": "315e6790dccd2ff5",
@@ -711,7 +920,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2019-09-09"
+    "published": "2019-09-09",
+    "links": {
+      "publication": "https://doi.org/10.1103/PhysRevX.9.031043"
+    }
   },
   {
     "id": "f03116d588c017a4",
@@ -722,7 +934,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.09396"
+    }
   },
   {
     "id": "14a1d12f5203dba6",
@@ -733,7 +948,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.08904"
+    }
   },
   {
     "id": "dd98670a3673c74e",
@@ -743,7 +961,10 @@
     "tags": [
       "Scholar search",
       "Other"
-    ]
+    ],
+    "links": {
+      "publication": "https://scholar.google.com/scholar?q=%22From+Square+Selection+to+Triangle%E2%80%93Honeycomb+Exchange%3A+A+Unified+Floquet+and+Weakly+Nonlinear+Theory+of+One-+and+Two-Pulse+Space%E2%80%93Time+Crystals%22"
+    }
   },
   {
     "id": "4348d7c4202f4a9e",
@@ -754,7 +975,10 @@
       "Journal",
       "Other"
     ],
-    "published": "2026-05-18"
+    "published": "2026-05-18",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41467-026-73117-w"
+    }
   },
   {
     "id": "57aa2858399f5962",
@@ -764,7 +988,10 @@
     "tags": [
       "Scholar search",
       "Field Theory"
-    ]
+    ],
+    "links": {
+      "publication": "https://scholar.google.com/scholar?q=%22General+Mean-Field+Theory+of+Period-Two+Dual+Spatiotemporal+Lattices%22"
+    }
   },
   {
     "id": "3544b61603e9e772",
@@ -775,7 +1002,10 @@
       "arXiv",
       "Fluid Dynamics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11695"
+    }
   },
   {
     "id": "093f07a2155d13db",
@@ -786,18 +1016,25 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.10076"
+    }
   },
   {
     "id": "3085eeff02291362",
     "date": "2026-08-23",
     "title": "Generative diffusion for perceptron problems: statistical physics analysis and efficient algorithms",
-    "url": "https://arxiv.org/abs/2502.16292",
+    "url": "https://doi.org/10.1088/1742-5468/ae8ceb",
     "tags": [
-      "arXiv",
+      "Journal",
       "Statistical Physics"
     ],
-    "published": "2025-02"
+    "published": "2026-08-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2502.16292",
+      "publication": "https://doi.org/10.1088/1742-5468/ae8ceb"
+    }
   },
   {
     "id": "d5f9896b23484efd",
@@ -808,7 +1045,10 @@
       "arXiv",
       "Renormalization Group"
     ],
-    "published": "2025-01"
+    "published": "2025-01-15",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2501.09064"
+    }
   },
   {
     "id": "e8bfcc6769249a39",
@@ -819,29 +1059,40 @@
       "arXiv",
       "Generative Models"
     ],
-    "published": "2026-08"
+    "published": "2026-08-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.10384"
+    }
   },
   {
     "id": "c145550afceb8306",
     "date": "2026-08-23",
     "title": "Geometric Dynamics of Signal Propagation Predict Trainability of Transformers",
-    "url": "https://arxiv.org/abs/2403.02579",
+    "url": "https://doi.org/10.1103/gjsm-l642",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2024-03"
+    "published": "2025-11-03",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2403.02579",
+      "publication": "https://doi.org/10.1103/gjsm-l642"
+    }
   },
   {
     "id": "6f97a8735f5c5759",
     "date": "2026-08-23",
     "title": "Giant density fluctuations in locally hyperuniform states",
-    "url": "https://arxiv.org/abs/2410.18741",
+    "url": "https://doi.org/10.1103/m6bl-dqsd",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "2024-10"
+    "published": "2025-10-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.18741",
+      "publication": "https://doi.org/10.1103/m6bl-dqsd"
+    }
   },
   {
     "id": "9922453993afb3e2",
@@ -852,7 +1103,10 @@
       "Journal",
       "Fluid Dynamics"
     ],
-    "published": "2023-04-19"
+    "published": "2023-04-19",
+    "links": {
+      "publication": "https://doi.org/10.1103/PhysRevResearch.5.023040"
+    }
   },
   {
     "id": "b3f2fe99270f7949",
@@ -863,7 +1117,10 @@
       "arXiv",
       "Robotics"
     ],
-    "published": "2026-07"
+    "published": "2026-07-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2607.08448"
+    }
   },
   {
     "id": "e123b7056eb70117",
@@ -874,18 +1131,25 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.09516"
+    }
   },
   {
     "id": "c6b8c4d73dd415ce",
     "date": "2026-08-23",
     "title": "How Deep Neural Networks Learn Compositional Data: The Random Hierarchy Model",
-    "url": "https://arxiv.org/abs/2307.02129",
+    "url": "https://doi.org/10.1103/physrevx.14.031001",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2023-07"
+    "published": "2024-07-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2307.02129",
+      "publication": "https://doi.org/10.1103/physrevx.14.031001"
+    }
   },
   {
     "id": "bbaef0aee3fb00f5",
@@ -896,7 +1160,10 @@
       "arXiv",
       "Active Matter"
     ],
-    "published": "2026-08"
+    "published": "2026-08-04",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.03317"
+    }
   },
   {
     "id": "70c81f9af49a8d3a",
@@ -906,7 +1173,10 @@
     "tags": [
       "Scholar search",
       "Fluid Dynamics"
-    ]
+    ],
+    "links": {
+      "publication": "https://scholar.google.com/scholar?q=%22Hydrodynamic+Theory+of+the+Active+Random+Organization+%28ARO%29+Model+Computational+Physicist%22"
+    }
   },
   {
     "id": "4df44d1db80e07a7",
@@ -917,7 +1187,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.10634"
+    }
   },
   {
     "id": "9d545916ead45e59",
@@ -928,7 +1201,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.09385"
+    }
   },
   {
     "id": "065095b8e507c6a1",
@@ -939,7 +1215,10 @@
       "Conference",
       "Machine Learning"
     ],
-    "published": "2025"
+    "published": "2025",
+    "links": {
+      "publication": "https://doi.org/10.52202/085713-4294"
+    }
   },
   {
     "id": "46d3f0b1dade5aa6",
@@ -950,7 +1229,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.07457"
+    }
   },
   {
     "id": "4d616cbafd470135",
@@ -961,7 +1243,10 @@
       "arXiv",
       "Biophysics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.08735"
+    }
   },
   {
     "id": "6b05755ae585b66c",
@@ -972,18 +1257,25 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2025-03"
+    "published": "2025-03-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2503.23616"
+    }
   },
   {
     "id": "5e4de6bbf5e1e027",
     "date": "2026-08-23",
     "title": "Interpreting neural operators: how nonlinear waves propagate in non-reciprocal solids",
-    "url": "https://arxiv.org/abs/2404.12918",
+    "url": "https://doi.org/10.1103/physrevlett.133.107301",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2024-04"
+    "published": "2024-09-03",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2404.12918",
+      "publication": "https://doi.org/10.1103/physrevlett.133.107301"
+    }
   },
   {
     "id": "794de480ad9aba5b",
@@ -994,7 +1286,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.10172"
+    }
   },
   {
     "id": "391a03f3269d7207",
@@ -1005,7 +1300,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-08"
+    "published": "2026-08-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.06799"
+    }
   },
   {
     "id": "1896beebfcd3fb9c",
@@ -1016,7 +1314,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11831"
+    }
   },
   {
     "id": "05c3d9c12deb17b4",
@@ -1027,7 +1328,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.09840"
+    }
   },
   {
     "id": "82e35b0590248725",
@@ -1038,7 +1342,10 @@
       "Journal",
       "Other"
     ],
-    "published": "2023"
+    "published": "2023",
+    "links": {
+      "publication": "https://doi.org/10.2139/ssrn.4584928"
+    }
   },
   {
     "id": "3817ff5ef8949446",
@@ -1049,18 +1356,25 @@
       "arXiv",
       "Active Matter"
     ],
-    "published": "2026-08"
+    "published": "2026-08-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.05805"
+    }
   },
   {
     "id": "dba9e7dafa79fb18",
     "date": "2026-08-23",
     "title": "Learning Hamiltonian neural Koopman operator and simultaneously sustaining and discovering conservation law",
-    "url": "https://arxiv.org/abs/2406.02154",
+    "url": "https://doi.org/10.1103/physrevresearch.6.l012031",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2024-06"
+    "published": "2024-02-20",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2406.02154",
+      "publication": "https://doi.org/10.1103/physrevresearch.6.l012031"
+    }
   },
   {
     "id": "0c22a679680e1ca2",
@@ -1071,7 +1385,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.08546"
+    }
   },
   {
     "id": "58dd56c906a98b98",
@@ -1082,7 +1399,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-03"
+    "published": "2026-03-13",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2603.19312"
+    }
   },
   {
     "id": "a5484591a903e089",
@@ -1093,7 +1413,10 @@
       "arXiv",
       "Fluid Dynamics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.07042"
+    }
   },
   {
     "id": "46ff6d3707ee93f9",
@@ -1104,7 +1427,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2025-06"
+    "published": "2025-06-25",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.20623"
+    }
   },
   {
     "id": "627cdead07cb305c",
@@ -1115,18 +1441,25 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11661"
+    }
   },
   {
     "id": "b6934c217c1df0f8",
     "date": "2026-08-23",
     "title": "Machine-learning optimized measurements of chaotic dynamical systems via the information bottleneck",
-    "url": "https://arxiv.org/abs/2311.04896",
+    "url": "https://doi.org/10.1103/physrevlett.132.197201",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "2023-11"
+    "published": "2024-05-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2311.04896",
+      "publication": "https://doi.org/10.1103/physrevlett.132.197201"
+    }
   },
   {
     "id": "9ea26320d5c329eb",
@@ -1137,7 +1470,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.12119"
+    }
   },
   {
     "id": "778a15beab361ab0",
@@ -1148,18 +1484,25 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-02"
+    "published": "2026-02-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2602.12168"
+    }
   },
   {
     "id": "d5b5232b98757c72",
     "date": "2026-08-23",
     "title": "Maximum diffusion reinforcement learning",
-    "url": "https://arxiv.org/abs/2309.15293",
+    "url": "https://doi.org/10.1038/s42256-024-00829-3",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "2023-09"
+    "published": "2024-05-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2309.15293",
+      "publication": "https://doi.org/10.1038/s42256-024-00829-3"
+    }
   },
   {
     "id": "80460de6013e0b22",
@@ -1170,7 +1513,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2023-07-11"
+    "published": "2023-07-11",
+    "links": {
+      "publication": "https://doi.org/10.1021/acsnano.2c11733"
+    }
   },
   {
     "id": "fe7093ed0b7d6a09",
@@ -1181,7 +1527,10 @@
       "arXiv",
       "Active Matter"
     ],
-    "published": "2026-08"
+    "published": "2026-08-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11184"
+    }
   },
   {
     "id": "802e950118ecc5be",
@@ -1192,7 +1541,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2014-05-15"
+    "published": "2014-05-15",
+    "links": {
+      "publication": "https://doi.org/10.1007/s10955-014-1008-9"
+    }
   },
   {
     "id": "59005da35cc413bd",
@@ -1202,7 +1554,10 @@
     "tags": [
       "Scholar search",
       "Field Theory"
-    ]
+    ],
+    "links": {
+      "publication": "https://scholar.google.com/scholar?q=%22Near-threshold+selection+of+the+square+Bravais+lattice+in+the+pulsed+density%E2%80%93polarization+field+theory%22"
+    }
   },
   {
     "id": "744d5ea48e4907c2",
@@ -1213,29 +1568,40 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2024-12"
+    "published": "2024-12-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2412.05674"
+    }
   },
   {
     "id": "3df45acf3acc918f",
     "date": "2026-08-23",
     "title": "Non-equilibrium Phase Transitions with Long-Range Interactions",
-    "url": "https://arxiv.org/abs/cond-mat/0702169",
+    "url": "https://doi.org/10.1088/1742-5468/2007/07/p07006",
     "tags": [
-      "arXiv",
+      "Journal",
       "Statistical Physics"
     ],
-    "published": "2007-02"
+    "published": "2007-07-04",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/cond-mat/0702169",
+      "publication": "https://doi.org/10.1088/1742-5468/2007/07/p07006"
+    }
   },
   {
     "id": "a6ad0bc068521ed8",
     "date": "2026-08-23",
     "title": "Nonequilbrium physics of generative diffusion models",
-    "url": "https://arxiv.org/abs/2405.11932",
+    "url": "https://doi.org/10.1103/physreve.111.014111",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2024-05"
+    "published": "2025-01-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2405.11932",
+      "publication": "https://doi.org/10.1103/physreve.111.014111"
+    }
   },
   {
     "id": "135b71ae06a5b561",
@@ -1246,7 +1612,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.08480"
+    }
   },
   {
     "id": "95a65196f5ad52df",
@@ -1257,7 +1626,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "1995-08-07"
+    "published": "1995-08-07",
+    "links": {
+      "publication": "https://doi.org/10.1103/physrevlett.75.1226"
+    }
   },
   {
     "id": "8e61789d08568052",
@@ -1268,7 +1640,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.05251"
+    }
   },
   {
     "id": "2411c1e7a24e6993",
@@ -1279,7 +1654,10 @@
       "Journal",
       "Biophysics"
     ],
-    "published": "2025-04-05"
+    "published": "2025-04-05",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41467-025-58526-7"
+    }
   },
   {
     "id": "31091d15c0f8ca60",
@@ -1290,7 +1668,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11465"
+    }
   },
   {
     "id": "0a0b564bed928702",
@@ -1301,18 +1682,25 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-03",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.02844"
+    }
   },
   {
     "id": "604b2b22ade536e7",
     "date": "2026-08-23",
     "title": "Phase Separation and Coarsening in Electrostatically Driven Granular Media",
-    "url": "https://arxiv.org/abs/cond-mat/0107443",
+    "url": "https://doi.org/10.1103/physrevlett.88.204301",
     "tags": [
-      "arXiv",
+      "Journal",
       "Soft Matter"
     ],
-    "published": "2001-07"
+    "published": "2002-04-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/cond-mat/0107443",
+      "publication": "https://doi.org/10.1103/physrevlett.88.204301"
+    }
   },
   {
     "id": "b73fbda7cf49287a",
@@ -1323,7 +1711,10 @@
       "arXiv",
       "Statistical Physics"
     ],
-    "published": "2026-04"
+    "published": "2026-04-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2604.00947"
+    }
   },
   {
     "id": "18c4ab021b9922e3",
@@ -1334,7 +1725,10 @@
       "Journal",
       "Fluid Dynamics"
     ],
-    "published": "2021-12-23"
+    "published": "2021-12-23",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41567-021-01442-6"
+    }
   },
   {
     "id": "32d40c9d190d8179",
@@ -1345,7 +1739,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-07-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11215"
+    }
   },
   {
     "id": "f8a93a5f3481da6d",
@@ -1356,7 +1753,10 @@
       "arXiv",
       "Fluid Dynamics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.05666"
+    }
   },
   {
     "id": "a8987e749b0465af",
@@ -1367,7 +1767,10 @@
       "Journal",
       "Biophysics"
     ],
-    "published": "2025-12-02"
+    "published": "2025-12-02",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41567-025-03101-6"
+    }
   },
   {
     "id": "60096bf95584ec8b",
@@ -1378,18 +1781,25 @@
       "arXiv",
       "Robotics"
     ],
-    "published": "2025-09"
+    "published": "2025-09-23",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2509.19012"
+    }
   },
   {
     "id": "30685821a868d8a3",
     "date": "2026-08-23",
     "title": "Random organization criticality with long-range hydrodynamic interactions",
-    "url": "https://arxiv.org/abs/2506.14330",
+    "url": "https://doi.org/10.1140/epje/s10189-025-00519-x",
     "tags": [
-      "arXiv",
+      "Journal",
       "Statistical Physics"
     ],
-    "published": "2025-06"
+    "published": "2025-10-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.14330",
+      "publication": "https://doi.org/10.1140/epje/s10189-025-00519-x"
+    }
   },
   {
     "id": "101391aaff8d052e",
@@ -1399,7 +1809,10 @@
     "tags": [
       "Scholar search",
       "Other"
-    ]
+    ],
+    "links": {
+      "publication": "https://scholar.google.com/scholar?q=%22Reconstructed+Theory+of+the+Absorbing-State+Transition+in+a+Two-Dimensional+Pulse-Driven+Hard-Particle+System+with+Vector+Inverse-Square+Interactions+Revised+theoretical+manuscript%22"
+    }
   },
   {
     "id": "98f4831608edb32d",
@@ -1410,7 +1823,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2018-05"
+    "published": "2018-05-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1805.00909"
+    }
   },
   {
     "id": "4512c0c8ec21ba53",
@@ -1421,18 +1837,25 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-07"
+    "published": "2026-07-16",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2607.15449"
+    }
   },
   {
     "id": "2c83eaac8910e88a",
     "date": "2026-08-23",
     "title": "Renormalization Group Flow as Optimal Transport",
-    "url": "https://arxiv.org/abs/2202.11737",
+    "url": "https://doi.org/10.1103/physrevd.108.025003",
     "tags": [
-      "arXiv",
+      "Journal",
       "Renormalization Group"
     ],
-    "published": "2022-02"
+    "published": "2023-07-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2202.11737",
+      "publication": "https://doi.org/10.1103/physrevd.108.025003"
+    }
   },
   {
     "id": "b4ffa8eb414bcc2b",
@@ -1443,7 +1866,10 @@
       "Journal",
       "Machine Learning"
     ],
-    "published": "2025"
+    "published": "2025",
+    "links": {
+      "publication": "https://doi.org/10.1109/TASLPRO.2025.3581123"
+    }
   },
   {
     "id": "9eddce578e9dcf52",
@@ -1454,7 +1880,10 @@
       "arXiv",
       "Statistical Physics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.05027"
+    }
   },
   {
     "id": "baeffcad7925b214",
@@ -1465,18 +1894,25 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2025-05"
+    "published": "2025-05-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2505.07070"
+    }
   },
   {
     "id": "3679f3a96b77ee04",
     "date": "2026-08-23",
     "title": "Self-organized quantization and oscillations on continuous fixed-energy sandpiles",
-    "url": "https://arxiv.org/abs/2111.04470",
+    "url": "https://doi.org/10.1103/physreve.105.034314",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "2021-11"
+    "published": "2022-03-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2111.04470",
+      "publication": "https://doi.org/10.1103/physreve.105.034314"
+    }
   },
   {
     "id": "edca440d3fc312e7",
@@ -1487,7 +1923,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.12154"
+    }
   },
   {
     "id": "0d71d07519234ebd",
@@ -1498,7 +1937,10 @@
       "Journal",
       "Fluid Dynamics"
     ],
-    "published": "2007-11-01"
+    "published": "2007-11-01",
+    "links": {
+      "publication": "https://doi.org/10.1063/1.2803837"
+    }
   },
   {
     "id": "befae0a92a07baa6",
@@ -1509,7 +1951,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-08"
+    "published": "2026-08-04",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.03117"
+    }
   },
   {
     "id": "1e3606b840cafffc",
@@ -1520,7 +1965,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11859"
+    }
   },
   {
     "id": "cb1bb9a8f824187f",
@@ -1531,7 +1979,10 @@
       "arXiv",
       "Robotics"
     ],
-    "published": "2025-06"
+    "published": "2025-06-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.01844"
+    }
   },
   {
     "id": "5e3bfc21bacde26a",
@@ -1542,40 +1993,55 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2023-06-09"
+    "published": "2023-06-09",
+    "links": {
+      "publication": "https://doi.org/10.21203/rs.3.rs-3011793/v1"
+    }
   },
   {
     "id": "d6a0433020a229cb",
     "date": "2026-08-23",
     "title": "Spring-block theory of feature learning in deep neural networks",
-    "url": "https://arxiv.org/abs/2407.19353",
+    "url": "https://doi.org/10.1103/ys4n-2tj3",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2024-07"
+    "published": "2025-06-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2407.19353",
+      "publication": "https://doi.org/10.1103/ys4n-2tj3"
+    }
   },
   {
     "id": "3a2f6a54e6f935b0",
     "date": "2026-08-23",
     "title": "Statistical physics analysis of graph neural networks: Approaching optimality in the contextual stochastic block model",
-    "url": "https://arxiv.org/abs/2503.01361",
+    "url": "https://doi.org/10.1103/lfxj-hbsk",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2025-03"
+    "published": "2025-11-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2503.01361",
+      "publication": "https://doi.org/10.1103/lfxj-hbsk"
+    }
   },
   {
     "id": "e021df620cf47de8",
     "date": "2026-08-23",
     "title": "STEAP: simultaneous trajectory estimation and planning",
-    "url": "https://arxiv.org/abs/1807.10425",
+    "url": "https://doi.org/10.1007/s10514-018-9770-1",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "2018-07"
+    "published": "2018-07-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1807.10425",
+      "publication": "https://doi.org/10.1007/s10514-018-9770-1"
+    }
   },
   {
     "id": "f212b514d8d47156",
@@ -1586,7 +2052,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.06814"
+    }
   },
   {
     "id": "28b45f9fa02765a4",
@@ -1597,18 +2066,25 @@
       "arXiv",
       "Other"
     ],
-    "published": "2019-10"
+    "published": "2019-10-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1910.03003"
+    }
   },
   {
     "id": "74e3573c7f5e3bec",
     "date": "2026-08-23",
     "title": "Surveying the space of descriptions of a composite system with machine learning",
-    "url": "https://arxiv.org/abs/2411.18579",
+    "url": "https://doi.org/10.1103/gxrh-2xsv",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2024-11"
+    "published": "2025-06-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2411.18579",
+      "publication": "https://doi.org/10.1103/gxrh-2xsv"
+    }
   },
   {
     "id": "3c13a4fe581990d8",
@@ -1619,7 +2095,10 @@
       "arXiv",
       "Active Matter"
     ],
-    "published": "2025-03"
+    "published": "2025-03-21",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2503.17064"
+    }
   },
   {
     "id": "3cf20aca27c574e8",
@@ -1630,29 +2109,40 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-08"
+    "published": "2026-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.10234"
+    }
   },
   {
     "id": "164e39cac3e9b155",
     "date": "2026-08-23",
     "title": "The Physics of the Vicsek Model",
-    "url": "https://arxiv.org/abs/1511.01451",
+    "url": "https://doi.org/10.1140/epjst/e2016-60066-8",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2015-11"
+    "published": "2016-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1511.01451",
+      "publication": "https://doi.org/10.1140/epjst/e2016-60066-8"
+    }
   },
   {
     "id": "d18c975ff77d8885",
     "date": "2026-08-23",
     "title": "Theory of Phase Ordering Kinetics",
-    "url": "https://arxiv.org/abs/cond-mat/9501089",
+    "url": "https://doi.org/10.1080/00018739400101505",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "1995-01"
+    "published": "1994-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/cond-mat/9501089",
+      "publication": "https://doi.org/10.1080/00018739400101505"
+    }
   },
   {
     "id": "27496310bb2b94ff",
@@ -1662,7 +2152,10 @@
     "tags": [
       "Scholar search",
       "Other"
-    ]
+    ],
+    "links": {
+      "publication": "https://scholar.google.com/scholar?q=%22Theory+of+the+Absorbing-State+Transition+in+a+Two-Dimensional+Pulse-Driven+Hard-Particle+System+with+Vector+Inverse-Square+Interactions%22"
+    }
   },
   {
     "id": "604163ff526eea66",
@@ -1673,7 +2166,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-08"
+    "published": "2026-08-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.07077"
+    }
   },
   {
     "id": "c70ceacaf6b2ae2f",
@@ -1684,18 +2180,25 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2023-11-01"
+    "published": "2023-11-01",
+    "links": {
+      "publication": "https://doi.org/10.1088/0256-307X/40/12/126401"
+    }
   },
   {
     "id": "f3015709b43c2137",
     "date": "2026-08-23",
     "title": "Unconventional criticality, scaling breakdown, and diverse universality classes in the Wilson-Cowan model of neural dynamics",
-    "url": "https://arxiv.org/abs/2301.06839",
+    "url": "https://doi.org/10.1103/physreve.108.034110",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2023-01"
+    "published": "2023-09-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2301.06839",
+      "publication": "https://doi.org/10.1103/physreve.108.034110"
+    }
   },
   {
     "id": "19b82c60ea862d1d",
@@ -1706,7 +2209,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2025-02"
+    "published": "2025-02-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2502.20476"
+    }
   },
   {
     "id": "10aad06f27252e7e",
@@ -1717,7 +2223,10 @@
       "arXiv",
       "Statistical Physics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-03",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.02716"
+    }
   },
   {
     "id": "32a8409016cbce3e",
@@ -1728,29 +2237,40 @@
       "arXiv",
       "Statistical Physics"
     ],
-    "published": "2026-05"
+    "published": "2026-05-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2605.17781"
+    }
   },
   {
     "id": "7419ddc22aa2fd0a",
     "date": "2026-08-23",
     "title": "Universal Scaling Laws of Absorbing Phase Transitions in Artificial Deep Neural Networks",
-    "url": "https://arxiv.org/abs/2307.02284",
+    "url": "https://doi.org/10.1103/jp61-6sp2",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2023-07"
+    "published": "2025-07-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2307.02284",
+      "publication": "https://doi.org/10.1103/jp61-6sp2"
+    }
   },
   {
     "id": "bd393ea82f3f94bc",
     "date": "2026-08-23",
     "title": "Universal Spin Models are Universal Approximators in Machine Learning",
-    "url": "https://arxiv.org/abs/2507.07669",
+    "url": "https://doi.org/10.1103/b3xp-wtwx",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2025-07"
+    "published": "2026-04-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2507.07669",
+      "publication": "https://doi.org/10.1103/b3xp-wtwx"
+    }
   },
   {
     "id": "952ac3355f7d9e17",
@@ -1761,7 +2281,10 @@
       "arXiv",
       "Other"
     ],
-    "published": "2026-08"
+    "published": "2026-08-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.04882"
+    }
   },
   {
     "id": "96825cf6fdbc83f9",
@@ -1772,7 +2295,10 @@
       "Journal",
       "Soft Matter"
     ],
-    "published": "1969-06-01"
+    "published": "1969-06-01",
+    "links": {
+      "publication": "https://doi.org/10.1063/1.1670977"
+    }
   },
   {
     "id": "2476d5ff63d6203f",
@@ -1783,18 +2309,25 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2026-08"
+    "published": "2026-08-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11174"
+    }
   },
   {
     "id": "35b9fad5b156b6ac",
     "date": "2026-08-23",
     "title": "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications",
-    "url": "https://arxiv.org/abs/2510.07077",
+    "url": "https://doi.org/10.1109/access.2025.3609980",
     "tags": [
-      "arXiv",
+      "Journal",
       "Robotics"
     ],
-    "published": "2025-10"
+    "published": "2025",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2510.07077",
+      "publication": "https://doi.org/10.1109/access.2025.3609980"
+    }
   },
   {
     "id": "e4bf7b8b669248c9",
@@ -1805,7 +2338,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-11"
+    "published": "2024-11-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2411.00698"
+    }
   },
   {
     "id": "168af9a86ead7a49",
@@ -1816,7 +2352,10 @@
       "Journal",
       "Fluid Dynamics"
     ],
-    "published": "2026-04-03"
+    "published": "2026-04-03",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41567-026-03208-4"
+    }
   },
   {
     "id": "0066b5cc70e439ad",
@@ -1827,18 +2366,25 @@
       "Journal",
       "Other"
     ],
-    "published": "2025-11-18"
+    "published": "2025-11-18",
+    "links": {
+      "publication": "https://doi.org/10.1103/4db2-7dpd"
+    }
   },
   {
     "id": "c4965ae414124bf9",
     "date": "2026-08-23",
     "title": "Why Extensile and Contractile Tissues Could be Hard to Tell Apart",
-    "url": "https://arxiv.org/abs/2511.07012",
+    "url": "https://doi.org/10.1038/s42005-026-02739-9",
     "tags": [
-      "arXiv",
+      "Journal",
       "Biophysics"
     ],
-    "published": "2025-11"
+    "published": "2026-07-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2511.07012",
+      "publication": "https://doi.org/10.1038/s42005-026-02739-9"
+    }
   },
   {
     "id": "00e89f549666c4b1",
@@ -1849,7 +2395,10 @@
       "arXiv",
       "Robotics"
     ],
-    "published": "2026-08"
+    "published": "2026-08-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.16590"
+    }
   },
   {
     "id": "43b6cba071f00753",
@@ -1860,7 +2409,10 @@
       "Journal",
       "Nonreciprocal Systems"
     ],
-    "published": "2024-07-30"
+    "published": "2024-07-30",
+    "links": {
+      "publication": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.015003"
+    }
   },
   {
     "id": "56d6bf41f3b7f24e",
@@ -1871,7 +2423,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2023-12-08"
+    "published": "2023-12-08",
+    "links": {
+      "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.238302"
+    }
   },
   {
     "id": "dab016a78fd58743",
@@ -1882,7 +2437,10 @@
       "Journal",
       "Other"
     ],
-    "published": "2024-06-25"
+    "published": "2024-06-25",
+    "links": {
+      "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.268301"
+    }
   },
   {
     "id": "f2942f284ab442af",
@@ -1893,7 +2451,10 @@
       "Journal",
       "Fluid Dynamics"
     ],
-    "published": "2023-05-02"
+    "published": "2023-05-02",
+    "links": {
+      "publication": "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.054101"
+    }
   },
   {
     "id": "4e61e4db8c2718bf",
@@ -1904,18 +2465,25 @@
       "Journal",
       "Nonreciprocal Systems"
     ],
-    "published": "2024-08-15"
+    "published": "2024-08-15",
+    "links": {
+      "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.078301"
+    }
   },
   {
     "id": "a3b5ca6af4d894fb",
     "date": "2024-09-06",
     "title": "Integer Topological Defects Reveal Anti-Symmetric Forces in Active Nematics",
-    "url": "https://arxiv.org/abs/2408.15431",
+    "url": "https://doi.org/10.1103/physrevlett.133.268301",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "2024-08"
+    "published": "2024-12-26",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2408.15431",
+      "publication": "https://doi.org/10.1103/physrevlett.133.268301"
+    }
   },
   {
     "id": "d3400a0e66398ffc",
@@ -1926,7 +2494,10 @@
       "arXiv",
       "Active Matter"
     ],
-    "published": "2024-07"
+    "published": "2024-07-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2407.19716"
+    }
   },
   {
     "id": "003336f09dcac84a",
@@ -1936,7 +2507,10 @@
     "tags": [
       "Journal",
       "Active Matter"
-    ]
+    ],
+    "links": {
+      "publication": "https://pubs.aip.org/aip/acp/article-abstract/1198/1/25/865936/The-kinetic-regime-of-the-Vicsek-model"
+    }
   },
   {
     "id": "08747a6f761ee233",
@@ -1947,7 +2521,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2021-11-30"
+    "published": "2021-11-30",
+    "links": {
+      "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.238001"
+    }
   },
   {
     "id": "22dc44d551c207e7",
@@ -1958,7 +2535,10 @@
       "Journal",
       "Other"
     ],
-    "published": "2021-05-05"
+    "published": "2021-05-05",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021028"
+    }
   },
   {
     "id": "02f9ded942dc60bf",
@@ -1969,7 +2549,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2021-03-19"
+    "published": "2021-03-19",
+    "links": {
+      "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.118003"
+    }
   },
   {
     "id": "abbbdd1f1314d86f",
@@ -1980,29 +2563,40 @@
       "Journal",
       "Other"
     ],
-    "published": "2019-12-01"
+    "published": "2019-12-01",
+    "links": {
+      "publication": "https://pubs.aip.org/aip/jmp/article-abstract/60/12/123301/1019104/Ito-vs-Stratonovich-in-the-presence-of-absorbing"
+    }
   },
   {
     "id": "25f3280f90e7488d",
     "date": "2025-02-22",
     "title": "Reduced density fluctuations via anti-aligning in active matter",
-    "url": "https://arxiv.org/abs/2402.19451",
+    "url": "https://doi.org/10.1103/w9pf-3r76",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2024-02"
+    "published": "2025-12-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2402.19451",
+      "publication": "https://doi.org/10.1103/w9pf-3r76"
+    }
   },
   {
     "id": "1697b1ea5a2604c9",
     "date": "2025-02-22",
     "title": "Non-Perturbative Renormalization Group for the Diffusive Epidemic Process",
-    "url": "https://arxiv.org/abs/1612.03122",
+    "url": "https://doi.org/10.1103/physreve.96.022137",
     "tags": [
-      "arXiv",
+      "Journal",
       "Statistical Physics"
     ],
-    "published": "2016-12"
+    "published": "2017-08-16",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1612.03122",
+      "publication": "https://doi.org/10.1103/physreve.96.022137"
+    }
   },
   {
     "id": "6cd1881cb7f6a7d0",
@@ -2013,7 +2607,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2023-10"
+    "published": "2023-10",
+    "links": {
+      "publication": "https://doi.org/10.1140/epje/s10189-023-00364-w"
+    }
   },
   {
     "id": "7246c89930f60e45",
@@ -2024,7 +2621,10 @@
       "Journal",
       "Other"
     ],
-    "published": "2024-08-19"
+    "published": "2024-08-19",
+    "links": {
+      "publication": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033185"
+    }
   },
   {
     "id": "e848907cc5cce3a4",
@@ -2035,7 +2635,10 @@
       "Journal",
       "Other"
     ],
-    "published": "2023-07-25"
+    "published": "2023-07-25",
+    "links": {
+      "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.047101"
+    }
   },
   {
     "id": "6c32ba54fb47359f",
@@ -2046,29 +2649,40 @@
       "Journal",
       "Other"
     ],
-    "published": "2019-02-14"
+    "published": "2019-02-14",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011031"
+    }
   },
   {
     "id": "c31017887f2c476d",
     "date": "2025-02-26",
     "title": "Enhancing (quasi-)long-range order in a two-dimensional driven crystal",
-    "url": "https://arxiv.org/abs/2405.05621",
+    "url": "https://doi.org/10.1063/5.0217958",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "2024-05"
+    "published": "2024-08-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2405.05621",
+      "publication": "https://doi.org/10.1063/5.0217958"
+    }
   },
   {
     "id": "87f3f264dbd7ac9d",
     "date": "2025-02-26",
     "title": "Anomalous relaxation and hyperuniform fluctuations in center-of-mass conserving systems with broken time-reversal symmetry",
-    "url": "https://arxiv.org/abs/2312.11181",
+    "url": "https://doi.org/10.1103/physreve.110.024119",
     "tags": [
-      "arXiv",
+      "Journal",
       "Other"
     ],
-    "published": "2023-12"
+    "published": "2024-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2312.11181",
+      "publication": "https://doi.org/10.1103/physreve.110.024119"
+    }
   },
   {
     "id": "34ccd3ff52287b90",
@@ -2079,18 +2693,25 @@
       "arXiv",
       "Other"
     ],
-    "published": "2023-10"
+    "published": "2023-10-26",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2310.17391"
+    }
   },
   {
     "id": "9be56e39c1ff6ed6",
     "date": "2025-02-26",
     "title": "Generic finite size scaling for discontinuous nonequilibrium phase transitions into absorbing states",
-    "url": "https://arxiv.org/abs/1510.08707",
+    "url": "https://doi.org/10.1103/physreve.92.062126",
     "tags": [
-      "arXiv",
+      "Journal",
       "Statistical Physics"
     ],
-    "published": "2015-10"
+    "published": "2015-12-15",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1510.08707",
+      "publication": "https://doi.org/10.1103/physreve.92.062126"
+    }
   },
   {
     "id": "7c71b567cf91c0f5",
@@ -2101,7 +2722,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2024-04-24"
+    "published": "2024-04-24",
+    "links": {
+      "publication": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.044605"
+    }
   },
   {
     "id": "d748aca86800c37b",
@@ -2112,7 +2736,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2025"
+    "published": "2025",
+    "links": {
+      "publication": "https://www.nature.com/articles/s41567-025-02791-2"
+    }
   },
   {
     "id": "344836b1342ec68f",
@@ -2123,7 +2750,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2025-03-21"
+    "published": "2025-03-21",
+    "links": {
+      "publication": "https://iopscience.iop.org/article/10.1088/1751-8121/adbfe6/meta"
+    }
   },
   {
     "id": "af3db7e12355e717",
@@ -2134,18 +2764,25 @@
       "Journal",
       "Other"
     ],
-    "published": "2022-12"
+    "published": "2022-12",
+    "links": {
+      "publication": "https://www.sciencedirect.com/science/article/pii/S0550321322003716"
+    }
   },
   {
     "id": "63787595893799b0",
     "date": "2026-01-22",
     "title": "The role of noise and advection in absorbing state phase transitions",
-    "url": "https://arxiv.org/abs/0912.3000",
+    "url": "https://doi.org/10.1209/0295-5075/90/16003",
     "tags": [
-      "arXiv",
+      "Journal",
       "Statistical Physics"
     ],
-    "published": "2009-12"
+    "published": "2010-04-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/0912.3000",
+      "publication": "https://doi.org/10.1209/0295-5075/90/16003"
+    }
   },
   {
     "id": "2d98de46772a1157",
@@ -2156,7 +2793,10 @@
       "Journal",
       "Fluid Dynamics"
     ],
-    "published": "2023-11-16"
+    "published": "2023-11-16",
+    "links": {
+      "publication": "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.110501"
+    }
   },
   {
     "id": "1faf5eebfb61cfb6",
@@ -2167,7 +2807,10 @@
       "Journal",
       "Other"
     ],
-    "published": "2025-12-17"
+    "published": "2025-12-17",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/4t7t-v19l"
+    }
   },
   {
     "id": "24be133138c9189b",
@@ -2178,7 +2821,10 @@
       "Research page",
       "Machine Learning"
     ],
-    "published": "2025-01-08"
+    "published": "2025-01-08",
+    "links": {
+      "publication": "https://deepmind.google/research/publications/82794/"
+    }
   },
   {
     "id": "68b0c66bdba0148b",
@@ -2189,7 +2835,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2025-07-30"
+    "published": "2025-07-30",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/x5vj-8jq9"
+    }
   },
   {
     "id": "55a5119256ca0bc8",
@@ -2200,7 +2849,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2025-05-12"
+    "published": "2025-05-12",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021050"
+    }
   },
   {
     "id": "2ceed9b03362ddf0",
@@ -2211,7 +2863,10 @@
       "Journal",
       "Machine Learning"
     ],
-    "published": "2025-05-13"
+    "published": "2025-05-13",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021051"
+    }
   },
   {
     "id": "9f94f1f923dc0de3",
@@ -2222,7 +2877,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2024-06-26"
+    "published": "2024-06-26",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.021052"
+    }
   },
   {
     "id": "a645297207d3ac53",
@@ -2233,7 +2891,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2023-12-07"
+    "published": "2023-12-07",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041044"
+    }
   },
   {
     "id": "89a2dae3d48659b5",
@@ -2244,7 +2905,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2023-11-16"
+    "published": "2023-11-16",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041032"
+    }
   },
   {
     "id": "9298a05c35deab16",
@@ -2255,7 +2919,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2023-02-03"
+    "published": "2023-02-03",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.011013"
+    }
   },
   {
     "id": "e0fe07aa55fae77b",
@@ -2266,7 +2933,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2021-09-16"
+    "published": "2021-09-16",
+    "links": {
+      "publication": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031059"
+    }
   },
   {
     "id": "c61bbb4b2f401acc",
@@ -2277,7 +2947,10 @@
       "Journal",
       "Nonreciprocal Systems"
     ],
-    "published": "2025-10-30"
+    "published": "2025-10-30",
+    "links": {
+      "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.135.187402"
+    }
   },
   {
     "id": "63b84d59a70324d1",
@@ -2288,7 +2961,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2026-05-15"
+    "published": "2026-05-15",
+    "links": {
+      "publication": "https://journals.aps.org/prl/accepted/10.1103/xbk2-ggcf"
+    }
   },
   {
     "id": "c12d354d97f85090",
@@ -2299,7 +2975,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2025"
+    "published": "2025",
+    "links": {
+      "publication": "https://journals.aps.org/prl/abstract/10.1103/kwyy-1xln"
+    }
   },
   {
     "id": "60da8b4e31b6d764",
@@ -2310,7 +2989,10 @@
       "Journal",
       "Statistical Physics"
     ],
-    "published": "2024-11-18"
+    "published": "2024-11-18",
+    "links": {
+      "publication": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.217101"
+    }
   },
   {
     "id": "1c3af6a53d68b366",
@@ -2321,7 +3003,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2025-02"
+    "published": "2025-02-25",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2502.18553"
+    }
   },
   {
     "id": "e52ccd55b8707b36",
@@ -2332,7 +3017,10 @@
       "arXiv",
       "Renormalization Group"
     ],
-    "published": "2025-10"
+    "published": "2025-10-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2510.25553"
+    }
   },
   {
     "id": "5fb9a96f5da74281",
@@ -2343,7 +3031,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2026-05"
+    "published": "2026-05-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2605.15419"
+    }
   },
   {
     "id": "feb006436d857bb3",
@@ -2354,18 +3045,25 @@
       "arXiv",
       "AI for Science"
     ],
-    "published": "2025-09"
+    "published": "2025-09-16",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2509.13142"
+    }
   },
   {
     "id": "6ce0e7d14f58b7c4",
     "date": "2026-08-24",
     "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
-    "url": "https://arxiv.org/abs/2604.23002",
+    "url": "https://doi.org/10.18653/v1/2026.acl-long.1057",
     "tags": [
-      "arXiv",
+      "Conference",
       "AI for Science"
     ],
-    "published": "2026-04"
+    "published": "2026",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2604.23002",
+      "publication": "https://doi.org/10.18653/v1/2026.acl-long.1057"
+    }
   },
   {
     "id": "4e8bf8c8c318b027",
@@ -2376,7 +3074,10 @@
       "arXiv",
       "AI for Science"
     ],
-    "published": "2024-11"
+    "published": "2024-11-25",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2411.16416"
+    }
   },
   {
     "id": "41e7366b0f4f26ed",
@@ -2387,18 +3088,25 @@
       "Journal",
       "AI for Science"
     ],
-    "published": "2026-01-20"
+    "published": "2026-01-20",
+    "links": {
+      "publication": "https://doi.org/10.1038/s44387-025-00057-z"
+    }
   },
   {
     "id": "aed809c2b334b178",
     "date": "2026-08-24",
     "title": "AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning",
-    "url": "https://arxiv.org/abs/2511.07262",
+    "url": "https://doi.org/10.1038/s44387-026-00102-5",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2025-11"
+    "published": "2026-04-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2511.07262",
+      "publication": "https://doi.org/10.1038/s44387-026-00102-5"
+    }
   },
   {
     "id": "5a7471fad7e68bf1",
@@ -2409,7 +3117,10 @@
       "arXiv",
       "AI for Science"
     ],
-    "published": "2026-03"
+    "published": "2026-03-20",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2603.20179"
+    }
   },
   {
     "id": "a92d150747fd05c8",
@@ -2420,7 +3131,10 @@
       "Journal",
       "AI for Science"
     ],
-    "published": "2020-04-17"
+    "published": "2020-04-17",
+    "links": {
+      "publication": "https://doi.org/10.1126/sciadv.aay2631"
+    }
   },
   {
     "id": "87af3d012ea2b914",
@@ -2431,7 +3145,10 @@
       "arXiv",
       "AI for Science"
     ],
-    "published": "2025-06"
+    "published": "2025-06-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.01372"
+    }
   },
   {
     "id": "19c6b72f81e0dea5",
@@ -2442,7 +3159,10 @@
       "arXiv",
       "AI for Science"
     ],
-    "published": "2025-04"
+    "published": "2025-04-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2504.01538"
+    }
   },
   {
     "id": "8ef0ddf205efab26",
@@ -2453,7 +3173,10 @@
       "arXiv",
       "AI for Science"
     ],
-    "published": "2026-05"
+    "published": "2026-05-25",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2605.26179"
+    }
   },
   {
     "id": "7dab7d89d3aeda7c",
@@ -2464,7 +3187,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2020-06"
+    "published": "2020-06-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2006.11287"
+    }
   },
   {
     "id": "aa5333bcc32a6d7a",
@@ -2475,7 +3201,10 @@
       "arXiv",
       "AI for Science"
     ],
-    "published": "2026-04"
+    "published": "2026-04-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2604.22541"
+    }
   },
   {
     "id": "b42bfb25f6d0c823",
@@ -2486,7 +3215,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2023-05"
+    "published": "2023-05-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2305.01582"
+    }
   },
   {
     "id": "155d977401d19b7b",
@@ -2497,7 +3229,10 @@
       "Journal",
       "Machine Learning"
     ],
-    "published": "2023-11-29"
+    "published": "2023-11-29",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41586-023-06735-9"
+    }
   },
   {
     "id": "d303debab0c75f9b",
@@ -2508,7 +3243,10 @@
       "arXiv",
       "AI for Science"
     ],
-    "published": "2025-04"
+    "published": "2025-04-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2504.08066"
+    }
   },
   {
     "id": "0f24a798a385583b",
@@ -2519,7 +3257,10 @@
       "arXiv",
       "AI for Science"
     ],
-    "published": "2025-10"
+    "published": "2025-10-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2510.26887"
+    }
   },
   {
     "id": "4d73dc618d0726e0",
@@ -2530,7 +3271,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2025-01"
+    "published": "2025-01-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2501.03575"
+    }
   },
   {
     "id": "3454844f3a50a629",
@@ -2541,7 +3285,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2026-05"
+    "published": "2026-05-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2605.14675"
+    }
   },
   {
     "id": "148c46dc8ad025d7",
@@ -2552,18 +3299,25 @@
       "Journal",
       "Neural Operators"
     ],
-    "published": "2023-11-29"
+    "published": "2023-11-29",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41586-023-06734-w"
+    }
   },
   {
     "id": "9ae5933a40d0368d",
     "date": "2026-08-24",
     "title": "DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators",
-    "url": "https://arxiv.org/abs/1910.03193",
+    "url": "https://doi.org/10.1038/s42256-021-00302-5",
     "tags": [
-      "arXiv",
+      "Journal",
       "Neural Operators"
     ],
-    "published": "2019-10"
+    "published": "2021-03-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1910.03193",
+      "publication": "https://doi.org/10.1038/s42256-021-00302-5"
+    }
   },
   {
     "id": "dc2d5cd4a2625a22",
@@ -2574,40 +3328,55 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2026-05"
+    "published": "2026-05-13",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2605.12997"
+    }
   },
   {
     "id": "0e770c23d85e7101",
     "date": "2026-08-24",
     "title": "Neural Operators for Accelerating Scientific Simulations and Design",
-    "url": "https://arxiv.org/abs/2309.15325",
+    "url": "https://doi.org/10.1038/s42254-024-00712-5",
     "tags": [
-      "arXiv",
+      "Journal",
       "Neural Operators"
     ],
-    "published": "2023-09"
+    "published": "2024-04-08",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2309.15325",
+      "publication": "https://doi.org/10.1038/s42254-024-00712-5"
+    }
   },
   {
     "id": "cee7619e23629279",
     "date": "2026-08-24",
     "title": "Neural operators struggle to learn complex PDEs in pedestrian mobility: Hughes model case study",
-    "url": "https://arxiv.org/abs/2504.18267",
+    "url": "https://doi.org/10.1016/j.ait.2025.100005",
     "tags": [
-      "arXiv",
+      "Journal",
       "Neural Operators"
     ],
-    "published": "2025-04"
+    "published": "2025-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2504.18267",
+      "publication": "https://doi.org/10.1016/j.ait.2025.100005"
+    }
   },
   {
     "id": "cb81349fdf71cda0",
     "date": "2026-08-24",
     "title": "Operator Learning: A Statistical Perspective",
-    "url": "https://arxiv.org/abs/2504.03503",
+    "url": "https://doi.org/10.1146/annurev-statistics-042424-070908",
     "tags": [
-      "arXiv",
+      "Journal",
       "Neural Operators"
     ],
-    "published": "2025-04"
+    "published": "2026-03-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2504.03503",
+      "publication": "https://doi.org/10.1146/annurev-statistics-042424-070908"
+    }
   },
   {
     "id": "e671184d5faabf92",
@@ -2618,7 +3387,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2024-02"
+    "published": "2024-02-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2402.15715"
+    }
   },
   {
     "id": "f0f1def0323d25cc",
@@ -2629,7 +3401,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2026-01"
+    "published": "2026-01-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2601.01829"
+    }
   },
   {
     "id": "cd13d8918751a55a",
@@ -2640,40 +3415,55 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2021-08"
+    "published": "2021-08-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2108.08481"
+    }
   },
   {
     "id": "856c5efb749715d5",
     "date": "2026-08-24",
     "title": "PDEBENCH: An Extensive Benchmark for Scientific Machine Learning",
-    "url": "https://arxiv.org/abs/2210.07182",
+    "url": "https://doi.org/10.52202/068431-0117",
     "tags": [
-      "arXiv",
+      "Conference",
       "Machine Learning"
     ],
-    "published": "2022-10"
+    "published": "2022",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2210.07182",
+      "publication": "https://doi.org/10.52202/068431-0117"
+    }
   },
   {
     "id": "8ac134f15004bc8b",
     "date": "2026-08-24",
     "title": "Physics-Informed Neural Operator for Learning Partial Differential Equations",
-    "url": "https://arxiv.org/abs/2111.03794",
+    "url": "https://doi.org/10.1145/3648506",
     "tags": [
-      "arXiv",
+      "Journal",
       "Neural Operators"
     ],
-    "published": "2021-11"
+    "published": "2024-05-20",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2111.03794",
+      "publication": "https://doi.org/10.1145/3648506"
+    }
   },
   {
     "id": "d9131f6cc4f74a02",
     "date": "2026-08-24",
     "title": "Training Compute-Optimal Large Language Models",
-    "url": "https://arxiv.org/abs/2203.15556",
+    "url": "https://doi.org/10.52202/068431-2176",
     "tags": [
-      "arXiv",
+      "Conference",
       "Scaling Laws"
     ],
-    "published": "2022-03"
+    "published": "2022",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2203.15556",
+      "publication": "https://doi.org/10.52202/068431-2176"
+    }
   },
   {
     "id": "628cb9ff7024c4e2",
@@ -2684,18 +3474,25 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2025-12"
+    "published": "2025-12-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2512.24880"
+    }
   },
   {
     "id": "c3b2e6bec6f0f3c5",
     "date": "2026-08-24",
     "title": "Challenges and Research Directions for Large Language Model Inference Hardware",
-    "url": "https://arxiv.org/abs/2601.05047",
+    "url": "https://doi.org/10.1109/mc.2026.3652916",
     "tags": [
-      "arXiv",
+      "Journal",
       "Scaling Laws"
     ],
-    "published": "2026-01"
+    "published": "2026-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2601.05047",
+      "publication": "https://doi.org/10.1109/mc.2026.3652916"
+    }
   },
   {
     "id": "5631a15ca6e32d75",
@@ -2706,7 +3503,10 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2026-02"
+    "published": "2026-02-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2602.16763"
+    }
   },
   {
     "id": "e8569899d9c85b28",
@@ -2717,18 +3517,25 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2024-01"
+    "published": "2023-12-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2401.00448"
+    }
   },
   {
     "id": "f7332aacefe6a6a2",
     "date": "2026-08-24",
     "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2501.12948",
+    "url": "https://doi.org/10.1038/s41586-025-09422-z",
     "tags": [
-      "arXiv",
+      "Journal",
       "Scaling Laws"
     ],
-    "published": "2025-01"
+    "published": "2025-09-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2501.12948",
+      "publication": "https://doi.org/10.1038/s41586-025-09422-z"
+    }
   },
   {
     "id": "8355e49ff30a5fbe",
@@ -2739,18 +3546,25 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2024-12"
+    "published": "2024-12-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2412.19437"
+    }
   },
   {
     "id": "8e2b6b945b541727",
     "date": "2026-08-24",
     "title": "Demystifying Synthetic Data in LLM Pre-training: A Systematic Study of Scaling Laws, Benefits, and Pitfalls",
-    "url": "https://arxiv.org/abs/2510.01631",
+    "url": "https://doi.org/10.18653/v1/2025.emnlp-main.544",
     "tags": [
-      "arXiv",
+      "Conference",
       "Scaling Laws"
     ],
-    "published": "2025-10"
+    "published": "2025",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2510.01631",
+      "publication": "https://doi.org/10.18653/v1/2025.emnlp-main.544"
+    }
   },
   {
     "id": "f4d7602eaf0478b5",
@@ -2761,7 +3575,10 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2022-06"
+    "published": "2022-06-15",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2206.07682"
+    }
   },
   {
     "id": "5f794009f618d822",
@@ -2772,18 +3589,25 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2024-04"
+    "published": "2024-04-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2404.01413"
+    }
   },
   {
     "id": "c6dc2d738541a81f",
     "date": "2026-08-24",
     "title": "Scaling Behaviors of LLM Reinforcement Learning Post-Training: An Empirical Study in Mathematical Reasoning",
-    "url": "https://arxiv.org/abs/2509.25300",
+    "url": "https://doi.org/10.18653/v1/2026.acl-long.1444",
     "tags": [
-      "arXiv",
+      "Conference",
       "Scaling Laws"
     ],
-    "published": "2025-09"
+    "published": "2026",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2509.25300",
+      "publication": "https://doi.org/10.18653/v1/2026.acl-long.1444"
+    }
   },
   {
     "id": "a051e0c2f0e4205d",
@@ -2794,7 +3618,10 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2023-01"
+    "published": "2023-01-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2301.03728"
+    }
   },
   {
     "id": "5a80b953a716eb35",
@@ -2805,7 +3632,10 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2020-01"
+    "published": "2020-01-23",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2001.08361"
+    }
   },
   {
     "id": "effa8dc9d83b5b5f",
@@ -2816,18 +3646,25 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2024-10"
+    "published": "2024-10-15",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.12119"
+    }
   },
   {
     "id": "ec8902d1b16568bd",
     "date": "2026-08-24",
     "title": "Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms",
-    "url": "https://arxiv.org/abs/2406.02900",
+    "url": "https://doi.org/10.52202/079017-4009",
     "tags": [
-      "arXiv",
+      "Conference",
       "Scaling Laws"
     ],
-    "published": "2024-06"
+    "published": "2024",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2406.02900",
+      "publication": "https://doi.org/10.52202/079017-4009"
+    }
   },
   {
     "id": "d15073157caacd9d",
@@ -2838,7 +3675,10 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2024-08"
+    "published": "2024-08-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2408.03314"
+    }
   },
   {
     "id": "f094d310059a6320",
@@ -2848,29 +3688,40 @@
     "tags": [
       "OpenReview",
       "Scaling Laws"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/forum?id=4FWAwZtd2n"
+    }
   },
   {
     "id": "e8df98ee576570a8",
     "date": "2026-08-24",
     "title": "Scaling Parameter-Constrained Language Models with Quality Data",
-    "url": "https://arxiv.org/abs/2410.03083",
+    "url": "https://doi.org/10.18653/v1/2024.emnlp-industry.8",
     "tags": [
-      "arXiv",
+      "Conference",
       "Scaling Laws"
     ],
-    "published": "2024-10"
+    "published": "2024",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.03083",
+      "publication": "https://doi.org/10.18653/v1/2024.emnlp-industry.8"
+    }
   },
   {
     "id": "5d02ca111b30d307",
     "date": "2026-08-24",
     "title": "Towards Precise Scaling Laws for Video Diffusion Transformers",
-    "url": "https://arxiv.org/abs/2411.17470",
+    "url": "https://doi.org/10.1109/cvpr52734.2025.01692",
     "tags": [
-      "arXiv",
+      "Conference",
       "Scaling Laws"
     ],
-    "published": "2024-11"
+    "published": "2025-06-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2411.17470",
+      "publication": "https://doi.org/10.1109/cvpr52734.2025.01692"
+    }
   },
   {
     "id": "7cb6ba289b5ea0f5",
@@ -2881,7 +3732,10 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2024-10"
+    "published": "2024-10-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.08184"
+    }
   },
   {
     "id": "9eb614bda1130862",
@@ -2892,73 +3746,100 @@
       "arXiv",
       "Scaling Laws"
     ],
-    "published": "2020-10"
+    "published": "2020-10-28",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2010.14701"
+    }
   },
   {
     "id": "3cd06ee7f3bd59e0",
     "date": "2026-08-24",
     "title": "Kinetic theory of decentralized learning for smart active matter",
-    "url": "https://arxiv.org/abs/2501.03948",
+    "url": "https://doi.org/10.1103/5m44-kwhv",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2025-01"
+    "published": "2025-06-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2501.03948",
+      "publication": "https://doi.org/10.1103/5m44-kwhv"
+    }
   },
   {
     "id": "a6c6adc35a75c401",
     "date": "2026-08-24",
     "title": "Reinforcement Learning for Active Matter",
-    "url": "https://arxiv.org/abs/2503.23308",
+    "url": "https://doi.org/10.1063/5.0273201",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2025-03"
+    "published": "2025-09-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2503.23308",
+      "publication": "https://doi.org/10.1063/5.0273201"
+    }
   },
   {
     "id": "52f02190cdec5aa7",
     "date": "2026-08-24",
     "title": "An effective control of large systems of active particles: An application to evacuation problem",
-    "url": "https://arxiv.org/abs/2509.19972",
+    "url": "https://doi.org/10.1016/j.cnsns.2025.109359",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2025-09"
+    "published": "2026-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2509.19972",
+      "publication": "https://doi.org/10.1016/j.cnsns.2025.109359"
+    }
   },
   {
     "id": "b5698126fa9327c6",
     "date": "2026-08-24",
     "title": "Active Matter Flocking via Predictive Alignment",
-    "url": "https://arxiv.org/abs/2504.07778",
+    "url": "https://doi.org/10.1103/fv6f-r9w9",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2025-04"
+    "published": "2025-09-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2504.07778",
+      "publication": "https://doi.org/10.1103/fv6f-r9w9"
+    }
   },
   {
     "id": "3e70d7e8aced1c65",
     "date": "2026-08-24",
     "title": "Active matter under control: Insights from response theory",
-    "url": "https://arxiv.org/abs/2305.11078",
+    "url": "https://doi.org/10.1103/physrevx.14.011012",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2023-05"
+    "published": "2024-02-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2305.11078",
+      "publication": "https://doi.org/10.1103/physrevx.14.011012"
+    }
   },
   {
     "id": "f4470a3ee5019c07",
     "date": "2026-08-24",
     "title": "Deep learning probability flows and entropy production rates in active matter",
-    "url": "https://arxiv.org/abs/2309.12991",
+    "url": "https://doi.org/10.1073/pnas.2318106121",
     "tags": [
-      "arXiv",
+      "Conference",
       "Active Matter"
     ],
-    "published": "2023-09"
+    "published": "2024-06-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2309.12991",
+      "publication": "https://doi.org/10.1073/pnas.2318106121"
+    }
   },
   {
     "id": "dbc55830c3a61a1d",
@@ -2969,7 +3850,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2024-11-19"
+    "published": "2024-11-19",
+    "links": {
+      "publication": "https://doi.org/10.1038/s42256-024-00918-3"
+    }
   },
   {
     "id": "92b6eba53ee7220b",
@@ -2980,7 +3864,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2020-06-25"
+    "published": "2020-06-25",
+    "links": {
+      "publication": "https://doi.org/10.3389/fphy.2020.00200"
+    }
   },
   {
     "id": "13b194226b8b60fa",
@@ -2991,18 +3878,25 @@
       "Conference",
       "Active Matter"
     ],
-    "published": "2023-02-10"
+    "published": "2023-02-10",
+    "links": {
+      "publication": "https://doi.org/10.1073/pnas.2206994120"
+    }
   },
   {
     "id": "968aa04a14848371",
     "date": "2026-08-24",
     "title": "Learning to Control Active Matter",
-    "url": "https://arxiv.org/abs/2105.04641",
+    "url": "https://doi.org/10.1103/physrevresearch.3.033291",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2021-05"
+    "published": "2021-09-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2105.04641",
+      "publication": "https://doi.org/10.1103/physrevresearch.3.033291"
+    }
   },
   {
     "id": "2624e1e69131305b",
@@ -3013,7 +3907,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2025-04-02"
+    "published": "2025-04-02",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41586-025-08744-2"
+    }
   },
   {
     "id": "d6eed589f725c1d2",
@@ -3024,18 +3921,25 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2025-03"
+    "published": "2025-03",
+    "links": {
+      "publication": "https://doi.org/10.1140/epje/s10189-024-00466-z"
+    }
   },
   {
     "id": "604445bde1900a99",
     "date": "2026-08-24",
     "title": "Optimal Control in Soft and Active Matter",
-    "url": "https://arxiv.org/abs/2504.08676",
+    "url": "https://doi.org/10.1146/annurev-conmatphys-031324-031350",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2025-04"
+    "published": "2026-03-13",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2504.08676",
+      "publication": "https://doi.org/10.1146/annurev-conmatphys-031324-031350"
+    }
   },
   {
     "id": "c60356ed39e9882a",
@@ -3045,7 +3949,10 @@
     "tags": [
       "Journal",
       "Active Matter"
-    ]
+    ],
+    "links": {
+      "publication": "https://cambridge.org/core/journals/programmable-materials/article/programmable-active-matter-across-scales/7832B782B4A52DFD0719F9D5DBB71ABF"
+    }
   },
   {
     "id": "913f9cbf33039eb7",
@@ -3056,18 +3963,25 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2021-03-17"
+    "published": "2021-03-17",
+    "links": {
+      "publication": "https://doi.org/10.1126/scirobotics.abd9285"
+    }
   },
   {
     "id": "cb0034d057552056",
     "date": "2026-08-24",
     "title": "Symmetry, Thermodynamics and Topology in Active Matter",
-    "url": "https://arxiv.org/abs/2107.00724",
+    "url": "https://doi.org/10.1103/physrevx.12.010501",
     "tags": [
-      "arXiv",
+      "Journal",
       "Active Matter"
     ],
-    "published": "2021-07"
+    "published": "2022-02-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2107.00724",
+      "publication": "https://doi.org/10.1103/physrevx.12.010501"
+    }
   },
   {
     "id": "1899272149a453cf",
@@ -3077,7 +3991,10 @@
     "tags": [
       "Journal",
       "Active Matter"
-    ]
+    ],
+    "links": {
+      "publication": "https://pubmed.ncbi.nlm.nih.gov/38951023"
+    }
   },
   {
     "id": "414046b36132d954",
@@ -3088,18 +4005,25 @@
       "arXiv",
       "Active Matter"
     ],
-    "published": "2025-07"
+    "published": "2025-07-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2507.21621"
+    }
   },
   {
     "id": "3526acd9c1713a6c",
     "date": "2026-08-24",
     "title": "Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes",
-    "url": "https://arxiv.org/abs/0812.4360",
+    "url": "https://doi.org/10.1007/978-3-642-02565-5_4",
     "tags": [
-      "arXiv",
+      "Conference",
       "World Models"
     ],
-    "published": "2008-12"
+    "published": "2009",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/0812.4360",
+      "publication": "https://doi.org/10.1007/978-3-642-02565-5_4"
+    }
   },
   {
     "id": "897f8f1177809141",
@@ -3110,7 +4034,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2016-12"
+    "published": "2016-12-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1612.00410"
+    }
   },
   {
     "id": "4d38daadaeb5b4d6",
@@ -3121,7 +4048,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2023-09"
+    "published": "2023-09-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2309.10668"
+    }
   },
   {
     "id": "5958e2ecc77fb0d7",
@@ -3132,7 +4062,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2024-03"
+    "published": "2024-03-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2403.00504"
+    }
   },
   {
     "id": "002e259088de9677",
@@ -3143,7 +4076,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2025-06"
+    "published": "2025-06-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.09985"
+    }
   },
   {
     "id": "0d7d5968a1175e12",
@@ -3154,7 +4090,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2025-10"
+    "published": "2025-10-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2510.16732"
+    }
   },
   {
     "id": "05d5d6c52c35510f",
@@ -3165,7 +4104,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2025-09"
+    "published": "2025-09-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2509.26327"
+    }
   },
   {
     "id": "f069379fcbb20834",
@@ -3176,7 +4118,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2026-02"
+    "published": "2026-02-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2602.24100"
+    }
   },
   {
     "id": "fad8258cd8949414",
@@ -3187,7 +4132,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2024-04"
+    "published": "2024-04-15",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2404.09937"
+    }
   },
   {
     "id": "3a1c7815e90418b3",
@@ -3198,18 +4146,25 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2024-02"
+    "published": "2024-02-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2402.00861"
+    }
   },
   {
     "id": "fa8d1f78ec39c516",
     "date": "2026-08-24",
     "title": "Gaussian Information Bottleneck and the Non-Perturbative Renormalization Group",
-    "url": "https://arxiv.org/abs/2107.13700",
+    "url": "https://doi.org/10.1088/1367-2630/ac395d",
     "tags": [
-      "arXiv",
+      "Journal",
       "World Models"
     ],
-    "published": "2021-07"
+    "published": "2022-03-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2107.13700",
+      "publication": "https://doi.org/10.1088/1367-2630/ac395d"
+    }
   },
   {
     "id": "43d8383ddfd3ce34",
@@ -3220,7 +4175,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2025-05"
+    "published": "2025-05-16",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2505.11441"
+    }
   },
   {
     "id": "376d6e92ced023d5",
@@ -3231,7 +4189,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2020-06"
+    "published": "2020-06-15",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2006.08558"
+    }
   },
   {
     "id": "6b3ebe959a8a7238",
@@ -3242,29 +4203,40 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2018-11"
+    "published": "2018-11-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1811.04551"
+    }
   },
   {
     "id": "2262ca7bc224406b",
     "date": "2026-08-24",
     "title": "Predictability, complexity and learning",
-    "url": "https://arxiv.org/abs/physics/0007070",
+    "url": "https://doi.org/10.1162/089976601753195969",
     "tags": [
-      "arXiv",
+      "Journal",
       "World Models"
     ],
-    "published": "2000-07"
+    "published": "2001-11-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/physics/0007070",
+      "publication": "https://doi.org/10.1162/089976601753195969"
+    }
   },
   {
     "id": "4a26e778bf20d796",
     "date": "2026-08-24",
     "title": "Relevance in the Renormalization Group and in Information Theory",
-    "url": "https://arxiv.org/abs/2012.01447",
+    "url": "https://doi.org/10.1103/physrevlett.126.240601",
     "tags": [
-      "arXiv",
+      "Journal",
       "Information Theory"
     ],
-    "published": "2020-12"
+    "published": "2021-06-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2012.01447",
+      "publication": "https://doi.org/10.1103/physrevlett.126.240601"
+    }
   },
   {
     "id": "5480901a1a13d3fc",
@@ -3275,7 +4247,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2000-04"
+    "published": "2000-04-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/physics/0004057"
+    }
   },
   {
     "id": "2fcf56099e45a899",
@@ -3286,29 +4261,40 @@
       "arXiv",
       "Information Theory"
     ],
-    "published": "2025-10"
+    "published": "2025-10-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2510.25883"
+    }
   },
   {
     "id": "dcd7f7faced75f74",
     "date": "2026-08-24",
     "title": "To Compress or Not to Compress- Self-Supervised Learning and Information Theory: A Review",
-    "url": "https://arxiv.org/abs/2304.09355",
+    "url": "https://doi.org/10.3390/e26030252",
     "tags": [
-      "arXiv",
+      "Journal",
       "Information Theory"
     ],
-    "published": "2023-04"
+    "published": "2024-03-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2304.09355",
+      "publication": "https://doi.org/10.3390/e26030252"
+    }
   },
   {
     "id": "9c814e3ecbd108ed",
     "date": "2026-08-24",
     "title": "Universal Intelligence: A Definition of Machine Intelligence",
-    "url": "https://arxiv.org/abs/0712.3329",
+    "url": "https://doi.org/10.1007/s11023-007-9079-x",
     "tags": [
-      "arXiv",
+      "Journal",
       "World Models"
     ],
-    "published": "2007-12"
+    "published": "2007-11-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/0712.3329",
+      "publication": "https://doi.org/10.1007/s11023-007-9079-x"
+    }
   },
   {
     "id": "b561221070c4d77d",
@@ -3319,7 +4305,10 @@
       "arXiv",
       "World Models"
     ],
-    "published": "2018-03"
+    "published": "2018-03-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1803.10122"
+    }
   },
   {
     "id": "511d970684a27575",
@@ -3330,7 +4319,10 @@
       "Journal",
       "Renormalization Group"
     ],
-    "published": "2018-03-26"
+    "published": "2018-03-26",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41567-018-0081-4"
+    }
   },
   {
     "id": "3e3bd7ec82a2c7f2",
@@ -3341,18 +4333,25 @@
       "arXiv",
       "Renormalization Group"
     ],
-    "published": "2014-10"
+    "published": "2014-10-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1410.3831"
+    }
   },
   {
     "id": "718dc1ac444b3183",
     "date": "2026-08-24",
     "title": "The RL Perceptron: Generalisation Dynamics of Policy Learning in High Dimensions",
-    "url": "https://arxiv.org/abs/2306.10404",
+    "url": "https://doi.org/10.1103/physrevx.15.021051",
     "tags": [
-      "arXiv",
+      "Journal",
       "Statistical Physics"
     ],
-    "published": "2023-06"
+    "published": "2025-05-13",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2306.10404",
+      "publication": "https://doi.org/10.1103/physrevx.15.021051"
+    }
   },
   {
     "id": "4031a860f6cbc640",
@@ -3363,7 +4362,10 @@
       "arXiv",
       "Statistical Physics"
     ],
-    "published": "2024-08"
+    "published": "2024-08-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2408.10205"
+    }
   },
   {
     "id": "a592ef38f18db604",
@@ -3374,7 +4376,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2021-03"
+    "published": "2021-03",
+    "links": {
+      "publication": "https://sciencedirect.com/science/article/pii/S0167278920308319"
+    }
   },
   {
     "id": "56bc183d58cbbde2",
@@ -3385,7 +4390,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2023-10"
+    "published": "2023-10",
+    "links": {
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10603022"
+    }
   },
   {
     "id": "087f80e139250b41",
@@ -3396,7 +4404,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2006-08-02"
+    "published": "2006-08-02",
+    "links": {
+      "publication": "https://doi.org/10.1103/physreve.74.022101"
+    }
   },
   {
     "id": "1db9d90525affb02",
@@ -3407,7 +4418,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2020-03-10"
+    "published": "2020-03-10",
+    "links": {
+      "publication": "https://doi.org/10.1038/s42254-020-0152-1"
+    }
   },
   {
     "id": "743c890458f9494f",
@@ -3418,7 +4432,10 @@
       "Journal",
       "Fluid Dynamics"
     ],
-    "published": "2022-12-16"
+    "published": "2022-12-16",
+    "links": {
+      "publication": "https://doi.org/10.1103/physrevlett.129.258001"
+    }
   },
   {
     "id": "390b8e9b9479daa3",
@@ -3428,7 +4445,10 @@
     "tags": [
       "Journal",
       "Active Matter"
-    ]
+    ],
+    "links": {
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5406137"
+    }
   },
   {
     "id": "1ae2eb274403f4be",
@@ -3438,7 +4458,10 @@
     "tags": [
       "Journal",
       "Active Matter"
-    ]
+    ],
+    "links": {
+      "publication": "https://sciencedirect.com/science/article/pii/S209580992200145X"
+    }
   },
   {
     "id": "53f0bbe1eb06ac49",
@@ -3449,7 +4472,10 @@
       "Journal",
       "Machine Learning"
     ],
-    "published": "2021-03"
+    "published": "2021-03",
+    "links": {
+      "publication": "https://sciencedirect.com/science/article/pii/S0021999120307592"
+    }
   },
   {
     "id": "8d02528b4e10e2a4",
@@ -3460,7 +4486,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2016-03-28"
+    "published": "2016-03-28",
+    "links": {
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4839439"
+    }
   },
   {
     "id": "c8d3e59a68e46938",
@@ -3471,7 +4500,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2024-01"
+    "published": "2024-01",
+    "links": {
+      "publication": "https://sciencedirect.com/science/article/abs/pii/S0045782523006369"
+    }
   },
   {
     "id": "8435903d8f185524",
@@ -3482,7 +4514,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2013-11"
+    "published": "2013-11",
+    "links": {
+      "publication": "https://doi.org/10.1038/nature12673"
+    }
   },
   {
     "id": "0a010fa07503f768",
@@ -3493,7 +4528,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2015-06-19"
+    "published": "2015-06-19",
+    "links": {
+      "publication": "https://doi.org/10.1038/ncomms8470"
+    }
   },
   {
     "id": "a31e711a0f0c5d20",
@@ -3504,7 +4542,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2009-10"
+    "published": "2009-10",
+    "links": {
+      "publication": "https://sciencedirect.com/science/article/abs/pii/S0375960109010172"
+    }
   },
   {
     "id": "b336bfda0ec9a9fc",
@@ -3515,7 +4556,10 @@
       "Journal",
       "Fluid Dynamics"
     ],
-    "published": "2020-02-28"
+    "published": "2020-02-28",
+    "links": {
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7219083"
+    }
   },
   {
     "id": "770220f9508b5e10",
@@ -3526,7 +4570,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2022-10"
+    "published": "2022-10",
+    "links": {
+      "publication": "https://sciencedirect.com/science/article/pii/S0005109822003454"
+    }
   },
   {
     "id": "11c38ab40d550f7d",
@@ -3537,7 +4584,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2011-03-16"
+    "published": "2011-03-16",
+    "links": {
+      "publication": "https://doi.org/10.1103/physreve.83.030901"
+    }
   },
   {
     "id": "36071a0581a1017d",
@@ -3547,7 +4597,10 @@
     "tags": [
       "Journal",
       "Fluid Dynamics"
-    ]
+    ],
+    "links": {
+      "publication": "https://sciencedirect.com/science/article/pii/S0021999124001189"
+    }
   },
   {
     "id": "37ebcfc7f9e65194",
@@ -3558,7 +4611,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2024-07-17"
+    "published": "2024-07-17",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41467-024-50378-x"
+    }
   },
   {
     "id": "6190d5a20eefd8cc",
@@ -3569,7 +4625,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2021-10-13"
+    "published": "2021-10-13",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41467-021-26202-1"
+    }
   },
   {
     "id": "b190514e354e6fa5",
@@ -3580,7 +4639,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2024-10-23"
+    "published": "2024-10-23",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41467-024-52878-2"
+    }
   },
   {
     "id": "c65ba3d17ce216b5",
@@ -3590,7 +4652,10 @@
     "tags": [
       "Journal",
       "Fluid Dynamics"
-    ]
+    ],
+    "links": {
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7958379"
+    }
   },
   {
     "id": "410bd81b48760e99",
@@ -3601,7 +4666,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2020-02-14"
+    "published": "2020-02-14",
+    "links": {
+      "publication": "https://doi.org/10.1038/s42256-020-0146-9"
+    }
   },
   {
     "id": "e59dd3f1b8f69ef0",
@@ -3611,7 +4679,10 @@
     "tags": [
       "Journal",
       "Active Matter"
-    ]
+    ],
+    "links": {
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10321743"
+    }
   },
   {
     "id": "3418e7b2e0b58e2b",
@@ -3622,7 +4693,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2021-10-21"
+    "published": "2021-10-21",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41467-021-26434-1"
+    }
   },
   {
     "id": "aa856c468aa42fde",
@@ -3633,7 +4707,10 @@
       "Journal",
       "Machine Learning"
     ],
-    "published": "2021-12"
+    "published": "2021-12",
+    "links": {
+      "publication": "https://sciencedirect.com/science/article/pii/S0021999121005714"
+    }
   },
   {
     "id": "52733712d33cf0cd",
@@ -3644,7 +4721,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2021-09-03"
+    "published": "2021-09-03",
+    "links": {
+      "publication": "https://pubmed.ncbi.nlm.nih.gov/34654183"
+    }
   },
   {
     "id": "8ae792fdc6e22ec9",
@@ -3655,7 +4735,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2022-12-15"
+    "published": "2022-12-15",
+    "links": {
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9755218"
+    }
   },
   {
     "id": "d592ab7cb81d857c",
@@ -3666,7 +4749,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2022-12-15"
+    "published": "2022-12-15",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41598-022-25638-9"
+    }
   },
   {
     "id": "05dd7873e0b06005",
@@ -3677,7 +4763,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2024-03-21"
+    "published": "2024-03-21",
+    "links": {
+      "publication": "https://doi.org/10.1103/physreve.109.034606"
+    }
   },
   {
     "id": "cd01d3578fe73e63",
@@ -3688,7 +4777,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2019-08"
+    "published": "2019-08",
+    "links": {
+      "publication": "https://sciencedirect.com/science/article/pii/S002178241930039X"
+    }
   },
   {
     "id": "ec6401f3ac40453e",
@@ -3699,7 +4791,10 @@
       "Journal",
       "Active Matter"
     ],
-    "published": "2023-08-04"
+    "published": "2023-08-04",
+    "links": {
+      "publication": "https://doi.org/10.1007/s00205-023-01903-7"
+    }
   },
   {
     "id": "1c62d958272af773",
@@ -3709,7 +4804,10 @@
     "tags": [
       "Journal",
       "Active Matter"
-    ]
+    ],
+    "links": {
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8570254"
+    }
   },
   {
     "id": "485b76318e41d653",
@@ -3720,18 +4818,25 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2019-10"
+    "published": "2019-09-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1910.00019"
+    }
   },
   {
     "id": "66fd1c074e372787",
     "date": "2026-08-24",
     "title": "Neural Networks and Quantum Field Theory",
-    "url": "https://arxiv.org/abs/2008.08601",
+    "url": "https://doi.org/10.1088/2632-2153/abeca3",
     "tags": [
-      "arXiv",
+      "Journal",
       "Field Theory"
     ],
-    "published": "2020-08"
+    "published": "2021-04-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2008.08601",
+      "publication": "https://doi.org/10.1088/2632-2153/abeca3"
+    }
   },
   {
     "id": "ed189695c2b2b746",
@@ -3742,18 +4847,25 @@
       "arXiv",
       "Field Theory"
     ],
-    "published": "2021-01"
+    "published": "2021-01-20",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2101.08176"
+    }
   },
   {
     "id": "3defde399fb7adf3",
     "date": "2026-08-24",
     "title": "Self-supervised Representation Learning With Path Integral Clustering For Speaker Diarization",
-    "url": "https://arxiv.org/abs/2104.09456",
+    "url": "https://doi.org/10.1109/taslp.2021.3075100",
     "tags": [
-      "arXiv",
+      "Journal",
       "Field Theory"
     ],
-    "published": "2021-04"
+    "published": "2021",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2104.09456",
+      "publication": "https://doi.org/10.1109/taslp.2021.3075100"
+    }
   },
   {
     "id": "1d621814988a5812",
@@ -3764,18 +4876,25 @@
       "arXiv",
       "Field Theory"
     ],
-    "published": "2021-11"
+    "published": "2021-11-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2111.15141"
+    }
   },
   {
     "id": "42643d6683734bf6",
     "date": "2026-08-24",
     "title": "Diffusion Autoencoders: Toward a Meaningful and Decodable Representation",
-    "url": "https://arxiv.org/abs/2111.15640",
+    "url": "https://doi.org/10.1109/cvpr52688.2022.01036",
     "tags": [
-      "arXiv",
+      "Conference",
       "Field Theory"
     ],
-    "published": "2021-11"
+    "published": "2022-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2111.15640",
+      "publication": "https://doi.org/10.1109/cvpr52688.2022.01036"
+    }
   },
   {
     "id": "d8d9c97e8215bdcb",
@@ -3786,7 +4905,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2022-10"
+    "published": "2022-10-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2210.02747"
+    }
   },
   {
     "id": "76d3033b1386cf39",
@@ -3797,18 +4919,25 @@
       "arXiv",
       "Field Theory"
     ],
-    "published": "2022-10"
+    "published": "2022-10-20",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2210.11058"
+    }
   },
   {
     "id": "79c5ae95f841f064",
     "date": "2026-08-24",
     "title": "Neural Network Field Theories: Non-Gaussianity, Actions, and Locality",
-    "url": "https://arxiv.org/abs/2307.03223",
+    "url": "https://doi.org/10.1088/2632-2153/ad17d3",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2023-07"
+    "published": "2024-01-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2307.03223",
+      "publication": "https://doi.org/10.1088/2632-2153/ad17d3"
+    }
   },
   {
     "id": "5b9a89dd6954b815",
@@ -3819,7 +4948,10 @@
       "arXiv",
       "Field Theory"
     ],
-    "published": "2023-08"
+    "published": "2023-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2308.05695"
+    }
   },
   {
     "id": "12e459e68d2179c9",
@@ -3830,29 +4962,40 @@
       "arXiv",
       "Field Theory"
     ],
-    "published": "2024-11"
+    "published": "2024-11-22",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2411.14863"
+    }
   },
   {
     "id": "ac099926b4ddd8a6",
     "date": "2026-08-24",
     "title": "BridgeShape: Latent Diffusion Schr\\\"odinger Bridge for 3D Shape Completion",
-    "url": "https://arxiv.org/abs/2506.23205",
+    "url": "https://doi.org/10.1609/aaai.v40i7.37493",
     "tags": [
-      "arXiv",
+      "Conference",
       "Field Theory"
     ],
-    "published": "2025-06"
+    "published": "2026-03-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.23205",
+      "publication": "https://doi.org/10.1609/aaai.v40i7.37493"
+    }
   },
   {
     "id": "48c4c9615019ef41",
     "date": "2026-08-24",
     "title": "Adaptive Path-Integral Autoencoder: Representation Learning and Planning for Dynamical Systems",
-    "url": "https://arxiv.org/abs/1807.02128",
+    "url": "https://doi.org/10.1088/1742-5468/ab3455",
     "tags": [
-      "arXiv",
+      "Journal",
       "Field Theory"
     ],
-    "published": "2018-07"
+    "published": "2019-12-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1807.02128",
+      "publication": "https://doi.org/10.1088/1742-5468/ab3455"
+    }
   },
   {
     "id": "8364a2a233d4ec9e",
@@ -3863,18 +5006,25 @@
       "Conference",
       "Generative Models"
     ],
-    "published": "2021"
+    "published": "2021",
+    "links": {
+      "publication": "https://proceedings.neurips.cc/paper_files/paper/2021/file/940392f5f32a7ade1cc201767cf83e31-Paper.pdf"
+    }
   },
   {
     "id": "7bf4c67140c643f3",
     "date": "2026-08-24",
     "title": "Flow-based sampling for fermionic lattice field theories",
-    "url": "https://arxiv.org/abs/2106.05934",
+    "url": "https://doi.org/10.1103/physrevd.104.114507",
     "tags": [
-      "arXiv",
+      "Journal",
       "Field Theory"
     ],
-    "published": "2021-06"
+    "published": "2021-12-15",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2106.05934",
+      "publication": "https://doi.org/10.1103/physrevd.104.114507"
+    }
   },
   {
     "id": "3c07c1608916f3ba",
@@ -3885,18 +5035,25 @@
       "arXiv",
       "Field Theory"
     ],
-    "published": "2020-05"
+    "published": "2020-05-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2005.03648"
+    }
   },
   {
     "id": "47b9d5c3c37edcd4",
     "date": "2026-08-24",
     "title": "Solving the Quantum Many-Body Problem with Artificial Neural Networks",
-    "url": "https://arxiv.org/abs/1606.02318",
+    "url": "https://doi.org/10.1126/science.aag2302",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2016-06"
+    "published": "2017-02-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1606.02318",
+      "publication": "https://doi.org/10.1126/science.aag2302"
+    }
   },
   {
     "id": "d370dbf7389a2607",
@@ -3907,7 +5064,10 @@
       "Conference",
       "Field Theory"
     ],
-    "published": "2024"
+    "published": "2024",
+    "links": {
+      "publication": "https://proceedings.mlr.press/v235/hirono24a.html"
+    }
   },
   {
     "id": "973f8c462f936860",
@@ -3918,7 +5078,10 @@
       "arXiv",
       "Renormalization Group"
     ],
-    "published": "2020-11"
+    "published": "2020-11-26",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2011.13456"
+    }
   },
   {
     "id": "e2f9f7c34d2ecd6e",
@@ -3929,7 +5092,10 @@
       "arXiv",
       "Statistical Physics"
     ],
-    "published": "2016-11"
+    "published": "2016-11-04",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1611.01232"
+    }
   },
   {
     "id": "f7567078898c3449",
@@ -3940,29 +5106,40 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2017-11"
+    "published": "2017-11-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1711.00165"
+    }
   },
   {
     "id": "bddffd6b3fd137d7",
     "date": "2026-08-24",
     "title": "A Mean Field View of the Landscape of Two-Layers Neural Networks",
-    "url": "https://arxiv.org/abs/1804.06561",
+    "url": "https://doi.org/10.1073/pnas.1806579115",
     "tags": [
-      "arXiv",
+      "Conference",
       "Machine Learning"
     ],
-    "published": "2018-04"
+    "published": "2018-07-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1804.06561",
+      "publication": "https://doi.org/10.1073/pnas.1806579115"
+    }
   },
   {
     "id": "227f376aa23c3384",
     "date": "2026-08-24",
     "title": "A Mean-Field Optimal Control Formulation of Deep Learning",
-    "url": "https://arxiv.org/abs/1807.01083",
+    "url": "https://doi.org/10.1007/s40687-018-0172-y",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2018-07"
+    "published": "2018-12-13",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1807.01083",
+      "publication": "https://doi.org/10.1007/s40687-018-0172-y"
+    }
   },
   {
     "id": "596df03cebf8e81d",
@@ -3973,7 +5150,10 @@
       "arXiv",
       "Statistical Physics"
     ],
-    "published": "2022-02"
+    "published": "2022-02-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2202.00553"
+    }
   },
   {
     "id": "967d799a2604e1f8",
@@ -3984,7 +5164,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2018-06"
+    "published": "2018-06-20",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1806.07572"
+    }
   },
   {
     "id": "7d4e1f2895b79b9b",
@@ -3994,7 +5177,10 @@
     "tags": [
       "Journal",
       "Statistical Physics"
-    ]
+    ],
+    "links": {
+      "publication": "https://jmlr.org/papers/v22/20-1288.html"
+    }
   },
   {
     "id": "e09961a5caff848f",
@@ -4004,7 +5190,10 @@
     "tags": [
       "OpenReview",
       "Machine Learning"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/forum?id=17pVDnpwwl"
+    }
   },
   {
     "id": "633ee36ab4dd4efe",
@@ -4015,7 +5204,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2018-06"
+    "published": "2018-06-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1806.07366"
+    }
   },
   {
     "id": "eaaf43f1277a07d8",
@@ -4026,7 +5218,10 @@
       "arXiv",
       "Machine Learning"
     ],
-    "published": "2019-02"
+    "published": "2019-02-16",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1902.06015"
+    }
   },
   {
     "id": "0ed3c8d2f7130e28",
@@ -4037,7 +5232,10 @@
       "Journal",
       "AI for Science"
     ],
-    "published": "2024-01-29"
+    "published": "2024-01-29",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41467-024-44856-5"
+    }
   },
   {
     "id": "40f4f3a520795df4",
@@ -4048,7 +5246,10 @@
       "Journal",
       "AI for Science"
     ],
-    "published": "2024-03-12"
+    "published": "2024-03-12",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41928-024-01133-z"
+    }
   },
   {
     "id": "ce900e20f76ed5c2",
@@ -4059,7 +5260,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2026-03"
+    "published": "2026-03-26",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2603.26800"
+    }
   },
   {
     "id": "ec2cb6f81cdd58d9",
@@ -4070,7 +5274,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2020-10"
+    "published": "2020-10-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2010.08895"
+    }
   },
   {
     "id": "0bee563c36d224a2",
@@ -4081,18 +5288,25 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2026-02"
+    "published": "2026-02-15",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2602.14011"
+    }
   },
   {
     "id": "27be254755870b20",
     "date": "2026-08-24",
     "title": "Neural Stochastic PDEs: Resolution-Invariant Learning of Continuous Spatiotemporal Dynamics",
-    "url": "https://arxiv.org/abs/2110.10249",
+    "url": "https://doi.org/10.52202/068431-0098",
     "tags": [
-      "arXiv",
+      "Conference",
       "Neural Operators"
     ],
-    "published": "2021-10"
+    "published": "2022",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2110.10249",
+      "publication": "https://doi.org/10.52202/068431-0098"
+    }
   },
   {
     "id": "c7a5d345af0bbe98",
@@ -4103,7 +5317,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2025-02"
+    "published": "2025-02-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2502.12902"
+    }
   },
   {
     "id": "5741dd405b567ba7",
@@ -4114,7 +5331,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2023-02"
+    "published": "2023-02-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2302.07400"
+    }
   },
   {
     "id": "5c6b1c9b793b7001",
@@ -4125,7 +5345,10 @@
       "arXiv",
       "Neural Operators"
     ],
-    "published": "2026-02"
+    "published": "2026-02-21",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2602.18801"
+    }
   },
   {
     "id": "63171e6a4b189239",
@@ -4136,7 +5359,10 @@
       "Journal",
       "Machine Learning"
     ],
-    "published": "2026-01-08"
+    "published": "2026-01-08",
+    "links": {
+      "publication": "https://doi.org/10.1103/yfb3-fgf2"
+    }
   },
   {
     "id": "8acf20b062a73f83",
@@ -4147,7 +5373,10 @@
       "Journal",
       "Machine Learning"
     ],
-    "published": "2026-03-31"
+    "published": "2026-03-31",
+    "links": {
+      "publication": "https://doi.org/10.1103/k6f7-gtr7"
+    }
   },
   {
     "id": "f9013ded711d08ef",
@@ -4158,7 +5387,10 @@
       "Journal",
       "Machine Learning"
     ],
-    "published": "2025-04-30"
+    "published": "2025-04-30",
+    "links": {
+      "publication": "https://doi.org/10.1103/physrevlett.134.177301"
+    }
   },
   {
     "id": "f3e6efb4e89a1e17",
@@ -4169,40 +5401,55 @@
       "arXiv",
       "Renormalization Group"
     ],
-    "published": "2015-03"
+    "published": "2015-03-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1503.03585"
+    }
   },
   {
     "id": "baf3f2b22980bf29",
     "date": "2026-08-24",
     "title": "Explaining Neural Scaling Laws",
-    "url": "https://arxiv.org/abs/2102.06701",
+    "url": "https://doi.org/10.1073/pnas.2311878121",
     "tags": [
-      "arXiv",
+      "Conference",
       "Scaling Laws"
     ],
-    "published": "2021-02"
+    "published": "2024-06-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2102.06701",
+      "publication": "https://doi.org/10.1073/pnas.2311878121"
+    }
   },
   {
     "id": "bcd11d0a54fedb0e",
     "date": "2026-08-24",
     "title": "Neural Network Renormalization Group",
-    "url": "https://arxiv.org/abs/1802.02840",
+    "url": "https://doi.org/10.1103/physrevlett.121.260601",
     "tags": [
-      "arXiv",
+      "Journal",
       "Renormalization Group"
     ],
-    "published": "2018-02"
+    "published": "2018-12-26",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1802.02840",
+      "publication": "https://doi.org/10.1103/physrevlett.121.260601"
+    }
   },
   {
     "id": "ef2edf90e2952e25",
     "date": "2026-08-24",
     "title": "RG-Flow: A hierarchical and explainable flow model based on renormalization group and sparse prior",
-    "url": "https://arxiv.org/abs/2010.00029",
+    "url": "https://doi.org/10.1088/2632-2153/ac8393",
     "tags": [
-      "arXiv",
+      "Journal",
       "Renormalization Group"
     ],
-    "published": "2020-10"
+    "published": "2022-08-03",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2010.00029",
+      "publication": "https://doi.org/10.1088/2632-2153/ac8393"
+    }
   },
   {
     "id": "e224d89f844755a5",
@@ -4213,7 +5460,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2023-08"
+    "published": "2023-08-23",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2308.12355"
+    }
   },
   {
     "id": "500a6d5ef3a90190",
@@ -4224,7 +5474,10 @@
       "arXiv",
       "Renormalization Group"
     ],
-    "published": "2023-05"
+    "published": "2023-05-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2305.13266"
+    }
   },
   {
     "id": "7fc155cd48360cde",
@@ -4234,7 +5487,10 @@
     "tags": [
       "Journal",
       "Renormalization Group"
-    ]
+    ],
+    "links": {
+      "publication": "https://sciencedirect.com/science/article/pii/S037843711100642X"
+    }
   },
   {
     "id": "2ab2bcae7eb34580",
@@ -4245,7 +5501,10 @@
       "Journal",
       "Renormalization Group"
     ],
-    "published": "2022-09-13"
+    "published": "2022-09-13",
+    "links": {
+      "publication": "https://doi.org/10.1103/physrevd.106.065013"
+    }
   },
   {
     "id": "f79a10f0333402b4",
@@ -4256,7 +5515,10 @@
       "Journal",
       "Renormalization Group"
     ],
-    "published": "2020-02-14"
+    "published": "2020-02-14",
+    "links": {
+      "publication": "https://doi.org/10.1103/physrevx.10.011037"
+    }
   },
   {
     "id": "1828d76c91e190d7",
@@ -4267,7 +5529,10 @@
       "Journal",
       "Renormalization Group"
     ],
-    "published": "2015-05"
+    "published": "2015-05",
+    "links": {
+      "publication": "https://doi.org/10.1007/jhep05(2015)104"
+    }
   },
   {
     "id": "a57e23586f7b3bdb",
@@ -4278,7 +5543,10 @@
       "Journal",
       "Information Theory"
     ],
-    "published": "2021-12-06"
+    "published": "2021-12-06",
+    "links": {
+      "publication": "https://doi.org/10.1103/physrevlett.127.240603"
+    }
   },
   {
     "id": "8d2c96b69f64b78d",
@@ -4289,7 +5557,10 @@
       "Journal",
       "Renormalization Group"
     ],
-    "published": "2024-05-07"
+    "published": "2024-05-07",
+    "links": {
+      "publication": "https://doi.org/10.1007/jhep05(2024)060"
+    }
   },
   {
     "id": "5907a6891e0aea7f",
@@ -4299,7 +5570,10 @@
     "tags": [
       "OpenReview",
       "Renormalization Group"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/forum?id=zn0eqMtsrw"
+    }
   },
   {
     "id": "a5d8a5efa902df8d",
@@ -4310,7 +5584,10 @@
       "Journal",
       "Renormalization Group"
     ],
-    "published": "2023-03-20"
+    "published": "2023-03-20",
+    "links": {
+      "publication": "https://doi.org/10.1103/physrevd.107.l051504"
+    }
   },
   {
     "id": "b86455323b635ac8",
@@ -4321,7 +5598,10 @@
       "Journal",
       "Renormalization Group"
     ],
-    "published": "2026-03-11"
+    "published": "2026-03-11",
+    "links": {
+      "publication": "https://doi.org/10.1007/jhep03(2026)111"
+    }
   },
   {
     "id": "9185034ca2d581a8",
@@ -4332,7 +5612,10 @@
       "Journal",
       "Renormalization Group"
     ],
-    "published": "2021"
+    "published": "2021",
+    "links": {
+      "publication": "https://academic.oup.com/ptep/article/2021/2/023B02/6020279"
+    }
   },
   {
     "id": "71b518265b03b2fb",
@@ -4343,7 +5626,10 @@
       "Journal",
       "Flow Matching"
     ],
-    "published": "2023"
+    "published": "2023",
+    "links": {
+      "publication": "https://jmlr.org/beta/papers/v26/23-1605.html"
+    }
   },
   {
     "id": "f1774dbbf19ceda8",
@@ -4354,7 +5640,10 @@
       "Journal",
       "Renormalization Group"
     ],
-    "published": "2020-01-28"
+    "published": "2020-01-28",
+    "links": {
+      "publication": "https://doi.org/10.1007/jhep01(2020)172"
+    }
   },
   {
     "id": "f556c7709f95836f",
@@ -4365,18 +5654,25 @@
       "Conference",
       "Generative Models"
     ],
-    "published": "2022"
+    "published": "2022",
+    "links": {
+      "publication": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/03474669b759f6d38cdca6fb4eb905f4-Abstract-Conference.html"
+    }
   },
   {
     "id": "c39c676b928a264f",
     "date": "2026-08-24",
     "title": "Is Deep Learning a Renormalization Group Flow?",
-    "url": "https://arxiv.org/abs/1906.05212",
+    "url": "https://doi.org/10.1109/access.2020.3000901",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2019-06"
+    "published": "2020",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1906.05212",
+      "publication": "https://doi.org/10.1109/access.2020.3000901"
+    }
   },
   {
     "id": "e2efca2cc8ff49ce",
@@ -4387,18 +5683,25 @@
       "arXiv",
       "Training Dynamics"
     ],
-    "published": "2020-02"
+    "published": "2020-02-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2002.03495"
+    }
   },
   {
     "id": "b6ca098cb4d12fdb",
     "date": "2026-08-24",
     "title": "Bayesian RG Flow in Neural Network Field Theories",
-    "url": "https://arxiv.org/abs/2405.17538",
+    "url": "https://doi.org/10.21468/scipostphyscore.8.1.027",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2024-05"
+    "published": "2025-03-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2405.17538",
+      "publication": "https://doi.org/10.21468/scipostphyscore.8.1.027"
+    }
   },
   {
     "id": "3f027a13f14d1e56",
@@ -4409,7 +5712,10 @@
       "arXiv",
       "Training Dynamics"
     ],
-    "published": "2026-03"
+    "published": "2026-03-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2603.27880"
+    }
   },
   {
     "id": "785b72b087f4ceeb",
@@ -4419,7 +5725,10 @@
     "tags": [
       "OpenReview",
       "Training Dynamics"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/forum?id=ceIBRhJpUr"
+    }
   },
   {
     "id": "53f45db2a0ac7222",
@@ -4429,18 +5738,25 @@
     "tags": [
       "OpenReview",
       "Training Dynamics"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/forum?id=FVQzqSIJcC"
+    }
   },
   {
     "id": "31835a0579aa03b0",
     "date": "2026-08-24",
     "title": "Bayesian Renormalization",
-    "url": "https://arxiv.org/abs/2305.10491",
+    "url": "https://doi.org/10.1088/2632-2153/ad0102",
     "tags": [
-      "arXiv",
+      "Journal",
       "Training Dynamics"
     ],
-    "published": "2023-05"
+    "published": "2023-10-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2305.10491",
+      "publication": "https://doi.org/10.1088/2632-2153/ad0102"
+    }
   },
   {
     "id": "de7541eb8ecbcd8f",
@@ -4450,18 +5766,25 @@
     "tags": [
       "OpenReview",
       "Training Dynamics"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/forum?id=dEypApI1MZ"
+    }
   },
   {
     "id": "a380a4d5043e88ad",
     "date": "2026-08-24",
     "title": "Renormalization Group flow, Optimal Transport and Diffusion-based Generative Model",
-    "url": "https://arxiv.org/abs/2402.17090",
+    "url": "https://doi.org/10.1103/physreve.111.015304",
     "tags": [
-      "arXiv",
+      "Journal",
       "Renormalization Group"
     ],
-    "published": "2024-02"
+    "published": "2025-01-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2402.17090",
+      "publication": "https://doi.org/10.1103/physreve.111.015304"
+    }
   },
   {
     "id": "e61f03c44e0d83b5",
@@ -4471,18 +5794,25 @@
     "tags": [
       "OpenReview",
       "Machine Learning"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/forum?id=Q3yLIIkt7z"
+    }
   },
   {
     "id": "c8ad8d9f9e693da1",
     "date": "2026-08-24",
     "title": "The Inverse of Exact Renormalization Group Flows as Statistical Inference",
-    "url": "https://arxiv.org/abs/2212.11379",
+    "url": "https://doi.org/10.3390/e26050389",
     "tags": [
-      "arXiv",
+      "Journal",
       "Training Dynamics"
     ],
-    "published": "2022-12"
+    "published": "2024-04-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2212.11379",
+      "publication": "https://doi.org/10.3390/e26050389"
+    }
   },
   {
     "id": "d65f26b6af5cd650",
@@ -4492,18 +5822,25 @@
     "tags": [
       "OpenReview",
       "Machine Learning"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/forum?id=LD0W6HEwsq"
+    }
   },
   {
     "id": "a88b9bb69dd7ec7c",
     "date": "2026-08-24",
     "title": "Wilsonian Renormalization of Neural Network Gaussian Processes",
-    "url": "https://arxiv.org/abs/2405.06008",
+    "url": "https://doi.org/10.1088/2632-2153/adc8fc",
     "tags": [
-      "arXiv",
+      "Journal",
       "Machine Learning"
     ],
-    "published": "2024-05"
+    "published": "2025-05-21",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2405.06008",
+      "publication": "https://doi.org/10.1088/2632-2153/adc8fc"
+    }
   },
   {
     "id": "3ea17d1258ea9b9b",
@@ -4514,7 +5851,10 @@
       "arXiv",
       "Transformer Theory"
     ],
-    "published": "2025-01"
+    "published": "2025-01-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2501.18322"
+    }
   },
   {
     "id": "736b3f9c1f275b31",
@@ -4525,7 +5865,10 @@
       "Conference",
       "Transformer Theory"
     ],
-    "published": "2024"
+    "published": "2024",
+    "links": {
+      "publication": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/d18d208fa9c333483e5724ade7beff0f-Abstract-Conference.html"
+    }
   },
   {
     "id": "19b49abae7d3c238",
@@ -4536,7 +5879,10 @@
       "arXiv",
       "Transformer Theory"
     ],
-    "published": "2024-06"
+    "published": "2024-06-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2406.07247"
+    }
   },
   {
     "id": "94bdcd00b170e8be",
@@ -4547,7 +5893,10 @@
       "Conference",
       "Transformer Theory"
     ],
-    "published": "2025"
+    "published": "2025",
+    "links": {
+      "publication": "https://proceedings.mlr.press/v267/nait-saada25a.html"
+    }
   },
   {
     "id": "b378b5e0070cf951",
@@ -4558,7 +5907,10 @@
       "Conference",
       "Transformer Theory"
     ],
-    "published": "2025"
+    "published": "2025",
+    "links": {
+      "publication": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c82ad2a73009cbde6da1ce6ba572e687-Abstract-Conference.html"
+    }
   },
   {
     "id": "982fc46bbe09aee7",
@@ -4569,7 +5921,10 @@
       "Conference",
       "Transformer Theory"
     ],
-    "published": "2025"
+    "published": "2025",
+    "links": {
+      "publication": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/cca569b38ec3612904e625dad7a743dc-Abstract-Conference.html"
+    }
   },
   {
     "id": "9caed7beb916e4e6",
@@ -4580,18 +5935,25 @@
       "arXiv",
       "Transformer Theory"
     ],
-    "published": "2026-07"
+    "published": "2026-07-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2607.24502"
+    }
   },
   {
     "id": "bc1bcd4f795ee4f1",
     "date": "2026-08-24",
     "title": "The Mean-Field Dynamics of Transformers",
-    "url": "https://arxiv.org/abs/2512.01868",
+    "url": "https://doi.org/10.1137/25m1826342",
     "tags": [
-      "arXiv",
+      "Conference",
       "Transformer Theory"
     ],
-    "published": "2025-12"
+    "published": "2026-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2512.01868",
+      "publication": "https://doi.org/10.1137/25m1826342"
+    }
   },
   {
     "id": "18f39c24e7e7af25",
@@ -4602,7 +5964,10 @@
       "Conference",
       "Transformer Theory"
     ],
-    "published": "2025"
+    "published": "2025",
+    "links": {
+      "publication": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/2cf63608d264a3c65e68e3cff860c152-Abstract-Conference.html"
+    }
   },
   {
     "id": "1f9c1585090b9ff6",
@@ -4613,7 +5978,10 @@
       "arXiv",
       "Video Generation"
     ],
-    "published": "2025-06"
+    "published": "2025-06-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.19774"
+    }
   },
   {
     "id": "4d124aa87b3150b9",
@@ -4624,7 +5992,10 @@
       "arXiv",
       "Video Generation"
     ],
-    "published": "2026-01"
+    "published": "2026-01-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2601.09881"
+    }
   },
   {
     "id": "91c76234d9010370",
@@ -4635,18 +6006,25 @@
       "arXiv",
       "Video Generation"
     ],
-    "published": "2026-04"
+    "published": "2026-04-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2604.08121"
+    }
   },
   {
     "id": "e1b182ad373c34ce",
     "date": "2026-08-24",
     "title": "Mean Flows for One-step Generative Modeling",
-    "url": "https://arxiv.org/abs/2505.13447",
+    "url": "https://doi.org/10.52202/085713-2534",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2025-05"
+    "published": "2025",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2505.13447",
+      "publication": "https://doi.org/10.52202/085713-2534"
+    }
   },
   {
     "id": "fb8db72307cc1235",
@@ -4657,29 +6035,40 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2025-06"
+    "published": "2025-06-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.02070"
+    }
   },
   {
     "id": "1e7ab669566f4671",
     "date": "2026-08-24",
     "title": "E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS",
-    "url": "https://arxiv.org/abs/2406.18009",
+    "url": "https://doi.org/10.1109/slt61566.2024.10832320",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2024-06"
+    "published": "2024-12-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2406.18009",
+      "publication": "https://doi.org/10.1109/slt61566.2024.10832320"
+    }
   },
   {
     "id": "5a5c48abbfd99710",
     "date": "2026-08-24",
     "title": "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching",
-    "url": "https://arxiv.org/abs/2410.06885",
+    "url": "https://doi.org/10.18653/v1/2025.acl-long.313",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2024-10"
+    "published": "2025",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.06885",
+      "publication": "https://doi.org/10.18653/v1/2025.acl-long.313"
+    }
   },
   {
     "id": "4588018251b028ad",
@@ -4690,7 +6079,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-10"
+    "published": "2024-10-25",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.19310"
+    }
   },
   {
     "id": "b6461f61b11c37b8",
@@ -4701,7 +6093,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-06"
+    "published": "2024-06-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2406.13839"
+    }
   },
   {
     "id": "e5e88baa93da03e9",
@@ -4712,7 +6107,10 @@
       "Journal",
       "Flow Matching"
     ],
-    "published": "2026-01-31"
+    "published": "2026-01-31",
+    "links": {
+      "publication": "https://doi.org/10.1038/s44387-025-00066-y"
+    }
   },
   {
     "id": "b4d7d95594eedfb6",
@@ -4723,7 +6121,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2025-06"
+    "published": "2025-06-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.15742"
+    }
   },
   {
     "id": "0860001a6e00e36b",
@@ -4734,7 +6135,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-02"
+    "published": "2024-02-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2402.04997"
+    }
   },
   {
     "id": "d907caff0751c3dd",
@@ -4745,7 +6149,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-12"
+    "published": "2024-12-03",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2412.03603"
+    }
   },
   {
     "id": "6e0256f42a0788c0",
@@ -4756,7 +6163,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-01"
+    "published": "2024-01-08",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2401.04082"
+    }
   },
   {
     "id": "03c470e1a0129ba7",
@@ -4767,7 +6177,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2023-02"
+    "published": "2023-02-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2302.00482"
+    }
   },
   {
     "id": "2d6699167b3ea0b5",
@@ -4778,7 +6191,10 @@
       "Conference",
       "Flow Matching"
     ],
-    "published": "2024"
+    "published": "2024",
+    "links": {
+      "publication": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc8f76d9caadd48f77025b1c889d2e2d-Abstract-Conference.html"
+    }
   },
   {
     "id": "7b0c3330f1be25c0",
@@ -4789,18 +6205,25 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-03"
+    "published": "2024-03-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2403.03206"
+    }
   },
   {
     "id": "d3593ea6cb44205b",
     "date": "2026-08-24",
     "title": "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers",
-    "url": "https://arxiv.org/abs/2401.08740",
+    "url": "https://doi.org/10.1007/978-3-031-72980-5_2",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2024-01"
+    "published": "2024",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2401.08740",
+      "publication": "https://doi.org/10.1007/978-3-031-72980-5_2"
+    }
   },
   {
     "id": "7cc62f0d37b6d5c2",
@@ -4811,7 +6234,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2026-02"
+    "published": "2026-02-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2602.05435"
+    }
   },
   {
     "id": "f5723426304434a6",
@@ -4822,29 +6248,40 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2026-04"
+    "published": "2026-04-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2604.16079"
+    }
   },
   {
     "id": "a22a128c6c4c47c2",
     "date": "2026-08-24",
     "title": "Discrete Flow Matching",
-    "url": "https://arxiv.org/abs/2407.15595",
+    "url": "https://doi.org/10.52202/079017-4239",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2024-07"
+    "published": "2024",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2407.15595",
+      "publication": "https://doi.org/10.52202/079017-4239"
+    }
   },
   {
     "id": "4ff2d8a087e1ef50",
     "date": "2026-08-24",
     "title": "Improving the Training of Rectified Flows",
-    "url": "https://arxiv.org/abs/2405.20320",
+    "url": "https://doi.org/10.52202/079017-2014",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2024-05"
+    "published": "2024",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2405.20320",
+      "publication": "https://doi.org/10.52202/079017-2014"
+    }
   },
   {
     "id": "10188947fb0a358a",
@@ -4855,7 +6292,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-10"
+    "published": "2024-10-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.13720"
+    }
   },
   {
     "id": "525f635323cc836e",
@@ -4866,7 +6306,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-10"
+    "published": "2024-10-08",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.05954"
+    }
   },
   {
     "id": "dfc81cbdbbcf1b33",
@@ -4876,7 +6319,10 @@
     "tags": [
       "OpenReview",
       "Flow Matching"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/pdf/6dcf56ae64ecd6ffb39c0b5f3064025b9e2a297a.pdf"
+    }
   },
   {
     "id": "af0b5a5bd95c883c",
@@ -4886,18 +6332,25 @@
     "tags": [
       "OpenReview",
       "Flow Matching"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/pdf?id=KPRIwWhqAZ"
+    }
   },
   {
     "id": "0a1de0252faf9272",
     "date": "2026-08-24",
     "title": "Eyring-Kramers exit rates for the overdamped Langevin dynamics: the case with saddle points on the boundary",
-    "url": "https://arxiv.org/abs/2207.09284",
+    "url": "https://doi.org/10.5802/jep.303",
     "tags": [
-      "arXiv",
+      "Journal",
       "Flow Matching"
     ],
-    "published": "2022-07"
+    "published": "2025-06-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2207.09284",
+      "publication": "https://doi.org/10.5802/jep.303"
+    }
   },
   {
     "id": "124ba7342af02f26",
@@ -4908,7 +6361,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2021-06"
+    "published": "2021-06-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2106.07582"
+    }
   },
   {
     "id": "779731ba4665f15c",
@@ -4919,7 +6375,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2022-06"
+    "published": "2022-06-21",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2206.13397"
+    }
   },
   {
     "id": "1123e0812adab953",
@@ -4930,7 +6389,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2022-08"
+    "published": "2022-08-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2208.09392"
+    }
   },
   {
     "id": "3e6cded2f0754313",
@@ -4941,29 +6403,40 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2022-09"
+    "published": "2022-09-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2209.05557"
+    }
   },
   {
     "id": "0a9cdf115b6fa0ad",
     "date": "2026-08-24",
     "title": "Timewarp: Transferable Acceleration of Molecular Dynamics by Learning Time-Coarsened Dynamics",
-    "url": "https://arxiv.org/abs/2302.01170",
+    "url": "https://doi.org/10.52202/075280-2300",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2023-02"
+    "published": "2023",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2302.01170",
+      "publication": "https://doi.org/10.52202/075280-2300"
+    }
   },
   {
     "id": "bb22eac7e125b74a",
     "date": "2026-08-24",
     "title": "Generative Modeling of Molecular Dynamics Trajectories",
-    "url": "https://arxiv.org/abs/2409.17808",
+    "url": "https://doi.org/10.52202/079017-1282",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2024-09"
+    "published": "2024",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2409.17808",
+      "publication": "https://doi.org/10.52202/079017-1282"
+    }
   },
   {
     "id": "e7da69e250c4b5fa",
@@ -4974,7 +6447,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2025-04"
+    "published": "2025-04-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2504.19353"
+    }
   },
   {
     "id": "1fc69cf0b30d65c8",
@@ -4985,7 +6461,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2025-05"
+    "published": "2025-05-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2505.18647"
+    }
   },
   {
     "id": "dd2c72d8e038972e",
@@ -4996,7 +6475,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2025-12"
+    "published": "2025-12-20",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2512.18184"
+    }
   },
   {
     "id": "0f11a8b5baa4378b",
@@ -5007,18 +6489,25 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2026-03"
+    "published": "2026-03-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2603.18992"
+    }
   },
   {
     "id": "4051502ebe7750f5",
     "date": "2026-08-24",
     "title": "Non-Perturbative Renormalization Flow in Quantum Field Theory and Statistical Physics",
-    "url": "https://arxiv.org/abs/hep-ph/0005122",
+    "url": "https://doi.org/10.1016/s0370-1573(01)00098-9",
     "tags": [
-      "arXiv",
+      "Journal",
       "Renormalization Group"
     ],
-    "published": "2000-05"
+    "published": "2002-06",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/hep-ph/0005122",
+      "publication": "https://doi.org/10.1016/s0370-1573(01)00098-9"
+    }
   },
   {
     "id": "a225a99d3c053189",
@@ -5029,7 +6518,10 @@
       "arXiv",
       "Renormalization Group"
     ],
-    "published": "2014-05"
+    "published": "2014-05-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/1405.0791"
+    }
   },
   {
     "id": "5a728f10a769abb4",
@@ -5040,7 +6532,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2026-01"
+    "published": "2026-01-15",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2601.10221"
+    }
   },
   {
     "id": "16deea2a8042b097",
@@ -5050,7 +6545,10 @@
     "tags": [
       "OpenReview",
       "Flow Matching"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/forum?id=QwoGfQzuMa&noteId=GFnC8jkkEK"
+    }
   },
   {
     "id": "d45bc2d69a4c687d",
@@ -5061,7 +6559,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-05"
+    "published": "2024-05-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2405.00751"
+    }
   },
   {
     "id": "6e321ad478528686",
@@ -5072,18 +6573,25 @@
       "Journal",
       "Flow Matching"
     ],
-    "published": "2026-04-06"
+    "published": "2026-04-06",
+    "links": {
+      "publication": "https://doi.org/10.1038/s41598-026-47071-y"
+    }
   },
   {
     "id": "9b4652cee4d4eb75",
     "date": "2026-08-24",
     "title": "Geometric Trajectory Diffusion Models",
-    "url": "https://arxiv.org/abs/2410.13027",
+    "url": "https://doi.org/10.52202/079017-0806",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2024-10"
+    "published": "2024",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.13027",
+      "publication": "https://doi.org/10.52202/079017-0806"
+    }
   },
   {
     "id": "f23761c03fd9497a",
@@ -5094,7 +6602,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-10"
+    "published": "2024-10-03",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.02667"
+    }
   },
   {
     "id": "f238cf2cfef0f82c",
@@ -5105,7 +6616,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2026-01"
+    "published": "2026-01-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2601.22033"
+    }
   },
   {
     "id": "00472db0f830a014",
@@ -5116,7 +6630,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2023-04"
+    "published": "2023-04-28",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2304.14772"
+    }
   },
   {
     "id": "9432ed74757674e5",
@@ -5127,40 +6644,55 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2024-06"
+    "published": "2024-06-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2406.07507"
+    }
   },
   {
     "id": "615f6599bf75c065",
     "date": "2026-08-24",
     "title": "Exact Renormalization Group Equations. An Introductory Review",
-    "url": "https://arxiv.org/abs/hep-th/0002034",
+    "url": "https://doi.org/10.1016/s0370-1573(00)00137-x",
     "tags": [
-      "arXiv",
+      "Journal",
       "Renormalization Group"
     ],
-    "published": "2000-02"
+    "published": "2001-07",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/hep-th/0002034",
+      "publication": "https://doi.org/10.1016/s0370-1573(00)00137-x"
+    }
   },
   {
     "id": "ae6b8a193d3649c7",
     "date": "2026-08-24",
     "title": "How to build a consistency model: Learning flow maps via self-distillation",
-    "url": "https://arxiv.org/abs/2505.18825",
+    "url": "https://doi.org/10.52202/085713-1121",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2025-05"
+    "published": "2025",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2505.18825",
+      "publication": "https://doi.org/10.52202/085713-1121"
+    }
   },
   {
     "id": "12672794ce065959",
     "date": "2026-08-24",
     "title": "Improving Rectified Flow with Boundary Conditions",
-    "url": "https://arxiv.org/abs/2506.15864",
+    "url": "https://doi.org/10.1109/iccv51701.2025.01689",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2025-06"
+    "published": "2025-10-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.15864",
+      "publication": "https://doi.org/10.1109/iccv51701.2025.01689"
+    }
   },
   {
     "id": "c1198d82f39f1679",
@@ -5171,7 +6703,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2025-08"
+    "published": "2025-08-20",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2508.14807"
+    }
   },
   {
     "id": "e081dffe139abbb4",
@@ -5182,7 +6717,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2026-02"
+    "published": "2026-02-23",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2602.19461"
+    }
   },
   {
     "id": "718967ebb315d9b4",
@@ -5193,7 +6731,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2026-02"
+    "published": "2026-01-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2602.00869"
+    }
   },
   {
     "id": "a619bd5c2964e92c",
@@ -5204,18 +6745,25 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2025-06"
+    "published": "2025-06-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.01337"
+    }
   },
   {
     "id": "5d54e653c95484ec",
     "date": "2026-08-24",
     "title": "Physics-informed neural networks for solving functional renormalization group on a lattice",
-    "url": "https://arxiv.org/abs/2312.16038",
+    "url": "https://doi.org/10.1103/physrevb.109.214205",
     "tags": [
-      "arXiv",
+      "Journal",
       "Renormalization Group"
     ],
-    "published": "2023-12"
+    "published": "2024-06-14",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2312.16038",
+      "publication": "https://doi.org/10.1103/physrevb.109.214205"
+    }
   },
   {
     "id": "3ef68ddd10603589",
@@ -5225,7 +6773,10 @@
     "tags": [
       "OpenReview",
       "Flow Matching"
-    ]
+    ],
+    "links": {
+      "publication": "https://openreview.net/forum?id=qTlcbLSm4p"
+    }
   },
   {
     "id": "6fbd8b62646ecbe8",
@@ -5236,7 +6787,10 @@
       "OpenReview",
       "Flow Matching"
     ],
-    "published": "2023"
+    "published": "2023",
+    "links": {
+      "publication": "https://openreview.net/forum?id=VUvLSnMZdX"
+    }
   },
   {
     "id": "914b139b3661cddc",
@@ -5247,7 +6801,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2023-11"
+    "published": "2023-11-25",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2311.15127"
+    }
   },
   {
     "id": "1bd7871c7b0bf022",
@@ -5258,7 +6815,10 @@
       "Journal",
       "Flow Matching"
     ],
-    "published": "2024-04-17"
+    "published": "2024-04-17",
+    "links": {
+      "publication": "https://doi.org/10.1038/s42256-024-00810-0"
+    }
   },
   {
     "id": "e18c172140e13493",
@@ -5268,7 +6828,10 @@
     "tags": [
       "Journal",
       "Machine Learning"
-    ]
+    ],
+    "links": {
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8871280"
+    }
   },
   {
     "id": "2de33675e930f673",
@@ -5279,7 +6842,10 @@
       "arXiv",
       "Symmetry"
     ],
-    "published": "2023-03"
+    "published": "2023-03-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2303.16852"
+    }
   },
   {
     "id": "1e672de62d14de31",
@@ -5290,7 +6856,10 @@
       "arXiv",
       "Generative Models"
     ],
-    "published": "2022-11"
+    "published": "2022-11-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2211.01364"
+    }
   },
   {
     "id": "fec57c0ff64d46f6",
@@ -5301,7 +6870,10 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2025-04"
+    "published": "2025-04-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2504.01938"
+    }
   },
   {
     "id": "610ddc6f4d27aea6",
@@ -5312,29 +6884,40 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2022-10"
+    "published": "2022-10-13",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2210.06662"
+    }
   },
   {
     "id": "e9c527ecf58323a6",
     "date": "2026-08-24",
     "title": "Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling",
-    "url": "https://arxiv.org/abs/2504.10612",
+    "url": "https://doi.org/10.52202/085713-0291",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2025-04"
+    "published": "2025",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2504.10612",
+      "publication": "https://doi.org/10.52202/085713-0291"
+    }
   },
   {
     "id": "7a3611fad241760c",
     "date": "2026-08-24",
     "title": "From Denoising Diffusions to Denoising Markov Models",
-    "url": "https://arxiv.org/abs/2211.03595",
+    "url": "https://doi.org/10.1093/jrsssb/qkae005",
     "tags": [
-      "arXiv",
+      "Journal",
       "Flow Matching"
     ],
-    "published": "2022-11"
+    "published": "2024-01-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2211.03595",
+      "publication": "https://doi.org/10.1093/jrsssb/qkae005"
+    }
   },
   {
     "id": "5e379f3baa4eff3f",
@@ -5345,7 +6928,10 @@
       "arXiv",
       "Generative Models"
     ],
-    "published": "2024-10"
+    "published": "2024-10-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2410.20587"
+    }
   },
   {
     "id": "cb87befa0c182aa1",
@@ -5356,7 +6942,10 @@
       "arXiv",
       "Generative Models"
     ],
-    "published": "2023-04"
+    "published": "2023-04-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2304.02637"
+    }
   },
   {
     "id": "9f515671e11b49f1",
@@ -5367,7 +6956,10 @@
       "Conference",
       "Flow Matching"
     ],
-    "published": "2024"
+    "published": "2024",
+    "links": {
+      "publication": "https://proceedings.mlr.press/v238/tong24a.html"
+    }
   },
   {
     "id": "4622bb8c184fb5fd",
@@ -5378,18 +6970,25 @@
       "arXiv",
       "Flow Matching"
     ],
-    "published": "2026-06"
+    "published": "2026-06-23",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2606.24157"
+    }
   },
   {
     "id": "579444607faedf8b",
     "date": "2026-08-24",
     "title": "Transition Matching: Scalable and Flexible Generative Modeling",
-    "url": "https://arxiv.org/abs/2506.23589",
+    "url": "https://doi.org/10.52202/085713-4144",
     "tags": [
-      "arXiv",
+      "Conference",
       "Generative Models"
     ],
-    "published": "2025-06"
+    "published": "2025",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2506.23589",
+      "publication": "https://doi.org/10.52202/085713-4144"
+    }
   },
   {
     "id": "bc478f53755f26d4",
@@ -5400,17 +6999,24 @@
       "arXiv",
       "Generative Models"
     ],
-    "published": "2026-08"
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.12438"
+    }
   },
   {
     "id": "8ecf7e0a0641b115",
     "date": "2026-08-24",
     "title": "Variational Flow Matching for Graph Generation",
-    "url": "https://arxiv.org/abs/2406.04843",
+    "url": "https://doi.org/10.52202/079017-0374",
     "tags": [
-      "arXiv",
+      "Conference",
       "Flow Matching"
     ],
-    "published": "2024-06"
+    "published": "2024",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2406.04843",
+      "publication": "https://doi.org/10.52202/079017-0374"
+    }
   }
 ]
