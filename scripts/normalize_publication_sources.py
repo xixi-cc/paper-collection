@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+from collections import Counter
 import html
 import json
 import re
@@ -228,6 +229,7 @@ def apply_platform_fix(paper: dict[str, Any], fix: dict[str, Any]) -> None:
     paper["tags"] = [fix["source"], topic]
     paper.pop("venue", None)
     paper.pop("publication_status", None)
+    paper.pop("source_detail", None)
     paper.pop("published", None)
     if fix.get("venue"):
         paper["venue"] = fix["venue"]
@@ -258,6 +260,7 @@ def main() -> None:
         if not override:
             continue
         paper["tags"][0] = override["source"]
+        paper.pop("source_detail", None)
         if override.get("venue"):
             paper["venue"] = override["venue"]
         else:
@@ -303,11 +306,21 @@ def main() -> None:
         else:
             unresolved.append({"id": paper["id"], "title": paper["title"], "url": publication})
 
+    source_details: list[str] = []
     for paper in catalog:
         source = paper.get("publication_type") or paper["tags"][0]
         if source in {"Journal", "Conference"} and paper.get("venue"):
             paper["publication_type"] = source
-            paper["tags"][0] = paper["venue"]
+            detail = paper["venue"]
+        else:
+            detail = str(paper.get("source_detail") or paper["tags"][0])
+        paper["source_detail"] = detail
+        source_details.append(detail)
+
+    source_counts = Counter(source_details)
+    for paper in catalog:
+        detail = paper["source_detail"]
+        paper["tags"][0] = detail if source_counts[detail] >= 5 else "Others"
 
     args.catalog.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     audit = {
@@ -319,6 +332,8 @@ def main() -> None:
         "platform_fixes": fixes_applied,
         "formal_records": sum(p.get("publication_type") in {"Journal", "Conference"} for p in catalog),
         "formal_with_venue": sum(bool(p.get("venue")) for p in catalog if p.get("publication_type") in {"Journal", "Conference"}),
+        "grouped_source_labels": len({p["tags"][0] for p in catalog}),
+        "records_grouped_as_others": sum(p["tags"][0] == "Others" for p in catalog),
         "venue_methods": methods,
         "unresolved": unresolved,
     }
