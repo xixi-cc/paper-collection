@@ -7,10 +7,8 @@
     <script>
       (() => {
         try {
-          const savedTheme = localStorage.getItem('paper-collection-theme');
-          const theme = savedTheme === 'light' || savedTheme === 'dark'
-            ? savedTheme
-            : (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+          const savedTheme = localStorage.getItem('paper-collection-xncao-theme');
+          const theme = savedTheme === 'light' || savedTheme === 'dark' ? savedTheme : 'light';
           document.documentElement.dataset.theme = theme;
           document.querySelector('meta[name="theme-color"]').content = theme === 'dark' ? '#0f1419' : '#f0f1ef';
         } catch {
@@ -18,17 +16,17 @@
         }
       })();
     </script>
-    <meta name="description" content="Xixi's personal paper collection." />
-    <meta property="og:title" content="Paper Collection" />
-    <meta property="og:description" content="Xixi's personal paper collection." />
+    <meta name="description" content="Xncao's personal paper collection." />
+    <meta property="og:title" content="Paper Collection-Xncao" />
+    <meta property="og:description" content="Xncao's personal paper collection." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://xixi-cc.github.io/paper-collection/" />
-    <meta property="og:image" content="https://xixi-cc.github.io/paper-collection/og.png" />
+    <meta property="og:url" content="https://xixi-paper-collection.lezontbukercfdvs4.chatgpt.site" />
+    <meta property="og:image" content="https://xixi-paper-collection.lezontbukercfdvs4.chatgpt.site/og.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Paper Collection" />
-    <meta name="twitter:description" content="Xixi's personal paper collection." />
-    <meta name="twitter:image" content="https://xixi-cc.github.io/paper-collection/og.png" />
-    <title>Paper Collection — Xixi</title>
+    <meta name="twitter:title" content="Paper Collection-Xncao" />
+    <meta name="twitter:description" content="Xncao's personal paper collection." />
+    <meta name="twitter:image" content="https://xixi-paper-collection.lezontbukercfdvs4.chatgpt.site/og.png" />
+    <title>Paper Collection-Xncao</title>
   </head>
   <body>
     <div id="root"></div>

@@ -133,6 +133,7 @@ def main() -> None:
     for paper in papers:
         title = str(paper["title"]).strip()
         url = canonical_url(str(paper.get("canonical_link") or paper["link"]))
+        publication = str(paper.get("year") or "")
         incoming_tags = paper_tags(
             source_tag(paper, url),
             title,
@@ -145,6 +146,8 @@ def main() -> None:
             item = catalog[duplicate_index]
             old_tags = list(item["tags"])
             item["tags"] = paper_tags(incoming_tags[0], item["title"], [*old_tags, incoming_tags[1]])
+            if publication and not item.get("published"):
+                item["published"] = publication
             matched_catalog_ids.add(item["id"])
             record = {"id": item["id"], "title": item["title"], "matched_title": title}
             if item["tags"] != old_tags:
@@ -162,6 +165,8 @@ def main() -> None:
             "url": url,
             "tags": incoming_tags,
         }
+        if publication:
+            item["published"] = publication
         catalog.append(item)
         matched_catalog_ids.add(item["id"])
         new_index = len(catalog) - 1

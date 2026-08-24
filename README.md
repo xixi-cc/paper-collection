@@ -8,6 +8,7 @@
 
 - `id`：稳定且唯一的标识，arXiv 文章建议直接使用 arXiv ID；
 - `date`：收录日期，格式为 `YYYY-MM-DD`；
+- `published`：论文发表日期，可使用 `YYYY`、`YYYY-MM` 或 `YYYY-MM-DD`；
 - `title`：页面中显示的文章题目；
 - `url`：论文页面；
 - `tags`：固定为两个标签，依次为来源（source）和主题（topic）。

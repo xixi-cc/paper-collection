@@ -3,13 +3,14 @@ import { useEffect, useMemo, useState } from 'react';
 type Paper = {
   id: string;
   date: string;
+  published?: string;
   title: string;
   url?: string;
   tags: [source: string, topic: string];
 };
 
 type MatchMode = 'all' | 'any';
-type SortMode = 'newest' | 'oldest' | 'title';
+type SortMode = 'published-newest' | 'published-oldest' | 'topic' | 'added-newest' | 'title';
 type Theme = 'light' | 'dark';
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
   const [query, setQuery] = useState('');
   const [activeTags, setActiveTags] = useState<string[]>([]);
   const [mode, setMode] = useState<MatchMode>('all');
-  const [sort, setSort] = useState<SortMode>('newest');
+  const [sort, setSort] = useState<SortMode>('published-newest');
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [loadError, setLoadError] = useState(false);
   const [theme, setTheme] = useState<Theme>(() => document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light');
@@ -65,7 +66,19 @@ function App() {
       })
       .sort((a, b) => {
         if (sort === 'title') return a.title.localeCompare(b.title);
-        return sort === 'newest' ? b.date.localeCompare(a.date) : a.date.localeCompare(b.date);
+        if (sort === 'topic') {
+          return a.tags[1].localeCompare(b.tags[1])
+            || (b.published ?? '').localeCompare(a.published ?? '')
+            || a.title.localeCompare(b.title);
+        }
+        if (sort === 'added-newest') return b.date.localeCompare(a.date) || a.title.localeCompare(b.title);
+        if (!a.published && !b.published) return a.title.localeCompare(b.title);
+        if (!a.published) return 1;
+        if (!b.published) return -1;
+        const publicationOrder = sort === 'published-newest'
+          ? b.published.localeCompare(a.published)
+          : a.published.localeCompare(b.published);
+        return publicationOrder || a.title.localeCompare(b.title);
       });
   }, [papers, query, activeTags, mode, sort]);
 
@@ -82,7 +95,7 @@ function App() {
     const nextTheme = theme === 'dark' ? 'light' : 'dark';
     setTheme(nextTheme);
     document.documentElement.dataset.theme = nextTheme;
-    window.localStorage.setItem('paper-collection-theme', nextTheme);
+    window.localStorage.setItem('paper-collection-xncao-theme', nextTheme);
     document.querySelector('meta[name="theme-color"]')?.setAttribute('content', nextTheme === 'dark' ? '#0f1419' : '#f0f1ef');
   }
 
@@ -97,8 +110,8 @@ function App() {
         </div>
 
         <div className="brand">
-          <h1>Paper Collection</h1>
-          <p>Xixi&apos;s personal paper collection</p>
+          <h1>Paper Collection-Xncao</h1>
+          <p>Xncao&apos;s personal paper collection</p>
         </div>
 
         <label className="search-box">
@@ -134,7 +147,7 @@ function App() {
 
       <main className="main">
         <div className="mobile-bar">
-          <strong>Paper Collection</strong>
+          <strong>Paper Collection-Xncao</strong>
           <div className="mobile-actions">
             <button type="button" onClick={toggleTheme} aria-label={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`}>
               {theme === 'dark' ? 'Light' : 'Dark'}
@@ -146,8 +159,10 @@ function App() {
         <div className="stats-bar">
           <p>Showing <strong>{filtered.length}</strong> of <strong>{papers.length}</strong> papers</p>
           <select value={sort} onChange={(event) => setSort(event.target.value as SortMode)} aria-label="Sort papers">
-            <option value="newest">Newest first</option>
-            <option value="oldest">Oldest first</option>
+            <option value="published-newest">Publication date: newest</option>
+            <option value="published-oldest">Publication date: oldest</option>
+            <option value="topic">Topic A–Z</option>
+            <option value="added-newest">Recently added</option>
             <option value="title">Title A–Z</option>
           </select>
         </div>
@@ -166,7 +181,9 @@ function App() {
                     : paper.title}
                 </h2>
                 <div className="paper-meta">
-                  <time>{paper.date}</time>
+                  <time title={`Added ${paper.date}`}>
+                    {paper.published ? `Published ${paper.published}` : 'Publication date unavailable'}
+                  </time>
                   {paper.tags.map((tag) => <button type="button" key={tag} onClick={() => toggleTag(tag)}>{tag}</button>)}
                 </div>
               </article>
