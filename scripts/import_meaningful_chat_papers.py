@@ -13,6 +13,8 @@ from datetime import date
 from pathlib import Path
 from typing import Any
 
+from catalog_tags import paper_tags
+
 
 ARXIV = re.compile(r"(?<!\d)(\d{4}\.\d{4,5})(?:v\d+)?(?!\d)", re.IGNORECASE)
 DOI = re.compile(r"(10\.\d{4,9}/[^?#\s]+)", re.IGNORECASE)
@@ -97,7 +99,7 @@ def source_tag(paper: dict[str, Any], url: str) -> str:
     if identifier_type == "arxiv" or "arxiv.org" in host:
         return "arXiv"
     if identifier_type == "openreview" or "openreview.net" in host:
-        return "Conference"
+        return "OpenReview"
     if "proceedings" in host or "proceedings" in venue or "conference" in venue:
         return "Conference"
     return "Journal"
@@ -113,10 +115,6 @@ def topic_tags(categories: list[str]) -> list[str]:
     return tags
 
 
-def merge_tags(current: list[str], incoming: list[str]) -> list[str]:
-    return list(dict.fromkeys([*current, *incoming]))
-
-
 def main() -> None:
     args = parse_args()
     papers: list[dict[str, Any]] = json.loads(args.source.read_text(encoding="utf-8"))
@@ -130,28 +128,24 @@ def main() -> None:
     added: list[dict[str, str]] = []
     updated: list[dict[str, Any]] = []
     unchanged_duplicates: list[dict[str, str]] = []
+    matched_catalog_ids: set[str] = set()
 
     for paper in papers:
         title = str(paper["title"]).strip()
         url = canonical_url(str(paper.get("canonical_link") or paper["link"]))
-        quality_tag = (
-            "Recommended"
-            if paper.get("recommendation_strength") == "explicit_recommendation_or_reading_list"
-            else "Contextual Reference"
-        )
-        incoming_tags = [
+        incoming_tags = paper_tags(
             source_tag(paper, url),
-            "Meaningful Chat",
-            quality_tag,
-            *topic_tags(list(paper.get("categories", []))),
-        ]
+            title,
+            topic_tags(list(paper.get("categories", []))),
+        )
         keys = identity_keys(title, url)
         duplicate_index = next((key_to_index[key] for key in keys if key in key_to_index), None)
 
         if duplicate_index is not None:
             item = catalog[duplicate_index]
             old_tags = list(item["tags"])
-            item["tags"] = merge_tags(old_tags, incoming_tags)
+            item["tags"] = paper_tags(incoming_tags[0], item["title"], [*old_tags, incoming_tags[1]])
+            matched_catalog_ids.add(item["id"])
             record = {"id": item["id"], "title": item["title"], "matched_title": title}
             if item["tags"] != old_tags:
                 record["tags_added"] = [tag for tag in item["tags"] if tag not in old_tags]
@@ -166,9 +160,10 @@ def main() -> None:
             "date": args.date,
             "title": title,
             "url": url,
-            "tags": merge_tags([], incoming_tags),
+            "tags": incoming_tags,
         }
         catalog.append(item)
+        matched_catalog_ids.add(item["id"])
         new_index = len(catalog) - 1
         for key in keys:
             key_to_index[key] = new_index
@@ -190,7 +185,7 @@ def main() -> None:
         "catalog": str(args.catalog),
         "import_date": args.date,
         "source_count": len(papers),
-        "unique_catalog_matches": len({item["id"] for item in catalog if "Meaningful Chat" in item["tags"]}),
+        "unique_catalog_matches": len(matched_catalog_ids),
         "added_count": len(added),
         "updated_count": len(updated),
         "unchanged_duplicate_count": len(unchanged_duplicates),

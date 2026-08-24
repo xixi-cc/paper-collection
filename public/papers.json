@@ -5,7 +5,8 @@
     "title": "A Dynamical Mechanism for Irreversibility in Cyclically Driven Amorphous Solids",
     "url": "https://arxiv.org/abs/2608.11073",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Soft Matter"
     ]
   },
   {
@@ -14,7 +15,8 @@
     "title": "A general paracontrolled ansatz for singular SPDEs",
     "url": "https://arxiv.org/abs/2608.09700",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -23,7 +25,8 @@
     "title": "A ghost mechanism: An analytical model of abrupt learning in recurrent networks",
     "url": "https://arxiv.org/abs/2501.02378",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -82,7 +85,8 @@
     "title": "Active Brownian particle in harmonic trap: exact computation of moments, and re-entrant transition",
     "url": "https://arxiv.org/abs/2005.14234",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Active Matter"
     ]
   },
   {
@@ -91,7 +95,8 @@
     "title": "Active hydraulics laws from frustration principles",
     "url": "https://doi.org/10.1038/s41567-023-02301-2",
     "tags": [
-      "Journal"
+      "Journal",
+      "Other"
     ]
   },
   {
@@ -100,7 +105,8 @@
     "title": "Active Inference for Physical AI Agents -- An Engineering Perspective",
     "url": "https://arxiv.org/abs/2603.20927",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -129,7 +135,8 @@
     "title": "Adversarial Causal Intervention Falsification",
     "url": "https://arxiv.org/abs/2608.06427",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -139,9 +146,6 @@
     "url": "https://doi.org/10.1038/s41586-024-07566-y",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -151,7 +155,8 @@
     "title": "Almost-Linear RNNs Yield Highly Interpretable Symbolic Codes in Dynamical Systems Reconstruction",
     "url": "https://doi.org/10.52202/079017-1161",
     "tags": [
-      "Conference"
+      "Conference",
+      "Other"
     ]
   },
   {
@@ -160,7 +165,8 @@
     "title": "An Introduction to Motility-Induced Phase Separation",
     "url": "https://arxiv.org/abs/2112.03979",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Active Matter"
     ]
   },
   {
@@ -199,7 +205,8 @@
     "title": "Clustered Attractor Manifolds and Dynamical Condensation in Self-Attention",
     "url": "https://arxiv.org/abs/2608.08922",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Transformer Theory"
     ]
   },
   {
@@ -208,7 +215,8 @@
     "title": "Coherent-state path integral versus coarse-grained effective stochastic equation of motion: From reaction diffusion to stochastic sandpiles",
     "url": "https://arxiv.org/abs/1501.06514",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Field Theory"
     ]
   },
   {
@@ -217,7 +225,8 @@
     "title": "Collective effects in confined Active Brownian Particles",
     "url": "https://arxiv.org/abs/2103.13220",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Active Matter"
     ]
   },
   {
@@ -276,7 +285,8 @@
     "title": "Control of collective activity to crystallize an oscillator gas",
     "url": "https://doi.org/10.1038/s41567-025-02957-y",
     "tags": [
-      "Journal"
+      "Journal",
+      "Other"
     ]
   },
   {
@@ -325,7 +335,8 @@
     "title": "Crossing over universal scaling laws in two-dimensional driven dissipative condensates",
     "url": "https://arxiv.org/abs/2608.07242",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Scaling Laws"
     ]
   },
   {
@@ -334,7 +345,8 @@
     "title": "Data-driven learning of the generalized Langevin equation with state-dependent memory",
     "url": "https://arxiv.org/abs/2310.18582",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -343,7 +355,8 @@
     "title": "Deep learning for predicting rate-induced tipping",
     "url": "https://doi.org/10.1038/s42256-024-00937-0",
     "tags": [
-      "Journal"
+      "Journal",
+      "Machine Learning"
     ]
   },
   {
@@ -362,7 +375,8 @@
     "title": "Deriving time-averaged active inference from control principles",
     "url": "https://arxiv.org/abs/2208.10601",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -382,9 +396,6 @@
     "url": "https://doi.org/10.52202/079017-2315",
     "tags": [
       "Conference",
-      "Machine Learning",
-      "Meaningful Chat",
-      "Recommended",
       "Transformer Theory"
     ]
   },
@@ -394,7 +405,8 @@
     "title": "Distributional Active Inference",
     "url": "https://arxiv.org/abs/2601.20985",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -413,7 +425,8 @@
     "title": "Drift and Dependence: Layer-wise Information-Theoretic Bounds for Replay-Based Continual Learning",
     "url": "https://arxiv.org/abs/2608.11690",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Information Theory"
     ]
   },
   {
@@ -432,7 +445,8 @@
     "title": "Dynamics of driven Janus particles with pure repulsive interactions over obstacle arrays in active bath",
     "url": "https://doi.org/10.1007/s12648-024-03117-3",
     "tags": [
-      "Journal"
+      "Journal",
+      "Other"
     ]
   },
   {
@@ -481,7 +495,8 @@
     "title": "Emergent Chirality and Hyperuniformity in an Active Mixture with Nonreciprocal Interactions",
     "url": "https://doi.org/10.1103/PhysRevLett.132.118301",
     "tags": [
-      "Journal"
+      "Journal",
+      "Nonreciprocal Systems"
     ]
   },
   {
@@ -490,7 +505,8 @@
     "title": "Entropy Production and Reversibility Criteria for Stochastic Evolution Equations",
     "url": "https://arxiv.org/abs/2608.11059",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -499,7 +515,8 @@
     "title": "Exact First-Passage Time Response Theory from Steady-State Response",
     "url": "https://arxiv.org/abs/2608.11202",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -508,7 +525,8 @@
     "title": "FACT: Failure-Aware Causal Training for World-Action Models",
     "url": "https://arxiv.org/abs/2608.10232",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "World Models"
     ]
   },
   {
@@ -527,7 +545,8 @@
     "title": "Faraday wave–droplet dynamics: discrete-time analysis",
     "url": "https://doi.org/10.1017/jfm.2017.235",
     "tags": [
-      "Journal"
+      "Journal",
+      "Fluid Dynamics"
     ]
   },
   {
@@ -556,7 +575,8 @@
     "title": "Finite-Anisotropy-First Derivation of a Reduced (ρ, A, p) Theory for Active Random Organization",
     "url": "https://scholar.google.com/scholar?q=%22Finite-Anisotropy-First+Derivation+of+a+Reduced+%28%CF%81%2C+A%2C+p%29+Theory+for+Active+Random+Organization%22",
     "tags": [
-      "Scholar search"
+      "Scholar search",
+      "Other"
     ]
   },
   {
@@ -566,10 +586,7 @@
     "url": "https://arxiv.org/abs/2509.02407",
     "tags": [
       "arXiv",
-      "Machine Learning",
-      "Meaningful Chat",
-      "Recommended",
-      "Statistical Physics"
+      "Machine Learning"
     ]
   },
   {
@@ -578,7 +595,8 @@
     "title": "Fixed and Adaptive Topological DeepONets: Functional Measurements on Hausdorff Locally Convex Spaces",
     "url": "https://arxiv.org/abs/2608.06428",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Neural Operators"
     ]
   },
   {
@@ -587,7 +605,8 @@
     "title": "FlashMD: long-stride, universal prediction of molecular dynamics",
     "url": "https://doi.org/10.52202/085713-2961",
     "tags": [
-      "Conference"
+      "Conference",
+      "Other"
     ]
   },
   {
@@ -636,7 +655,8 @@
     "title": "From Objectives to What Models Learn: A Landau Theory of Invariant Learning",
     "url": "https://arxiv.org/abs/2608.09396",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -645,7 +665,8 @@
     "title": "From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability",
     "url": "https://arxiv.org/abs/2608.08904",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -654,7 +675,8 @@
     "title": "From Square Selection to Triangle–Honeycomb Exchange: A Unified Floquet and Weakly Nonlinear Theory of One- and Two-Pulse Space–Time Crystals",
     "url": "https://scholar.google.com/scholar?q=%22From+Square+Selection+to+Triangle%E2%80%93Honeycomb+Exchange%3A+A+Unified+Floquet+and+Weakly+Nonlinear+Theory+of+One-+and+Two-Pulse+Space%E2%80%93Time+Crystals%22",
     "tags": [
-      "Scholar search"
+      "Scholar search",
+      "Other"
     ]
   },
   {
@@ -663,7 +685,8 @@
     "title": "Gauge-field-induced duality group in metamaterials",
     "url": "https://doi.org/10.1038/s41467-026-73117-w",
     "tags": [
-      "Journal"
+      "Journal",
+      "Other"
     ]
   },
   {
@@ -672,7 +695,8 @@
     "title": "General Mean-Field Theory of Period-Two Dual Spatiotemporal Lattices",
     "url": "https://scholar.google.com/scholar?q=%22General+Mean-Field+Theory+of+Period-Two+Dual+Spatiotemporal+Lattices%22",
     "tags": [
-      "Scholar search"
+      "Scholar search",
+      "Field Theory"
     ]
   },
   {
@@ -691,7 +715,8 @@
     "title": "Generalized Master Stability of Heterogeneous Delay-Coupled Networks",
     "url": "https://arxiv.org/abs/2608.10076",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -711,15 +736,7 @@
     "url": "https://arxiv.org/abs/2501.09064",
     "tags": [
       "arXiv",
-      "Machine Learning",
-      "Meaningful Chat",
-      "Recommended",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Scaling Laws",
-      "Generative Models",
-      "Flow Matching RG",
-      "Flow Matching"
+      "Renormalization Group"
     ]
   },
   {
@@ -728,7 +745,8 @@
     "title": "Generator-Guided Inverse Sampling for Lévy-Driven Generative Models",
     "url": "https://arxiv.org/abs/2608.10384",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Generative Models"
     ]
   },
   {
@@ -747,7 +765,8 @@
     "title": "Giant density fluctuations in locally hyperuniform states",
     "url": "https://arxiv.org/abs/2410.18741",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -776,7 +795,8 @@
     "title": "HarnessWAM: Bridging Prediction and Deliberation in World Action Models",
     "url": "https://arxiv.org/abs/2608.09516",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -786,11 +806,7 @@
     "url": "https://arxiv.org/abs/2307.02129",
     "tags": [
       "arXiv",
-      "Machine Learning",
-      "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Statistical Physics"
+      "Machine Learning"
     ]
   },
   {
@@ -819,7 +835,8 @@
     "title": "IADD-TR: Intervention-Aware Dynamics Decoupling with Targeted Regularization for Model-Based Reinforcement Learning",
     "url": "https://arxiv.org/abs/2608.10634",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -828,7 +845,8 @@
     "title": "Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation",
     "url": "https://arxiv.org/abs/2608.09385",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -847,7 +865,8 @@
     "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
     "url": "https://arxiv.org/abs/2608.07457",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -886,7 +905,8 @@
     "title": "Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability",
     "url": "https://arxiv.org/abs/2608.10172",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -905,7 +925,8 @@
     "title": "Kernel Methods for Learning Operators with Multiple Inputs and Outputs",
     "url": "https://arxiv.org/abs/2608.11831",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -914,7 +935,8 @@
     "title": "Langevin dynamics along the zero set of real-analytic potentials",
     "url": "https://arxiv.org/abs/2608.09840",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -923,7 +945,8 @@
     "title": "Large Language Models and Financial Market Sentiment",
     "url": "https://doi.org/10.2139/ssrn.4584928",
     "tags": [
-      "Journal"
+      "Journal",
+      "Other"
     ]
   },
   {
@@ -952,7 +975,8 @@
     "title": "Lee-Yang Theory Guided Force Field Refinement Based on Phase Diagrams",
     "url": "https://arxiv.org/abs/2608.08546",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -961,7 +985,8 @@
     "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
     "url": "https://arxiv.org/abs/2603.19312",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -980,7 +1005,8 @@
     "title": "Lost in Retraining: Roaming the Parameter Space of Exponential Families Under Closed-Loop Learning",
     "url": "https://arxiv.org/abs/2506.20623",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -989,7 +1015,8 @@
     "title": "Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads",
     "url": "https://arxiv.org/abs/2608.11661",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -998,7 +1025,8 @@
     "title": "Machine-learning optimized measurements of chaotic dynamical systems via the information bottleneck",
     "url": "https://arxiv.org/abs/2311.04896",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1007,7 +1035,8 @@
     "title": "Macroscopic fluctuation theory for the multi-time statistics of current in non-stationary diffusive systems",
     "url": "https://arxiv.org/abs/2608.12119",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1016,7 +1045,8 @@
     "title": "Magnetopological mechanics in Maxwell lattice frustrated Mott insulators",
     "url": "https://arxiv.org/abs/2602.12168",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1025,7 +1055,8 @@
     "title": "Maximum diffusion reinforcement learning",
     "url": "https://arxiv.org/abs/2309.15293",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1044,7 +1075,8 @@
     "title": "Microscopic derivation of a field equation for active Brownian particles",
     "url": "https://arxiv.org/abs/2608.11184",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Active Matter"
     ]
   },
   {
@@ -1063,7 +1095,8 @@
     "title": "Near-threshold selection of the square Bravais lattice in the pulsed density–polarization field theory",
     "url": "https://scholar.google.com/scholar?q=%22Near-threshold+selection+of+the+square+Bravais+lattice+in+the+pulsed+density%E2%80%93polarization+field+theory%22",
     "tags": [
-      "Scholar search"
+      "Scholar search",
+      "Field Theory"
     ]
   },
   {
@@ -1102,7 +1135,8 @@
     "title": "Nonisospectral Integrability and Exact Current Fluctuations in the Two-Dimensional SSEP",
     "url": "https://arxiv.org/abs/2608.08480",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1121,7 +1155,8 @@
     "title": "Nucleation beyond Equilibrium: Fronts Control Invasion in Bistable Ecosystems",
     "url": "https://arxiv.org/abs/2608.05251",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1140,7 +1175,8 @@
     "title": "PAC-Bayes Beyond Parameter Space: Behavioral Equivalence, Z-Information, and Exact Complexity Decomposition",
     "url": "https://arxiv.org/abs/2608.11465",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1149,7 +1185,8 @@
     "title": "Particle-based Generalised Stochastic Optimisation",
     "url": "https://arxiv.org/abs/2608.02844",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1188,7 +1225,8 @@
     "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
     "url": "https://arxiv.org/abs/2608.11215",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1237,7 +1275,8 @@
     "title": "Reconstructed Theory of the Absorbing-State Transition in a Two-Dimensional Pulse-Driven Hard-Particle System with Vector Inverse-Square Interactions Revised theoretical manuscript",
     "url": "https://scholar.google.com/scholar?q=%22Reconstructed+Theory+of+the+Absorbing-State+Transition+in+a+Two-Dimensional+Pulse-Driven+Hard-Particle+System+with+Vector+Inverse-Square+Interactions+Revised+theoretical+manuscript%22",
     "tags": [
-      "Scholar search"
+      "Scholar search",
+      "Other"
     ]
   },
   {
@@ -1246,7 +1285,8 @@
     "title": "Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review",
     "url": "https://arxiv.org/abs/1805.00909",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1266,18 +1306,7 @@
     "url": "https://arxiv.org/abs/2202.11737",
     "tags": [
       "arXiv",
-      "Statistical Physics",
-      "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Renormalization Group",
-      "Generative Models",
-      "Information Theory",
-      "Training Dynamics",
-      "Flow Matching RG",
-      "Flow Matching",
-      "Symmetry"
+      "Renormalization Group"
     ]
   },
   {
@@ -1316,7 +1345,8 @@
     "title": "Self-organized quantization and oscillations on continuous fixed-energy sandpiles",
     "url": "https://arxiv.org/abs/2111.04470",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1325,7 +1355,8 @@
     "title": "Shortcuts to Parameter Sweeps",
     "url": "https://arxiv.org/abs/2608.12154",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1354,7 +1385,8 @@
     "title": "Small-Scale Experiments: Are We There Yet?",
     "url": "https://arxiv.org/abs/2608.11859",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1374,11 +1406,7 @@
     "url": "https://doi.org/10.21203/rs.3.rs-3011793/v1",
     "tags": [
       "Journal",
-      "Active Matter",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -1407,7 +1435,8 @@
     "title": "STEAP: simultaneous trajectory estimation and planning",
     "url": "https://arxiv.org/abs/1807.10425",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1416,7 +1445,8 @@
     "title": "Stochastic Homogenization of Non-local Hamilton-Jacobi-Bellman equations",
     "url": "https://arxiv.org/abs/2608.06814",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1425,7 +1455,8 @@
     "title": "Stochastic Optimal Control as Approximate Input Inference",
     "url": "https://arxiv.org/abs/1910.03003",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1474,7 +1505,8 @@
     "title": "Theory of Phase Ordering Kinetics",
     "url": "https://arxiv.org/abs/cond-mat/9501089",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1483,7 +1515,8 @@
     "title": "Theory of the Absorbing-State Transition in a Two-Dimensional Pulse-Driven Hard-Particle System with Vector Inverse-Square Interactions",
     "url": "https://scholar.google.com/scholar?q=%22Theory+of+the+Absorbing-State+Transition+in+a+Two-Dimensional+Pulse-Driven+Hard-Particle+System+with+Vector+Inverse-Square+Interactions%22",
     "tags": [
-      "Scholar search"
+      "Scholar search",
+      "Other"
     ]
   },
   {
@@ -1572,7 +1605,8 @@
     "title": "Variational Bounds for Perceptron Learning from Structured Data",
     "url": "https://arxiv.org/abs/2608.04882",
     "tags": [
-      "arXiv"
+      "arXiv",
+      "Other"
     ]
   },
   {
@@ -1612,19 +1646,7 @@
     "url": "https://arxiv.org/abs/2411.00698",
     "tags": [
       "arXiv",
-      "Fluid Dynamics",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Few-step Generation",
-      "Diffusion Models",
-      "Benchmarking",
-      "Path Integrals",
-      "Renormalization Group",
-      "Statistical Physics",
-      "Symmetry",
-      "Generative Models"
+      "Flow Matching"
     ]
   },
   {
@@ -1643,7 +1665,8 @@
     "title": "When Does Population Diversity Matter? A Unified Framework for Binary-Choice Dynamics",
     "url": "https://doi.org/10.1103/4db2-7dpd",
     "tags": [
-      "Journal"
+      "Journal",
+      "Other"
     ]
   },
   {
@@ -1673,7 +1696,6 @@
     "url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.015003",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Nonreciprocal Systems"
     ]
   },
@@ -1684,7 +1706,6 @@
     "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.238302",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Active Matter"
     ]
   },
@@ -1695,7 +1716,7 @@
     "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.268301",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1705,7 +1726,6 @@
     "url": "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.054101",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Fluid Dynamics"
     ]
   },
@@ -1716,7 +1736,6 @@
     "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.078301",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Nonreciprocal Systems"
     ]
   },
@@ -1727,7 +1746,7 @@
     "url": "https://arxiv.org/abs/2408.15431",
     "tags": [
       "arXiv",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1737,7 +1756,7 @@
     "url": "https://arxiv.org/abs/2407.19716",
     "tags": [
       "arXiv",
-      "Browser bookmark"
+      "Active Matter"
     ]
   },
   {
@@ -1747,7 +1766,6 @@
     "url": "https://pubs.aip.org/aip/acp/article-abstract/1198/1/25/865936/The-kinetic-regime-of-the-Vicsek-model",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Active Matter"
     ]
   },
@@ -1758,7 +1776,6 @@
     "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.238001",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Active Matter"
     ]
   },
@@ -1769,7 +1786,7 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021028",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1779,7 +1796,6 @@
     "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.118003",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Statistical Physics"
     ]
   },
@@ -1790,7 +1806,7 @@
     "url": "https://pubs.aip.org/aip/jmp/article-abstract/60/12/123301/1019104/Ito-vs-Stratonovich-in-the-presence-of-absorbing",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1800,7 +1816,6 @@
     "url": "https://arxiv.org/abs/2402.19451",
     "tags": [
       "arXiv",
-      "Browser bookmark",
       "Active Matter"
     ]
   },
@@ -1811,7 +1826,6 @@
     "url": "https://arxiv.org/abs/1612.03122",
     "tags": [
       "arXiv",
-      "Browser bookmark",
       "Statistical Physics"
     ]
   },
@@ -1822,7 +1836,6 @@
     "url": "https://doi.org/10.1140/epje/s10189-023-00364-w",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Active Matter"
     ]
   },
@@ -1833,7 +1846,7 @@
     "url": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033185",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1843,7 +1856,7 @@
     "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.047101",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1853,7 +1866,7 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011031",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1863,7 +1876,7 @@
     "url": "https://arxiv.org/abs/2405.05621",
     "tags": [
       "arXiv",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1873,7 +1886,7 @@
     "url": "https://arxiv.org/abs/2312.11181",
     "tags": [
       "arXiv",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1883,7 +1896,7 @@
     "url": "https://arxiv.org/abs/2310.17391",
     "tags": [
       "arXiv",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1893,7 +1906,6 @@
     "url": "https://arxiv.org/abs/1510.08707",
     "tags": [
       "arXiv",
-      "Browser bookmark",
       "Statistical Physics"
     ]
   },
@@ -1904,7 +1916,6 @@
     "url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.044605",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Active Matter"
     ]
   },
@@ -1915,10 +1926,6 @@
     "url": "https://www.nature.com/articles/s41567-025-02791-2",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Statistical Physics"
     ]
   },
@@ -1929,7 +1936,6 @@
     "url": "https://iopscience.iop.org/article/10.1088/1751-8121/adbfe6/meta",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Statistical Physics"
     ]
   },
@@ -1940,7 +1946,7 @@
     "url": "https://www.sciencedirect.com/science/article/pii/S0550321322003716",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1950,7 +1956,6 @@
     "url": "https://arxiv.org/abs/0912.3000",
     "tags": [
       "arXiv",
-      "Browser bookmark",
       "Statistical Physics"
     ]
   },
@@ -1961,7 +1966,6 @@
     "url": "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.110501",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Fluid Dynamics"
     ]
   },
@@ -1972,7 +1976,7 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/4t7t-v19l",
     "tags": [
       "Journal",
-      "Browser bookmark"
+      "Other"
     ]
   },
   {
@@ -1982,7 +1986,6 @@
     "url": "https://deepmind.google/research/publications/82794/",
     "tags": [
       "Research page",
-      "Browser bookmark",
       "Machine Learning"
     ]
   },
@@ -1993,11 +1996,6 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/x5vj-8jq9",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "Machine Learning",
-      "arXiv",
-      "Meaningful Chat",
-      "Recommended",
       "Statistical Physics"
     ]
   },
@@ -2008,13 +2006,7 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021050",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "Active Matter",
-      "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics"
+      "Active Matter"
     ]
   },
   {
@@ -2024,7 +2016,6 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021051",
     "tags": [
       "Journal",
-      "Browser bookmark",
       "Machine Learning"
     ]
   },
@@ -2035,12 +2026,7 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.021052",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "Statistical Physics",
-      "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning"
+      "Statistical Physics"
     ]
   },
   {
@@ -2050,12 +2036,7 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041044",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "Statistical Physics",
-      "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning"
+      "Statistical Physics"
     ]
   },
   {
@@ -2065,10 +2046,6 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041032",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Statistical Physics"
     ]
   },
@@ -2079,11 +2056,6 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.011013",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Statistical Physics"
     ]
   },
@@ -2094,11 +2066,6 @@
     "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031059",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "Machine Learning",
-      "arXiv",
-      "Meaningful Chat",
-      "Recommended",
       "Statistical Physics"
     ]
   },
@@ -2109,13 +2076,7 @@
     "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.135.187402",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "Nonreciprocal Systems",
-      "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics"
+      "Nonreciprocal Systems"
     ]
   },
   {
@@ -2125,11 +2086,6 @@
     "url": "https://journals.aps.org/prl/accepted/10.1103/xbk2-ggcf",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Statistical Physics"
     ]
   },
@@ -2140,11 +2096,6 @@
     "url": "https://journals.aps.org/prl/abstract/10.1103/kwyy-1xln",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Statistical Physics"
     ]
   },
@@ -2155,12 +2106,7 @@
     "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.217101",
     "tags": [
       "Journal",
-      "Browser bookmark",
-      "Statistical Physics",
-      "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning"
+      "Statistical Physics"
     ]
   },
   {
@@ -2170,12 +2116,7 @@
     "url": "https://arxiv.org/abs/2502.18553",
     "tags": [
       "arXiv",
-      "Browser bookmark",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Training Dynamics"
+      "Machine Learning"
     ]
   },
   {
@@ -2185,14 +2126,7 @@
     "url": "https://arxiv.org/abs/2510.25553",
     "tags": [
       "arXiv",
-      "Browser bookmark",
-      "Machine Learning",
-      "Meaningful Chat",
-      "Recommended",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Scaling Laws",
-      "Training Dynamics"
+      "Renormalization Group"
     ]
   },
   {
@@ -2202,11 +2136,6 @@
     "url": "https://arxiv.org/abs/2605.15419",
     "tags": [
       "arXiv",
-      "Browser bookmark",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
       "Flow Matching"
     ]
   },
@@ -2217,9 +2146,6 @@
     "url": "https://arxiv.org/abs/2509.13142",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2230,9 +2156,6 @@
     "url": "https://arxiv.org/abs/2604.23002",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2243,9 +2166,6 @@
     "url": "https://arxiv.org/abs/2411.16416",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2256,9 +2176,6 @@
     "url": "https://doi.org/10.1038/s44387-025-00057-z",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2269,10 +2186,7 @@
     "url": "https://arxiv.org/abs/2511.07262",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science"
+      "Machine Learning"
     ]
   },
   {
@@ -2282,9 +2196,6 @@
     "url": "https://arxiv.org/abs/2603.20179",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2295,9 +2206,6 @@
     "url": "https://doi.org/10.1126/sciadv.aay2631",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2308,9 +2216,6 @@
     "url": "https://arxiv.org/abs/2506.01372",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2321,9 +2226,6 @@
     "url": "https://arxiv.org/abs/2504.01538",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2334,9 +2236,6 @@
     "url": "https://arxiv.org/abs/2605.26179",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2347,10 +2246,7 @@
     "url": "https://arxiv.org/abs/2006.11287",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science"
+      "Machine Learning"
     ]
   },
   {
@@ -2360,9 +2256,6 @@
     "url": "https://arxiv.org/abs/2604.22541",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2373,10 +2266,7 @@
     "url": "https://arxiv.org/abs/2305.01582",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science"
+      "Machine Learning"
     ]
   },
   {
@@ -2386,10 +2276,7 @@
     "url": "https://doi.org/10.1038/s41586-023-06735-9",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science"
+      "Machine Learning"
     ]
   },
   {
@@ -2399,9 +2286,6 @@
     "url": "https://arxiv.org/abs/2504.08066",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2412,9 +2296,6 @@
     "url": "https://arxiv.org/abs/2510.26887",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -2425,10 +2306,6 @@
     "url": "https://arxiv.org/abs/2501.03575",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
       "Neural Operators"
     ]
   },
@@ -2439,10 +2316,6 @@
     "url": "https://arxiv.org/abs/2605.14675",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
       "Neural Operators"
     ]
   },
@@ -2453,10 +2326,6 @@
     "url": "https://doi.org/10.1038/s41586-023-06734-w",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
       "Neural Operators"
     ]
   },
@@ -2467,10 +2336,6 @@
     "url": "https://arxiv.org/abs/1910.03193",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
       "Neural Operators"
     ]
   },
@@ -2481,10 +2346,6 @@
     "url": "https://arxiv.org/abs/2605.12997",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
       "Neural Operators"
     ]
   },
@@ -2495,10 +2356,6 @@
     "url": "https://arxiv.org/abs/2309.15325",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
       "Neural Operators"
     ]
   },
@@ -2509,10 +2366,6 @@
     "url": "https://arxiv.org/abs/2504.18267",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
       "Neural Operators"
     ]
   },
@@ -2523,10 +2376,6 @@
     "url": "https://arxiv.org/abs/2504.03503",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
       "Neural Operators"
     ]
   },
@@ -2537,10 +2386,6 @@
     "url": "https://arxiv.org/abs/2402.15715",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
       "Neural Operators"
     ]
   },
@@ -2551,10 +2396,6 @@
     "url": "https://arxiv.org/abs/2601.01829",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
       "Neural Operators"
     ]
   },
@@ -2565,12 +2406,7 @@
     "url": "https://arxiv.org/abs/2108.08481",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
-      "Neural Operators",
-      "Scientific ML"
+      "Neural Operators"
     ]
   },
   {
@@ -2580,12 +2416,7 @@
     "url": "https://arxiv.org/abs/2210.07182",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
-      "Neural Operators",
-      "Scientific ML"
+      "Machine Learning"
     ]
   },
   {
@@ -2595,12 +2426,7 @@
     "url": "https://arxiv.org/abs/2111.03794",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "AI for Science",
-      "Neural Operators",
-      "Scientific ML"
+      "Neural Operators"
     ]
   },
   {
@@ -2610,9 +2436,6 @@
     "url": "https://arxiv.org/abs/2203.15556",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2623,9 +2446,6 @@
     "url": "https://arxiv.org/abs/2512.24880",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2636,9 +2456,6 @@
     "url": "https://arxiv.org/abs/2601.05047",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2649,9 +2466,6 @@
     "url": "https://arxiv.org/abs/2602.16763",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2662,9 +2476,6 @@
     "url": "https://arxiv.org/abs/2401.00448",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2675,9 +2486,6 @@
     "url": "https://arxiv.org/abs/2501.12948",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2688,9 +2496,6 @@
     "url": "https://arxiv.org/abs/2412.19437",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2701,9 +2506,6 @@
     "url": "https://arxiv.org/abs/2510.01631",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2714,9 +2516,6 @@
     "url": "https://arxiv.org/abs/2206.07682",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2727,9 +2526,6 @@
     "url": "https://arxiv.org/abs/2404.01413",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2740,9 +2536,6 @@
     "url": "https://arxiv.org/abs/2509.25300",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2753,9 +2546,6 @@
     "url": "https://arxiv.org/abs/2301.03728",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2766,9 +2556,6 @@
     "url": "https://arxiv.org/abs/2001.08361",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2779,9 +2566,6 @@
     "url": "https://arxiv.org/abs/2410.12119",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2792,9 +2576,6 @@
     "url": "https://arxiv.org/abs/2406.02900",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2805,9 +2586,6 @@
     "url": "https://arxiv.org/abs/2408.03314",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2817,10 +2595,7 @@
     "title": "Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning | OpenReview",
     "url": "https://openreview.net/forum?id=4FWAwZtd2n",
     "tags": [
-      "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
+      "OpenReview",
       "Scaling Laws"
     ]
   },
@@ -2831,9 +2606,6 @@
     "url": "https://arxiv.org/abs/2410.03083",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2844,9 +2616,6 @@
     "url": "https://arxiv.org/abs/2411.17470",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Scaling Laws"
     ]
   },
@@ -2857,12 +2626,7 @@
     "url": "https://arxiv.org/abs/2410.08184",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Scaling Laws",
-      "Statistical Physics",
-      "Renormalization Group"
+      "Scaling Laws"
     ]
   },
   {
@@ -2872,12 +2636,7 @@
     "url": "https://arxiv.org/abs/2010.14701",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Scaling Laws",
-      "Statistical Physics",
-      "Renormalization Group"
+      "Scaling Laws"
     ]
   },
   {
@@ -2887,10 +2646,7 @@
     "url": "https://arxiv.org/abs/2501.03948",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -2900,10 +2656,7 @@
     "url": "https://arxiv.org/abs/2503.23308",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -2913,10 +2666,7 @@
     "url": "https://arxiv.org/abs/2509.19972",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -2926,10 +2676,7 @@
     "url": "https://arxiv.org/abs/2504.07778",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -2939,10 +2686,7 @@
     "url": "https://arxiv.org/abs/2305.11078",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -2952,10 +2696,7 @@
     "url": "https://arxiv.org/abs/2309.12991",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -2965,10 +2706,7 @@
     "url": "https://doi.org/10.1038/s42256-024-00918-3",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -2978,10 +2716,7 @@
     "url": "https://doi.org/10.3389/fphy.2020.00200",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -2991,12 +2726,7 @@
     "url": "https://doi.org/10.1073/pnas.2206994120",
     "tags": [
       "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning",
-      "arXiv",
-      "Fluid Dynamics"
+      "Active Matter"
     ]
   },
   {
@@ -3006,10 +2736,7 @@
     "url": "https://arxiv.org/abs/2105.04641",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3019,10 +2746,7 @@
     "url": "https://doi.org/10.1038/s41586-025-08744-2",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3032,10 +2756,7 @@
     "url": "https://doi.org/10.1140/epje/s10189-024-00466-z",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3045,10 +2766,7 @@
     "url": "https://arxiv.org/abs/2504.08676",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3058,10 +2776,7 @@
     "url": "https://cambridge.org/core/journals/programmable-materials/article/programmable-active-matter-across-scales/7832B782B4A52DFD0719F9D5DBB71ABF",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3071,10 +2786,7 @@
     "url": "https://doi.org/10.1126/scirobotics.abd9285",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3084,10 +2796,7 @@
     "url": "https://arxiv.org/abs/2107.00724",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3097,10 +2806,7 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/38951023",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3110,10 +2816,7 @@
     "url": "https://arxiv.org/abs/2507.21621",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Active Matter",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3123,10 +2826,6 @@
     "url": "https://arxiv.org/abs/0812.4360",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3137,10 +2836,6 @@
     "url": "https://arxiv.org/abs/1612.00410",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3151,10 +2846,6 @@
     "url": "https://arxiv.org/abs/2309.10668",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3165,10 +2856,6 @@
     "url": "https://arxiv.org/abs/2403.00504",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3179,10 +2866,6 @@
     "url": "https://arxiv.org/abs/2506.09985",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3193,10 +2876,6 @@
     "url": "https://arxiv.org/abs/2510.16732",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3207,11 +2886,7 @@
     "url": "https://arxiv.org/abs/2509.26327",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
-      "World Models"
+      "Machine Learning"
     ]
   },
   {
@@ -3221,10 +2896,6 @@
     "url": "https://arxiv.org/abs/2602.24100",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3235,10 +2906,6 @@
     "url": "https://arxiv.org/abs/2404.09937",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3249,10 +2916,6 @@
     "url": "https://arxiv.org/abs/2402.00861",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3263,10 +2926,6 @@
     "url": "https://arxiv.org/abs/2107.13700",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3277,10 +2936,6 @@
     "url": "https://arxiv.org/abs/2505.11441",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3291,10 +2946,6 @@
     "url": "https://arxiv.org/abs/2006.08558",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3305,10 +2956,6 @@
     "url": "https://arxiv.org/abs/1811.04551",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3319,10 +2966,6 @@
     "url": "https://arxiv.org/abs/physics/0007070",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3333,11 +2976,7 @@
     "url": "https://arxiv.org/abs/2012.01447",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
-      "World Models"
+      "Information Theory"
     ]
   },
   {
@@ -3347,10 +2986,6 @@
     "url": "https://arxiv.org/abs/physics/0004057",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3361,11 +2996,7 @@
     "url": "https://arxiv.org/abs/2510.25883",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
-      "World Models"
+      "Information Theory"
     ]
   },
   {
@@ -3375,11 +3006,7 @@
     "url": "https://arxiv.org/abs/2304.09355",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
-      "World Models"
+      "Information Theory"
     ]
   },
   {
@@ -3389,10 +3016,6 @@
     "url": "https://arxiv.org/abs/0712.3329",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3403,10 +3026,6 @@
     "url": "https://arxiv.org/abs/1803.10122",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
       "World Models"
     ]
   },
@@ -3417,14 +3036,7 @@
     "url": "https://doi.org/10.1038/s41567-018-0081-4",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
-      "World Models",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Scaling Laws"
+      "Renormalization Group"
     ]
   },
   {
@@ -3434,15 +3046,7 @@
     "url": "https://arxiv.org/abs/1410.3831",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Information Theory",
-      "World Models",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Scaling Laws",
-      "Generative Models"
+      "Renormalization Group"
     ]
   },
   {
@@ -3452,9 +3056,6 @@
     "url": "https://arxiv.org/abs/2306.10404",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Statistical Physics"
     ]
   },
@@ -3465,9 +3066,6 @@
     "url": "https://arxiv.org/abs/2408.10205",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Statistical Physics"
     ]
   },
@@ -3478,11 +3076,7 @@
     "url": "https://sciencedirect.com/science/article/pii/S0167278920308319",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3492,11 +3086,7 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10603022",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3506,11 +3096,7 @@
     "url": "https://doi.org/10.1103/physreve.74.022101",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3520,11 +3106,7 @@
     "url": "https://doi.org/10.1038/s42254-020-0152-1",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3534,11 +3116,7 @@
     "url": "https://doi.org/10.1103/physrevlett.129.258001",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Fluid Dynamics"
     ]
   },
   {
@@ -3548,11 +3126,7 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5406137",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3562,11 +3136,7 @@
     "url": "https://sciencedirect.com/science/article/pii/S209580992200145X",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3576,10 +3146,6 @@
     "url": "https://sciencedirect.com/science/article/pii/S0021999120307592",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
       "Machine Learning"
     ]
   },
@@ -3590,11 +3156,7 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4839439",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3604,11 +3166,7 @@
     "url": "https://sciencedirect.com/science/article/abs/pii/S0045782523006369",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3618,11 +3176,7 @@
     "url": "https://doi.org/10.1038/nature12673",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3632,11 +3186,7 @@
     "url": "https://doi.org/10.1038/ncomms8470",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3646,11 +3196,7 @@
     "url": "https://sciencedirect.com/science/article/abs/pii/S0375960109010172",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3660,11 +3206,7 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7219083",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Fluid Dynamics"
     ]
   },
   {
@@ -3674,11 +3216,7 @@
     "url": "https://sciencedirect.com/science/article/pii/S0005109822003454",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3688,11 +3226,7 @@
     "url": "https://doi.org/10.1103/physreve.83.030901",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3702,11 +3236,7 @@
     "url": "https://sciencedirect.com/science/article/pii/S0021999124001189",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Fluid Dynamics"
     ]
   },
   {
@@ -3716,11 +3246,7 @@
     "url": "https://doi.org/10.1038/s41467-024-50378-x",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3730,11 +3256,7 @@
     "url": "https://doi.org/10.1038/s41467-021-26202-1",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3744,11 +3266,7 @@
     "url": "https://doi.org/10.1038/s41467-024-52878-2",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3758,11 +3276,7 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7958379",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Fluid Dynamics"
     ]
   },
   {
@@ -3772,11 +3286,7 @@
     "url": "https://doi.org/10.1038/s42256-020-0146-9",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3786,11 +3296,7 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10321743",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3800,11 +3306,7 @@
     "url": "https://doi.org/10.1038/s41467-021-26434-1",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3814,10 +3316,6 @@
     "url": "https://sciencedirect.com/science/article/pii/S0021999121005714",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
       "Machine Learning"
     ]
   },
@@ -3828,11 +3326,7 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/34654183",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3842,11 +3336,7 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9755218",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3856,11 +3346,7 @@
     "url": "https://doi.org/10.1038/s41598-022-25638-9",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3870,11 +3356,7 @@
     "url": "https://doi.org/10.1103/physreve.109.034606",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3884,11 +3366,7 @@
     "url": "https://sciencedirect.com/science/article/pii/S002178241930039X",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3898,11 +3376,7 @@
     "url": "https://doi.org/10.1007/s00205-023-01903-7",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3912,11 +3386,7 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8570254",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Active Matter",
-      "Fluid Dynamics",
-      "Machine Learning"
+      "Active Matter"
     ]
   },
   {
@@ -3926,11 +3396,7 @@
     "url": "https://arxiv.org/abs/1910.00019",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Field Theory"
+      "Machine Learning"
     ]
   },
   {
@@ -3940,10 +3406,6 @@
     "url": "https://arxiv.org/abs/2008.08601",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -3954,10 +3416,6 @@
     "url": "https://arxiv.org/abs/2101.08176",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -3968,10 +3426,6 @@
     "url": "https://arxiv.org/abs/2104.09456",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -3982,10 +3436,6 @@
     "url": "https://arxiv.org/abs/2111.15141",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -3996,10 +3446,6 @@
     "url": "https://arxiv.org/abs/2111.15640",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -4010,17 +3456,7 @@
     "url": "https://arxiv.org/abs/2210.02747",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Field Theory",
-      "Flow Matching RG",
-      "Flow Matching",
-      "Benchmarking",
-      "Renormalization Group",
-      "Symmetry",
-      "Generative Models"
+      "Flow Matching"
     ]
   },
   {
@@ -4030,10 +3466,6 @@
     "url": "https://arxiv.org/abs/2210.11058",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -4044,11 +3476,7 @@
     "url": "https://arxiv.org/abs/2307.03223",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Field Theory"
+      "Machine Learning"
     ]
   },
   {
@@ -4058,10 +3486,6 @@
     "url": "https://arxiv.org/abs/2308.05695",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -4072,10 +3496,6 @@
     "url": "https://arxiv.org/abs/2411.14863",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -4086,10 +3506,6 @@
     "url": "https://arxiv.org/abs/2506.23205",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -4100,10 +3516,6 @@
     "url": "https://arxiv.org/abs/1807.02128",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -4114,15 +3526,7 @@
     "url": "https://proceedings.neurips.cc/paper_files/paper/2021/file/940392f5f32a7ade1cc201767cf83e31-Paper.pdf",
     "tags": [
       "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Field Theory",
-      "arXiv",
-      "Flow Matching RG",
-      "Generative Models",
-      "Flow Matching"
+      "Generative Models"
     ]
   },
   {
@@ -4132,10 +3536,6 @@
     "url": "https://arxiv.org/abs/2106.05934",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -4146,10 +3546,6 @@
     "url": "https://arxiv.org/abs/2005.03648",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -4160,11 +3556,7 @@
     "url": "https://arxiv.org/abs/1606.02318",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Field Theory"
+      "Machine Learning"
     ]
   },
   {
@@ -4174,10 +3566,6 @@
     "url": "https://proceedings.mlr.press/v235/hirono24a.html",
     "tags": [
       "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Field Theory"
     ]
   },
@@ -4188,13 +3576,7 @@
     "url": "https://arxiv.org/abs/2011.13456",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Field Theory",
-      "Renormalization Group",
-      "Scaling Laws"
+      "Renormalization Group"
     ]
   },
   {
@@ -4204,9 +3586,6 @@
     "url": "https://arxiv.org/abs/1611.01232",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Statistical Physics"
     ]
   },
@@ -4217,10 +3596,7 @@
     "url": "https://arxiv.org/abs/1711.00165",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics"
+      "Machine Learning"
     ]
   },
   {
@@ -4230,10 +3606,7 @@
     "url": "https://arxiv.org/abs/1804.06561",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics"
+      "Machine Learning"
     ]
   },
   {
@@ -4243,10 +3616,7 @@
     "url": "https://arxiv.org/abs/1807.01083",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics"
+      "Machine Learning"
     ]
   },
   {
@@ -4256,9 +3626,6 @@
     "url": "https://arxiv.org/abs/2202.00553",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Statistical Physics"
     ]
   },
@@ -4269,10 +3636,7 @@
     "url": "https://arxiv.org/abs/1806.07572",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics"
+      "Machine Learning"
     ]
   },
   {
@@ -4282,9 +3646,6 @@
     "url": "https://jmlr.org/papers/v22/20-1288.html",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Statistical Physics"
     ]
   },
@@ -4294,11 +3655,8 @@
     "title": "Tensor Programs VI: Feature Learning in Infinite Depth Neural Networks | OpenReview",
     "url": "https://openreview.net/forum?id=17pVDnpwwl",
     "tags": [
-      "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics"
+      "OpenReview",
+      "Machine Learning"
     ]
   },
   {
@@ -4308,11 +3666,6 @@
     "url": "https://arxiv.org/abs/1806.07366",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Scientific ML",
       "Neural Operators"
     ]
   },
@@ -4323,11 +3676,7 @@
     "url": "https://arxiv.org/abs/1902.06015",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Training Dynamics"
+      "Machine Learning"
     ]
   },
   {
@@ -4337,9 +3686,6 @@
     "url": "https://doi.org/10.1038/s41467-024-44856-5",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -4350,9 +3696,6 @@
     "url": "https://doi.org/10.1038/s41928-024-01133-z",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Contextual Reference",
-      "Machine Learning",
       "AI for Science"
     ]
   },
@@ -4363,10 +3706,6 @@
     "url": "https://arxiv.org/abs/2603.26800",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Scientific ML",
       "Neural Operators"
     ]
   },
@@ -4377,10 +3716,6 @@
     "url": "https://arxiv.org/abs/2010.08895",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Scientific ML",
       "Neural Operators"
     ]
   },
@@ -4391,10 +3726,6 @@
     "url": "https://arxiv.org/abs/2602.14011",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Scientific ML",
       "Neural Operators"
     ]
   },
@@ -4405,10 +3736,6 @@
     "url": "https://arxiv.org/abs/2110.10249",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Scientific ML",
       "Neural Operators"
     ]
   },
@@ -4419,10 +3746,6 @@
     "url": "https://arxiv.org/abs/2502.12902",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Scientific ML",
       "Neural Operators"
     ]
   },
@@ -4433,10 +3756,6 @@
     "url": "https://arxiv.org/abs/2302.07400",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Scientific ML",
       "Neural Operators"
     ]
   },
@@ -4447,10 +3766,6 @@
     "url": "https://arxiv.org/abs/2602.18801",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Scientific ML",
       "Neural Operators"
     ]
   },
@@ -4461,8 +3776,6 @@
     "url": "https://doi.org/10.1103/yfb3-fgf2",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
       "Machine Learning"
     ]
   },
@@ -4473,8 +3786,6 @@
     "url": "https://doi.org/10.1103/k6f7-gtr7",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
       "Machine Learning"
     ]
   },
@@ -4485,8 +3796,6 @@
     "url": "https://doi.org/10.1103/physrevlett.134.177301",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
       "Machine Learning"
     ]
   },
@@ -4497,12 +3806,7 @@
     "url": "https://arxiv.org/abs/1503.03585",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Scaling Laws"
+      "Renormalization Group"
     ]
   },
   {
@@ -4512,11 +3816,6 @@
     "url": "https://arxiv.org/abs/2102.06701",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
       "Scaling Laws"
     ]
   },
@@ -4527,12 +3826,7 @@
     "url": "https://arxiv.org/abs/1802.02840",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Scaling Laws"
+      "Renormalization Group"
     ]
   },
   {
@@ -4542,12 +3836,7 @@
     "url": "https://arxiv.org/abs/2010.00029",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Scaling Laws"
+      "Renormalization Group"
     ]
   },
   {
@@ -4557,17 +3846,7 @@
     "url": "https://arxiv.org/abs/2308.12355",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Scaling Laws",
-      "Generative Models",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Flow Matching",
-      "Path Integrals"
+      "Flow Matching"
     ]
   },
   {
@@ -4577,12 +3856,7 @@
     "url": "https://arxiv.org/abs/2305.13266",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Generative Models"
+      "Renormalization Group"
     ]
   },
   {
@@ -4592,11 +3866,7 @@
     "url": "https://sciencedirect.com/science/article/pii/S037843711100642X",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Information Theory"
+      "Renormalization Group"
     ]
   },
   {
@@ -4606,11 +3876,7 @@
     "url": "https://doi.org/10.1103/physrevd.106.065013",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Information Theory"
+      "Renormalization Group"
     ]
   },
   {
@@ -4620,11 +3886,7 @@
     "url": "https://doi.org/10.1103/physrevx.10.011037",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Information Theory"
+      "Renormalization Group"
     ]
   },
   {
@@ -4634,11 +3896,7 @@
     "url": "https://doi.org/10.1007/jhep05(2015)104",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Information Theory"
+      "Renormalization Group"
     ]
   },
   {
@@ -4648,10 +3906,6 @@
     "url": "https://doi.org/10.1103/physrevlett.127.240603",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Statistical Physics",
-      "Renormalization Group",
       "Information Theory"
     ]
   },
@@ -4662,12 +3916,7 @@
     "url": "https://doi.org/10.1007/jhep05(2024)060",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Generative Models"
+      "Renormalization Group"
     ]
   },
   {
@@ -4676,13 +3925,8 @@
     "title": "GUD: Generation with Unified Diffusion | OpenReview",
     "url": "https://openreview.net/forum?id=zn0eqMtsrw",
     "tags": [
-      "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Generative Models"
+      "OpenReview",
+      "Renormalization Group"
     ]
   },
   {
@@ -4692,12 +3936,7 @@
     "url": "https://doi.org/10.1103/physrevd.107.l051504",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Generative Models"
+      "Renormalization Group"
     ]
   },
   {
@@ -4707,12 +3946,7 @@
     "url": "https://doi.org/10.1007/jhep03(2026)111",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Generative Models"
+      "Renormalization Group"
     ]
   },
   {
@@ -4722,12 +3956,7 @@
     "url": "https://academic.oup.com/ptep/article/2021/2/023B02/6020279",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Generative Models"
+      "Renormalization Group"
     ]
   },
   {
@@ -4737,15 +3966,6 @@
     "url": "https://jmlr.org/beta/papers/v26/23-1605.html",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Generative Models",
-      "arXiv",
-      "Flow Matching RG",
-      "Symmetry",
       "Flow Matching"
     ]
   },
@@ -4756,12 +3976,7 @@
     "url": "https://doi.org/10.1007/jhep01(2020)172",
     "tags": [
       "Journal",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
-      "Generative Models"
+      "Renormalization Group"
     ]
   },
   {
@@ -4771,11 +3986,6 @@
     "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/03474669b759f6d38cdca6fb4eb905f4-Abstract-Conference.html",
     "tags": [
       "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Renormalization Group",
       "Generative Models"
     ]
   },
@@ -4786,11 +3996,7 @@
     "url": "https://arxiv.org/abs/1906.05212",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Training Dynamics"
+      "Machine Learning"
     ]
   },
   {
@@ -4800,10 +4006,6 @@
     "url": "https://arxiv.org/abs/2002.03495",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Training Dynamics"
     ]
   },
@@ -4814,11 +4016,7 @@
     "url": "https://arxiv.org/abs/2405.17538",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Training Dynamics"
+      "Machine Learning"
     ]
   },
   {
@@ -4828,10 +4026,6 @@
     "url": "https://arxiv.org/abs/2603.27880",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Training Dynamics"
     ]
   },
@@ -4841,11 +4035,7 @@
     "title": "A Framework on Dynamics of Feature Emergence and ...",
     "url": "https://openreview.net/forum?id=ceIBRhJpUr",
     "tags": [
-      "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
+      "OpenReview",
       "Training Dynamics"
     ]
   },
@@ -4855,11 +4045,7 @@
     "title": "A simple mean field model of feature learning",
     "url": "https://openreview.net/forum?id=FVQzqSIJcC",
     "tags": [
-      "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
+      "OpenReview",
       "Training Dynamics"
     ]
   },
@@ -4870,10 +4056,6 @@
     "url": "https://arxiv.org/abs/2305.10491",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Training Dynamics"
     ]
   },
@@ -4883,11 +4065,7 @@
     "title": "How Feature Learning Can Improve Neural Scaling Laws",
     "url": "https://openreview.net/forum?id=dEypApI1MZ",
     "tags": [
-      "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
+      "OpenReview",
       "Training Dynamics"
     ]
   },
@@ -4898,17 +4076,7 @@
     "url": "https://arxiv.org/abs/2402.17090",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Training Dynamics",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Flow Matching",
-      "Path Integrals",
-      "Renormalization Group",
-      "Generative Models"
+      "Renormalization Group"
     ]
   },
   {
@@ -4917,12 +4085,8 @@
     "title": "Scaling Laws and Spectra of Shallow Neural Networks in ...",
     "url": "https://openreview.net/forum?id=Q3yLIIkt7z",
     "tags": [
-      "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Training Dynamics"
+      "OpenReview",
+      "Machine Learning"
     ]
   },
   {
@@ -4932,10 +4096,6 @@
     "url": "https://arxiv.org/abs/2212.11379",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
       "Training Dynamics"
     ]
   },
@@ -4945,12 +4105,8 @@
     "title": "Understanding Scaling Laws in Deep Neural Networks via ...",
     "url": "https://openreview.net/forum?id=LD0W6HEwsq",
     "tags": [
-      "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Training Dynamics"
+      "OpenReview",
+      "Machine Learning"
     ]
   },
   {
@@ -4960,11 +4116,7 @@
     "url": "https://arxiv.org/abs/2405.06008",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
-      "Statistical Physics",
-      "Training Dynamics"
+      "Machine Learning"
     ]
   },
   {
@@ -4974,9 +4126,6 @@
     "url": "https://arxiv.org/abs/2501.18322",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Transformer Theory"
     ]
   },
@@ -4987,9 +4136,6 @@
     "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/d18d208fa9c333483e5724ade7beff0f-Abstract-Conference.html",
     "tags": [
       "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Transformer Theory"
     ]
   },
@@ -5000,9 +4146,6 @@
     "url": "https://arxiv.org/abs/2406.07247",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Transformer Theory"
     ]
   },
@@ -5013,9 +4156,6 @@
     "url": "https://proceedings.mlr.press/v267/nait-saada25a.html",
     "tags": [
       "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Transformer Theory"
     ]
   },
@@ -5026,9 +4166,6 @@
     "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c82ad2a73009cbde6da1ce6ba572e687-Abstract-Conference.html",
     "tags": [
       "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Transformer Theory"
     ]
   },
@@ -5039,9 +4176,6 @@
     "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/cca569b38ec3612904e625dad7a743dc-Abstract-Conference.html",
     "tags": [
       "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Transformer Theory"
     ]
   },
@@ -5052,9 +4186,6 @@
     "url": "https://arxiv.org/abs/2607.24502",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Transformer Theory"
     ]
   },
@@ -5065,9 +4196,6 @@
     "url": "https://arxiv.org/abs/2512.01868",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Transformer Theory"
     ]
   },
@@ -5078,9 +4206,6 @@
     "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/2cf63608d264a3c65e68e3cff860c152-Abstract-Conference.html",
     "tags": [
       "Conference",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Transformer Theory"
     ]
   },
@@ -5091,9 +4216,6 @@
     "url": "https://arxiv.org/abs/2506.19774",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Video Generation"
     ]
   },
@@ -5104,9 +4226,6 @@
     "url": "https://arxiv.org/abs/2601.09881",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Video Generation"
     ]
   },
@@ -5117,9 +4236,6 @@
     "url": "https://arxiv.org/abs/2604.08121",
     "tags": [
       "arXiv",
-      "Meaningful Chat",
-      "Recommended",
-      "Machine Learning",
       "Video Generation"
     ]
   },
@@ -5130,12 +4246,7 @@
     "url": "https://arxiv.org/abs/2505.13447",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Few-step Generation",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5145,18 +4256,7 @@
     "url": "https://arxiv.org/abs/2506.02070",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Few-step Generation",
-      "Diffusion Models",
-      "Benchmarking",
-      "Path Integrals",
-      "Renormalization Group",
-      "Statistical Physics",
-      "Symmetry",
-      "Generative Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5166,11 +4266,7 @@
     "url": "https://arxiv.org/abs/2406.18009",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5180,11 +4276,7 @@
     "url": "https://arxiv.org/abs/2410.06885",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5194,11 +4286,7 @@
     "url": "https://arxiv.org/abs/2410.19310",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5208,11 +4296,7 @@
     "url": "https://arxiv.org/abs/2406.13839",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5222,11 +4306,7 @@
     "url": "https://doi.org/10.1038/s44387-025-00066-y",
     "tags": [
       "Journal",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5236,11 +4316,7 @@
     "url": "https://arxiv.org/abs/2506.15742",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5250,11 +4326,7 @@
     "url": "https://arxiv.org/abs/2402.04997",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5264,11 +4336,7 @@
     "url": "https://arxiv.org/abs/2412.03603",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5278,11 +4346,7 @@
     "url": "https://arxiv.org/abs/2401.04082",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5292,11 +4356,7 @@
     "url": "https://arxiv.org/abs/2302.00482",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5306,11 +4366,7 @@
     "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc8f76d9caadd48f77025b1c889d2e2d-Abstract-Conference.html",
     "tags": [
       "Conference",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5320,11 +4376,7 @@
     "url": "https://arxiv.org/abs/2403.03206",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5334,11 +4386,7 @@
     "url": "https://arxiv.org/abs/2401.08740",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5348,11 +4396,7 @@
     "url": "https://arxiv.org/abs/2602.05435",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5362,11 +4406,7 @@
     "url": "https://arxiv.org/abs/2604.16079",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models"
+      "Flow Matching"
     ]
   },
   {
@@ -5376,12 +4416,7 @@
     "url": "https://arxiv.org/abs/2407.15595",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models",
-      "Benchmarking"
+      "Flow Matching"
     ]
   },
   {
@@ -5391,13 +4426,7 @@
     "url": "https://arxiv.org/abs/2405.20320",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5407,13 +4436,7 @@
     "url": "https://arxiv.org/abs/2410.13720",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5423,13 +4446,7 @@
     "url": "https://arxiv.org/abs/2410.05954",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Diffusion Models",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5438,12 +4455,8 @@
     "title": "DISCRETE DIFFUSION LANGUAGE MODELING BY ESTI",
     "url": "https://openreview.net/pdf/6dcf56ae64ecd6ffb39c0b5f3064025b9e2a297a.pdf",
     "tags": [
-      "Conference",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Benchmarking"
+      "OpenReview",
+      "Flow Matching"
     ]
   },
   {
@@ -5452,12 +4465,8 @@
     "title": "Discrete Flow Matching for Graph Generation - DeFoG",
     "url": "https://openreview.net/pdf?id=KPRIwWhqAZ",
     "tags": [
-      "Conference",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Benchmarking"
+      "OpenReview",
+      "Flow Matching"
     ]
   },
   {
@@ -5467,11 +4476,7 @@
     "url": "https://arxiv.org/abs/2207.09284",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Path Integrals"
+      "Flow Matching"
     ]
   },
   {
@@ -5481,12 +4486,7 @@
     "url": "https://arxiv.org/abs/2106.07582",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5496,12 +4496,7 @@
     "url": "https://arxiv.org/abs/2206.13397",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5511,12 +4506,7 @@
     "url": "https://arxiv.org/abs/2208.09392",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5526,12 +4516,7 @@
     "url": "https://arxiv.org/abs/2209.05557",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5541,12 +4526,7 @@
     "url": "https://arxiv.org/abs/2302.01170",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5556,12 +4536,7 @@
     "url": "https://arxiv.org/abs/2409.17808",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5571,12 +4546,7 @@
     "url": "https://arxiv.org/abs/2504.19353",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5586,12 +4556,7 @@
     "url": "https://arxiv.org/abs/2505.18647",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5601,12 +4566,7 @@
     "url": "https://arxiv.org/abs/2512.18184",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5616,12 +4576,7 @@
     "url": "https://arxiv.org/abs/2603.18992",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5631,12 +4586,7 @@
     "url": "https://arxiv.org/abs/hep-ph/0005122",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Renormalization Group"
     ]
   },
   {
@@ -5646,12 +4596,7 @@
     "url": "https://arxiv.org/abs/1405.0791",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Renormalization Group"
     ]
   },
   {
@@ -5661,12 +4606,7 @@
     "url": "https://arxiv.org/abs/2601.10221",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5675,13 +4615,8 @@
     "title": "Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional | OpenReview",
     "url": "https://openreview.net/forum?id=QwoGfQzuMa&noteId=GFnC8jkkEK",
     "tags": [
-      "Conference",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "OpenReview",
+      "Flow Matching"
     ]
   },
   {
@@ -5691,12 +4626,7 @@
     "url": "https://arxiv.org/abs/2405.00751",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5706,12 +4636,7 @@
     "url": "https://doi.org/10.1038/s41598-026-47071-y",
     "tags": [
       "Journal",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5721,12 +4646,7 @@
     "url": "https://arxiv.org/abs/2410.13027",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5736,12 +4656,7 @@
     "url": "https://arxiv.org/abs/2410.02667",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5751,12 +4666,7 @@
     "url": "https://arxiv.org/abs/2601.22033",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5766,12 +4676,7 @@
     "url": "https://arxiv.org/abs/2304.14772",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5781,12 +4686,7 @@
     "url": "https://arxiv.org/abs/2406.07507",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5796,12 +4696,7 @@
     "url": "https://arxiv.org/abs/hep-th/0002034",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Renormalization Group"
     ]
   },
   {
@@ -5811,12 +4706,7 @@
     "url": "https://arxiv.org/abs/2505.18825",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5826,12 +4716,7 @@
     "url": "https://arxiv.org/abs/2506.15864",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5841,12 +4726,7 @@
     "url": "https://arxiv.org/abs/2508.14807",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5856,12 +4736,7 @@
     "url": "https://arxiv.org/abs/2602.19461",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5871,12 +4746,7 @@
     "url": "https://arxiv.org/abs/2602.00869",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5886,12 +4756,7 @@
     "url": "https://arxiv.org/abs/2506.01337",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5901,12 +4766,7 @@
     "url": "https://arxiv.org/abs/2312.16038",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Renormalization Group"
     ]
   },
   {
@@ -5915,13 +4775,8 @@
     "title": "Relay Diffusion: Unifying diffusion process across resolutions for image synthesis | OpenReview",
     "url": "https://openreview.net/forum?id=qTlcbLSm4p",
     "tags": [
-      "Conference",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "OpenReview",
+      "Flow Matching"
     ]
   },
   {
@@ -5930,13 +4785,8 @@
     "title": "Score-based Data Assimilation | OpenReview",
     "url": "https://openreview.net/forum?id=VUvLSnMZdX",
     "tags": [
-      "Conference",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "OpenReview",
+      "Flow Matching"
     ]
   },
   {
@@ -5946,12 +4796,7 @@
     "url": "https://arxiv.org/abs/2311.15127",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5961,12 +4806,7 @@
     "url": "https://doi.org/10.1038/s42256-024-00810-0",
     "tags": [
       "Journal",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Flow Matching"
     ]
   },
   {
@@ -5976,12 +4816,7 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8871280",
     "tags": [
       "Journal",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
-      "Flow Matching",
-      "Renormalization Group",
-      "Statistical Physics"
+      "Machine Learning"
     ]
   },
   {
@@ -5991,9 +4826,6 @@
     "url": "https://arxiv.org/abs/2303.16852",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Contextual Reference",
-      "Machine Learning",
       "Symmetry"
     ]
   },
@@ -6004,11 +4836,7 @@
     "url": "https://arxiv.org/abs/2211.01364",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
-      "Flow Matching"
+      "Generative Models"
     ]
   },
   {
@@ -6018,10 +4846,6 @@
     "url": "https://arxiv.org/abs/2504.01938",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
       "Flow Matching"
     ]
   },
@@ -6032,10 +4856,6 @@
     "url": "https://arxiv.org/abs/2210.06662",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
       "Flow Matching"
     ]
   },
@@ -6046,10 +4866,6 @@
     "url": "https://arxiv.org/abs/2504.10612",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
       "Flow Matching"
     ]
   },
@@ -6060,10 +4876,6 @@
     "url": "https://arxiv.org/abs/2211.03595",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
       "Flow Matching"
     ]
   },
@@ -6074,11 +4886,7 @@
     "url": "https://arxiv.org/abs/2410.20587",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
-      "Flow Matching"
+      "Generative Models"
     ]
   },
   {
@@ -6088,11 +4896,7 @@
     "url": "https://arxiv.org/abs/2304.02637",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
-      "Flow Matching"
+      "Generative Models"
     ]
   },
   {
@@ -6102,10 +4906,6 @@
     "url": "https://proceedings.mlr.press/v238/tong24a.html",
     "tags": [
       "Conference",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
       "Flow Matching"
     ]
   },
@@ -6116,10 +4916,6 @@
     "url": "https://arxiv.org/abs/2606.24157",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
       "Flow Matching"
     ]
   },
@@ -6130,11 +4926,7 @@
     "url": "https://arxiv.org/abs/2506.23589",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
-      "Flow Matching"
+      "Generative Models"
     ]
   },
   {
@@ -6144,11 +4936,7 @@
     "url": "https://arxiv.org/abs/2608.12438",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
-      "Flow Matching"
+      "Generative Models"
     ]
   },
   {
@@ -6158,10 +4946,6 @@
     "url": "https://arxiv.org/abs/2406.04843",
     "tags": [
       "arXiv",
-      "Flow Matching RG",
-      "Recommended",
-      "Machine Learning",
-      "Generative Models",
       "Flow Matching"
     ]
   }

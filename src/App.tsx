@@ -5,20 +5,12 @@ type Paper = {
   date: string;
   title: string;
   url?: string;
-  tags: string[];
+  tags: [source: string, topic: string];
 };
 
 type MatchMode = 'all' | 'any';
 type SortMode = 'newest' | 'oldest' | 'title';
 type Theme = 'light' | 'dark';
-
-const SOURCE_TAGS = new Set(['arXiv', 'OpenReview', 'Journal', 'Conference']);
-
-function tagGroup(tag: string) {
-  if (SOURCE_TAGS.has(tag)) return 'Source';
-  if (/^20\d{2}-\d{2}$/.test(tag)) return 'Month';
-  return 'Topic';
-}
 
 function App() {
   const [papers, setPapers] = useState<Paper[]>([]);
@@ -41,12 +33,18 @@ function App() {
   }, []);
 
   const tagGroups = useMemo(() => {
-    const counts = new Map<string, number>();
-    papers.forEach((paper) => paper.tags.forEach((tag) => counts.set(tag, (counts.get(tag) ?? 0) + 1)));
-    const groups: Record<string, [string, number][]> = { Source: [], Month: [], Topic: [] };
-    counts.forEach((count, tag) => groups[tagGroup(tag)].push([tag, count]));
+    const sourceCounts = new Map<string, number>();
+    const topicCounts = new Map<string, number>();
+    papers.forEach((paper) => {
+      const [source, topic] = paper.tags;
+      sourceCounts.set(source, (sourceCounts.get(source) ?? 0) + 1);
+      topicCounts.set(topic, (topicCounts.get(topic) ?? 0) + 1);
+    });
+    const groups: Record<string, [string, number][]> = {
+      Source: [...sourceCounts.entries()],
+      Topic: [...topicCounts.entries()],
+    };
     groups.Source.sort((a, b) => b[1] - a[1]);
-    groups.Month.sort((a, b) => b[0].localeCompare(a[0]));
     groups.Topic.sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
     return groups;
   }, [papers]);
@@ -109,7 +107,7 @@ function App() {
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Search title or tags…"
+            placeholder="Search title, source, or topic…"
           />
         </label>
 

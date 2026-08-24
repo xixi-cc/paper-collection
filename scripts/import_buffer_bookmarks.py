@@ -19,6 +19,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 
+from catalog_tags import paper_tags
+
 
 ARXIV = re.compile(r"(?<!\d)(\d{4}\.\d{4,5})(?:v\d+)?(?!\d)", re.IGNORECASE)
 DOI = re.compile(r"(10\.\d{4,9}/[^?#\s]+)", re.IGNORECASE)
@@ -335,7 +337,7 @@ def main() -> None:
         url_key = canonical_url(url).casefold()
         if url_key in known_urls:
             existing_paper = existing_by_url[url_key]
-            if "Browser bookmark" in existing_paper.get("tags", []) and existing_paper["title"] != title:
+            if existing_paper["title"] != title and method != "bookmark_title":
                 known_titles.discard(normalized(existing_paper["title"]))
                 existing_paper["title"] = title
                 known_titles.add(title_key)
@@ -347,10 +349,8 @@ def main() -> None:
             audit_entries.append({"title": title, "url": url, "status": "duplicate_existing"})
             continue
 
-        tags = [source_tag(url), "Browser bookmark"]
         topic = topic_tag(title)
-        if topic:
-            tags.append(topic)
+        tags = paper_tags(source_tag(url), title, [topic] if topic else [])
         additions.append({
             "id": hashlib.sha256(f"bookmark:{url_key}".encode()).hexdigest()[:16],
             "date": bookmark_date(bookmark["add_date"]),

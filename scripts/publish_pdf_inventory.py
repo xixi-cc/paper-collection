@@ -18,6 +18,8 @@ from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Any
 
+from catalog_tags import paper_tags
+
 
 ARXIV_NEW = re.compile(r"(?<!\d)(\d{4}\.\d{4,5})(?:v\d+)?(?!\d)", re.IGNORECASE)
 ARXIV_OLD = re.compile(r"\b([a-z-]+(?:\.[A-Z]{2})?/\d{7})(?:v\d+)?\b", re.IGNORECASE)
@@ -256,10 +258,8 @@ def main() -> None:
             source = "Scholar search"
             method = "title_search"
 
-        tags = [source]
         topic = infer_topic(resolved_title)
-        if topic:
-            tags.append(topic)
+        tags = paper_tags(source, resolved_title, [topic] if topic else [])
         paper = {
             "id": row["sha256"][:16],
             "date": collected,
