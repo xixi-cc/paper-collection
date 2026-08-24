@@ -5,6 +5,7 @@ type Paper = {
   date: string;
   published?: string;
   venue?: string;
+  publication_type?: 'Journal' | 'Conference';
   publication_status?: 'published' | 'preprint' | 'submission';
   title: string;
   url?: string;
@@ -194,11 +195,10 @@ function App() {
                       : paper.publication_status === 'submission' ? 'Submission date unavailable' : 'Publication date unavailable'}
                   </time>
                   {paper.tags.map((tag) => <button type="button" key={tag} onClick={() => toggleTag(tag)}>{tag}</button>)}
-                  {paper.venue && <span className="paper-venue">{paper.venue}</span>}
                   <span className="paper-links">
                     {paper.links?.publication && (
                       <a href={paper.links.publication} target="_blank" rel="noreferrer">
-                        {paper.tags[0] === 'Conference' ? 'Conference' : paper.tags[0] === 'Journal' ? 'Journal' : paper.tags[0] === 'Preprint' ? 'Preprint' : 'Publication'}
+                        {paper.publication_type === 'Conference' ? 'Conference' : paper.publication_type === 'Journal' ? 'Journal' : paper.tags[0] === 'Preprint' ? 'Preprint' : 'Publication'}
                       </a>
                     )}
                     {paper.links?.arxiv && <a href={paper.links.arxiv} target="_blank" rel="noreferrer">arXiv</a>}

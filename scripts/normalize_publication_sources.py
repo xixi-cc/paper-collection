@@ -275,9 +275,10 @@ def main() -> None:
     methods: dict[str, str] = {}
     unresolved: list[dict[str, str]] = []
     for paper in catalog:
-        source = paper["tags"][0]
+        source = paper.get("publication_type") or paper["tags"][0]
         if source not in {"Journal", "Conference"}:
             paper.pop("venue", None)
+            paper.pop("publication_type", None)
             continue
         if paper.get("venue"):
             methods[paper["id"]] = "curated_override" if paper["id"] in VENUE_OVERRIDES else "curated_platform_fix"
@@ -302,6 +303,12 @@ def main() -> None:
         else:
             unresolved.append({"id": paper["id"], "title": paper["title"], "url": publication})
 
+    for paper in catalog:
+        source = paper.get("publication_type") or paper["tags"][0]
+        if source in {"Journal", "Conference"} and paper.get("venue"):
+            paper["publication_type"] = source
+            paper["tags"][0] = paper["venue"]
+
     args.catalog.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     audit = {
         "generated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
@@ -310,8 +317,8 @@ def main() -> None:
         "excluded_unverified_scholar_search": len(UNVERIFIED_SCHOLAR_IDS),
         "removed_unverified_scholar_search_this_run": original_count - len(catalog),
         "platform_fixes": fixes_applied,
-        "formal_records": sum(p["tags"][0] in {"Journal", "Conference"} for p in catalog),
-        "formal_with_venue": sum(bool(p.get("venue")) for p in catalog if p["tags"][0] in {"Journal", "Conference"}),
+        "formal_records": sum(p.get("publication_type") in {"Journal", "Conference"} for p in catalog),
+        "formal_with_venue": sum(bool(p.get("venue")) for p in catalog if p.get("publication_type") in {"Journal", "Conference"}),
         "venue_methods": methods,
         "unresolved": unresolved,
     }
