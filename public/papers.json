@@ -3148,7 +3148,8 @@
     ],
     "published": "2026-04-24",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2604.22541"
+      "arxiv": "https://arxiv.org/abs/2604.22541",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2604.22541/"
     },
     "source_detail": "arXiv"
   },
@@ -3707,7 +3708,8 @@
     "published": "2024",
     "links": {
       "arxiv": "https://arxiv.org/abs/2410.03083",
-      "publication": "https://doi.org/10.18653/v1/2024.emnlp-industry.8"
+      "publication": "https://doi.org/10.18653/v1/2024.emnlp-industry.8",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2410.03083/"
     },
     "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track",
     "publication_type": "Conference",
@@ -4390,7 +4392,8 @@
     ],
     "published": "2014-10-14",
     "links": {
-      "arxiv": "https://arxiv.org/abs/1410.3831"
+      "arxiv": "https://arxiv.org/abs/1410.3831",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/1410.3831/"
     },
     "source_detail": "arXiv"
   },
@@ -5223,7 +5226,8 @@
     "published": "2017-02-10",
     "links": {
       "arxiv": "https://arxiv.org/abs/1606.02318",
-      "publication": "https://doi.org/10.1126/science.aag2302"
+      "publication": "https://doi.org/10.1126/science.aag2302",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/1606.02318/"
     },
     "venue": "Science",
     "publication_type": "Journal",
@@ -5930,7 +5934,8 @@
     ],
     "published": "2020-02-10",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2002.03495"
+      "arxiv": "https://arxiv.org/abs/2002.03495",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2002.03495/"
     },
     "source_detail": "arXiv"
   },
