@@ -14,6 +14,7 @@ type Paper = {
     publication?: string;
     arxiv?: string;
     submission?: string;
+    card?: string;
   };
   tags: [source: string, topic: string];
 };
@@ -205,6 +206,7 @@ function App() {
                     )}
                     {paper.links?.arxiv && <a href={paper.links.arxiv} target="_blank" rel="noreferrer">arXiv</a>}
                     {paper.links?.submission && <a href={paper.links.submission} target="_blank" rel="noreferrer">OpenReview</a>}
+                    {paper.links?.card && <a href={paper.links.card} target="_blank" rel="noreferrer">Paper Card</a>}
                   </span>
                 </div>
               </article>
