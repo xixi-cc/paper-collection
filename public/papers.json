@@ -2012,7 +2012,8 @@
     "published": "2016-11",
     "links": {
       "arxiv": "https://arxiv.org/abs/1511.01451",
-      "publication": "https://doi.org/10.1140/epjst/e2016-60066-8"
+      "publication": "https://doi.org/10.1140/epjst/e2016-60066-8",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/1511.01451/"
     },
     "venue": "The European Physical Journal Special Topics",
     "publication_type": "Journal",
@@ -3457,7 +3458,8 @@
     "published": "2026-05",
     "links": {
       "arxiv": "https://arxiv.org/abs/2601.05047",
-      "publication": "https://doi.org/10.1109/mc.2026.3652916"
+      "publication": "https://doi.org/10.1109/mc.2026.3652916",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2601.05047/"
     },
     "venue": "Computer",
     "publication_type": "Journal",
@@ -5443,7 +5445,8 @@
     ],
     "published": "2020-10-18",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2010.08895"
+      "arxiv": "https://arxiv.org/abs/2010.08895",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2010.08895/"
     },
     "source_detail": "arXiv"
   },
@@ -6372,7 +6375,8 @@
     ],
     "published": "2024-10-25",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2410.19310"
+      "arxiv": "https://arxiv.org/abs/2410.19310",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2410.19310/"
     },
     "source_detail": "arXiv"
   },
@@ -6995,7 +6999,8 @@
     ],
     "published": "2024-06-11",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2406.07507"
+      "arxiv": "https://arxiv.org/abs/2406.07507",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2406.07507/"
     },
     "source_detail": "arXiv"
   },
