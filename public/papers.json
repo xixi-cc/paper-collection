@@ -354,7 +354,8 @@
     ],
     "published": "2023-09-08",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2309.04522"
+      "arxiv": "https://arxiv.org/abs/2309.04522",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2309.04522/"
     },
     "source_detail": "arXiv"
   },
@@ -869,7 +870,8 @@
     "published": "2022-11-01",
     "links": {
       "arxiv": "https://arxiv.org/abs/2206.11777",
-      "publication": "https://doi.org/10.1088/1742-5468/ac9fc6"
+      "publication": "https://doi.org/10.1088/1742-5468/ac9fc6",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2206.11777/"
     },
     "venue": "Journal of Statistical Mechanics: Theory and Experiment",
     "publication_type": "Journal",
@@ -3573,7 +3575,8 @@
     ],
     "published": "2024-04-01",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2404.01413"
+      "arxiv": "https://arxiv.org/abs/2404.01413",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2404.01413/"
     },
     "source_detail": "arXiv"
   },
@@ -3739,7 +3742,8 @@
     ],
     "published": "2024-10-10",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2410.08184"
+      "arxiv": "https://arxiv.org/abs/2410.08184",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2410.08184/"
     },
     "source_detail": "arXiv"
   },
@@ -7052,7 +7056,8 @@
     "published": "2025-10-19",
     "links": {
       "arxiv": "https://arxiv.org/abs/2506.15864",
-      "publication": "https://doi.org/10.1109/iccv51701.2025.01689"
+      "publication": "https://doi.org/10.1109/iccv51701.2025.01689",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2506.15864/"
     },
     "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV)",
     "publication_type": "Conference",
