@@ -1855,7 +1855,8 @@
     "published": "2022-03-31",
     "links": {
       "arxiv": "https://arxiv.org/abs/2111.04470",
-      "publication": "https://doi.org/10.1103/physreve.105.034314"
+      "publication": "https://doi.org/10.1103/physreve.105.034314",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2111.04470/"
     },
     "venue": "Physical Review E",
     "publication_type": "Journal",
@@ -5123,7 +5124,8 @@
     ],
     "published": "2021-01-20",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2101.08176"
+      "arxiv": "https://arxiv.org/abs/2101.08176",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2101.08176/"
     },
     "source_detail": "arXiv"
   },
@@ -5139,7 +5141,8 @@
     "published": "2021",
     "links": {
       "arxiv": "https://arxiv.org/abs/2104.09456",
-      "publication": "https://doi.org/10.1109/taslp.2021.3075100"
+      "publication": "https://doi.org/10.1109/taslp.2021.3075100",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2104.09456/"
     },
     "venue": "IEEE/ACM Transactions on Audio, Speech, and Language Processing",
     "publication_type": "Journal",
@@ -5325,7 +5328,8 @@
     "published": "2021-12-15",
     "links": {
       "arxiv": "https://arxiv.org/abs/2106.05934",
-      "publication": "https://doi.org/10.1103/physrevd.104.114507"
+      "publication": "https://doi.org/10.1103/physrevd.104.114507",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2106.05934/"
     },
     "venue": "Physical Review D",
     "publication_type": "Journal",
@@ -6847,7 +6851,8 @@
     ],
     "published": "2021-06-14",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2106.07582"
+      "arxiv": "https://arxiv.org/abs/2106.07582",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2106.07582/"
     },
     "source_detail": "arXiv"
   },
