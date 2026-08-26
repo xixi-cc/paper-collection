@@ -2647,7 +2647,8 @@
     "published": "2015-12-15",
     "links": {
       "arxiv": "https://arxiv.org/abs/1510.08707",
-      "publication": "https://doi.org/10.1103/physreve.92.062126"
+      "publication": "https://doi.org/10.1103/physreve.92.062126",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/1510.08707/"
     },
     "venue": "Physical Review E",
     "publication_type": "Journal",
@@ -2733,7 +2734,8 @@
     "published": "2010-04-01",
     "links": {
       "arxiv": "https://arxiv.org/abs/0912.3000",
-      "publication": "https://doi.org/10.1209/0295-5075/90/16003"
+      "publication": "https://doi.org/10.1209/0295-5075/90/16003",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/0912.3000/"
     },
     "venue": "EPL (Europhysics Letters)",
     "publication_type": "Journal",
@@ -4154,7 +4156,8 @@
     "published": "2009",
     "links": {
       "arxiv": "https://arxiv.org/abs/0812.4360",
-      "publication": "https://doi.org/10.1007/978-3-642-02565-5_4"
+      "publication": "https://doi.org/10.1007/978-3-642-02565-5_4",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/0812.4360/"
     },
     "venue": "Anticipatory Behavior in Adaptive Learning Systems",
     "publication_type": "Conference",
@@ -4460,7 +4463,8 @@
     "published": "2007-11-10",
     "links": {
       "arxiv": "https://arxiv.org/abs/0712.3329",
-      "publication": "https://doi.org/10.1007/s11023-007-9079-x"
+      "publication": "https://doi.org/10.1007/s11023-007-9079-x",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/0712.3329/"
     },
     "venue": "Minds and Machines",
     "publication_type": "Journal",
@@ -7007,7 +7011,8 @@
     ],
     "published": "2014-05-05",
     "links": {
-      "arxiv": "https://arxiv.org/abs/1405.0791"
+      "arxiv": "https://arxiv.org/abs/1405.0791",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/1405.0791/"
     },
     "source_detail": "arXiv"
   },
