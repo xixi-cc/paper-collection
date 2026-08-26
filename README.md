@@ -22,6 +22,8 @@
 
 提交到 `main` 分支后，GitHub Actions 会自动重新发布网站。
 
+Every completed website update must be pushed to GitHub. 此规则适用于论文元数据、Paper Card 链接、界面、脚本和部署配置。完成更新必须经过校验与构建、提交、无强制推送到 GitHub `origin/main`、确认本地 `HEAD` 与 GitHub 分支头一致，并核验 GitHub Actions / Pages。OpenAI Sites 只是并行发布目标，不能代替 GitHub 同步；同时发布时二者必须来自同一份已验证源码树。
+
 ## 本地预览
 
 ```bash
