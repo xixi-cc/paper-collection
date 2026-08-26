@@ -2023,7 +2023,8 @@
     ],
     "published": "2019-10-07",
     "links": {
-      "arxiv": "https://arxiv.org/abs/1910.03003"
+      "arxiv": "https://arxiv.org/abs/1910.03003",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/1910.03003/"
     },
     "source_detail": "arXiv"
   },
@@ -4364,7 +4365,8 @@
     ],
     "published": "2018-11-12",
     "links": {
-      "arxiv": "https://arxiv.org/abs/1811.04551"
+      "arxiv": "https://arxiv.org/abs/1811.04551",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/1811.04551/"
     },
     "source_detail": "arXiv"
   },
@@ -5340,7 +5342,8 @@
     ],
     "published": "2020-05-07",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2005.03648"
+      "arxiv": "https://arxiv.org/abs/2005.03648",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2005.03648/"
     },
     "source_detail": "arXiv"
   },
@@ -5559,7 +5562,8 @@
     ],
     "published": "2019-02-16",
     "links": {
-      "arxiv": "https://arxiv.org/abs/1902.06015"
+      "arxiv": "https://arxiv.org/abs/1902.06015",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/1902.06015/"
     },
     "source_detail": "arXiv"
   },
@@ -5794,7 +5798,8 @@
     "published": "2022-08-03",
     "links": {
       "arxiv": "https://arxiv.org/abs/2010.00029",
-      "publication": "https://doi.org/10.1088/2632-2153/ac8393"
+      "publication": "https://doi.org/10.1088/2632-2153/ac8393",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2010.00029/"
     },
     "venue": "Machine Learning: Science and Technology",
     "publication_type": "Journal",
