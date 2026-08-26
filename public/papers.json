@@ -5159,7 +5159,8 @@
     ],
     "published": "2021-11-30",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2111.15141"
+      "arxiv": "https://arxiv.org/abs/2111.15141",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2111.15141/"
     },
     "source_detail": "arXiv"
   },
@@ -5175,7 +5176,8 @@
     "published": "2022-06",
     "links": {
       "arxiv": "https://arxiv.org/abs/2111.15640",
-      "publication": "https://doi.org/10.1109/cvpr52688.2022.01036"
+      "publication": "https://doi.org/10.1109/cvpr52688.2022.01036",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2111.15640/"
     },
     "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
     "publication_type": "Conference",
@@ -6867,7 +6869,8 @@
     ],
     "published": "2022-06-21",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2206.13397"
+      "arxiv": "https://arxiv.org/abs/2206.13397",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2206.13397/"
     },
     "source_detail": "arXiv"
   },
@@ -6882,7 +6885,8 @@
     ],
     "published": "2022-08-19",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2208.09392"
+      "arxiv": "https://arxiv.org/abs/2208.09392",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2208.09392/"
     },
     "source_detail": "arXiv"
   },
@@ -6897,7 +6901,8 @@
     ],
     "published": "2022-09-12",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2209.05557"
+      "arxiv": "https://arxiv.org/abs/2209.05557",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2209.05557/"
     },
     "source_detail": "arXiv"
   },
