@@ -2413,7 +2413,8 @@
     ],
     "published": "2024-07-29",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2407.19716"
+      "arxiv": "https://arxiv.org/abs/2407.19716",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2407.19716/"
     },
     "source_detail": "arXiv"
   },
@@ -3793,7 +3794,8 @@
     ],
     "published": "2024-08-06",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2408.03314"
+      "arxiv": "https://arxiv.org/abs/2408.03314",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2408.03314/"
     },
     "source_detail": "arXiv"
   },
@@ -3808,7 +3810,8 @@
     ],
     "links": {
       "publication": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/1b623663fd9b874366f3ce019fdfdd44-Abstract-Conference.html",
-      "arxiv": "https://arxiv.org/abs/2408.03314"
+      "arxiv": "https://arxiv.org/abs/2408.03314",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2408.03314/"
     },
     "publication_type": "Conference",
     "venue": "ICLR 2025",
@@ -6757,7 +6760,8 @@
     "published": "2024",
     "links": {
       "arxiv": "https://arxiv.org/abs/2407.15595",
-      "publication": "https://doi.org/10.52202/079017-4239"
+      "publication": "https://doi.org/10.52202/079017-4239",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2407.15595/"
     },
     "venue": "NeurIPS 2024",
     "publication_type": "Conference",
@@ -6775,7 +6779,8 @@
     "published": "2024",
     "links": {
       "arxiv": "https://arxiv.org/abs/2405.20320",
-      "publication": "https://doi.org/10.52202/079017-2014"
+      "publication": "https://doi.org/10.52202/079017-2014",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2405.20320/"
     },
     "venue": "NeurIPS 2024",
     "publication_type": "Conference",
@@ -7638,7 +7643,8 @@
     "published": "2024",
     "links": {
       "arxiv": "https://arxiv.org/abs/2406.04843",
-      "publication": "https://doi.org/10.52202/079017-0374"
+      "publication": "https://doi.org/10.52202/079017-0374",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2406.04843/"
     },
     "venue": "NeurIPS 2024",
     "publication_type": "Conference",
