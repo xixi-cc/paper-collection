@@ -2192,7 +2192,8 @@
     "published": "2025-07-18",
     "links": {
       "arxiv": "https://arxiv.org/abs/2307.02284",
-      "publication": "https://doi.org/10.1103/jp61-6sp2"
+      "publication": "https://doi.org/10.1103/jp61-6sp2",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2307.02284/"
     },
     "venue": "Physical Review Research",
     "publication_type": "Journal",
@@ -4195,7 +4196,8 @@
     ],
     "published": "2023-09-19",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2309.10668"
+      "arxiv": "https://arxiv.org/abs/2309.10668",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2309.10668/"
     },
     "source_detail": "arXiv"
   },
@@ -5248,7 +5250,8 @@
     ],
     "published": "2023-08-10",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2308.05695"
+      "arxiv": "https://arxiv.org/abs/2308.05695",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2308.05695/"
     },
     "source_detail": "arXiv"
   },
@@ -5538,7 +5541,8 @@
     ],
     "links": {
       "publication": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/f2ce452a4a7352feb7a9fb885267ff24-Abstract-Conference.html",
-      "arxiv": "https://arxiv.org/abs/2310.02244"
+      "arxiv": "https://arxiv.org/abs/2310.02244",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2310.02244/"
     },
     "publication_type": "Conference",
     "venue": "ICLR 2024",
@@ -5826,7 +5830,8 @@
     ],
     "published": "2023-08-23",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2308.12355"
+      "arxiv": "https://arxiv.org/abs/2308.12355",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2308.12355/"
     },
     "source_detail": "arXiv"
   },
