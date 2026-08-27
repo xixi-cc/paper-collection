@@ -2213,7 +2213,8 @@
     "published": "2026-04-14",
     "links": {
       "arxiv": "https://arxiv.org/abs/2507.07669",
-      "publication": "https://doi.org/10.1103/b3xp-wtwx"
+      "publication": "https://doi.org/10.1103/b3xp-wtwx",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2507.07669/"
     },
     "venue": "Physical Review E",
     "publication_type": "Journal",
@@ -3716,7 +3717,8 @@
     "published": "2026",
     "links": {
       "arxiv": "https://arxiv.org/abs/2509.25300",
-      "publication": "https://doi.org/10.18653/v1/2026.acl-long.1444"
+      "publication": "https://doi.org/10.18653/v1/2026.acl-long.1444",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2509.25300/"
     },
     "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     "publication_type": "Conference",
@@ -6170,7 +6172,8 @@
     ],
     "links": {
       "publication": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/7ce5da35e01cfa8d303c2dc71e61a470-Abstract-Conference.html",
-      "arxiv": "https://arxiv.org/abs/2509.21519"
+      "arxiv": "https://arxiv.org/abs/2509.21519",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2509.21519/"
     },
     "publication_type": "Conference",
     "venue": "ICLR 2026",
@@ -6260,7 +6263,8 @@
     ],
     "links": {
       "publication": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b117cd5a0af6f5ecfdac7b47b893b96f-Abstract-Conference.html",
-      "arxiv": "https://arxiv.org/abs/2509.24882"
+      "arxiv": "https://arxiv.org/abs/2509.24882",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2509.24882/"
     },
     "publication_type": "Conference",
     "venue": "ICLR 2026",
@@ -7304,7 +7308,8 @@
     ],
     "published": "2025-08-20",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2508.14807"
+      "arxiv": "https://arxiv.org/abs/2508.14807",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2508.14807/"
     },
     "source_detail": "arXiv"
   },
