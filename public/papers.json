@@ -2396,7 +2396,8 @@
     "published": "2024-12-26",
     "links": {
       "arxiv": "https://arxiv.org/abs/2408.15431",
-      "publication": "https://doi.org/10.1103/physrevlett.133.268301"
+      "publication": "https://doi.org/10.1103/physrevlett.133.268301",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2408.15431/"
     },
     "venue": "Physical Review Letters",
     "publication_type": "Journal",
@@ -4568,7 +4569,8 @@
     ],
     "published": "2024-08-19",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2408.10205"
+      "arxiv": "https://arxiv.org/abs/2408.10205",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2408.10205/"
     },
     "source_detail": "arXiv"
   },
@@ -5972,7 +5974,8 @@
       "Renormalization Group"
     ],
     "links": {
-      "arxiv": "https://arxiv.org/abs/2410.02667"
+      "arxiv": "https://arxiv.org/abs/2410.02667",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2410.02667/"
     },
     "published": "2024-10-03",
     "source_detail": "arXiv"
@@ -6211,7 +6214,8 @@
     ],
     "links": {
       "publication": "https://doi.org/10.1088/1742-5468/adefb1",
-      "arxiv": "https://arxiv.org/abs/2409.17858"
+      "arxiv": "https://arxiv.org/abs/2409.17858",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2409.17858/"
     },
     "publication_type": "Journal",
     "venue": "Journal of Statistical Mechanics: Theory and Experiment",
@@ -6964,7 +6968,8 @@
     "published": "2024",
     "links": {
       "arxiv": "https://arxiv.org/abs/2409.17808",
-      "publication": "https://doi.org/10.52202/079017-1282"
+      "publication": "https://doi.org/10.52202/079017-1282",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2409.17808/"
     },
     "venue": "NeurIPS 2024",
     "publication_type": "Conference",
@@ -7160,7 +7165,8 @@
     ],
     "published": "2024-10-03",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2410.02667"
+      "arxiv": "https://arxiv.org/abs/2410.02667",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2410.02667/"
     },
     "source_detail": "arXiv"
   },
