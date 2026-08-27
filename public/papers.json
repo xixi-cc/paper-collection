@@ -3761,7 +3761,8 @@
     ],
     "published": "2024-10-15",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2410.12119"
+      "arxiv": "https://arxiv.org/abs/2410.12119",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2410.12119/"
     },
     "source_detail": "arXiv"
   },
@@ -6553,7 +6554,8 @@
     "published": "2025",
     "links": {
       "arxiv": "https://arxiv.org/abs/2410.06885",
-      "publication": "https://doi.org/10.18653/v1/2025.acl-long.313"
+      "publication": "https://doi.org/10.18653/v1/2025.acl-long.313",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2410.06885/"
     },
     "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     "publication_type": "Conference",
@@ -6801,7 +6803,8 @@
     ],
     "published": "2024-10-17",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2410.13720"
+      "arxiv": "https://arxiv.org/abs/2410.13720",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2410.13720/"
     },
     "source_detail": "arXiv"
   },
@@ -6847,7 +6850,8 @@
     ],
     "links": {
       "publication": "https://proceedings.mlr.press/v267/qin25d.html",
-      "arxiv": "https://arxiv.org/abs/2410.04263"
+      "arxiv": "https://arxiv.org/abs/2410.04263",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2410.04263/"
     },
     "publication_type": "Conference",
     "venue": "ICML 2025",
@@ -7148,7 +7152,8 @@
     "published": "2024",
     "links": {
       "arxiv": "https://arxiv.org/abs/2410.13027",
-      "publication": "https://doi.org/10.52202/079017-0806"
+      "publication": "https://doi.org/10.52202/079017-0806",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2410.13027/"
     },
     "venue": "NeurIPS 2024",
     "publication_type": "Conference",
