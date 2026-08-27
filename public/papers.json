@@ -2619,7 +2619,8 @@
     "published": "2024-08-12",
     "links": {
       "arxiv": "https://arxiv.org/abs/2312.11181",
-      "publication": "https://doi.org/10.1103/physreve.110.024119"
+      "publication": "https://doi.org/10.1103/physreve.110.024119",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2312.11181/"
     },
     "venue": "Physical Review E",
     "publication_type": "Journal",
@@ -2636,7 +2637,8 @@
     ],
     "published": "2023-10-26",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2310.17391"
+      "arxiv": "https://arxiv.org/abs/2310.17391",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2310.17391/"
     },
     "source_detail": "arXiv"
   },
@@ -6696,7 +6698,8 @@
     "published": "2024",
     "links": {
       "arxiv": "https://arxiv.org/abs/2401.08740",
-      "publication": "https://doi.org/10.1007/978-3-031-72980-5_2"
+      "publication": "https://doi.org/10.1007/978-3-031-72980-5_2",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2401.08740/"
     },
     "venue": "ECCV 2024",
     "publication_type": "Conference",
@@ -7320,7 +7323,8 @@
     "published": "2024-06-14",
     "links": {
       "arxiv": "https://arxiv.org/abs/2312.16038",
-      "publication": "https://doi.org/10.1103/physrevb.109.214205"
+      "publication": "https://doi.org/10.1103/physrevb.109.214205",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2312.16038/"
     },
     "venue": "Physical Review B",
     "publication_type": "Journal",
@@ -7375,7 +7379,8 @@
     ],
     "published": "2023-11-25",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2311.15127"
+      "arxiv": "https://arxiv.org/abs/2311.15127",
+      "card": "https://physics-ai-daily.lezontbukercfdvs4.chatgpt.site/collection-papers/2311.15127/"
     },
     "source_detail": "arXiv"
   },
