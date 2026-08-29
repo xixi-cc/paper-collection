@@ -84,6 +84,8 @@ a { color: inherit; }
 .paper-links a { border-bottom: 1px solid var(--border); color: var(--accent); font-size: .72rem; font-weight: 500; text-decoration: none; }
 .paper-links a:hover { border-color: var(--accent); }
 .empty-state { padding: 3.5rem .25rem; color: var(--text-muted); font-size: .85rem; }
+.legal-footer { display: flex; max-width: 980px; flex-wrap: wrap; gap: .5rem 1rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: .75rem; }
+.legal-footer a { color: var(--accent); }
 
 @media (max-width: 720px) {
   .layout { display: block; }

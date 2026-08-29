@@ -213,6 +213,10 @@ function App() {
             ))}
           </div>
         )}
+        <footer className="legal-footer">
+          <span>© 2026 Xineng Cao · 原创解读 CC BY-NC 4.0</span>
+          <a href="./rights.html">许可与引用</a>
+        </footer>
       </main>
     </div>
   );
