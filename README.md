@@ -2,6 +2,20 @@
 
 一个可搜索、可筛选的个人论文收藏站，部署在 GitHub Pages。
 
+## 阅读与订阅
+
+- 点击论文右侧星标可在当前浏览器收藏，并可导出或导入 JSON 备份；
+- 使用“只看收藏”筛选已保存论文；
+- `feed.xml` 提供最近收录论文的 Atom 订阅；
+- 具有全文 Paper Card 的论文可进入详情页参与 GitHub Discussions 评论。
+
+## 许可与引用
+
+原创分类、选编、注释和论文卡片解读采用 CC BY-NC 4.0；原创应用代码采用
+MIT。摘要、引文、图表和论文正文等第三方内容不在本站授权范围内。完整边界见
+[`LICENSE.md`](LICENSE.md)，推荐引用格式见 [`CITATION.md`](CITATION.md) 和
+[`CITATION.cff`](CITATION.cff)。引用卡片时仍须另外引用原始论文。
+
 ## 添加文章
 
 编辑 `public/papers.json`，复制一条现有记录并修改内容。每条记录包含：

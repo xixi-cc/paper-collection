@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 
 type Paper = {
   id: string;
@@ -9,6 +9,7 @@ type Paper = {
   source_detail?: string;
   publication_status?: 'published' | 'preprint' | 'submission';
   title: string;
+  abstract?: string;
   url?: string;
   links?: {
     publication?: string;
@@ -23,6 +24,25 @@ type MatchMode = 'all' | 'any';
 type SortMode = 'published-newest' | 'published-oldest' | 'topic' | 'added-newest' | 'title';
 type Theme = 'light' | 'dark';
 
+const FAVORITES_STORAGE_KEY = 'xixi-paper-favorites-v1';
+
+function favoriteKey(paperId: string) {
+  return `collection:${paperId}`;
+}
+
+function readFavorites(): string[] {
+  try {
+    const parsed: unknown = JSON.parse(window.localStorage.getItem(FAVORITES_STORAGE_KEY) ?? '[]');
+    return Array.isArray(parsed) ? parsed.filter((item): item is string => typeof item === 'string') : [];
+  } catch {
+    return [];
+  }
+}
+
+function writeFavorites(favorites: string[]) {
+  window.localStorage.setItem(FAVORITES_STORAGE_KEY, JSON.stringify([...new Set(favorites)].sort()));
+}
+
 function App() {
   const [papers, setPapers] = useState<Paper[]>([]);
   const [query, setQuery] = useState('');
@@ -31,7 +51,10 @@ function App() {
   const [sort, setSort] = useState<SortMode>('published-newest');
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [loadError, setLoadError] = useState(false);
+  const [favorites, setFavorites] = useState<string[]>(readFavorites);
+  const [favoritesOnly, setFavoritesOnly] = useState(false);
   const [theme, setTheme] = useState<Theme>(() => document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light');
+  const importInputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     fetch('./papers.json')
@@ -64,6 +87,7 @@ function App() {
     const normalized = query.trim().toLocaleLowerCase();
     return papers
       .filter((paper) => {
+        if (favoritesOnly && !favorites.includes(favoriteKey(paper.id))) return false;
         const matchesQuery = !normalized || [paper.title, paper.venue, ...paper.tags]
           .filter(Boolean)
           .join(' ')
@@ -90,7 +114,7 @@ function App() {
           : a.published.localeCompare(b.published);
         return publicationOrder || a.title.localeCompare(b.title);
       });
-  }, [papers, query, activeTags, mode, sort]);
+  }, [papers, query, activeTags, mode, sort, favorites, favoritesOnly]);
 
   function toggleTag(tag: string) {
     setActiveTags((current) => current.includes(tag) ? current.filter((item) => item !== tag) : [...current, tag]);
@@ -99,6 +123,48 @@ function App() {
   function clearFilters() {
     setQuery('');
     setActiveTags([]);
+    setFavoritesOnly(false);
+  }
+
+  function toggleFavorite(paperId: string) {
+    const key = favoriteKey(paperId);
+    setFavorites((current) => {
+      const next = current.includes(key) ? current.filter((item) => item !== key) : [...current, key];
+      writeFavorites(next);
+      return next;
+    });
+  }
+
+  function exportFavorites() {
+    const payload = JSON.stringify({ version: 1, exported_at: new Date().toISOString(), favorites }, null, 2);
+    const url = URL.createObjectURL(new Blob([payload], { type: 'application/json' }));
+    const anchor = document.createElement('a');
+    anchor.href = url;
+    anchor.download = `xixi-paper-favorites-${new Date().toISOString().slice(0, 10)}.json`;
+    anchor.click();
+    URL.revokeObjectURL(url);
+  }
+
+  async function importFavorites(file: File | undefined) {
+    if (!file) return;
+    try {
+      const parsed: unknown = JSON.parse(await file.text());
+      const values = Array.isArray(parsed)
+        ? parsed
+        : typeof parsed === 'object' && parsed !== null && 'favorites' in parsed
+          ? (parsed as { favorites: unknown }).favorites
+          : null;
+      if (!Array.isArray(values) || !values.every((item) => typeof item === 'string')) {
+        throw new Error('Invalid favorites file');
+      }
+      const next = [...new Set([...favorites, ...values])].sort();
+      writeFavorites(next);
+      setFavorites(next);
+    } catch {
+      window.alert('无法导入：请选择本站导出的收藏 JSON 文件。');
+    } finally {
+      if (importInputRef.current) importInputRef.current.value = '';
+    }
   }
 
   function toggleTheme() {
@@ -138,6 +204,19 @@ function App() {
           <button type="button" className={mode === 'all' ? 'active' : ''} onClick={() => setMode('all')}>Match all tags</button>
           <button type="button" className={mode === 'any' ? 'active' : ''} onClick={() => setMode('any')}>Match any tag</button>
         </div>
+
+        <section className="saved-section" aria-label="收藏与订阅">
+          <button type="button" className={favoritesOnly ? 'saved-filter active' : 'saved-filter'} onClick={() => setFavoritesOnly(!favoritesOnly)}>
+            ★ 我的收藏 <span>{favorites.filter((item) => item.startsWith('collection:')).length}</span>
+          </button>
+          <div className="saved-tools">
+            <button type="button" onClick={exportFavorites} disabled={favorites.length === 0}>导出</button>
+            <button type="button" onClick={() => importInputRef.current?.click()}>导入</button>
+            <input ref={importInputRef} className="sr-only" type="file" accept="application/json,.json" onChange={(event) => void importFavorites(event.target.files?.[0])} />
+          </div>
+          <a className="follow-link" href="./feed.xml">关注更新 · RSS</a>
+          <a className="follow-link" href="https://xixi-cc.github.io/daily-article-card/all-feed.xml">全部论文卡 · RSS</a>
+        </section>
 
         {Object.entries(tagGroups).map(([group, tags]) => (
           <section className="tag-section" key={group}>
@@ -185,11 +264,23 @@ function App() {
           <div className="paper-list">
             {filtered.map((paper) => (
               <article className="paper-card" key={paper.id}>
-                <h2>
-                  {(paper.links?.publication ?? paper.links?.arxiv ?? paper.links?.submission ?? paper.url)
-                    ? <a href={paper.links?.publication ?? paper.links?.arxiv ?? paper.links?.submission ?? paper.url} target="_blank" rel="noreferrer">{paper.title}</a>
-                    : paper.title}
-                </h2>
+                <div className="paper-card-header">
+                  <h2>
+                    {(paper.links?.publication ?? paper.links?.arxiv ?? paper.links?.submission ?? paper.url)
+                      ? <a href={paper.links?.publication ?? paper.links?.arxiv ?? paper.links?.submission ?? paper.url} target="_blank" rel="noreferrer">{paper.title}</a>
+                      : paper.title}
+                  </h2>
+                  <button
+                    type="button"
+                    className={favorites.includes(favoriteKey(paper.id)) ? 'favorite-button active' : 'favorite-button'}
+                    onClick={() => toggleFavorite(paper.id)}
+                    aria-pressed={favorites.includes(favoriteKey(paper.id))}
+                    aria-label={`${favorites.includes(favoriteKey(paper.id)) ? '取消收藏' : '收藏'}：${paper.title}`}
+                    title={favorites.includes(favoriteKey(paper.id)) ? '取消收藏' : '收藏'}
+                  >
+                    {favorites.includes(favoriteKey(paper.id)) ? '★' : '☆'}
+                  </button>
+                </div>
                 <div className="paper-meta">
                   <time title={`Added ${paper.date}`}>
                     {paper.published
@@ -209,10 +300,20 @@ function App() {
                     {paper.links?.card && <a href={paper.links.card} target="_blank" rel="noreferrer">Paper Card</a>}
                   </span>
                 </div>
+                {paper.abstract && (
+                  <details className="paper-abstract">
+                    <summary>Abstract</summary>
+                    <p>{paper.abstract}</p>
+                  </details>
+                )}
               </article>
             ))}
           </div>
         )}
+        <footer className="legal-footer">
+          <span>© 2026 Xineng Cao · 原创解读 CC BY-NC 4.0</span>
+          <a href="./rights.html">许可与引用</a>
+        </footer>
       </main>
     </div>
   );

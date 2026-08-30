@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this collection for its curation and cite each underlying paper separately."
+title: "Paper Collection-Xncao"
+type: dataset
+authors:
+  - family-names: "Cao"
+    given-names: "Xineng"
+    alias: "Xixi Cao"
+year: 2026
+url: "https://xixi-cc.github.io/paper-collection/"
+repository-code: "https://github.com/xixi-cc/paper-collection"
