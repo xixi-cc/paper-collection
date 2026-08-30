@@ -21,10 +21,6 @@ type Paper = {
   curation_sources?: {
     name: string;
     url: string;
-    tier: 'S' | 'A+' | 'A';
-    screening?: string;
-    screened_at?: string;
-    quality_score?: number;
   }[];
 };
 
@@ -37,7 +33,7 @@ const FAVORITES_STORAGE_KEY = 'xixi-paper-favorites-v1';
 function filterValues(paper: Paper) {
   return [
     ...paper.tags,
-    ...(paper.curation_sources ?? []).flatMap((source) => [source.name, `${source.name} · ${source.tier}`]),
+    ...(paper.curation_sources ?? []).map((source) => source.name),
   ];
 }
 
@@ -90,17 +86,13 @@ function App() {
       topicCounts.set(topic, (topicCounts.get(topic) ?? 0) + 1);
     });
     const collectionCounts = new Map<string, number>();
-    const priorityCounts = new Map<string, number>();
     papers.forEach((paper) => paper.curation_sources?.forEach((source) => {
       collectionCounts.set(source.name, (collectionCounts.get(source.name) ?? 0) + 1);
-      const priority = `${source.name} · ${source.tier}`;
-      priorityCounts.set(priority, (priorityCounts.get(priority) ?? 0) + 1);
     }));
     const groups: Record<string, [string, number][]> = {
       Source: [...sourceCounts.entries()],
       Topic: [...topicCounts.entries()],
       'Curated via': [...collectionCounts.entries()],
-      Priority: [...priorityCounts.entries()],
     };
     groups.Source.sort((a, b) => b[1] - a[1]);
     groups.Topic.sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
@@ -271,19 +263,8 @@ function App() {
         </div>
 
         <section className="site-guide" aria-labelledby="site-guide-title">
-          <div>
-            <span className="guide-label">用途</span>
-            <h2 id="site-guide-title">把分散的论文线索整理成可持续检索的个人研究索引</h2>
-            <p>这里汇集长期关注、专题筛选和外部学者收藏中的论文，用于发现研究方向、保存阅读线索与回到原始文献；它不是论文质量排行榜，也不替代同行评审。</p>
-          </div>
-          <div>
-            <span className="guide-label">功能</span>
-            <p>按标题、发表来源、主题和策展来源搜索筛选；按日期或标题排序；在浏览器中收藏并导入、导出备份；通过RSS关注新增论文，并进入已有的Paper Card。</p>
-          </div>
-          <div>
-            <span className="guide-label">本次来源</span>
-            <p>新增批次来自 <a href="https://metacircleai.github.io/ziming-paper-collection/collection.html" target="_blank" rel="noreferrer">刘子鸣的 Paper Collection</a>，经质量前50%筛选后，仅收录阅读优先级为S、A+、A的论文。每篇论文保留独立来源标记。</p>
-          </div>
+          <h2 id="site-guide-title">个人论文收藏</h2>
+          <p>收录个人长期关注、收藏的文章，以及感兴趣的学者收藏的文章。网站的制作灵感来自 <a href="https://metacircleai.github.io/ziming-paper-collection/collection.html" target="_blank" rel="noreferrer">刘子鸣的 Paper Collection</a>。</p>
         </section>
 
         <div className="stats-bar">
@@ -331,10 +312,7 @@ function App() {
                   {paper.tags.map((tag) => <button type="button" key={tag} onClick={() => toggleTag(tag)}>{tag}</button>)}
                   {paper.tags[0] === 'Others' && paper.source_detail && <span className="paper-source-detail">{paper.source_detail}</span>}
                   {paper.curation_sources?.map((source) => (
-                    <span className="curation-source" key={`${source.url}:${source.tier}`}>
-                      <a href={source.url} target="_blank" rel="noreferrer">来自刘子鸣收藏</a>
-                      <button type="button" onClick={() => toggleTag(`${source.name} · ${source.tier}`)} aria-label={`筛选${source.tier}级论文`}>{source.tier}</button>
-                    </span>
+                    <button className="curation-tag" type="button" key={source.url} onClick={() => toggleTag(source.name)}>刘子鸣收藏</button>
                   ))}
                   <span className="paper-links">
                     {paper.links?.publication && (

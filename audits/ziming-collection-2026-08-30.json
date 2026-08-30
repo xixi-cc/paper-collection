@@ -9,11 +9,12 @@
     "A+": 156,
     "S": 61
   },
-  "added_count": 464,
-  "updated_count": 8,
+  "added_count": 0,
+  "updated_count": 472,
   "unchanged_count": 0,
   "catalog_count": 916,
-  "added": [
+  "added": [],
+  "updated": [
     {
       "id": "2505.20278",
       "title": "Characterizing Pattern Matching and Its Limits on Compositional Task Structures",
@@ -113,6 +114,11 @@
       "id": "2304.14997",
       "title": "Towards Automated Circuit Discovery for Mechanistic Interpretability",
       "tier": "S"
+    },
+    {
+      "id": "736b3f9c1f275b31",
+      "title": "Clustering in Causal Attention Masking",
+      "tier": "A+"
     },
     {
       "id": "2410.14837",
@@ -680,6 +686,11 @@
       "tier": "S"
     },
     {
+      "id": "1e3606b840cafffc",
+      "title": "Small-Scale Experiments: Are We There Yet?",
+      "tier": "A+"
+    },
+    {
       "id": "2302.07253",
       "title": "Energy Transformer",
       "tier": "A+"
@@ -1065,6 +1076,11 @@
       "tier": "A"
     },
     {
+      "id": "d65f26b6af5cd650",
+      "title": "Understanding Scaling Laws in Deep Neural Networks via Feature Learning Dynamics",
+      "tier": "A"
+    },
+    {
       "id": "2602.01203",
       "title": "Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse",
       "tier": "A"
@@ -1182,6 +1198,11 @@
     {
       "id": "2211.01365",
       "title": "QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning",
+      "tier": "A"
+    },
+    {
+      "id": "e9c527ecf58323a6",
+      "title": "Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling",
       "tier": "A"
     },
     {
@@ -1413,6 +1434,11 @@
       "id": "2509.10167",
       "title": "The Hidden Width of Deep ResNets: Tight Error Bounds and Phase Diagram",
       "tier": "A"
+    },
+    {
+      "id": "785b72b087f4ceeb",
+      "title": "Li₂: A Framework on Dynamics of Feature Emergence and Delayed Generalization",
+      "tier": "A+"
     },
     {
       "id": "2410.04642",
@@ -2090,6 +2116,11 @@
       "tier": "A"
     },
     {
+      "id": "536355c813fdbff2",
+      "title": "Clustered Attractor Manifolds and Dynamical Condensation in Self-Attention",
+      "tier": "A"
+    },
+    {
       "id": "2508.18988",
       "title": "Interpretable by AI Mother Tongue: Native Symbolic Reasoning in Neural Models",
       "tier": "A"
@@ -2250,6 +2281,11 @@
       "tier": "A"
     },
     {
+      "id": "c1cbc0e0f313a2d2",
+      "title": "Correlation flow governs learning at criticality",
+      "tier": "A"
+    },
+    {
       "id": "2511.13653",
       "title": "Weight-sparse transformers have interpretable circuits",
       "tier": "A"
@@ -2282,6 +2318,11 @@
     {
       "id": "2506.19686",
       "title": "From Memories to Maps: Mechanisms of In-Context Reinforcement Learning in Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "4d38daadaeb5b4d6",
+      "title": "Language Modeling Is Compression",
       "tier": "A"
     },
     {
@@ -2332,48 +2373,6 @@
     {
       "id": "2603.03993",
       "title": "Specialization of softmax attention heads: insights from the high-dimensional single-location model",
-      "tier": "A"
-    }
-  ],
-  "updated": [
-    {
-      "id": "736b3f9c1f275b31",
-      "title": "Clustering in Causal Attention Masking",
-      "tier": "A+"
-    },
-    {
-      "id": "1e3606b840cafffc",
-      "title": "Small-Scale Experiments: Are We There Yet?",
-      "tier": "A+"
-    },
-    {
-      "id": "d65f26b6af5cd650",
-      "title": "Understanding Scaling Laws in Deep Neural Networks via Feature Learning Dynamics",
-      "tier": "A"
-    },
-    {
-      "id": "e9c527ecf58323a6",
-      "title": "Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling",
-      "tier": "A"
-    },
-    {
-      "id": "785b72b087f4ceeb",
-      "title": "Li₂: A Framework on Dynamics of Feature Emergence and Delayed Generalization",
-      "tier": "A+"
-    },
-    {
-      "id": "536355c813fdbff2",
-      "title": "Clustered Attractor Manifolds and Dynamical Condensation in Self-Attention",
-      "tier": "A"
-    },
-    {
-      "id": "c1cbc0e0f313a2d2",
-      "title": "Correlation flow governs learning at criticality",
-      "tier": "A"
-    },
-    {
-      "id": "4d38daadaeb5b4d6",
-      "title": "Language Modeling Is Compression",
       "tier": "A"
     }
   ],

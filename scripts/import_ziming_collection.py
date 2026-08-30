@@ -97,14 +97,10 @@ def paper_links(url: str) -> dict[str, str]:
     return {"publication": url}
 
 
-def curation_record(row: dict[str, Any], screened_at: str) -> dict[str, Any]:
+def curation_record() -> dict[str, str]:
     return {
         "name": SOURCE_NAME,
         "url": SOURCE_URL,
-        "tier": row["tier"],
-        "screening": "Quality top 50%; retained tiers S/A+/A",
-        "screened_at": screened_at,
-        "quality_score": row.get("quality_selection_score"),
     }
 
 
@@ -138,7 +134,7 @@ def main() -> None:
         url = canonical_url(str(row["url"]))
         incoming = {"title": title, "url": url, "links": paper_links(url)}
         duplicate_index = next((key_to_index[key] for key in identity_keys(incoming) if key in key_to_index), None)
-        record = curation_record(row, args.date)
+        record = curation_record()
 
         if duplicate_index is not None:
             item = catalog[duplicate_index]
