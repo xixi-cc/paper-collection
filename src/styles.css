@@ -76,6 +76,12 @@ a { color: inherit; }
 
 .main { min-width: 0; padding: 1.5rem 2rem 3rem; }
 .mobile-bar { display: none; }
+.site-guide { display: grid; max-width: 1180px; grid-template-columns: 1.35fr 1fr 1fr; gap: 1px; overflow: hidden; margin-bottom: 1.25rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--border); }
+.site-guide > div { background: var(--bg-elevated); padding: 1rem 1.1rem; }
+.site-guide h2 { margin: .22rem 0 .45rem; font: 600 1.05rem/1.35 'Source Serif 4', Georgia, serif; }
+.site-guide p { margin: .2rem 0 0; color: var(--text-muted); font-size: .78rem; line-height: 1.55; }
+.site-guide a { color: var(--accent); font-weight: 500; text-underline-offset: 3px; }
+.guide-label { color: var(--accent); font-size: .66rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
 .stats-bar { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1.25rem; flex-wrap: wrap; }
 .stats-bar p { margin: 0; color: var(--text-muted); font-size: .9rem; }
 .stats-bar p strong { color: var(--text); font-weight: 600; }
@@ -91,6 +97,10 @@ a { color: inherit; }
 .paper-meta button { border: 1px solid var(--border); border-radius: 999px; background: var(--accent-soft); padding: .12rem .45rem; color: var(--text-muted); font-size: .72rem; cursor: pointer; }
 .paper-source-detail { color: var(--text-muted); font-size: .72rem; }
 .paper-source-detail::before { content: '·'; margin-right: .35rem; }
+.curation-source { display: inline-flex; align-items: center; gap: .25rem; border: 1px solid color-mix(in srgb, var(--accent) 35%, var(--border)); border-radius: 999px; background: var(--bg-elevated); padding: .1rem .25rem .1rem .5rem; font-size: .7rem; }
+.curation-source a { color: var(--accent); font-weight: 500; text-decoration: none; }
+.curation-source a:hover { text-decoration: underline; text-underline-offset: 2px; }
+.curation-source button { min-width: 1.7rem; border: 0; background: var(--button-active); padding: .05rem .34rem; color: #fff; font-size: .65rem; font-weight: 600; }
 .paper-links { display: inline-flex; gap: .3rem; margin-left: .15rem; }
 .paper-links a { border-bottom: 1px solid var(--border); color: var(--accent); font-size: .72rem; font-weight: 500; text-decoration: none; }
 .paper-links a:hover { border-color: var(--accent); }
@@ -117,5 +127,6 @@ a { color: inherit; }
   .mobile-bar strong { font: 600 1.05rem 'Source Serif 4', Georgia, serif; }
   .mobile-actions { display: flex; gap: .4rem; }
   .mobile-bar button { border: 1px solid var(--border); border-radius: 6px; background: var(--bg-elevated); padding: .3rem .55rem; color: var(--text-muted); font-size: .75rem; }
+  .site-guide { grid-template-columns: 1fr; margin-top: 1rem; }
   .stats-bar { margin: 1rem 0; }
 }

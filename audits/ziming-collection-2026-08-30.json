@@ -1,0 +1,2381 @@
+{
+  "source_collection": "https://metacircleai.github.io/ziming-paper-collection/collection.html",
+  "screened_source": "../automation_outputs/ziming_collection_broad_screen_2026-08-30/quality-top50-catalog.json",
+  "import_date": "2026-08-30",
+  "selection": "Quality top 50%; tiers S/A+/A",
+  "selected_count": 472,
+  "tier_counts": {
+    "A": 255,
+    "A+": 156,
+    "S": 61
+  },
+  "added_count": 464,
+  "updated_count": 8,
+  "unchanged_count": 0,
+  "catalog_count": 916,
+  "added": [
+    {
+      "id": "2505.20278",
+      "title": "Characterizing Pattern Matching and Its Limits on Compositional Task Structures",
+      "tier": "S"
+    },
+    {
+      "id": "2508.19151",
+      "title": "Saddle Hierarchy in Dense Associative Memory",
+      "tier": "S"
+    },
+    {
+      "id": "2602.08064",
+      "title": "SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.12901",
+      "title": "A theory of learning data statistics in diffusion models, from easy to hard",
+      "tier": "S"
+    },
+    {
+      "id": "2606.08388",
+      "title": "The Spectral Dynamics and Noise Geometry of Muon",
+      "tier": "A+"
+    },
+    {
+      "id": "2201.12220",
+      "title": "Neural Optimal Transport",
+      "tier": "A"
+    },
+    {
+      "id": "2302.04855",
+      "title": "Trading Information between Latents in Hierarchical Variational Autoencoders",
+      "tier": "A"
+    },
+    {
+      "id": "2606.00340",
+      "title": "Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2504.03889",
+      "title": "Identifying and Evaluating Inactive Heads in Pretrained LLMs",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.17515",
+      "title": "The Graphon Limit Hypothesis: Understanding Neural Network Pruning via Infinite Width Analysis",
+      "tier": "A+"
+    },
+    {
+      "id": "2607.27281",
+      "title": "The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.07488",
+      "title": "Deriving Neural Scaling Laws from the statistics of natural language",
+      "tier": "S"
+    },
+    {
+      "id": "2310.19870",
+      "title": "Metric Flows with Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2304.09576",
+      "title": "Leveraging the two timescale regime to demonstrate convergence of neural networks",
+      "tier": "A"
+    },
+    {
+      "id": "2510.05554",
+      "title": "Critical attention scaling in long-context transformers",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.26243",
+      "title": "Angular Steering: Behavior Control via Rotation in Activation Space",
+      "tier": "A"
+    },
+    {
+      "id": "2601.19208",
+      "title": "How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability",
+      "tier": "S"
+    },
+    {
+      "id": "2510.25753",
+      "title": "How Data Mixing Shapes In-Context Learning: Asymptotic Equivalence for Transformers with MLPs",
+      "tier": "S"
+    },
+    {
+      "id": "2510.18120",
+      "title": "Generalization Below the Edge of Stability: The Role of Data Geometry",
+      "tier": "S"
+    },
+    {
+      "id": "2304.14997",
+      "title": "Towards Automated Circuit Discovery for Mechanistic Interpretability",
+      "tier": "S"
+    },
+    {
+      "id": "2410.14837",
+      "title": "Topological obstruction to the training of shallow ReLU neural networks",
+      "tier": "A+"
+    },
+    {
+      "id": "2209.11395",
+      "title": "Achieve the Minimum Width of Neural Networks for Universal Approximation",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.15029",
+      "title": "Symmetry in language statistics shapes the geometry of model representations",
+      "tier": "A+"
+    },
+    {
+      "id": "2307.05596",
+      "title": "Compositional Generalization from First Principles",
+      "tier": "A+"
+    },
+    {
+      "id": "2407.11542",
+      "title": "Counting in Small Transformers: The Delicate Interplay between Attention and Feed-Forward Layers",
+      "tier": "A+"
+    },
+    {
+      "id": "2402.03902",
+      "title": "A phase transition between positional and semantic learning in a solvable model of dot-product attention",
+      "tier": "A"
+    },
+    {
+      "id": "2305.16380",
+      "title": "Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer",
+      "tier": "A"
+    },
+    {
+      "id": "2501.18563",
+      "title": "No Equations Needed: Learning System Dynamics Without Relying on Closed-Form ODEs",
+      "tier": "A"
+    },
+    {
+      "id": "2402.14735",
+      "title": "How Transformers Learn Causal Structure with Gradient Descent",
+      "tier": "A"
+    },
+    {
+      "id": "2511.07378",
+      "title": "Transformers Provably Learn Chain-of-Thought Reasoning with Length Generalization",
+      "tier": "A"
+    },
+    {
+      "id": "2405.20671",
+      "title": "Position Coupling: Improving Length Generalization of Arithmetic Transformers Using Task Structure",
+      "tier": "A"
+    },
+    {
+      "id": "2210.13179",
+      "title": "A simple probabilistic neural network for machine understanding",
+      "tier": "A"
+    },
+    {
+      "id": "2502.01954",
+      "title": "Constrained belief updates explain geometric structures in transformer representations",
+      "tier": "S"
+    },
+    {
+      "id": "2402.05785",
+      "title": "Limits of Transformer Language Models on Learning to Compose Algorithms",
+      "tier": "A"
+    },
+    {
+      "id": "2210.01741",
+      "title": "Neural Conservation Laws: A Divergence-Free Perspective",
+      "tier": "A+"
+    },
+    {
+      "id": "2511.02773",
+      "title": "Adam Reduces a Unique Form of Sharpness: Theoretical Insights Near the Minimizer Manifold",
+      "tier": "A"
+    },
+    {
+      "id": "2510.12773",
+      "title": "Dr.LLM: Dynamic Layer Routing in LLMs",
+      "tier": "A"
+    },
+    {
+      "id": "2511.09290",
+      "title": "Prediction horizon shapes representations in predictive learning",
+      "tier": "S"
+    },
+    {
+      "id": "2602.16666",
+      "title": "Towards a Science of AI Agent Reliability",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.24264",
+      "title": "Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2607.22646",
+      "title": "Extracting Algorithms in Pre-trained LLMs: A Case on Hidden Markov Models",
+      "tier": "S"
+    },
+    {
+      "id": "2406.05816",
+      "title": "Attention as a Hypernetwork",
+      "tier": "S"
+    },
+    {
+      "id": "2505.20896",
+      "title": "How Do Transformers Learn Variable Binding in Symbolic Programs?",
+      "tier": "S"
+    },
+    {
+      "id": "2506.06489",
+      "title": "Alternating Gradient Flows: A Theory of Feature Learning in Two-layer Neural Networks",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.11142",
+      "title": "Attention Gathers, MLPs Compose: A Causal Analysis of an Action-Outcome Circuit in VideoViT",
+      "tier": "A+"
+    },
+    {
+      "id": "2311.17030",
+      "title": "Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching",
+      "tier": "A+"
+    },
+    {
+      "id": "2309.16042",
+      "title": "Towards Best Practices of Activation Patching in Language Models: Metrics and Methods",
+      "tier": "A+"
+    },
+    {
+      "id": "2604.09429",
+      "title": "Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories",
+      "tier": "A"
+    },
+    {
+      "id": "2509.10414",
+      "title": "Is In-Context Learning Learning?",
+      "tier": "A"
+    },
+    {
+      "id": "2608.13335",
+      "title": "Neural Quadratic Forms: A Unified Minimal Model for Sudden Learning and Scaling Laws",
+      "tier": "S"
+    },
+    {
+      "id": "2603.09972",
+      "title": "From Data Statistics to Feature Geometry: How Correlations Shape Superposition",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.14087",
+      "title": "Understanding the Emergence of Seemingly Useless Features in Next-Token Predictors",
+      "tier": "S"
+    },
+    {
+      "id": "2506.12543",
+      "title": "Is your batch size the problem? Revisiting the Adam-SGD gap in language modeling",
+      "tier": "A+"
+    },
+    {
+      "id": "2507.12709",
+      "title": "From SGD to Spectra: A Theory of Neural Network Weight Dynamics",
+      "tier": "A+"
+    },
+    {
+      "id": "2405.15071",
+      "title": "Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization",
+      "tier": "A+"
+    },
+    {
+      "id": "2506.13688",
+      "title": "What Happens During the Loss Plateau? Understanding Abrupt Learning in Transformers",
+      "tier": "A+"
+    },
+    {
+      "id": "2305.00586",
+      "title": "How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.09276",
+      "title": "Effective Reasoning Chains Reduce Intrinsic Dimensionality",
+      "tier": "A+"
+    },
+    {
+      "id": "2606.13276",
+      "title": "Different Layers, Different Manifolds: Module-Wise Weight-Space Geometry in Transformer Optimization",
+      "tier": "A+"
+    },
+    {
+      "id": "2509.16447",
+      "title": "Local Mechanisms of Compositional Generalization in Conditional Diffusion",
+      "tier": "A"
+    },
+    {
+      "id": "2507.01693",
+      "title": "GPT, But Backwards: Exactly Inverting Language Model Outputs",
+      "tier": "A"
+    },
+    {
+      "id": "2604.12151",
+      "title": "Distinct mechanisms underlying in-context learning in transformers",
+      "tier": "A+"
+    },
+    {
+      "id": "2505.13230",
+      "title": "Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks",
+      "tier": "S"
+    },
+    {
+      "id": "2603.12276",
+      "title": "No More DeLuLu: Physics-Inspired Kernel Networks for Geometrically-Grounded Neural Computation",
+      "tier": "S"
+    },
+    {
+      "id": "2304.02381",
+      "title": "Physics-Inspired Interpretability Of Machine Learning Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.22424",
+      "title": "Causality $\\neq$ Invariance: Function and Concept Vectors in LLMs",
+      "tier": "A+"
+    },
+    {
+      "id": "2211.11567",
+      "title": "Neural networks trained with SGD learn distributions of increasing complexity",
+      "tier": "A+"
+    },
+    {
+      "id": "2511.00958",
+      "title": "The Hidden Power of Normalization Layers in Neural Networks: Exponential Capacity Control",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.13552",
+      "title": "Ghosts of Softmax: Complex Singularities That Limit Safe Step Sizes in Cross-Entropy",
+      "tier": "A+"
+    },
+    {
+      "id": "2502.20914",
+      "title": "Everything, Everywhere, All at Once: Is Mechanistic Interpretability Identifiable?",
+      "tier": "A+"
+    },
+    {
+      "id": "2501.18527",
+      "title": "Neural Discovery in Mathematics: Do Machines Dream of Colored Planes?",
+      "tier": "A+"
+    },
+    {
+      "id": "2411.18704",
+      "title": "Exponential Moving Average of Weights in Deep Learning: Dynamics and Benefits",
+      "tier": "A"
+    },
+    {
+      "id": "2210.13599",
+      "title": "Noise Injection as a Probe of Deep Learning Dynamics",
+      "tier": "A"
+    },
+    {
+      "id": "2510.13665",
+      "title": "Axial Neural Networks for Dimension-Free Foundation Models",
+      "tier": "A"
+    },
+    {
+      "id": "2305.01604",
+      "title": "The Training Process of Many Deep Networks Explores the Same Low-Dimensional Manifold",
+      "tier": "A"
+    },
+    {
+      "id": "2209.09056",
+      "title": "Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off",
+      "tier": "A"
+    },
+    {
+      "id": "2601.03220",
+      "title": "From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.19143",
+      "title": "Incremental Learning of Sparse Attention Patterns in Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2305.08024",
+      "title": "Grasping Extreme Aerodynamics on a Low-Dimensional Manifold",
+      "tier": "A"
+    },
+    {
+      "id": "2411.12118",
+      "title": "Mechanism and Emergence of Stacked Attention Heads in Multi-Layer Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2603.16689",
+      "title": "Predictive Statistics Shape Emergent World Representations of Grid Walkers",
+      "tier": "S"
+    },
+    {
+      "id": "2606.03217",
+      "title": "An Asymptotic Theory of Chain-of-Thought in In-Context Learning",
+      "tier": "A+"
+    },
+    {
+      "id": "2512.20607",
+      "title": "Saddle-to-Saddle Dynamics Explains A Simplicity Bias Across Neural Network Architectures",
+      "tier": "S"
+    },
+    {
+      "id": "2305.05465",
+      "title": "The emergence of clusters in self-attention dynamics",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.06592",
+      "title": "Hierarchical Latent Structures in Data Generation Process Unify Mechanistic Phenomena across Scale",
+      "tier": "A+"
+    },
+    {
+      "id": "2508.19897",
+      "title": "The Information Dynamics of Generative Diffusion",
+      "tier": "A+"
+    },
+    {
+      "id": "2606.03645",
+      "title": "The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models",
+      "tier": "S"
+    },
+    {
+      "id": "2604.08192",
+      "title": "Inside-Out: Measuring Generalization in Vision Transformers Through Inner Workings",
+      "tier": "S"
+    },
+    {
+      "id": "2506.05447",
+      "title": "Training Dynamics Underlying Language Model Scaling Laws: Loss Deceleration and Zero-Sum Learning",
+      "tier": "A"
+    },
+    {
+      "id": "2302.03660",
+      "title": "Flow Matching on General Geometries",
+      "tier": "A"
+    },
+    {
+      "id": "2310.01542",
+      "title": "Fusing Models with Complementary Expertise",
+      "tier": "A"
+    },
+    {
+      "id": "2606.12058",
+      "title": "Phase Transitions in Attention: A Bayesian Theory of Copy Head Emergence",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.22600",
+      "title": "Transformers converge to invariant algorithmic cores",
+      "tier": "A+"
+    },
+    {
+      "id": "2502.02732",
+      "title": "Peri-LN: Revisiting Normalization Layer in the Transformer Architecture",
+      "tier": "A+"
+    },
+    {
+      "id": "2512.22247",
+      "title": "The Affine Divergence: Aligning Activation Updates Beyond Normalisation",
+      "tier": "S"
+    },
+    {
+      "id": "2604.07822",
+      "title": "Loop, Think, & Generalize: Implicit Reasoning in Recurrent-Depth Transformers",
+      "tier": "S"
+    },
+    {
+      "id": "2412.04703",
+      "title": "Transformers Struggle to Learn to Search",
+      "tier": "S"
+    },
+    {
+      "id": "2511.12869",
+      "title": "On the Fundamental Limits of LLMs at Scale",
+      "tier": "S"
+    },
+    {
+      "id": "2608.18419",
+      "title": "Mechanistic Interpretability of Structure-Aware Numerical Reasoning in LLaMA 3.1 8B",
+      "tier": "S"
+    },
+    {
+      "id": "2602.14872",
+      "title": "On the Emergence of Implicit Curriculum in RLVR Learning Dynamics",
+      "tier": "S"
+    },
+    {
+      "id": "2603.10048",
+      "title": "Revisiting Sharpness-Aware Minimization: A More Faithful and Effective Implementation",
+      "tier": "A+"
+    },
+    {
+      "id": "2504.01928",
+      "title": "Is the Reversal Curse a Binding Problem? Uncovering Limitations of Transformers from a Basic Generalization Failure",
+      "tier": "A+"
+    },
+    {
+      "id": "2506.19351",
+      "title": "In-Context Occam's Razor: How Transformers Prefer Simpler Hypotheses on the Fly",
+      "tier": "A+"
+    },
+    {
+      "id": "2307.09476",
+      "title": "Overthinking the Truth: Understanding how Language Models Process False Demonstrations",
+      "tier": "A+"
+    },
+    {
+      "id": "2505.18069",
+      "title": "Ubiquity of Emergent Hebbian Dynamics in Regularized Learning",
+      "tier": "A"
+    },
+    {
+      "id": "2410.01104",
+      "title": "Softmax is not Enough (for Sharp Size Generalisation)",
+      "tier": "A"
+    },
+    {
+      "id": "2602.14495",
+      "title": "Divine Benevolence is an $x^2$: GLUs scale asymptotically faster than MLPs",
+      "tier": "A"
+    },
+    {
+      "id": "2409.05780",
+      "title": "Breaking Neural Network Scaling Laws with Modularity",
+      "tier": "A"
+    },
+    {
+      "id": "2212.07469",
+      "title": "Learning threshold neurons via the \"edge of stability\"",
+      "tier": "A"
+    },
+    {
+      "id": "2502.20531",
+      "title": "Learning Dynamics of Deep Linear Networks Beyond the Edge of Stability",
+      "tier": "A"
+    },
+    {
+      "id": "2506.06194",
+      "title": "Transformative or Conservative? Conservation laws for ResNets and Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2302.12250",
+      "title": "Phase diagram of early training dynamics in deep neural networks: effect of the learning rate, depth, and width",
+      "tier": "A"
+    },
+    {
+      "id": "2205.09653",
+      "title": "Self-Consistent Dynamical Field Theory of Kernel Evolution in Wide Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2606.04212",
+      "title": "Edge of Stability Selectively Shapes Learning Across the Data Distribution",
+      "tier": "A"
+    },
+    {
+      "id": "2509.22436",
+      "title": "Global Convergence in Neural ODEs: Impact of Activation Functions",
+      "tier": "A"
+    },
+    {
+      "id": "2512.13898",
+      "title": "Let's (not) just put things in Context: Test-Time Training for Long-Context LLMs",
+      "tier": "A"
+    },
+    {
+      "id": "2510.01163",
+      "title": "How Does the Pretraining Distribution Shape In-Context Learning? A Fundamental Trade-Off",
+      "tier": "A"
+    },
+    {
+      "id": "2512.21113",
+      "title": "A Mechanistic Analysis of Transformers for Dynamical Systems",
+      "tier": "A+"
+    },
+    {
+      "id": "2608.14019",
+      "title": "Emergent Models: Intelligence from Tiny Substrates",
+      "tier": "S"
+    },
+    {
+      "id": "2603.06875",
+      "title": "Stochastic Attention via Langevin Dynamics on the Modern Hopfield Energy",
+      "tier": "S"
+    },
+    {
+      "id": "2601.03368",
+      "title": "A path to natural language through tokenisation and transformers",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.11673",
+      "title": "Context-dependent manifold learning: A neuromodulated constrained autoencoder approach",
+      "tier": "A+"
+    },
+    {
+      "id": "2607.18433",
+      "title": "Intelligence from Learnable Novelty",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.04327",
+      "title": "Arithmetic-Mean $μ$P for Modern Architectures: A Unified Learning-Rate Scale for CNNs and ResNets",
+      "tier": "A"
+    },
+    {
+      "id": "2603.11487",
+      "title": "Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks",
+      "tier": "A"
+    },
+    {
+      "id": "2602.06042",
+      "title": "Pseudo-Invertible Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2407.19353",
+      "title": "Spring-block theory of feature learning in deep neural networks",
+      "tier": "A"
+    },
+    {
+      "id": "2511.02003",
+      "title": "Bulk-boundary decomposition of neural networks",
+      "tier": "A"
+    },
+    {
+      "id": "2510.04304",
+      "title": "Wave-PDE Nets: Trainable Wave-Equation Layers as an Alternative to Attention",
+      "tier": "A+"
+    },
+    {
+      "id": "2505.24333",
+      "title": "Two failure modes of deep transformers and how to avoid them: a unified theory of signal propagation at initialisation",
+      "tier": "A+"
+    },
+    {
+      "id": "2604.06169",
+      "title": "In-Place Test-Time Training",
+      "tier": "A"
+    },
+    {
+      "id": "2510.00504",
+      "title": "A universal compression theory for lottery ticket hypothesis and neural scaling laws",
+      "tier": "S"
+    },
+    {
+      "id": "2604.04155",
+      "title": "The Geometric Alignment Tax: Tokenization vs. Continuous Geometry in Scientific Foundation Models",
+      "tier": "S"
+    },
+    {
+      "id": "2302.07253",
+      "title": "Energy Transformer",
+      "tier": "A+"
+    },
+    {
+      "id": "2505.17517",
+      "title": "The Spacetime of Diffusion Models: An Information Geometry Perspective",
+      "tier": "A+"
+    },
+    {
+      "id": "2601.04480",
+      "title": "When Models Manipulate Manifolds: The Geometry of a Counting Task",
+      "tier": "A+"
+    },
+    {
+      "id": "2509.22445",
+      "title": "Bridging Kolmogorov Complexity and Deep Learning: Asymptotically Optimal Description Length Objectives for Transformers",
+      "tier": "A+"
+    },
+    {
+      "id": "2512.22213",
+      "title": "On the Existence and Behavior of Secondary Attention Sinks",
+      "tier": "A+"
+    },
+    {
+      "id": "2508.19414",
+      "title": "Even Heads Fix Odd Errors: Mechanistic Discovery and Surgical Repair in Transformer Attention",
+      "tier": "A"
+    },
+    {
+      "id": "2510.04500",
+      "title": "Expand Neurons, Not Parameters",
+      "tier": "A"
+    },
+    {
+      "id": "2404.06453",
+      "title": "PURE: Turning Polysemantic Neurons Into Pure Features by Identifying Relevant Circuits",
+      "tier": "A"
+    },
+    {
+      "id": "2307.04755",
+      "title": "Information decomposition in complex systems via machine learning",
+      "tier": "A"
+    },
+    {
+      "id": "2606.23637",
+      "title": "Muown Implicitly Performs Angular Step-size Decay",
+      "tier": "A"
+    },
+    {
+      "id": "2504.03933",
+      "title": "Language Models Are Implicitly Continuous",
+      "tier": "A"
+    },
+    {
+      "id": "2501.16265",
+      "title": "Training Dynamics of In-Context Learning in Linear Attention",
+      "tier": "A"
+    },
+    {
+      "id": "2403.08081",
+      "title": "Mechanics of Next Token Prediction with Self-Attention",
+      "tier": "A"
+    },
+    {
+      "id": "2604.04037",
+      "title": "Geometric Limits of Knowledge Distillation: A Minimum-Width Theorem via Superposition Theory",
+      "tier": "A"
+    },
+    {
+      "id": "2602.04774",
+      "title": "Theory of Optimal Learning Rate Schedules and Scaling Laws for a Random Feature Model",
+      "tier": "A"
+    },
+    {
+      "id": "2410.24050",
+      "title": "A Mechanistic Study of Transformers Training Dynamics",
+      "tier": "S"
+    },
+    {
+      "id": "2510.26745",
+      "title": "Deep sequence models tend to memorize geometrically; it is unclear why",
+      "tier": "S"
+    },
+    {
+      "id": "2509.20336",
+      "title": "Uncovering Graph Reasoning in Decoder-only Transformers with Circuit Tracing",
+      "tier": "S"
+    },
+    {
+      "id": "2508.08222",
+      "title": "Multi-head Transformers Provably Learn Symbolic Multi-step Reasoning via Gradient Descent",
+      "tier": "S"
+    },
+    {
+      "id": "2602.09783",
+      "title": "Why Linear Interpretability Works: Invariant Subspaces as a Result of Architectural Constraints",
+      "tier": "S"
+    },
+    {
+      "id": "2510.26997",
+      "title": "Gradient Descent as Loss Landscape Navigation: a Normative Framework for Deriving Learning Rules",
+      "tier": "S"
+    },
+    {
+      "id": "2306.01128",
+      "title": "Learning Transformer Programs",
+      "tier": "S"
+    },
+    {
+      "id": "2606.17816",
+      "title": "Conservation Laws for Modern Neural Architectures",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.01097",
+      "title": "Understanding LoRA as Knowledge Memory: An Empirical Analysis",
+      "tier": "A+"
+    },
+    {
+      "id": "2511.17852",
+      "title": "Transformers with RL or SFT Provably Learn Sparse Boolean Functions, But Differently",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.18184",
+      "title": "ActivationReasoning: Logical Reasoning in Latent Activation Spaces",
+      "tier": "A+"
+    },
+    {
+      "id": "2508.08435",
+      "title": "Fast weight programming and linear transformers: from machine learning to neurobiology",
+      "tier": "A+"
+    },
+    {
+      "id": "2407.13594",
+      "title": "Validating Mechanistic Interpretations: An Axiomatic Approach",
+      "tier": "A+"
+    },
+    {
+      "id": "2405.16391",
+      "title": "When does compositional structure yield compositional generalization? A kernel theory",
+      "tier": "A+"
+    },
+    {
+      "id": "2505.12387",
+      "title": "Neural Thermodynamics: Entropic Forces in Deep and Universal Representation Learning",
+      "tier": "A+"
+    },
+    {
+      "id": "2503.21536",
+      "title": "Exploring the Energy Landscape of RBMs: Reciprocal Space Insights into Bosons, Hierarchical Learning and Symmetry Breaking",
+      "tier": "A+"
+    },
+    {
+      "id": "2309.03631",
+      "title": "Insights Into the Inner Workings of Transformer Models for Protein Function Prediction",
+      "tier": "A+"
+    },
+    {
+      "id": "2410.19964",
+      "title": "Understanding Adam Requires Better Rotation Dependent Assumptions",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.02859",
+      "title": "Late-Stage Generalization Collapse in Grokking: Detecting anti-grokking with Weightwatcher",
+      "tier": "A+"
+    },
+    {
+      "id": "2310.13121",
+      "title": "Understanding Addition in Transformers",
+      "tier": "A+"
+    },
+    {
+      "id": "2601.23169",
+      "title": "Names Don't Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning",
+      "tier": "A"
+    },
+    {
+      "id": "2512.16902",
+      "title": "In-Context Algebra",
+      "tier": "A"
+    },
+    {
+      "id": "2301.11934",
+      "title": "Compression theory for inhomogeneous systems",
+      "tier": "A"
+    },
+    {
+      "id": "2501.15857",
+      "title": "Are Transformers Able to Reason by Connecting Separated Knowledge in Training Data?",
+      "tier": "A"
+    },
+    {
+      "id": "2602.00693",
+      "title": "Topology and Geometry of the Learning Space of ReLU Networks: Connectivity and Singularities",
+      "tier": "A"
+    },
+    {
+      "id": "2510.15262",
+      "title": "Robust Layerwise Scaling Rules by Proper Weight Decay Tuning",
+      "tier": "A"
+    },
+    {
+      "id": "2504.02918",
+      "title": "Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems",
+      "tier": "A"
+    },
+    {
+      "id": "2310.15213",
+      "title": "Function Vectors in Large Language Models",
+      "tier": "A"
+    },
+    {
+      "id": "2511.12309",
+      "title": "Optimal Self-Consistency for Efficient Reasoning with Large Language Models",
+      "tier": "A"
+    },
+    {
+      "id": "2502.19611",
+      "title": "PRDP: Progressively Refined Differentiable Physics",
+      "tier": "A"
+    },
+    {
+      "id": "2408.10147",
+      "title": "In-Context Learning with Representations: Contextual Generalization of Trained Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2310.01082",
+      "title": "Linear attention is (maybe) all you need (to understand transformer optimization)",
+      "tier": "A"
+    },
+    {
+      "id": "2411.19339",
+      "title": "Towards a Mechanistic Explanation of Diffusion Model Generalization",
+      "tier": "A"
+    },
+    {
+      "id": "2508.12837",
+      "title": "Learning In-context n-grams with Transformers: Sub-n-grams Are Near-stationary Points",
+      "tier": "A"
+    },
+    {
+      "id": "2506.14951",
+      "title": "Flat Channels to Infinity in Neural Loss Landscapes",
+      "tier": "A"
+    },
+    {
+      "id": "2505.20172",
+      "title": "A Theoretical Framework for Grokking: Interpolation followed by Riemannian Norm Minimisation",
+      "tier": "A"
+    },
+    {
+      "id": "2608.15483",
+      "title": "Measuring Structured Predictability in Neural Training Dynamics: A Cross-Regime Study",
+      "tier": "A"
+    },
+    {
+      "id": "2507.00641",
+      "title": "Hebbian Physics Networks: A Self-Organizing Computational Architecture Based on Local Physical Laws",
+      "tier": "S"
+    },
+    {
+      "id": "2508.11990",
+      "title": "Universal Learning of Nonlinear Dynamics",
+      "tier": "S"
+    },
+    {
+      "id": "2506.19125",
+      "title": "Transformer Circuits Can Realize Clustering Algorithms",
+      "tier": "S"
+    },
+    {
+      "id": "2510.05606",
+      "title": "Riddled basin geometry sets fundamental limits to predictability and reproducibility in deep learning",
+      "tier": "A+"
+    },
+    {
+      "id": "2307.08423",
+      "title": "Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.02670",
+      "title": "Topological Invariance and Breakdown in Learning",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.00861",
+      "title": "Multi-Head Attention Is a Multi-Player Game",
+      "tier": "A+"
+    },
+    {
+      "id": "2404.13218",
+      "title": "On the Temperature of Machine Learning Systems",
+      "tier": "A"
+    },
+    {
+      "id": "2402.02619",
+      "title": "Understanding Addition and Subtraction in Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2603.05143",
+      "title": "Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2510.24616",
+      "title": "Statistical physics of deep learning: Optimal learning of a multi-layer perceptron near interpolation",
+      "tier": "A"
+    },
+    {
+      "id": "2602.07800",
+      "title": "Approximating Matrix Functions with Deep Neural Networks and Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2602.07950",
+      "title": "A Thermodynamic Theory of Learning Part II: Critical Period Closure and Continual Learning Failure",
+      "tier": "A"
+    },
+    {
+      "id": "2603.14578",
+      "title": "Power-Law Spectrum of the Random Feature Model",
+      "tier": "A"
+    },
+    {
+      "id": "2603.07514",
+      "title": "A Unified View of Score-Based and Drifting Models",
+      "tier": "A"
+    },
+    {
+      "id": "2508.18526",
+      "title": "Quantifying The Limits of AI Reasoning: Systematic Neural Network Representations of Algorithms",
+      "tier": "A"
+    },
+    {
+      "id": "2409.05305",
+      "title": "Closed-Form Interpretation of Neural Network Latent Spaces with Symbolic Gradients",
+      "tier": "A"
+    },
+    {
+      "id": "2510.08734",
+      "title": "Transmuting prompts into weights",
+      "tier": "A"
+    },
+    {
+      "id": "2310.19039",
+      "title": "Machine Learning for the identification of phase-transitions in interacting agent-based systems: a Desai-Zwanzig example",
+      "tier": "A"
+    },
+    {
+      "id": "2510.19753",
+      "title": "Transformers Provably Learn Algorithmic Solutions for Graph Connectivity, But Only with the Right Data",
+      "tier": "A"
+    },
+    {
+      "id": "2410.05107",
+      "title": "Hyper-Representations: Learning from Populations of Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2604.13656",
+      "title": "Ordinary Least Squares is a Special Case of Transformer",
+      "tier": "A"
+    },
+    {
+      "id": "2602.02385",
+      "title": "Transformers learn factored representations",
+      "tier": "A"
+    },
+    {
+      "id": "2211.04607",
+      "title": "First principles physics-informed neural network for quantum wavefunctions and eigenvalue surfaces",
+      "tier": "A"
+    },
+    {
+      "id": "1901.09813",
+      "title": "Analogies Explained: Towards Understanding Word Embeddings",
+      "tier": "A"
+    },
+    {
+      "id": "2602.01203",
+      "title": "Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse",
+      "tier": "A"
+    },
+    {
+      "id": "2512.10427",
+      "title": "Renormalizable Spectral-Shell Dynamics as the Origin of Neural Scaling Laws",
+      "tier": "A"
+    },
+    {
+      "id": "2512.15169",
+      "title": "Understanding NTK Variance in Implicit Neural Representations",
+      "tier": "A"
+    },
+    {
+      "id": "2602.01434",
+      "title": "Phase Transitions for Feature Learning in Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2505.19227",
+      "title": "Scaling Laws for Gradient Descent and Sign Descent for Linear Bigram Models under Zipf's Law",
+      "tier": "A"
+    },
+    {
+      "id": "2401.04978",
+      "title": "Closed-Form Interpretation of Neural Network Classifiers with Symbolic Gradients",
+      "tier": "A"
+    },
+    {
+      "id": "2511.04217",
+      "title": "The Strong Lottery Ticket Hypothesis for Multi-Head Attention Mechanisms",
+      "tier": "A"
+    },
+    {
+      "id": "2510.15563",
+      "title": "On the Neural Feature Ansatz for Deep Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2501.03937",
+      "title": "A solvable model of learning generative diffusion: theory and insights",
+      "tier": "A"
+    },
+    {
+      "id": "2602.09784",
+      "title": "Circuit Fingerprints: How Answer Tokens Encode Their Geometrical Path",
+      "tier": "S"
+    },
+    {
+      "id": "2606.12917",
+      "title": "Where Computation Lives Inside TabPFN: Causal Localisation of Attention Head Function",
+      "tier": "S"
+    },
+    {
+      "id": "2507.11688",
+      "title": "Composing Linear Layers from Irreducibles",
+      "tier": "A+"
+    },
+    {
+      "id": "2511.09149",
+      "title": "Enabling Agents to Communicate Entirely in Latent Space",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.22977",
+      "title": "The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination",
+      "tier": "A"
+    },
+    {
+      "id": "2506.19852",
+      "title": "Radial Attention: $O(n\\log n)$ Sparse Attention with Energy Decay for Long Video Generation",
+      "tier": "A"
+    },
+    {
+      "id": "2110.03210",
+      "title": "Universality of Winning Tickets: A Renormalization Group Perspective",
+      "tier": "A"
+    },
+    {
+      "id": "2503.12734",
+      "title": "In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention",
+      "tier": "S"
+    },
+    {
+      "id": "2512.20291",
+      "title": "Mixture-of-Experts with Gradient Conflict-Driven Subspace Topology Pruning for Emergent Modularity",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.15280",
+      "title": "Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition",
+      "tier": "A"
+    },
+    {
+      "id": "2504.19983",
+      "title": "Emergence and scaling laws in SGD learning of shallow neural networks",
+      "tier": "A"
+    },
+    {
+      "id": "2406.05564",
+      "title": "Automata Extraction from Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2602.08287",
+      "title": "Noise Stability of Transformer Models",
+      "tier": "A"
+    },
+    {
+      "id": "2507.12549",
+      "title": "The Serial Scaling Hypothesis",
+      "tier": "A"
+    },
+    {
+      "id": "2211.01365",
+      "title": "QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning",
+      "tier": "A"
+    },
+    {
+      "id": "2603.10225",
+      "title": "Rethinking the Harmonic Loss via Non-Euclidean Distance Layers",
+      "tier": "A"
+    },
+    {
+      "id": "2603.02069",
+      "title": "Scaling Laws of SignSGD in Linear Regression: When Does It Outperform SGD?",
+      "tier": "A"
+    },
+    {
+      "id": "2510.26792",
+      "title": "Learning Pseudorandom Numbers with Transformers: Permuted Congruential Generators, Curricula, and Interpretability",
+      "tier": "S"
+    },
+    {
+      "id": "2504.02862",
+      "title": "Towards Understanding How Knowledge Evolves in Large Vision-Language Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2604.07405",
+      "title": "Conservation Law Breaking at the Edge of Stability: A Spectral Theory of Non-Convex Neural Network Optimization",
+      "tier": "A+"
+    },
+    {
+      "id": "2606.22325",
+      "title": "All Routes Lead to Collapse",
+      "tier": "A"
+    },
+    {
+      "id": "2608.16760",
+      "title": "On the Principles Behind Neural Network Optimizers",
+      "tier": "A"
+    },
+    {
+      "id": "2608.12036",
+      "title": "Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence",
+      "tier": "A"
+    },
+    {
+      "id": "2603.05498",
+      "title": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
+      "tier": "A"
+    },
+    {
+      "id": "2411.16260",
+      "title": "Unraveling Arithmetic in Large Language Models: The Role of Algebraic Structures",
+      "tier": "A"
+    },
+    {
+      "id": "2309.03886",
+      "title": "FIND: A Function Description Benchmark for Evaluating Interpretability Methods",
+      "tier": "A"
+    },
+    {
+      "id": "2402.05173",
+      "title": "Towards Understanding Inductive Bias in Transformers: A View From Infinity",
+      "tier": "A"
+    },
+    {
+      "id": "2405.04669",
+      "title": "Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics",
+      "tier": "A"
+    },
+    {
+      "id": "2307.11807",
+      "title": "Local Kernel Renormalization as a mechanism for feature learning in overparametrized Convolutional Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2606.08167",
+      "title": "Explaining Data Mixing Scaling Laws",
+      "tier": "S"
+    },
+    {
+      "id": "2607.24887",
+      "title": "Mechanisms of Width Scaling in Normalized Residual Networks: The Effective Alignment Dimension",
+      "tier": "S"
+    },
+    {
+      "id": "2505.05145",
+      "title": "Understanding In-context Learning of Addition via Activation Subspaces",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.10985",
+      "title": "The Discrete Charm of the MLP: Binary Routing of Continuous Signals in Transformer Feed-Forward Layers",
+      "tier": "A+"
+    },
+    {
+      "id": "2507.02119",
+      "title": "Scaling Collapse Reveals Universal Dynamics in Compute-Optimally Trained Neural Networks",
+      "tier": "A+"
+    },
+    {
+      "id": "2512.19941",
+      "title": "Block-Recurrent Dynamics in Vision Transformers",
+      "tier": "A+"
+    },
+    {
+      "id": "2607.17624",
+      "title": "Can Transformers Really Do It All? On the Compatibility of Inductive Biases Across Tasks",
+      "tier": "A+"
+    },
+    {
+      "id": "2402.00795",
+      "title": "LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.14095",
+      "title": "Unlocking Out-of-Distribution Generalization in Transformers via Recursive Latent Space Reasoning",
+      "tier": "A+"
+    },
+    {
+      "id": "2608.01284",
+      "title": "Training nGPT",
+      "tier": "A"
+    },
+    {
+      "id": "2511.03060",
+      "title": "The Curved Spacetime of Transformer Architectures",
+      "tier": "A"
+    },
+    {
+      "id": "2501.17727",
+      "title": "Automated Interpretability Metrics Do Not Distinguish Trained and Random Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2411.16105",
+      "title": "Adaptive Circuit Behavior and Generalization in Mechanistic Interpretability",
+      "tier": "A"
+    },
+    {
+      "id": "2201.02115",
+      "title": "The dynamics of representation learning in shallow, non-linear autoencoders",
+      "tier": "A"
+    },
+    {
+      "id": "2509.24912",
+      "title": "When Scores Learn Geometry: Rate Separations under the Manifold Hypothesis",
+      "tier": "A"
+    },
+    {
+      "id": "2601.12703",
+      "title": "Towards Spectroscopy: Susceptibility Clusters in Language Models",
+      "tier": "A"
+    },
+    {
+      "id": "2411.00715",
+      "title": "B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable",
+      "tier": "A"
+    },
+    {
+      "id": "2302.04324",
+      "title": "Deep Machine Learning in Cosmology: Evolution or Revolution?",
+      "tier": "A"
+    },
+    {
+      "id": "2305.13673",
+      "title": "Physics of Language Models: Part 1, Learning Hierarchical Language Structures",
+      "tier": "A"
+    },
+    {
+      "id": "2306.00204",
+      "title": "Toward Understanding Why Adam Converges Faster Than SGD for Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2607.28362",
+      "title": "ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow",
+      "tier": "A"
+    },
+    {
+      "id": "2403.15297",
+      "title": "Sphere Neural-Networks for Rational Reasoning",
+      "tier": "A"
+    },
+    {
+      "id": "2308.09952",
+      "title": "Finding emergence in data by maximizing effective information",
+      "tier": "A"
+    },
+    {
+      "id": "2403.18494",
+      "title": "Learning in PINNs: Phase transition, diffusion equilibrium, and generalization",
+      "tier": "S"
+    },
+    {
+      "id": "2404.07009",
+      "title": "A Mathematical Theory for Learning Semantic Languages by Abstract Learners",
+      "tier": "A+"
+    },
+    {
+      "id": "2402.05424",
+      "title": "Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures",
+      "tier": "A"
+    },
+    {
+      "id": "2208.09859",
+      "title": "Emergence of hierarchical modes from deep learning",
+      "tier": "A"
+    },
+    {
+      "id": "2203.13648",
+      "title": "On the Role of Fixed Points of Dynamical Systems in Training Physics-Informed Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2504.12883",
+      "title": "Mirror, Mirror of the Flow: How Does Regularization Shape Implicit Bias?",
+      "tier": "A"
+    },
+    {
+      "id": "2204.00887",
+      "title": "Dimensionless machine learning: Imposing exact units equivariance",
+      "tier": "A"
+    },
+    {
+      "id": "2212.14776",
+      "title": "On the Interpretability of Attention Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2509.10167",
+      "title": "The Hidden Width of Deep ResNets: Tight Error Bounds and Phase Diagram",
+      "tier": "A"
+    },
+    {
+      "id": "2410.04642",
+      "title": "The Optimization Landscape of SGD Across the Feature Learning Strength",
+      "tier": "A"
+    },
+    {
+      "id": "2503.22547",
+      "title": "Bridging the Dimensional Chasm: Uncover Layer-wise Dimensional Reduction in Transformers through Token Correlation",
+      "tier": "A"
+    },
+    {
+      "id": "2506.22049",
+      "title": "GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling",
+      "tier": "A"
+    },
+    {
+      "id": "2403.03375",
+      "title": "Complexity Matters: Dynamics of Feature Learning in the Presence of Spurious Correlations",
+      "tier": "A"
+    },
+    {
+      "id": "2505.23653",
+      "title": "How do Transformers Learn Implicit Reasoning?",
+      "tier": "A+"
+    },
+    {
+      "id": "2512.19649",
+      "title": "Deep Legendre Transform",
+      "tier": "A+"
+    },
+    {
+      "id": "2508.07208",
+      "title": "What One Cannot, Two Can: Two-Layer Transformers Provably Represent Induction Heads on Any-Order Markov Chains",
+      "tier": "A+"
+    },
+    {
+      "id": "2608.16689",
+      "title": "Hide&Seek: Learning to Explain in an End-to-End Differentiable Network",
+      "tier": "A+"
+    },
+    {
+      "id": "2410.14817",
+      "title": "A Complexity-Based Theory of Compositionality",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.07562",
+      "title": "Gaussian Match-and-Copy: A Minimalist Benchmark for Studying Transformer Induction",
+      "tier": "A+"
+    },
+    {
+      "id": "2412.03773",
+      "title": "Modular addition without black-boxes: Compressing explanations of MLPs that compute numerical integration",
+      "tier": "A"
+    },
+    {
+      "id": "2510.22131",
+      "title": "Probing Neural Combinatorial Optimization Models",
+      "tier": "A"
+    },
+    {
+      "id": "2510.19093",
+      "title": "Weight Decay may matter more than muP for Learning Rate Transfer in Practice",
+      "tier": "A"
+    },
+    {
+      "id": "2309.00255",
+      "title": "SortedNet: A Scalable and Generalized Framework for Training Modular Deep Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2606.23607",
+      "title": "Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2402.09142",
+      "title": "When Representations Align: Universality in Representation Learning Dynamics",
+      "tier": "A"
+    },
+    {
+      "id": "2211.11461",
+      "title": "Exhaustive Symbolic Regression",
+      "tier": "A"
+    },
+    {
+      "id": "2410.02117",
+      "title": "Searching for Efficient Linear Layers over a Continuous Space of Structured Matrices",
+      "tier": "A"
+    },
+    {
+      "id": "2309.00244",
+      "title": "NeuroSurgeon: A Toolkit for Subnetwork Analysis",
+      "tier": "A"
+    },
+    {
+      "id": "2510.21693",
+      "title": "Mechanistic Interpretability for Neural TSP Solvers",
+      "tier": "S"
+    },
+    {
+      "id": "2608.14743",
+      "title": "Generative Learning of Separatrices",
+      "tier": "S"
+    },
+    {
+      "id": "2602.22122",
+      "title": "Probing the Geometry of Diffusion Models with the String Method",
+      "tier": "S"
+    },
+    {
+      "id": "2602.08333",
+      "title": "Regime Change Hypothesis: Foundations for Decoupled Dynamics in Neural Network Training",
+      "tier": "S"
+    },
+    {
+      "id": "2602.18523",
+      "title": "The Geometry of Multi-Task Grokking: Transverse Instability, Superposition, and Weight Decay Phase Structure",
+      "tier": "S"
+    },
+    {
+      "id": "2511.00797",
+      "title": "Attention Saturation and Gradient Suppression at Inflection Layers: Diagnosing and Mitigating Bottlenecks in Transformer Adaptation",
+      "tier": "S"
+    },
+    {
+      "id": "2602.08216",
+      "title": "Thermodynamic Isomorphism of Transformers: A Lagrangian Approach to Attention Dynamics",
+      "tier": "S"
+    },
+    {
+      "id": "2603.02064",
+      "title": "Never Saddle for Reparameterized Steepest Descent as Mirror Flow",
+      "tier": "S"
+    },
+    {
+      "id": "2601.05647",
+      "title": "Transformer Is Inherently a Causal Learner",
+      "tier": "S"
+    },
+    {
+      "id": "2601.07830",
+      "title": "Optimal Learning Rate Schedule for Balancing Effort and Performance",
+      "tier": "A+"
+    },
+    {
+      "id": "2606.19941",
+      "title": "Compositionality Emerges in a Narrow Depth-Connectivity Regime: Architecture Constraints and Solution Manifolds",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.06954",
+      "title": "From Condensation to Rank Collapse: A Two-Stage Analysis of Transformer Training Dynamics",
+      "tier": "A+"
+    },
+    {
+      "id": "2604.16431",
+      "title": "Dimensional Criticality at Grokking Across MLPs and Transformers",
+      "tier": "A+"
+    },
+    {
+      "id": "2607.23050",
+      "title": "The Entropic Bound for Transformers: Why Static Rank Fails and Attention-Native Rank Recovers",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.08455",
+      "title": "The Boiling Frog Threshold: Criticality and Blindness in World Model-Based Anomaly Detection Under Gradual Drift",
+      "tier": "A"
+    },
+    {
+      "id": "2604.16988",
+      "title": "In-Context Learning Under Regime Change",
+      "tier": "A"
+    },
+    {
+      "id": "2602.00816",
+      "title": "Hessian Spectral Analysis at Foundation Model Scale",
+      "tier": "A"
+    },
+    {
+      "id": "2411.07279",
+      "title": "The Surprising Effectiveness of Test-Time Training for Few-Shot Learning",
+      "tier": "A"
+    },
+    {
+      "id": "2409.15167",
+      "title": "Data-driven model discovery with Kolmogorov-Arnold networks",
+      "tier": "A"
+    },
+    {
+      "id": "2205.07331",
+      "title": "Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent",
+      "tier": "A"
+    },
+    {
+      "id": "2607.27731",
+      "title": "Towards joint scaling laws with optimal batch size schedules",
+      "tier": "A"
+    },
+    {
+      "id": "2306.00352",
+      "title": "Improving Energy Conserving Descent for Machine Learning: Theory and Practice",
+      "tier": "A"
+    },
+    {
+      "id": "2504.05646",
+      "title": "Lattice: Learning to Efficiently Compress the Memory",
+      "tier": "A"
+    },
+    {
+      "id": "2210.09925",
+      "title": "Generalizing in the Real World with Representation Learning",
+      "tier": "A"
+    },
+    {
+      "id": "2608.16097",
+      "title": "Unifying Graph Neural Networks Through a Common Layer Equation",
+      "tier": "A"
+    },
+    {
+      "id": "2509.21340",
+      "title": "Cycle is All You Need: More Is Different",
+      "tier": "A"
+    },
+    {
+      "id": "2412.04619",
+      "title": "Sometimes I am a Tree: Data Drives Unstable Hierarchical Generalization",
+      "tier": "A"
+    },
+    {
+      "id": "2401.07085",
+      "title": "Three Mechanisms of Feature Learning in a Linear Network",
+      "tier": "A"
+    },
+    {
+      "id": "2510.15425",
+      "title": "TeamFormer: Shallow Parallel Transformers with Progressive Approximation",
+      "tier": "A"
+    },
+    {
+      "id": "2509.02565",
+      "title": "Understanding sparse autoencoder scaling in the presence of feature manifolds",
+      "tier": "A"
+    },
+    {
+      "id": "2507.04300",
+      "title": "QF: Quick Feedforward AI Model Training without Gradient Back Propagation",
+      "tier": "A"
+    },
+    {
+      "id": "2301.13703",
+      "title": "Dissecting the Effects of SGD Noise in Distinct Regimes of Deep Learning",
+      "tier": "A"
+    },
+    {
+      "id": "2503.21985",
+      "title": "Improving Equivariant Networks with Probabilistic Symmetry Breaking",
+      "tier": "A"
+    },
+    {
+      "id": "2508.01483",
+      "title": "Training Dynamics of the Cooldown Stage in Warmup-Stable-Decay Learning Rate Scheduler",
+      "tier": "S"
+    },
+    {
+      "id": "2511.20273",
+      "title": "Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits",
+      "tier": "A+"
+    },
+    {
+      "id": "2205.13891",
+      "title": "Transformers from an Optimization Perspective",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.01761",
+      "title": "Position: Modular Memory is the Key to Continual Learning Agents",
+      "tier": "A"
+    },
+    {
+      "id": "2603.06274",
+      "title": "Stem: Rethinking Causal Information Flow in Sparse Attention",
+      "tier": "A"
+    },
+    {
+      "id": "2511.07308",
+      "title": "Can Stationary Distributions of Scale-Invariant Neural Networks Be Described by the Thermodynamics of an Ideal Gas?",
+      "tier": "A"
+    },
+    {
+      "id": "2508.18098",
+      "title": "Detecting and Characterizing Planning in Language Models",
+      "tier": "A"
+    },
+    {
+      "id": "2308.10874",
+      "title": "Analyzing Transformer Dynamics as Movement through Embedding Space",
+      "tier": "A"
+    },
+    {
+      "id": "2501.19358",
+      "title": "The Energy Loss Phenomenon in RLHF: A New Perspective on Mitigating Reward Hacking",
+      "tier": "A"
+    },
+    {
+      "id": "2603.02531",
+      "title": "Geometry-Aware Attention Guidance for Diffusion Models via Modern Hopfield Dynamics",
+      "tier": "A+"
+    },
+    {
+      "id": "2608.05000",
+      "title": "Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes",
+      "tier": "S"
+    },
+    {
+      "id": "2408.09523",
+      "title": "Understanding Transformer Architecture through Continuous Dynamics: A Partial Differential Equation Perspective",
+      "tier": "S"
+    },
+    {
+      "id": "2510.03470",
+      "title": "On residual network depth",
+      "tier": "A+"
+    },
+    {
+      "id": "2205.11916",
+      "title": "Large Language Models are Zero-Shot Reasoners",
+      "tier": "A+"
+    },
+    {
+      "id": "2608.04864",
+      "title": "The Neural Echo: A Signal Processing Perspective for Understanding Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2510.25776",
+      "title": "StreetMath: Study of LLMs' Approximation Behaviors",
+      "tier": "A"
+    },
+    {
+      "id": "2102.12086",
+      "title": "Modern Koopman Theory for Dynamical Systems",
+      "tier": "A"
+    },
+    {
+      "id": "2503.01822",
+      "title": "Projecting Assumptions: The Duality Between Sparse Autoencoders and Concept Geometry",
+      "tier": "S"
+    },
+    {
+      "id": "2606.15207",
+      "title": "Controlled Dynamics Attractor Transformer",
+      "tier": "A+"
+    },
+    {
+      "id": "2608.04442",
+      "title": "Robustness Emerges Early in Training Dynamics, but Is Not Preserved",
+      "tier": "A+"
+    },
+    {
+      "id": "2604.03764",
+      "title": "Automated Attention Pattern Discovery at Scale in Large Language Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.07050",
+      "title": "Interpreting Physics in Video World Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2411.07071",
+      "title": "Universal Response and Emergence of Induction in LLMs",
+      "tier": "A+"
+    },
+    {
+      "id": "2307.09458",
+      "title": "Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla",
+      "tier": "A+"
+    },
+    {
+      "id": "2505.08783",
+      "title": "CodePDE: An Inference Framework for LLM-driven PDE Solver Generation",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.05280",
+      "title": "Layer by layer, module by module: Choose both for optimal OOD probing of ViT",
+      "tier": "A+"
+    },
+    {
+      "id": "2511.10566",
+      "title": "Impact of Layer Norm on Memorization and Generalization in Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2402.01092",
+      "title": "A Dynamical Model of Neural Scaling Laws",
+      "tier": "A"
+    },
+    {
+      "id": "2505.17638",
+      "title": "Why Diffusion Models Don't Memorize: The Role of Implicit Dynamical Regularization in Training",
+      "tier": "A"
+    },
+    {
+      "id": "2412.06540",
+      "title": "Sloth: scaling laws for LLM skills to predict multi-benchmark performance across families",
+      "tier": "A"
+    },
+    {
+      "id": "2406.19370",
+      "title": "Emergence of Hidden Capabilities: Exploring Learning Dynamics in Concept Space",
+      "tier": "A"
+    },
+    {
+      "id": "2204.08155",
+      "title": "A dynamical systems based framework for dimension reduction",
+      "tier": "A+"
+    },
+    {
+      "id": "2310.12802",
+      "title": "An effective theory of collective deep learning",
+      "tier": "A"
+    },
+    {
+      "id": "2306.05857",
+      "title": "How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective",
+      "tier": "A"
+    },
+    {
+      "id": "2606.11722",
+      "title": "ICA Lens: Interpreting Language Models Without Training Another Dictionary",
+      "tier": "A"
+    },
+    {
+      "id": "2608.02668",
+      "title": "Sphere Retraction Normalizations",
+      "tier": "A"
+    },
+    {
+      "id": "2601.18699",
+      "title": "Mechanistic Analysis of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning",
+      "tier": "A"
+    },
+    {
+      "id": "2510.12618",
+      "title": "Towards Fast Coarse-graining and Equation Discovery with Foundation Inference Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2506.21797",
+      "title": "Why Neural Network Can Discover Symbolic Structures with Gradient-based Training: An Algebraic and Geometric Foundation for Neurosymbolic Reasoning",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.06248",
+      "title": "Gradient Flow Polarizes Softmax Outputs towards Low-Entropy Solutions",
+      "tier": "A+"
+    },
+    {
+      "id": "2507.07432",
+      "title": "Neural networks leverage nominally quantum and post-quantum representations",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.16870",
+      "title": "Demystifying Video Reasoning",
+      "tier": "A+"
+    },
+    {
+      "id": "2506.17859",
+      "title": "In-Context Learning Strategies Emerge Rationally",
+      "tier": "A+"
+    },
+    {
+      "id": "2504.11830",
+      "title": "Emergence of Computational Structure in a Neural Network Physics Simulator",
+      "tier": "A+"
+    },
+    {
+      "id": "2506.03470",
+      "title": "Models of Heavy-Tailed Mechanistic Universality",
+      "tier": "A+"
+    },
+    {
+      "id": "2507.01414",
+      "title": "Decomposing Prediction Mechanisms for In-Context Recall",
+      "tier": "A+"
+    },
+    {
+      "id": "2511.02091",
+      "title": "Natural Building Blocks for Structured World Models: Theory, Evidence, and Scaling",
+      "tier": "A+"
+    },
+    {
+      "id": "2606.08105",
+      "title": "A Unifying View of Attention Sinks: Two Algorithms, Two Solutions",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.20338",
+      "title": "Emergent Manifold Separability during Reasoning in Large Language Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.16740",
+      "title": "Quantifying LLM Attention-Head Stability: Implications for Circuit Universality",
+      "tier": "A+"
+    },
+    {
+      "id": "2311.00212",
+      "title": "A Unified Framework to Enforce, Discover, and Promote Symmetry in Machine Learning",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.07787",
+      "title": "Vision Transformers that Never Stop Learning",
+      "tier": "A+"
+    },
+    {
+      "id": "2602.04931",
+      "title": "Emergent Causal-Geometric Dynamics Across Depth in Large Language Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2508.08762",
+      "title": "Bio-Inspired Artificial Neural Networks based on Predictive Coding",
+      "tier": "A+"
+    },
+    {
+      "id": "2511.05628",
+      "title": "Unveiling the Training Dynamics of ReLU Networks through a Linear Lens",
+      "tier": "A+"
+    },
+    {
+      "id": "2504.00194",
+      "title": "Identifying Sparsely Active Circuits Through Local Loss Landscape Decomposition",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.17469",
+      "title": "Layer Specialization Underlying Compositional Reasoning in Transformers",
+      "tier": "A+"
+    },
+    {
+      "id": "2402.01790",
+      "title": "An introduction to graphical tensor notation for mechanistic interpretability",
+      "tier": "A+"
+    },
+    {
+      "id": "2404.04312",
+      "title": "Half-Space Feature Learning in Neural Networks",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.02765",
+      "title": "Curl Descent: Non-Gradient Learning Dynamics with Sign-Diverse Plasticity",
+      "tier": "A+"
+    },
+    {
+      "id": "2501.14926",
+      "title": "Interpretability in Parameter Space: Minimizing Mechanistic Description Length with Attribution-based Parameter Decomposition",
+      "tier": "A+"
+    },
+    {
+      "id": "2503.06325",
+      "title": "Understanding the role of autoencoders for stiff dynamical systems using information theory",
+      "tier": "A+"
+    },
+    {
+      "id": "2310.17467",
+      "title": "The statistical thermodynamics of generative diffusion models: Phase transitions, symmetry breaking and critical instability",
+      "tier": "A+"
+    },
+    {
+      "id": "2604.13627",
+      "title": "(How) Learning Rates Regulate Catastrophic Overtraining",
+      "tier": "A+"
+    },
+    {
+      "id": "2211.11052",
+      "title": "Convexifying Transformers: Improving optimization and understanding of transformer networks",
+      "tier": "A+"
+    },
+    {
+      "id": "2408.09821",
+      "title": "Symplectic Neural Networks Based on Dynamical Systems",
+      "tier": "A+"
+    },
+    {
+      "id": "2510.12066",
+      "title": "AI Agents as Universal Task Solvers",
+      "tier": "A+"
+    },
+    {
+      "id": "2604.13206",
+      "title": "Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2410.11516",
+      "title": "TopoLM: brain-like spatio-functional organization in a topographic language model",
+      "tier": "A+"
+    },
+    {
+      "id": "2404.07129",
+      "title": "What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation",
+      "tier": "A+"
+    },
+    {
+      "id": "2511.11553",
+      "title": "Multistability of Self-Attention Dynamics in Transformers",
+      "tier": "A+"
+    },
+    {
+      "id": "2505.24009",
+      "title": "Diversity of Transformer Layers: One Aspect of Parameter Scaling Laws",
+      "tier": "A+"
+    },
+    {
+      "id": "2503.08908",
+      "title": "Interpreting the Repeated Token Phenomenon in Large Language Models",
+      "tier": "A+"
+    },
+    {
+      "id": "2509.08184",
+      "title": "Selective Induction Heads: How Transformers Select Causal Structures In Context",
+      "tier": "A+"
+    },
+    {
+      "id": "2505.06032",
+      "title": "Short-circuiting Shortcuts: Mechanistic Investigation of Shortcuts in Text Classification",
+      "tier": "A+"
+    },
+    {
+      "id": "2412.20292",
+      "title": "An analytic theory of creativity in convolutional diffusion models",
+      "tier": "A+"
+    },
+    {
+      "id": "2603.14294",
+      "title": "Seeking Physics in Diffusion Noise",
+      "tier": "A+"
+    },
+    {
+      "id": "2601.20052",
+      "title": "Explainable deep learning reveals the physical mechanisms behind the turbulent kinetic energy equation",
+      "tier": "A+"
+    },
+    {
+      "id": "2405.10927",
+      "title": "Using Degeneracy in the Loss Landscape for Mechanistic Interpretability",
+      "tier": "A"
+    },
+    {
+      "id": "2608.14734",
+      "title": "Unraveling the Size Determination Mechanism of Nanocrystal Synthesis via Interpretable Neural Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2411.05746",
+      "title": "Continuous-Time Analysis of Adaptive Optimization and Normalization",
+      "tier": "A"
+    },
+    {
+      "id": "2505.11411",
+      "title": "Is Grokking a Computational Glass Relaxation?",
+      "tier": "A"
+    },
+    {
+      "id": "2404.14265",
+      "title": "Deep Learning as Ricci Flow",
+      "tier": "A"
+    },
+    {
+      "id": "2508.18988",
+      "title": "Interpretable by AI Mother Tongue: Native Symbolic Reasoning in Neural Models",
+      "tier": "A"
+    },
+    {
+      "id": "2105.00507",
+      "title": "Universal scaling laws in the gradient descent training of neural networks",
+      "tier": "A"
+    },
+    {
+      "id": "2506.01919",
+      "title": "Transformers as Multi-task Learners: Decoupling Features in Hidden Markov Models",
+      "tier": "A"
+    },
+    {
+      "id": "2504.08842",
+      "title": "Towards Combinatorial Interpretability of Neural Computation",
+      "tier": "A"
+    },
+    {
+      "id": "2502.17941",
+      "title": "Optimal Brain Apoptosis",
+      "tier": "A"
+    },
+    {
+      "id": "2505.08915",
+      "title": "An Analytical Characterization of Sloppiness in Neural Networks: Insights from Linear Models",
+      "tier": "A"
+    },
+    {
+      "id": "2411.12626",
+      "title": "Exploring the Manifold of Neural Networks Using Diffusion Geometry",
+      "tier": "A"
+    },
+    {
+      "id": "2410.10986",
+      "title": "What Does It Mean to Be a Transformer? Insights from a Theoretical Hessian Analysis",
+      "tier": "A"
+    },
+    {
+      "id": "2203.10736",
+      "title": "The activity-weight duality in feed forward neural networks: The geometric determinants of generalization",
+      "tier": "A"
+    },
+    {
+      "id": "2511.01137",
+      "title": "Regularization Implies balancedness in the deep linear network",
+      "tier": "A"
+    },
+    {
+      "id": "2602.18649",
+      "title": "Global Low-Rank, Local Full-Rank: The Holographic Encoding of Learned Algorithms",
+      "tier": "A"
+    },
+    {
+      "id": "2601.05770",
+      "title": "Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer",
+      "tier": "A"
+    },
+    {
+      "id": "2604.11791",
+      "title": "A Mechanistic Analysis of Looped Reasoning Language Models",
+      "tier": "A"
+    },
+    {
+      "id": "2510.24256",
+      "title": "From Memorization to Reasoning in the Spectrum of Loss Curvature",
+      "tier": "A"
+    },
+    {
+      "id": "2503.05631",
+      "title": "Strategy Coopetition Explains the Emergence and Transience of In-Context Learning",
+      "tier": "A"
+    },
+    {
+      "id": "2602.13418",
+      "title": "Text Has Curvature",
+      "tier": "A"
+    },
+    {
+      "id": "2311.04163",
+      "title": "Outliers with Opposing Signals Have an Outsized Effect on Neural Network Optimization",
+      "tier": "A"
+    },
+    {
+      "id": "2509.25686",
+      "title": "EXP-CAM: Explanation Generation and Circuit Discovery Using Classifier Activation Matching",
+      "tier": "A"
+    },
+    {
+      "id": "2310.17087",
+      "title": "Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult",
+      "tier": "A"
+    },
+    {
+      "id": "2602.04832",
+      "title": "It's Not a Lottery, It's a Race: Understanding How Gradient Descent Adapts the Network's Capacity to the Task",
+      "tier": "A"
+    },
+    {
+      "id": "2510.18315",
+      "title": "Higher Embedding Dimension Creates a Stronger World Model for a Simple Sorting Task",
+      "tier": "A"
+    },
+    {
+      "id": "2302.08241",
+      "title": "Weyl points in ball-and-spring mechanical systems",
+      "tier": "A"
+    },
+    {
+      "id": "2409.12846",
+      "title": "How the (Tensor-) Brain uses Embeddings and Embodiment to Encode Senses and Symbols",
+      "tier": "A"
+    },
+    {
+      "id": "2510.24466",
+      "title": "Non-Singularity of the Gradient Descent map for Neural Networks with Piecewise Analytic Activations",
+      "tier": "A"
+    },
+    {
+      "id": "2601.19895",
+      "title": "Post-LayerNorm Is Back: Stable, ExpressivE, and Deep",
+      "tier": "A"
+    },
+    {
+      "id": "2608.13567",
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "tier": "A"
+    },
+    {
+      "id": "2602.05065",
+      "title": "Does SGD Seek Flatness or Sharpness? An Exactly Solvable Model",
+      "tier": "A"
+    },
+    {
+      "id": "2506.05200",
+      "title": "Transformers Meet In-Context Learning: A Universal Approximation Theory",
+      "tier": "A"
+    },
+    {
+      "id": "2509.21534",
+      "title": "A circuit for predicting hierarchical structure in-context in Large Language Models",
+      "tier": "A"
+    },
+    {
+      "id": "2212.04580",
+      "title": "Effective Dynamics of Generative Adversarial Networks",
+      "tier": "A"
+    },
+    {
+      "id": "2505.08795",
+      "title": "The Geometry of Meaning: Perfect Spacetime Representations of Hierarchical Structures",
+      "tier": "A"
+    },
+    {
+      "id": "2305.03452",
+      "title": "A technical note on bilinear layers for interpretability",
+      "tier": "A"
+    },
+    {
+      "id": "2511.13653",
+      "title": "Weight-sparse transformers have interpretable circuits",
+      "tier": "A"
+    },
+    {
+      "id": "2507.02608",
+      "title": "Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation",
+      "tier": "A"
+    },
+    {
+      "id": "2209.11661",
+      "title": "Exact conservation laws for neural network integrators of dynamical systems",
+      "tier": "A"
+    },
+    {
+      "id": "2406.17583",
+      "title": "Towards Compositional Interpretability for XAI",
+      "tier": "A"
+    },
+    {
+      "id": "1906.02613",
+      "title": "Bad Global Minima Exist and SGD Can Reach Them",
+      "tier": "A"
+    },
+    {
+      "id": "2409.04777",
+      "title": "Optimization Hyper-parameter Laws for Large Language Models",
+      "tier": "A"
+    },
+    {
+      "id": "2506.19686",
+      "title": "From Memories to Maps: Mechanisms of In-Context Reinforcement Learning in Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2408.17324",
+      "title": "Modularity in Transformers: Investigating Neuron Separability & Specialization",
+      "tier": "A"
+    },
+    {
+      "id": "2602.09297",
+      "title": "Laplacian Heads Improve Transformers by Smoothing Token Representations",
+      "tier": "A"
+    },
+    {
+      "id": "2411.00660",
+      "title": "Physics in Next-token Prediction",
+      "tier": "A"
+    },
+    {
+      "id": "2602.06453",
+      "title": "On the Plasticity and Stability for Post-Training Large Language Models",
+      "tier": "A"
+    },
+    {
+      "id": "2510.10938",
+      "title": "Redundancy as a Structural Information Principle for Learning and Generalization",
+      "tier": "A"
+    },
+    {
+      "id": "2608.02064",
+      "title": "Geometry-Guided Layerwise FFN Width Allocation in Transformers",
+      "tier": "A"
+    },
+    {
+      "id": "2405.20605",
+      "title": "Searching for internal symbols underlying deep learning",
+      "tier": "A"
+    },
+    {
+      "id": "2502.00754",
+      "title": "Continuity-Preserving Convolutional Autoencoders for Learning Continuous Latent Dynamical Models from Images",
+      "tier": "A"
+    },
+    {
+      "id": "2211.05641",
+      "title": "Regression as Classification: Influence of Task Formulation on Neural Network Features",
+      "tier": "A"
+    },
+    {
+      "id": "2603.03993",
+      "title": "Specialization of softmax attention heads: insights from the high-dimensional single-location model",
+      "tier": "A"
+    }
+  ],
+  "updated": [
+    {
+      "id": "736b3f9c1f275b31",
+      "title": "Clustering in Causal Attention Masking",
+      "tier": "A+"
+    },
+    {
+      "id": "1e3606b840cafffc",
+      "title": "Small-Scale Experiments: Are We There Yet?",
+      "tier": "A+"
+    },
+    {
+      "id": "d65f26b6af5cd650",
+      "title": "Understanding Scaling Laws in Deep Neural Networks via Feature Learning Dynamics",
+      "tier": "A"
+    },
+    {
+      "id": "e9c527ecf58323a6",
+      "title": "Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling",
+      "tier": "A"
+    },
+    {
+      "id": "785b72b087f4ceeb",
+      "title": "Li₂: A Framework on Dynamics of Feature Emergence and Delayed Generalization",
+      "tier": "A+"
+    },
+    {
+      "id": "536355c813fdbff2",
+      "title": "Clustered Attractor Manifolds and Dynamical Condensation in Self-Attention",
+      "tier": "A"
+    },
+    {
+      "id": "c1cbc0e0f313a2d2",
+      "title": "Correlation flow governs learning at criticality",
+      "tier": "A"
+    },
+    {
+      "id": "4d38daadaeb5b4d6",
+      "title": "Language Modeling Is Compression",
+      "tier": "A"
+    }
+  ],
+  "unchanged": []
+}
