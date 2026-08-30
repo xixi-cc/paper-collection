@@ -9,6 +9,7 @@ type Paper = {
   source_detail?: string;
   publication_status?: 'published' | 'preprint' | 'submission';
   title: string;
+  abstract?: string;
   url?: string;
   links?: {
     publication?: string;
@@ -299,6 +300,12 @@ function App() {
                     {paper.links?.card && <a href={paper.links.card} target="_blank" rel="noreferrer">Paper Card</a>}
                   </span>
                 </div>
+                {paper.abstract && (
+                  <details className="paper-abstract">
+                    <summary>Abstract</summary>
+                    <p>{paper.abstract}</p>
+                  </details>
+                )}
               </article>
             ))}
           </div>
