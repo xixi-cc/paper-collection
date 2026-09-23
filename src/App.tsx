@@ -16,6 +16,7 @@ type Paper = {
     arxiv?: string;
     submission?: string;
     card?: string;
+    slides?: string;
   };
   tags: [source: string, topic: string];
   curation_sources?: {
@@ -323,6 +324,7 @@ function App() {
                     {paper.links?.arxiv && <a href={paper.links.arxiv} target="_blank" rel="noreferrer">arXiv</a>}
                     {paper.links?.submission && <a href={paper.links.submission} target="_blank" rel="noreferrer">OpenReview</a>}
                     {paper.links?.card && <a href={paper.links.card} target="_blank" rel="noreferrer">Paper Card</a>}
+                    {paper.links?.slides && <a href={paper.links.slides} target="_blank" rel="noreferrer">Slides PDF</a>}
                   </span>
                 </div>
                 {paper.abstract && (
