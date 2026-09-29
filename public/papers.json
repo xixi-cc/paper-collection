@@ -10098,22 +10098,27 @@
     "title": "The Training Process of Many Deep Networks Explores the Same Low-Dimensional Manifold",
     "url": "https://arxiv.org/abs/2305.01604",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2305.01604"
+      "arxiv": "https://arxiv.org/abs/2305.01604",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2305.01604/",
+      "publication": "https://doi.org/10.1073/pnas.2310002121"
     },
     "tags": [
       "arXiv",
       "Representation Learning"
     ],
     "source_detail": "arXiv",
-    "publication_status": "preprint",
+    "publication_status": "published",
     "curation_sources": [
       {
         "name": "Ziming Liu Paper Collection",
         "url": "https://metacircleai.github.io/ziming-paper-collection/collection.html"
       }
     ],
-    "published": "2023",
-    "abstract": "We develop information-geometric techniques to analyze the trajectories of the predictions of deep networks during training. By examining the underlying high-dimensional probabilistic models, we reveal that the training process explores an effectively low-dimensional manifold. Networks with a wide range of architectures, sizes, trained using different optimization methods, regularization techniques, data augmentation techniques, and weight initializations lie on the same manifold in the prediction space. We study the details of this manifold to find that networks with different architectures follow distinguishable trajectories but other factors have a minimal influence; larger networks train along a similar manifold as that of smaller networks, just faster; and networks initialized at very different parts of the prediction space converge to the solution along a similar manifold."
+    "published": "2024",
+    "abstract": "We develop information-geometric techniques to analyze the trajectories of the predictions of deep networks during training. By examining the underlying high-dimensional probabilistic models, we reveal that the training process explores an effectively low-dimensional manifold. Networks with a wide range of architectures, sizes, trained using different optimization methods, regularization techniques, data augmentation techniques, and weight initializations lie on the same manifold in the prediction space. We study the details of this manifold to find that networks with different architectures follow distinguishable trajectories but other factors have a minimal influence; larger networks train along a similar manifold as that of smaller networks, just faster; and networks initialized at very different parts of the prediction space converge to the solution along a similar manifold.",
+    "publication_type": "Journal",
+    "venue": "PNAS 121(12)",
+    "arxiv_first_submitted": "2023-05-02"
   },
   {
     "id": "2209.09056",
