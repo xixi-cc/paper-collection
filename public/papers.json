@@ -14140,14 +14140,16 @@
     "title": "Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics",
     "url": "https://arxiv.org/abs/2405.04669",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2405.04669"
+      "arxiv": "https://arxiv.org/abs/2405.04669",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2405.04669/",
+      "publication": "https://doi.org/10.52202/079017-2872"
     },
     "tags": [
       "arXiv",
       "Training Dynamics"
     ],
     "source_detail": "arXiv",
-    "publication_status": "preprint",
+    "publication_status": "published",
     "curation_sources": [
       {
         "name": "Ziming Liu Paper Collection",
@@ -14155,7 +14157,10 @@
       }
     ],
     "published": "2024",
-    "abstract": "Auto-regressive large language models (LLMs) show impressive capacities to solve many complex reasoning tasks while struggling with some simple logical reasoning tasks such as inverse search: when trained on '$A \\to B$' (e.g., 'Tom is the parent of John'), LLM fails to directly conclude '$B \\gets A$' (e.g., 'John is the child of Tom') during inference even if the two sentences are semantically identical, which is known as the 'reversal curse'. In this paper, we theoretically analyze the reversal curse via the training dynamics of (stochastic) gradient descent for two auto-regressive models: (1) a bilinear model that can be viewed as a simplification of a one-layer transformer; (2) one-layer transformers under certain assumptions. Our analysis reveals that for both models, the reversal curse is a consequence of the (effective) model weights 'asymmetry', i.e., the increase of weights from a token $A$ to token $B$ during training does not necessarily cause the increase of the weights from $B$ to $A$, which is caused by the training dynamics under certain choice of loss function and the optimization space of model parameters. Moreover, our analysis can be naturally applied to other logical reasoning tasks such as chain-of-thought (COT), which provides a new perspective different from previous work that focuses on expressivity. Finally, we conduct experiments to validate our theory on multi-layer transformers under different settings. Our code is available at https://github.com/marlo-z/reversal_curse_analysis/."
+    "abstract": "Auto-regressive large language models (LLMs) show impressive capacities to solve many complex reasoning tasks while struggling with some simple logical reasoning tasks such as inverse search: when trained on '$A \\to B$' (e.g., 'Tom is the parent of John'), LLM fails to directly conclude '$B \\gets A$' (e.g., 'John is the child of Tom') during inference even if the two sentences are semantically identical, which is known as the 'reversal curse'. In this paper, we theoretically analyze the reversal curse via the training dynamics of (stochastic) gradient descent for two auto-regressive models: (1) a bilinear model that can be viewed as a simplification of a one-layer transformer; (2) one-layer transformers under certain assumptions. Our analysis reveals that for both models, the reversal curse is a consequence of the (effective) model weights 'asymmetry', i.e., the increase of weights from a token $A$ to token $B$ during training does not necessarily cause the increase of the weights from $B$ to $A$, which is caused by the training dynamics under certain choice of loss function and the optimization space of model parameters. Moreover, our analysis can be naturally applied to other logical reasoning tasks such as chain-of-thought (COT), which provides a new perspective different from previous work that focuses on expressivity. Finally, we conduct experiments to validate our theory on multi-layer transformers under different settings. Our code is available at https://github.com/marlo-z/reversal_curse_analysis/.",
+    "publication_type": "Conference",
+    "venue": "NeurIPS 2024",
+    "arxiv_first_submitted": "2024-05-07"
   },
   {
     "id": "2307.11807",
@@ -18985,7 +18990,8 @@
     "title": "Optimization Hyper-parameter Laws for Large Language Models",
     "url": "https://arxiv.org/abs/2409.04777",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2409.04777"
+      "arxiv": "https://arxiv.org/abs/2409.04777",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2409.04777/"
     },
     "tags": [
       "arXiv",
@@ -19000,7 +19006,8 @@
       }
     ],
     "published": "2024",
-    "abstract": "Large Language Models have driven significant AI advancements, yet their training is resource-intensive and highly sensitive to hyper-parameter selection. While scaling laws provide valuable guidance on model size and data requirements, they fall short in choosing dynamic hyper-parameters, such as learning-rate (LR) schedules, that evolve during training. To bridge this gap, we present Optimization Hyper-parameter Laws (Opt-Laws), a framework that predicts final training loss as a function of LR schedule, model size, and data size. Grounded in SDE-based convergence and escape analyses, Opt-Laws yield interpretable convergence and escape features that predict final training loss across model scales, enabling schedule pre-selection from small-scale experiments. Empirically, Opt-Laws achieve a 94% Top-2 hit rate for identifying near-optimal schedule candidates on held-out configurations, correctly identify the best-performing schedule family in all five evaluated out-of-family settings, and detect training divergence with F1 = 0.92."
+    "abstract": "Large Language Models have driven significant AI advancements, yet their training is resource-intensive and highly sensitive to hyper-parameter selection. While scaling laws provide valuable guidance on model size and data requirements, they fall short in choosing dynamic hyper-parameters, such as learning-rate (LR) schedules, that evolve during training. To bridge this gap, we present Optimization Hyper-parameter Laws (Opt-Laws), a framework that predicts final training loss as a function of LR schedule, model size, and data size. Grounded in SDE-based convergence and escape analyses, Opt-Laws yield interpretable convergence and escape features that predict final training loss across model scales, enabling schedule pre-selection from small-scale experiments. Empirically, Opt-Laws achieve a 94% Top-2 hit rate for identifying near-optimal schedule candidates on held-out configurations, correctly identify the best-performing schedule family in all five evaluated out-of-family settings, and detect training divergence with F1 = 0.92.",
+    "arxiv_first_submitted": "2024-09-07"
   },
   {
     "id": "2506.19686",
