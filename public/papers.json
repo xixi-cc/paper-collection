@@ -11908,14 +11908,16 @@
     "title": "Multi-head Transformers Provably Learn Symbolic Multi-step Reasoning via Gradient Descent",
     "url": "https://arxiv.org/abs/2508.08222",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2508.08222"
+      "arxiv": "https://arxiv.org/abs/2508.08222",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2508.08222/",
+      "publication": "https://doi.org/10.52202/085713-3875"
     },
     "tags": [
       "arXiv",
       "Transformer Theory"
     ],
     "source_detail": "arXiv",
-    "publication_status": "preprint",
+    "publication_status": "published",
     "curation_sources": [
       {
         "name": "Ziming Liu Paper Collection",
@@ -11923,7 +11925,10 @@
       }
     ],
     "published": "2025",
-    "abstract": "Transformers have demonstrated remarkable capabilities in multi-step reasoning tasks. However, understandings of the underlying mechanisms by which they acquire these abilities through training remain limited, particularly from a theoretical standpoint. This work investigates how transformers learn to solve symbolic multi-step reasoning problems through chain-of-thought processes, focusing on path-finding in trees. We analyze two intertwined tasks: a backward reasoning task, where the model outputs a path from a goal node to the root, and a more complex forward reasoning task, where the model implements two-stage reasoning by first identifying the goal-to-root path and then reversing it to produce the root-to-goal path. Our theoretical analysis, grounded in the dynamics of gradient descent, shows that trained one-layer transformers can provably solve both tasks with generalization guarantees to unseen trees. In particular, our multi-phase training dynamics for forward reasoning elucidate how different attention heads learn to specialize and coordinate autonomously to solve the two subtasks in a single autoregressive path. These results provide a mechanistic explanation of how trained transformers can implement sequential algorithmic procedures. Moreover, they offer insights into the emergence of reasoning abilities, suggesting that when tasks are structured to take intermediate chain-of-thought steps, even shallow multi-head transformers can effectively solve problems that would otherwise require deeper architectures."
+    "abstract": "Transformers have demonstrated remarkable capabilities in multi-step reasoning tasks. However, understandings of the underlying mechanisms by which they acquire these abilities through training remain limited, particularly from a theoretical standpoint. This work investigates how transformers learn to solve symbolic multi-step reasoning problems through chain-of-thought processes, focusing on path-finding in trees. We analyze two intertwined tasks: a backward reasoning task, where the model outputs a path from a goal node to the root, and a more complex forward reasoning task, where the model implements two-stage reasoning by first identifying the goal-to-root path and then reversing it to produce the root-to-goal path. Our theoretical analysis, grounded in the dynamics of gradient descent, shows that trained one-layer transformers can provably solve both tasks with generalization guarantees to unseen trees. In particular, our multi-phase training dynamics for forward reasoning elucidate how different attention heads learn to specialize and coordinate autonomously to solve the two subtasks in a single autoregressive path. These results provide a mechanistic explanation of how trained transformers can implement sequential algorithmic procedures. Moreover, they offer insights into the emergence of reasoning abilities, suggesting that when tasks are structured to take intermediate chain-of-thought steps, even shallow multi-head transformers can effectively solve problems that would otherwise require deeper architectures.",
+    "arxiv_first_submitted": "2025-08-11",
+    "publication_type": "Conference",
+    "venue": "NeurIPS 2025"
   },
   {
     "id": "2602.09783",
@@ -12093,14 +12098,15 @@
     "title": "Fast weight programming and linear transformers: from machine learning to neurobiology",
     "url": "https://arxiv.org/abs/2508.08435",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2508.08435"
+      "arxiv": "https://arxiv.org/abs/2508.08435",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2508.08435/"
     },
     "tags": [
       "arXiv",
       "Learning Theory"
     ],
     "source_detail": "arXiv",
-    "publication_status": "preprint",
+    "publication_status": "published",
     "curation_sources": [
       {
         "name": "Ziming Liu Paper Collection",
@@ -12108,7 +12114,10 @@
       }
     ],
     "published": "2025",
-    "abstract": "Recent advances in artificial neural networks for machine learning, and language modeling in particular, have established a family of recurrent neural network (RNN) architectures that, unlike conventional RNNs with vector-form hidden states, use two-dimensional (2D) matrix-form hidden states. Such 2D-state RNNs, known as Fast Weight Programmers (FWPs), can be interpreted as a neural network whose synaptic weights (called fast weights) dynamically change over time as a function of input observations, and serve as short-term memory storage; corresponding synaptic weight modifications are controlled or programmed by another network (the programmer) whose parameters are trained (e.g., by gradient descent). In this Primer, we review the technical foundations of FWPs, their computational characteristics, and their connections to transformers and state space models. We also discuss connections between FWPs and models of synaptic plasticity in the brain, suggesting a convergence of natural and artificial intelligence."
+    "abstract": "Recent advances in artificial neural networks for machine learning, and language modeling in particular, have established a family of recurrent neural network (RNN) architectures that, unlike conventional RNNs with vector-form hidden states, use two-dimensional (2D) matrix-form hidden states. Such 2D-state RNNs, known as Fast Weight Programmers (FWPs), can be interpreted as a neural network whose synaptic weights (called fast weights) dynamically change over time as a function of input observations, and serve as short-term memory storage; corresponding synaptic weight modifications are controlled or programmed by another network (the programmer) whose parameters are trained (e.g., by gradient descent). In this Primer, we review the technical foundations of FWPs, their computational characteristics, and their connections to transformers and state space models. We also discuss connections between FWPs and models of synaptic plasticity in the brain, suggesting a convergence of natural and artificial intelligence.",
+    "arxiv_first_submitted": "2025-08-11",
+    "publication_type": "Journal",
+    "venue": "Transactions on Machine Learning Research (12/2025)"
   },
   {
     "id": "2407.13594",
@@ -17415,22 +17424,27 @@
     "title": "Bio-Inspired Artificial Neural Networks based on Predictive Coding",
     "url": "https://arxiv.org/abs/2508.08762",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2508.08762"
+      "arxiv": "https://arxiv.org/abs/2508.08762",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2508.08762/",
+      "publication": "https://doi.org/10.1109/MSP.2026.3666766"
     },
     "tags": [
       "arXiv",
       "Neuroscience"
     ],
     "source_detail": "arXiv",
-    "publication_status": "preprint",
+    "publication_status": "published",
     "curation_sources": [
       {
         "name": "Ziming Liu Paper Collection",
         "url": "https://metacircleai.github.io/ziming-paper-collection/collection.html"
       }
     ],
-    "published": "2025",
-    "abstract": "Backpropagation (BP) of errors is the backbone training algorithm for artificial neural networks (ANNs). It updates network weights through gradient descent to minimize a loss function representing the mismatch between predictions and desired outputs. BP uses the chain rule to propagate the loss gradient backward through the network hierarchy, allowing efficient weight updates. However, this process requires weight updates at every layer to rely on a global error signal generated at the network's output. In contrast, the Hebbian model of synaptic plasticity states that weight updates are local, depending only on the activity of pre- and post-synaptic neurons. This suggests biological brains likely do not implement BP directly. Recently, Predictive Coding (PC) has gained interest as a biologically plausible alternative that updates weights using only local information. Originating from 1950s work on signal compression, PC was later proposed as a model of the visual cortex and formalized under the free energy principle, linking it to Bayesian inference and dynamical systems. PC weight updates rely solely on local information and provide theoretical advantages such as automatic scaling of gradients based on uncertainty. This lecture notes column offers a novel, tutorial-style introduction to PC, focusing on its formulation, derivation, and connections to well-known optimization and signal processing algorithms such as BP and the Kalman Filter (KF). It aims to support existing literature by guiding readers from the mathematical foundations of PC to practical implementation, including Python examples using PyTorch."
+    "published": "2026",
+    "abstract": "Backpropagation (BP) of errors is the backbone training algorithm for artificial neural networks (ANNs). It updates network weights through gradient descent to minimize a loss function representing the mismatch between predictions and desired outputs. BP uses the chain rule to propagate the loss gradient backward through the network hierarchy, allowing efficient weight updates. However, this process requires weight updates at every layer to rely on a global error signal generated at the network's output. In contrast, the Hebbian model of synaptic plasticity states that weight updates are local, depending only on the activity of pre- and post-synaptic neurons. This suggests biological brains likely do not implement BP directly. Recently, Predictive Coding (PC) has gained interest as a biologically plausible alternative that updates weights using only local information. Originating from 1950s work on signal compression, PC was later proposed as a model of the visual cortex and formalized under the free energy principle, linking it to Bayesian inference and dynamical systems. PC weight updates rely solely on local information and provide theoretical advantages such as automatic scaling of gradients based on uncertainty. This lecture notes column offers a novel, tutorial-style introduction to PC, focusing on its formulation, derivation, and connections to well-known optimization and signal processing algorithms such as BP and the Kalman Filter (KF). It aims to support existing literature by guiding readers from the mathematical foundations of PC to practical implementation, including Python examples using PyTorch.",
+    "arxiv_first_submitted": "2025-08-12",
+    "publication_type": "Journal",
+    "venue": "IEEE Signal Processing Magazine 43(4), 86–99"
   },
   {
     "id": "2511.05628",
