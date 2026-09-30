@@ -16093,7 +16093,8 @@
     "title": "Understanding sparse autoencoder scaling in the presence of feature manifolds",
     "url": "https://arxiv.org/abs/2509.02565",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2509.02565"
+      "arxiv": "https://arxiv.org/abs/2509.02565",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2509.02565/"
     },
     "tags": [
       "arXiv",
@@ -17910,14 +17911,16 @@
     "title": "Selective Induction Heads: How Transformers Select Causal Structures In Context",
     "url": "https://arxiv.org/abs/2509.08184",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2509.08184"
+      "arxiv": "https://arxiv.org/abs/2509.08184",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2509.08184/",
+      "publication": "https://proceedings.iclr.cc/paper_files/paper/2025/file/d7ed243b13831bdd468f35039936bcef-Paper-Conference.pdf"
     },
     "tags": [
       "arXiv",
       "Transformer Theory"
     ],
     "source_detail": "arXiv",
-    "publication_status": "preprint",
+    "publication_status": "published",
     "curation_sources": [
       {
         "name": "Ziming Liu Paper Collection",
@@ -17925,7 +17928,9 @@
       }
     ],
     "published": "2025",
-    "abstract": "Transformers have exhibited exceptional capabilities in sequence modeling tasks, leveraging self-attention and in-context learning. Critical to this success are induction heads, attention circuits that enable copying tokens based on their previous occurrences. In this work, we introduce a novel framework that showcases transformers' ability to dynamically handle causal structures. Existing works rely on Markov Chains to study the formation of induction heads, revealing how transformers capture causal dependencies and learn transition probabilities in-context. However, they rely on a fixed causal structure that fails to capture the complexity of natural languages, where the relationship between tokens dynamically changes with context. To this end, our framework varies the causal structure through interleaved Markov chains with different lags while keeping the transition probabilities fixed. This setting unveils the formation of Selective Induction Heads, a new circuit that endows transformers with the ability to select the correct causal structure in-context. We empirically demonstrate that transformers learn this mechanism to predict the next token by identifying the correct lag and copying the corresponding token from the past. We provide a detailed construction of a 3-layer transformer to implement the selective induction head, and a theoretical analysis proving that this mechanism asymptotically converges to the maximum likelihood solution. Our findings advance the understanding of how transformers select causal structures, providing new insights into their functioning and interpretability."
+    "abstract": "Transformers have exhibited exceptional capabilities in sequence modeling tasks, leveraging self-attention and in-context learning. Critical to this success are induction heads, attention circuits that enable copying tokens based on their previous occurrences. In this work, we introduce a novel framework that showcases transformers' ability to dynamically handle causal structures. Existing works rely on Markov Chains to study the formation of induction heads, revealing how transformers capture causal dependencies and learn transition probabilities in-context. However, they rely on a fixed causal structure that fails to capture the complexity of natural languages, where the relationship between tokens dynamically changes with context. To this end, our framework varies the causal structure through interleaved Markov chains with different lags while keeping the transition probabilities fixed. This setting unveils the formation of Selective Induction Heads, a new circuit that endows transformers with the ability to select the correct causal structure in-context. We empirically demonstrate that transformers learn this mechanism to predict the next token by identifying the correct lag and copying the corresponding token from the past. We provide a detailed construction of a 3-layer transformer to implement the selective induction head, and a theoretical analysis proving that this mechanism asymptotically converges to the maximum likelihood solution. Our findings advance the understanding of how transformers select causal structures, providing new insights into their functioning and interpretability.",
+    "venue": "ICLR 2025",
+    "publication_type": "Conference"
   },
   {
     "id": "2505.06032",
