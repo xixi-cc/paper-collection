@@ -10363,22 +10363,27 @@
     "title": "The Information Dynamics of Generative Diffusion",
     "url": "https://arxiv.org/abs/2508.19897",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2508.19897"
+      "arxiv": "https://arxiv.org/abs/2508.19897",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2508.19897/",
+      "publication": "https://doi.org/10.3390/e28020195"
     },
     "tags": [
       "arXiv",
       "Generative Models"
     ],
     "source_detail": "arXiv",
-    "publication_status": "preprint",
+    "publication_status": "published",
     "curation_sources": [
       {
         "name": "Ziming Liu Paper Collection",
         "url": "https://metacircleai.github.io/ziming-paper-collection/collection.html"
       }
     ],
-    "published": "2025",
-    "abstract": "Generative diffusion models have emerged as a powerful class of models in machine learning, yet a unified theoretical understanding of their operation is still developing. This paper provides an integrated perspective on generative diffusion by connecting the information-theoretic, dynamical, and thermodynamic aspects. We demonstrate that the rate of conditional entropy production during generation (i.e., the generative bandwidth) is directly governed by the expected divergence of the score function's vector field. This divergence, in turn, is linked to the branching of trajectories and generative bifurcations, which we characterize as symmetry-breaking phase transitions in the energy landscape. Beyond ensemble averages, we demonstrate that symmetry-breaking decisions are revealed by peaks in the variance of pathwise conditional entropy, capturing heterogeneity in how individual trajectories resolve uncertainty. Together, these results establish generative diffusion as a process of controlled, noise-induced symmetry breaking, in which the score function acts as a dynamic nonlinear filter that regulates both the rate and variability of information flow from noise to data."
+    "published": "2026",
+    "abstract": "Generative diffusion models have emerged as a powerful class of models in machine learning, yet a unified theoretical understanding of their operation is still developing. This paper provides an integrated perspective on generative diffusion by connecting the information-theoretic, dynamical, and thermodynamic aspects. We demonstrate that the rate of conditional entropy production during generation (i.e., the generative bandwidth) is directly governed by the expected divergence of the score function's vector field. This divergence, in turn, is linked to the branching of trajectories and generative bifurcations, which we characterize as symmetry-breaking phase transitions in the energy landscape. Beyond ensemble averages, we demonstrate that symmetry-breaking decisions are revealed by peaks in the variance of pathwise conditional entropy, capturing heterogeneity in how individual trajectories resolve uncertainty. Together, these results establish generative diffusion as a process of controlled, noise-induced symmetry breaking, in which the score function acts as a dynamic nonlinear filter that regulates both the rate and variability of information flow from noise to data.",
+    "arxiv_first_submitted": "2025-08-27",
+    "publication_type": "Journal",
+    "venue": "Entropy 28(2):195 (2026)"
   },
   {
     "id": "2606.03645",
