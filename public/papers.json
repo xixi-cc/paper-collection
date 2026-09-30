@@ -12620,17 +12620,19 @@
   {
     "id": "2508.12837",
     "date": "2026-08-30",
-    "title": "Learning In-context n-grams with Transformers: Sub-n-grams Are Near-stationary Points",
+    "title": "Learning In-context n-grams with Transformers: Sub-n-grams Are Near-Stationary Points",
     "url": "https://arxiv.org/abs/2508.12837",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2508.12837"
+      "arxiv": "https://arxiv.org/abs/2508.12837",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2508.12837/",
+      "publication": "https://proceedings.mlr.press/v267/varre25a.html"
     },
     "tags": [
       "arXiv",
       "Training Dynamics"
     ],
     "source_detail": "arXiv",
-    "publication_status": "preprint",
+    "publication_status": "published",
     "curation_sources": [
       {
         "name": "Ziming Liu Paper Collection",
@@ -12638,7 +12640,8 @@
       }
     ],
     "published": "2025",
-    "abstract": "Motivated by empirical observations of prolonged plateaus and stage-wise progression during training, we investigate the loss landscape of transformer models trained on in-context next-token prediction tasks. In particular, we focus on learning in-context $n$-gram language models under cross-entropy loss, and establish a sufficient condition for parameter configurations to be stationary points. We then construct a set of parameter configurations for a simplified transformer model that represent $k$-gram estimators (for $k \\leq n$), and show that the gradient of the population loss at these solutions vanishes in the limit of infinite sequence length and parameter norm. This reveals a key property of the loss landscape: {sub-$n$-grams are near-stationary points of the population cross-entropy loss}, offering theoretical insight into widely observed phenomena such as stage-wise learning dynamics and emergent phase transitions. These insights are further supported by numerical experiments that illustrate the learning dynamics of $n$-grams, characterized by discrete transitions between near-stationary solutions."
+    "abstract": "Motivated by empirical observations of prolonged plateaus and stage-wise progression during training, we investigate the loss landscape of transformer models trained on in-context next-token prediction tasks. In particular, we focus on learning in-context $n$-gram language models under cross-entropy loss, and establish a sufficient condition for parameter configurations to be stationary points. We then construct a set of parameter configurations for a simplified transformer model that represent $k$-gram estimators (for $k \\leq n$), and show that the gradient of the population loss at these solutions vanishes in the limit of infinite sequence length and parameter norm. This reveals a key property of the loss landscape: {sub-$n$-grams are near-stationary points of the population cross-entropy loss}, offering theoretical insight into widely observed phenomena such as stage-wise learning dynamics and emergent phase transitions. These insights are further supported by numerical experiments that illustrate the learning dynamics of $n$-grams, characterized by discrete transitions between near-stationary solutions.",
+    "venue": "ICML 2025, PMLR 267:60924–60963"
   },
   {
     "id": "2506.14951",
@@ -16320,7 +16323,8 @@
     "title": "Detecting and Characterizing Planning in Language Models",
     "url": "https://arxiv.org/abs/2508.18098",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2508.18098"
+      "arxiv": "https://arxiv.org/abs/2508.18098",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2508.18098/"
     },
     "tags": [
       "arXiv",
