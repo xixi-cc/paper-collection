@@ -8872,7 +8872,8 @@
     "title": "Symmetry in language statistics shapes the geometry of model representations",
     "url": "https://arxiv.org/abs/2602.15029",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2602.15029"
+      "arxiv": "https://arxiv.org/abs/2602.15029",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2602.15029/"
     },
     "tags": [
       "arXiv",
@@ -9792,7 +9793,8 @@
     "title": "Distinct mechanisms underlying in-context learning in transformers",
     "url": "https://arxiv.org/abs/2604.12151",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2604.12151"
+      "arxiv": "https://arxiv.org/abs/2604.12151",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2604.12151/"
     },
     "tags": [
       "arXiv",
@@ -10153,7 +10155,8 @@
     "title": "From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence",
     "url": "https://arxiv.org/abs/2601.03220",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2601.03220"
+      "arxiv": "https://arxiv.org/abs/2601.03220",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2601.03220/"
     },
     "tags": [
       "arXiv",
@@ -10293,7 +10296,8 @@
     "title": "Saddle-to-Saddle Dynamics Explains A Simplicity Bias Across Neural Network Architectures",
     "url": "https://arxiv.org/abs/2512.20607",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2512.20607"
+      "arxiv": "https://arxiv.org/abs/2512.20607",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2512.20607/"
     },
     "tags": [
       "arXiv",
@@ -11282,7 +11286,8 @@
     "title": "Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks",
     "url": "https://arxiv.org/abs/2603.11487",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2603.11487"
+      "arxiv": "https://arxiv.org/abs/2603.11487",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2603.11487/"
     },
     "tags": [
       "arXiv",
@@ -11539,7 +11544,8 @@
     "title": "When Models Manipulate Manifolds: The Geometry of a Counting Task",
     "url": "https://arxiv.org/abs/2601.04480",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2601.04480"
+      "arxiv": "https://arxiv.org/abs/2601.04480",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2601.04480/"
     },
     "tags": [
       "arXiv",
@@ -11868,7 +11874,8 @@
     "title": "Deep sequence models tend to memorize geometrically; it is unclear why",
     "url": "https://arxiv.org/abs/2510.26745",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2510.26745"
+      "arxiv": "https://arxiv.org/abs/2510.26745",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2510.26745/"
     },
     "tags": [
       "arXiv",
@@ -12416,7 +12423,8 @@
     "title": "Topology and Geometry of the Learning Space of ReLU Networks: Connectivity and Singularities",
     "url": "https://arxiv.org/abs/2602.00693",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2602.00693"
+      "arxiv": "https://arxiv.org/abs/2602.00693",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2602.00693/"
     },
     "tags": [
       "arXiv",
@@ -13245,7 +13253,8 @@
     "title": "Transformers learn factored representations",
     "url": "https://arxiv.org/abs/2602.02385",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2602.02385"
+      "arxiv": "https://arxiv.org/abs/2602.02385",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2602.02385/"
     },
     "tags": [
       "arXiv",
@@ -17109,7 +17118,8 @@
     "title": "Gradient Flow Polarizes Softmax Outputs towards Low-Entropy Solutions",
     "url": "https://arxiv.org/abs/2603.06248",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2603.06248"
+      "arxiv": "https://arxiv.org/abs/2603.06248",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2603.06248/"
     },
     "tags": [
       "arXiv",
@@ -18765,7 +18775,8 @@
     "title": "Does SGD Seek Flatness or Sharpness? An Exactly Solvable Model",
     "url": "https://arxiv.org/abs/2602.05065",
     "links": {
-      "arxiv": "https://arxiv.org/abs/2602.05065"
+      "arxiv": "https://arxiv.org/abs/2602.05065",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2602.05065/"
     },
     "tags": [
       "arXiv",
@@ -19303,5 +19314,73 @@
     ],
     "published": "2026",
     "abstract": "Multi-head attention enables transformer models to represent multiple attention patterns simultaneously. Empirically, head specialization emerges in distinct stages during training, while many heads remain redundant and learn similar representations. We propose a theoretical model capturing this phenomenon, based on the multi-index and single-location regression frameworks. In the first part, we analyze the training dynamics of multi-head softmax attention under SGD, revealing an initial unspecialized phase followed by a multi-stage specialization phase in which different heads sequentially align with latent signal directions. In the second part, we study the impact of attention activation functions on performance. We introduce the Bayes-softmax attention, which achieves optimal prediction performance in this setting."
+  },
+  {
+    "id": "user-collection-2609.01499",
+    "date": "2026-10-03",
+    "title": "On the rigidity of sloped height functions in $d\\ge 3$ and non-crossing surfaces",
+    "url": "https://arxiv.org/abs/2609.01499v1",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-09-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.01499v1",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2609.01499/"
+    },
+    "source_detail": "User-authorized Collection intake; original Daily report date unverified",
+    "abstract": "本文研究至少三维整数高度模型中受限斜率的低温刚性。对于明确凸势与斜率条件，证明局域化及最小遍历态唯一性，并以圆周旋转编码不可交叉表面的层序；这些结构不是时间演化轨道，结论不推广到任意斜率或所有势。"
+  },
+  {
+    "id": "user-collection-2609.01197",
+    "date": "2026-10-03",
+    "title": "Dynamical phase transitions for single particles in the semiclassical and weak noise limits",
+    "url": "https://arxiv.org/abs/2609.01197v1",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-09-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.01197v1",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2609.01197/"
+    },
+    "source_detail": "User-authorized Collection intake; original Daily report date unverified",
+    "abstract": "动力学相变是否必需无限多个粒子？本文构造单量子粒子的淬火和单Brownian粒子的弛豫，使半经典参数或噪声强度趋零承担大偏差的大参数极限。同一复时间生成函数的两种截面连接量子一阶与经典二阶非解析性；机制是返回轨迹主导权切换，不是有限参数曲线看似有拐点。（p1–4）"
+  },
+  {
+    "id": "user-collection-2609.01362",
+    "date": "2026-10-03",
+    "title": "Double cluster swapping for spin models: Pfaffian relations and sharpness",
+    "url": "https://arxiv.org/abs/2609.01362v1",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-09-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.01362v1",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2609.01362/"
+    },
+    "source_detail": "User-authorized Collection intake; original Daily report date unverified",
+    "abstract": "能否把一般实值铁磁自旋模型的截断关联变成几何连通事件，同时保留可用的关联不等式？作者构造两个副本的双簇交换表示，并用同一表示证明两个性质不同的结果：边界Pfaffian关系约束可约图的平面Ising结构；一类显式势能模型具有亚临界相变尖锐性。sharpness并不等于临界点连续，也不等于已求出普适临界指数。（p2–10）"
+  },
+  {
+    "id": "user-collection-2609.01581",
+    "date": "2026-10-03",
+    "title": "Concentration of additive functionals of Stratonovich-type",
+    "url": "https://arxiv.org/abs/2609.01581v1",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-09-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.01581v1",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2609.01581/"
+    },
+    "source_detail": "User-authorized Collection intake; original Daily report date unverified",
+    "abstract": "本文研究有限时间内Stratonovich随机流的偏差概率和方差上界。通过对称Dirichlet二次型及有效势，得到带初态与模型条件的浓缩和采样保证；详细平衡下，流的Gaussian型尾上界由噪声及观测场控制，不使用谱隙参数。"
   }
 ]
