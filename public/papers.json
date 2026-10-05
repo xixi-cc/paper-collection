@@ -19382,5 +19382,1333 @@
     },
     "source_detail": "User-authorized Collection intake; original Daily report date unverified",
     "abstract": "本文研究有限时间内Stratonovich随机流的偏差概率和方差上界。通过对称Dirichlet二次型及有效势，得到带初态与模型条件的浓缩和采样保证；详细平衡下，流的Gaussian型尾上界由噪声及观测场控制，不使用谱隙参数。"
+  },
+  {
+    "id": "2609.12594",
+    "date": "2026-09-14",
+    "title": "Poisson-Corrector Complexity Bounds for Moreau--Yosida Unadjusted Langevin Sampling",
+    "url": "https://arxiv.org/abs/2609.12594",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-09-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.12594",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.12594/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.27828",
+    "date": "2026-08-31",
+    "title": "Scaling limit of the 3D abelian Yang--Mills Langevin dynamics",
+    "url": "https://arxiv.org/abs/2608.27828",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-08-28",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.27828",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.27828/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.00322",
+    "date": "2026-09-29",
+    "title": "A Human-AI Theorem Connecting Spontaneous and Field-Induced Mechanisms of Collective Behavior in One Dimension",
+    "url": "https://arxiv.org/abs/2609.00322",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.00322",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.00322/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.00164",
+    "date": "2026-09-29",
+    "title": "Exact joint eigenvalue densities of non-Hermitian random matrices are Calogero scattering states",
+    "url": "https://arxiv.org/abs/2609.00164",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.00164",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.00164/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.00144",
+    "date": "2026-09-29",
+    "title": "Bayesian Tracking of a Diffusing Target in Two and Three Dimensions",
+    "url": "https://arxiv.org/abs/2609.00144",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.00144",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.00144/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.31157",
+    "date": "2026-09-28",
+    "title": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
+    "url": "https://arxiv.org/abs/2608.31157",
+    "tags": [
+      "arXiv",
+      "Learning Theory"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.31157",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.31157/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.31120",
+    "date": "2026-09-28",
+    "title": "On the Complexity of the Compatibility Problem for Succinctly Encoded Conditional Distributions",
+    "url": "https://arxiv.org/abs/2608.31120",
+    "tags": [
+      "arXiv",
+      "Learning Theory"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.31120",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.31120/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.30829",
+    "date": "2026-09-28",
+    "title": "Free energy and phase transition for 2D directed polymers with critical spatial correlations",
+    "url": "https://arxiv.org/abs/2608.30829",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.30829",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30829/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.00162",
+    "date": "2026-09-02",
+    "title": "Duality between the level statistics of Hermitian and non-Hermitian random matrices",
+    "url": "https://arxiv.org/abs/2609.00162",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.00162",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.00162/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.31166",
+    "date": "2026-09-01",
+    "title": "Constant Individual Regret in General Games",
+    "url": "https://arxiv.org/abs/2608.31166",
+    "tags": [
+      "arXiv",
+      "Learning Theory"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.31166",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.31166/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.30715",
+    "date": "2026-09-01",
+    "title": "Endpoint Energy Atoms Force Local Pressure Concentration in Three-Dimensional Navier-Stokes Flow",
+    "url": "https://arxiv.org/abs/2608.30715",
+    "tags": [
+      "arXiv",
+      "Fluid Dynamics"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.30715",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30715/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.30602",
+    "date": "2026-09-01",
+    "title": "Endpoint Mapping Properties of Wave Operators for Two-Dimensional Schrödinger Operators",
+    "url": "https://arxiv.org/abs/2608.30602",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.30602",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30602/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.30417",
+    "date": "2026-09-01",
+    "title": "No Equivariant Architecture Covers All Equivariant Attention",
+    "url": "https://arxiv.org/abs/2608.30417",
+    "tags": [
+      "arXiv",
+      "Transformer Theory"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.30417",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30417/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.30561",
+    "date": "2026-09-01",
+    "title": "Informative Label Missingness in Multiclass Classification Information Geometry and Excess Risk",
+    "url": "https://arxiv.org/abs/2608.30561",
+    "tags": [
+      "arXiv",
+      "Learning Theory"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.30561",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30561/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.30261",
+    "date": "2026-09-01",
+    "title": "Estimating Population-Risk Curves Along Nonconvex Gradient Flows from the Training Sample",
+    "url": "https://arxiv.org/abs/2608.30261",
+    "tags": [
+      "arXiv",
+      "Learning Theory"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.30261",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30261/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.29957",
+    "date": "2026-09-28",
+    "title": "Equilibrium fluctuations of the weakly asymmetric inclusion process",
+    "url": "https://arxiv.org/abs/2608.29957",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-08-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.29957",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.29957/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.29416",
+    "date": "2026-09-01",
+    "title": "Algorithmic threshold for high-dimensional projection pursuit I: general theory",
+    "url": "https://arxiv.org/abs/2608.29416",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-08-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.29416",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.29416/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.29461",
+    "date": "2026-09-01",
+    "title": "A Causal Model for Locating and Unlocking Sandbagging in Model Organisms",
+    "url": "https://arxiv.org/abs/2608.29461",
+    "tags": [
+      "arXiv",
+      "Mechanistic Interpretability"
+    ],
+    "published": "2026-08-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.29461",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.29461/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.29060",
+    "date": "2026-09-26",
+    "title": "Transformers as Cross-Task Learners: Shared Structure Drives Sample Efficiency in In-Context Learning",
+    "url": "https://arxiv.org/abs/2609.29060",
+    "tags": [
+      "arXiv",
+      "Transformer Theory"
+    ],
+    "published": "2026-09-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.29060",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.29060/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.28520",
+    "date": "2026-09-26",
+    "title": "Certified Task-Conditioned Active Observability",
+    "url": "https://arxiv.org/abs/2609.28520",
+    "tags": [
+      "arXiv",
+      "Control & Reinforcement Learning"
+    ],
+    "published": "2026-09-22",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.28520",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.28520/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.27158",
+    "date": "2026-09-25",
+    "title": "The Linear Representation Hypothesis Needs a Group Action",
+    "url": "https://arxiv.org/abs/2609.27158",
+    "tags": [
+      "arXiv",
+      "Representation Learning"
+    ],
+    "published": "2026-09-22",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.27158",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.27158/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.27033",
+    "date": "2026-09-25",
+    "title": "WTF?! Simulation-Free Reinforcement Learning with Wasserstein-Tilted Flow Maps",
+    "url": "https://arxiv.org/abs/2609.27033",
+    "tags": [
+      "arXiv",
+      "Control & Reinforcement Learning"
+    ],
+    "published": "2026-09-22",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.27033",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.27033/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.26679",
+    "date": "2026-09-24",
+    "title": "A Spectral Theory of Grokking: Weight Decay induces Feature Learning",
+    "url": "https://arxiv.org/abs/2609.26679",
+    "tags": [
+      "arXiv",
+      "Training Dynamics"
+    ],
+    "published": "2026-09-22",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.26679",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.26679/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.26392",
+    "date": "2026-09-24",
+    "title": "Double Descent and Malign Overfitting in Diffusion Models",
+    "url": "https://arxiv.org/abs/2609.26392",
+    "tags": [
+      "arXiv",
+      "Generative Models"
+    ],
+    "published": "2026-09-22",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.26392",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.26392/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.24209",
+    "date": "2026-09-23",
+    "title": "Displacement Geometry Captures Platonic Shared Reality Across Models and Modalities",
+    "url": "https://arxiv.org/abs/2609.24209",
+    "tags": [
+      "arXiv",
+      "Representation Learning"
+    ],
+    "published": "2026-09-21",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.24209",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.24209/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.21523",
+    "date": "2026-09-22",
+    "title": "What Must Survive? Exact Task-Information--State Frontiers for Resource-Sufficient Learning",
+    "url": "https://arxiv.org/abs/2609.21523",
+    "tags": [
+      "arXiv",
+      "Learning Theory"
+    ],
+    "published": "2026-09-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.21523",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.21523/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.21312",
+    "date": "2026-09-21",
+    "title": "Sharp Regularity Thresholds for Viscous Katz–Pavlović Dyadic Models",
+    "url": "https://arxiv.org/abs/2609.21312",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-09-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.21312",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.21312/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.21680",
+    "date": "2026-09-21",
+    "title": "Stable De Giorgi conjecture of the Allen--Cahn equation in $\\mathbb{R}^3$",
+    "url": "https://arxiv.org/abs/2609.21680",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-09-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.21680",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.21680/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.21140",
+    "date": "2026-09-21",
+    "title": "Inverse of a Sum of Random Matrices: A Dynamical Mean-Field Approach",
+    "url": "https://arxiv.org/abs/2609.21140",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-09-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.21140",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.21140/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.21656",
+    "date": "2026-09-21",
+    "title": "Beyond Gaussian Worlds: Latent Geometry Matters for JEPAs",
+    "url": "https://arxiv.org/abs/2609.21656",
+    "tags": [
+      "arXiv",
+      "World Models"
+    ],
+    "published": "2026-09-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.21656",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.21656/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.20539",
+    "date": "2026-09-19",
+    "title": "Parallelism, critical windows, and separations among diffusion language models",
+    "url": "https://arxiv.org/abs/2609.20539",
+    "tags": [
+      "arXiv",
+      "Generative Models"
+    ],
+    "published": "2026-09-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.20539",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.20539/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.19424",
+    "date": "2026-09-19",
+    "title": "Ladder of information limits on prediction for reduced-order models",
+    "url": "https://arxiv.org/abs/2609.19424",
+    "tags": [
+      "arXiv",
+      "Information Theory"
+    ],
+    "published": "2026-09-16",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.19424",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.19424/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.12079",
+    "date": "2026-09-14",
+    "title": "Hierarchical Prototype Emergence in Modern Hopfield Models",
+    "url": "https://arxiv.org/abs/2609.12079",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-09-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.12079",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.12079/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.12423",
+    "date": "2026-09-14",
+    "title": "Scattering Across the Long-Range Threshold for One-Dimensional Nonlinear Schrödinger Equations",
+    "url": "https://arxiv.org/abs/2609.12423",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-09-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.12423",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.12423/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.13078",
+    "date": "2026-09-14",
+    "title": "On the vortex filament conjecture for the Gross-Pitaevskii equation",
+    "url": "https://arxiv.org/abs/2609.13078",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-09-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.13078",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.13078/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.12598",
+    "date": "2026-09-14",
+    "title": "Certifying Hidden Dissipation from Observed Current Fluctuations",
+    "url": "https://arxiv.org/abs/2609.12598",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-09-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.12598",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.12598/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.11063",
+    "date": "2026-09-12",
+    "title": "The information geometry of large language models is shared, learned, and controllable",
+    "url": "https://arxiv.org/abs/2609.11063",
+    "tags": [
+      "arXiv",
+      "Information Theory"
+    ],
+    "published": "2026-09-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.11063",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.11063/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.10879",
+    "date": "2026-09-12",
+    "title": "Learning Orthogonal Multi-Index Models Beyond Small Initialization: Incremental Learning, Competitive Dynamics and Symmetry",
+    "url": "https://arxiv.org/abs/2609.10879",
+    "tags": [
+      "arXiv",
+      "Training Dynamics"
+    ],
+    "published": "2026-09-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.10879",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.10879/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.09589",
+    "date": "2026-09-11",
+    "title": "A Function-Space Approach to the Statistical Mechanics of Learning Dynamics",
+    "url": "https://arxiv.org/abs/2609.09589",
+    "tags": [
+      "arXiv",
+      "Training Dynamics"
+    ],
+    "published": "2026-09-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.09589",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.09589/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.05727",
+    "date": "2026-09-10",
+    "title": "Newton Matching for Generative Modeling: A Unified Framework for Fine-Tuning and Sampling",
+    "url": "https://arxiv.org/abs/2609.05727",
+    "tags": [
+      "arXiv",
+      "Generative Models"
+    ],
+    "published": "2026-09-04",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.05727",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.05727/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.03858",
+    "date": "2026-09-05",
+    "title": "High-Dimensional Learning Dynamics of Attention-Indexed Models",
+    "url": "https://arxiv.org/abs/2609.03858",
+    "tags": [
+      "arXiv",
+      "Training Dynamics"
+    ],
+    "published": "2026-09-03",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.03858",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.03858/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.02049",
+    "date": "2026-09-04",
+    "title": "The Dynamics of Continuous Mixture Collapse in Language Models",
+    "url": "https://arxiv.org/abs/2609.02049",
+    "tags": [
+      "arXiv",
+      "Training Dynamics"
+    ],
+    "published": "2026-09-02",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.02049",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.02049/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.01034",
+    "date": "2026-09-03",
+    "title": "The Multiple Timescales of Gradient Descent on the Edge of Stability: A Perturbative Derivation of the Central Flow",
+    "url": "https://arxiv.org/abs/2609.01034",
+    "tags": [
+      "arXiv",
+      "Training Dynamics"
+    ],
+    "published": "2026-09-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.01034",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.01034/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.00279",
+    "date": "2026-09-03",
+    "title": "Exact Global MCMC with Denoising Diffusion",
+    "url": "https://arxiv.org/abs/2609.00279",
+    "tags": [
+      "arXiv",
+      "Generative Models"
+    ],
+    "published": "2026-08-31",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.00279",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.00279/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.30072",
+    "date": "2026-09-02",
+    "title": "Learning Representations through Token Prediction: Geometry, Approximation, and Downstream Guarantees",
+    "url": "https://arxiv.org/abs/2608.30072",
+    "tags": [
+      "arXiv",
+      "Representation Learning"
+    ],
+    "published": "2026-08-30",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.30072",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30072/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.28827",
+    "date": "2026-09-01",
+    "title": "Quantitative Target Convergence and Uniform-in-Time Propagation of Chaos for Langevin-Regularized SVGD",
+    "url": "https://arxiv.org/abs/2608.28827",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-08-28",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.28827",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28827/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.28964",
+    "date": "2026-09-01",
+    "title": "Exponential mixing for the stochastic Navier--Stokes equation with localized noise",
+    "url": "https://arxiv.org/abs/2608.28964",
+    "tags": [
+      "arXiv",
+      "Fluid Dynamics"
+    ],
+    "published": "2026-08-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.28964",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28964/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.28949",
+    "date": "2026-09-01",
+    "title": "The information geometry of product-reference discrete diffusion: Interaction growth complexity and optimal scheduling",
+    "url": "https://arxiv.org/abs/2608.28949",
+    "tags": [
+      "arXiv",
+      "Generative Models"
+    ],
+    "published": "2026-08-28",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.28949",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28949/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.28150",
+    "date": "2026-09-01",
+    "title": "The Approximation Rank of Softmax Attention: Sharp Geometric Laws and Robust Interaction Dimension",
+    "url": "https://arxiv.org/abs/2608.28150",
+    "tags": [
+      "arXiv",
+      "Transformer Theory"
+    ],
+    "published": "2026-08-28",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.28150",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28150/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.28010",
+    "date": "2026-09-01",
+    "title": "When Can Conditional Flow Matching Replace Pointwise Negative Log-Likelihood?",
+    "url": "https://arxiv.org/abs/2608.28010",
+    "tags": [
+      "arXiv",
+      "Flow Matching"
+    ],
+    "published": "2026-08-28",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.28010",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28010/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.29122",
+    "date": "2026-09-01",
+    "title": "Light-induced nonconservative static forces in many-body systems",
+    "url": "https://arxiv.org/abs/2608.29122",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-08-29",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.29122",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.29122/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.28059",
+    "date": "2026-08-31",
+    "title": "Landau theory of quenched criticality in linear in-context learning",
+    "url": "https://arxiv.org/abs/2608.28059",
+    "tags": [
+      "arXiv",
+      "Transformer Theory"
+    ],
+    "published": "2026-08-28",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.28059",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28059/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.27540",
+    "date": "2026-08-31",
+    "title": "Towards a mathematical theory of superposition",
+    "url": "https://arxiv.org/abs/2608.27540",
+    "tags": [
+      "arXiv",
+      "Mechanistic Interpretability"
+    ],
+    "published": "2026-08-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.27540",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.27540/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.26556",
+    "date": "2026-08-29",
+    "title": "Dynamical phase selection controls compute scaling in looped transformers",
+    "url": "https://arxiv.org/abs/2608.26556",
+    "tags": [
+      "arXiv",
+      "Transformer Theory"
+    ],
+    "published": "2026-08-27",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.26556",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.26556/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.26288",
+    "date": "2026-08-29",
+    "title": "Muon with Finite Newton-Schulz: The Smoothing Benefit in Nonsmooth Nonconvex Optimization",
+    "url": "https://arxiv.org/abs/2608.26288",
+    "tags": [
+      "arXiv",
+      "Learning Theory"
+    ],
+    "published": "2026-08-26",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.26288",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.26288/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.25990",
+    "date": "2026-08-28",
+    "title": "Spectral Allocation: Why Muon Outperforms Adam, and How to Improve Muon",
+    "url": "https://arxiv.org/abs/2608.25990",
+    "tags": [
+      "arXiv",
+      "Training Dynamics"
+    ],
+    "published": "2026-08-26",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.25990",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.25990/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.25055",
+    "date": "2026-08-28",
+    "title": "A Mean-Field Theory of Transformers: Well-Posedness of the Coupled Data--Parameter Dynamics and Global Convergence of Training",
+    "url": "https://arxiv.org/abs/2608.25055",
+    "tags": [
+      "arXiv",
+      "Transformer Theory"
+    ],
+    "published": "2026-08-25",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.25055",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.25055/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.23938",
+    "date": "2026-08-27",
+    "title": "Generalization, memorization, and overfitting for diffusion models trained in the lazy high-dimensional regime",
+    "url": "https://arxiv.org/abs/2608.23938",
+    "tags": [
+      "arXiv",
+      "Generative Models"
+    ],
+    "published": "2026-08-25",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.23938",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.23938/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.23696",
+    "date": "2026-08-27",
+    "title": "Renormalization Group Flow Matching for Scalable Local Generative Modeling",
+    "url": "https://arxiv.org/abs/2608.23696",
+    "tags": [
+      "arXiv",
+      "Flow Matching"
+    ],
+    "published": "2026-08-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.23696",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.23696/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.22007",
+    "date": "2026-08-26",
+    "title": "The Communication Map of a Transformer",
+    "url": "https://arxiv.org/abs/2608.22007",
+    "tags": [
+      "arXiv",
+      "Mechanistic Interpretability"
+    ],
+    "published": "2026-08-22",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.22007",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.22007/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.22197",
+    "date": "2026-08-26",
+    "title": "On the Capability Separation Between World-Model Policy Learning and Imitated World-Action Models",
+    "url": "https://arxiv.org/abs/2608.22197",
+    "tags": [
+      "arXiv",
+      "World Models"
+    ],
+    "published": "2026-08-23",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.22197",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.22197/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.20013",
+    "date": "2026-08-22",
+    "title": "Exact Fluctuation-Response Relations for Underdamped Langevin Dynamics",
+    "url": "https://arxiv.org/abs/2608.20013",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-08-20",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.20013",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.20013/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.20328",
+    "date": "2026-08-22",
+    "title": "The Memory Hidden in Response Fluctuations: Trajectory-Level Fluctuation-Response Theory and Inequalities for Non-Markovian Jump Dynamics",
+    "url": "https://arxiv.org/abs/2608.20328",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-08-20",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.20328",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.20328/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.19325",
+    "date": "2026-08-22",
+    "title": "Statistical Mechanics of Non-Abelian Learnability Transitions",
+    "url": "https://arxiv.org/abs/2608.19325",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-08-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.19325",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.19325/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.19144",
+    "date": "2026-08-21",
+    "title": "Bridge Graphical Models: Coupling, Projection, and Current-Preserving Dynamics for Generative Modeling",
+    "url": "https://arxiv.org/abs/2608.19144",
+    "tags": [
+      "arXiv",
+      "Generative Models"
+    ],
+    "published": "2026-06-16",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.19144",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.19144/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.18415",
+    "date": "2026-08-21",
+    "title": "The Road Taken: The Role of Optimizers at the Edge of Stability",
+    "url": "https://arxiv.org/abs/2608.18415",
+    "tags": [
+      "arXiv",
+      "Training Dynamics"
+    ],
+    "published": "2026-08-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.18415",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.18415/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.18834",
+    "date": "2026-08-21",
+    "title": "The Parabolic Anderson Model's Total Mass at Small Times: Geometry, Fluctuations, and Renormalization",
+    "url": "https://arxiv.org/abs/2608.18834",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-08-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.18834",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.18834/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.16915",
+    "date": "2026-08-19",
+    "title": "Exact mean-covariance dynamics of the Weber field in the stochastic Lagrangian representation of the 3D Navier-Stokes equations",
+    "url": "https://arxiv.org/abs/2608.16915",
+    "tags": [
+      "arXiv",
+      "Fluid Dynamics"
+    ],
+    "published": "2026-07-24",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.16915",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.16915/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.17646",
+    "date": "2026-08-19",
+    "title": "Elimination Geometry",
+    "url": "https://arxiv.org/abs/2608.17646",
+    "tags": [
+      "arXiv",
+      "Learning Theory"
+    ],
+    "published": "2026-08-18",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.17646",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.17646/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.13208",
+    "date": "2026-08-15",
+    "title": "Universality in dimension 1 of kinetically constrained lattice gases",
+    "url": "https://arxiv.org/abs/2608.13208",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-08-13",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.13208",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.13208/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.11695",
+    "date": "2026-08-14",
+    "title": "Generalised stochastic curvature flow in \\(d\\ge 2\\), and sharp interface limit for the stochastic Allen-Cahn equation with nonlinear diffusion",
+    "url": "https://arxiv.org/abs/2608.11695",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11695",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.11695/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.11544",
+    "date": "2026-08-14",
+    "title": "Fine-Tuning Generative Models for Extreme Events via CVaR-Penalized Wasserstein Gradient Flows",
+    "url": "https://arxiv.org/abs/2608.11544",
+    "tags": [
+      "arXiv",
+      "Generative Models"
+    ],
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11544",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.11544/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.11690",
+    "date": "2026-08-14",
+    "title": "Drift and Dependence: Layer-wise Information-Theoretic Bounds for Replay-Based Continual Learning",
+    "url": "https://arxiv.org/abs/2608.11690",
+    "tags": [
+      "arXiv",
+      "Learning Theory"
+    ],
+    "published": "2026-08-12",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11690",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.11690/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.11215",
+    "date": "2026-08-14",
+    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+    "url": "https://arxiv.org/abs/2608.11215",
+    "tags": [
+      "arXiv",
+      "AI Agents"
+    ],
+    "published": "2026-07-19",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11215",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.11215/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.11073",
+    "date": "2026-08-13",
+    "title": "A Dynamical Mechanism for Irreversibility in Cyclically Driven Amorphous Solids",
+    "url": "https://arxiv.org/abs/2608.11073",
+    "tags": [
+      "arXiv",
+      "Soft Matter"
+    ],
+    "published": "2026-08-11",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.11073",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.11073/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.10232",
+    "date": "2026-08-13",
+    "title": "FACT: Failure-Aware Causal Training for World-Action Models",
+    "url": "https://arxiv.org/abs/2608.10232",
+    "tags": [
+      "arXiv",
+      "World Models"
+    ],
+    "published": "2026-08-10",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.10232",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.10232/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.08735",
+    "date": "2026-08-12",
+    "title": "Interface dynamics in tissue invasion",
+    "url": "https://arxiv.org/abs/2608.08735",
+    "tags": [
+      "arXiv",
+      "Soft Matter"
+    ],
+    "published": "2026-08-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.08735",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.08735/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.08546",
+    "date": "2026-08-12",
+    "title": "Lee-Yang Theory Guided Force Field Refinement Based on Phase Diagrams",
+    "url": "https://arxiv.org/abs/2608.08546",
+    "tags": [
+      "arXiv",
+      "AI for Science"
+    ],
+    "published": "2026-08-09",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.08546",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.08546/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2608.06427",
+    "date": "2026-08-11",
+    "title": "Adversarial Causal Intervention Falsification",
+    "url": "https://arxiv.org/abs/2608.06427",
+    "tags": [
+      "arXiv",
+      "Complex Systems"
+    ],
+    "published": "2026-08-05",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2608.06427",
+      "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.06427/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2609.00867",
+    "date": "2026-10-03",
+    "title": "Uniform Partition-Function Estimates for Coulomb Modulated Energy at All Positive Temperatures",
+    "url": "https://arxiv.org/abs/2609.00867",
+    "tags": [
+      "arXiv",
+      "Mathematical Physics"
+    ],
+    "published": "2026-09-01",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2609.00867",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2609.00867/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2607.20034",
+    "date": "2026-10-02",
+    "title": "Motility destabilizes an absorbing-state flock",
+    "url": "https://arxiv.org/abs/2607.20034v1",
+    "tags": [
+      "arXiv",
+      "Active Matter"
+    ],
+    "published": "2026-07-22",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2607.20034v1",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2607.20034/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2606.22984",
+    "date": "2026-10-02",
+    "title": "Scalable Physics-Inspired Transformers for Spin Glasses",
+    "url": "https://arxiv.org/abs/2606.22984v2",
+    "tags": [
+      "arXiv",
+      "AI for Science"
+    ],
+    "published": "2026-06-22",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2606.22984v2",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2606.22984/"
+    },
+    "source_detail": "arXiv"
+  },
+  {
+    "id": "2604.16288",
+    "date": "2026-10-02",
+    "title": "Phase transitions in Doi-Onsager, Noisy Transformer, and other multimodal models",
+    "url": "https://arxiv.org/abs/2604.16288v1",
+    "tags": [
+      "arXiv",
+      "Statistical Physics"
+    ],
+    "published": "2026-04-17",
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2604.16288v1",
+      "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2604.16288/"
+    },
+    "source_detail": "arXiv"
   }
 ]
