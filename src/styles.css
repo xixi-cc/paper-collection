@@ -125,3 +125,12 @@ a { color: inherit; }
   .site-guide { margin-top: 1rem; }
   .stats-bar { margin: 1rem 0; }
 }
+.grade-filter { color: var(--text-muted); font-size: .8rem; }
+.formal-grade, .formal-grade-status { display: block; margin-top: .65rem; font-size: .8rem; }
+.formal-grade summary { cursor: pointer; color: var(--accent); font-weight: 600; }
+.formal-grade p { overflow-wrap: anywhere; white-space: pre-wrap; line-height: 1.6; }
+.formal-grade table { width: 100%; margin: .75rem 0; border-collapse: collapse; }
+.formal-grade th, .formal-grade td { padding: .3rem .5rem; text-align: left; border-bottom: 1px solid var(--border); }
+.formal-grade td { white-space: nowrap; }
+.formal-grade caption { text-align: left; padding-bottom: .5rem; }
+.formal-grade-evidence code { overflow-wrap: anywhere; }

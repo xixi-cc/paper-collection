@@ -1,4 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
+import { matchesFormalGrade, parseFormalGrades, type FormalGrades, type GradeFilter } from './formalGrades';
+import { FormalGrade } from './FormalGrade';
 
 type Paper = {
   id: string;
@@ -57,6 +59,9 @@ function writeFavorites(favorites: string[]) {
 
 function App() {
   const [papers, setPapers] = useState<Paper[]>([]);
+  const [formalGrades, setFormalGrades] = useState<FormalGrades | null>(null);
+  const [gradeFilter, setGradeFilter] = useState<GradeFilter>('all');
+  const [gradesLoadError, setGradesLoadError] = useState(false);
   const [query, setQuery] = useState('');
   const [activeTags, setActiveTags] = useState<string[]>([]);
   const [mode, setMode] = useState<MatchMode>('all');
@@ -76,6 +81,14 @@ function App() {
       })
       .then(setPapers)
       .catch(() => setLoadError(true));
+    fetch('./formal_grades.json')
+      .then(async (response) => {
+        if (response.status === 404) return null;
+        if (!response.ok) throw new Error('Failed to load formal grades');
+        return parseFormalGrades(await response.json());
+      })
+      .then(setFormalGrades)
+      .catch(() => setGradesLoadError(true));
   }, []);
 
   const tagGroups = useMemo(() => {
@@ -104,6 +117,7 @@ function App() {
     const normalized = query.trim().toLocaleLowerCase();
     return papers
       .filter((paper) => {
+        if (!matchesFormalGrade(formalGrades, paper.id, gradeFilter)) return false;
         if (favoritesOnly && !favorites.includes(favoriteKey(paper.id))) return false;
         const matchesQuery = !normalized || [paper.title, paper.venue, ...filterValues(paper)]
           .filter(Boolean)
@@ -132,7 +146,7 @@ function App() {
           : a.published.localeCompare(b.published);
         return publicationOrder || a.title.localeCompare(b.title);
       });
-  }, [papers, query, activeTags, mode, sort, favorites, favoritesOnly]);
+  }, [papers, formalGrades, gradeFilter, query, activeTags, mode, sort, favorites, favoritesOnly]);
 
   function toggleTag(tag: string) {
     setActiveTags((current) => current.includes(tag) ? current.filter((item) => item !== tag) : [...current, tag]);
@@ -270,6 +284,15 @@ function App() {
 
         <div className="stats-bar">
           <p>Showing <strong>{filtered.length}</strong> of <strong>{papers.length}</strong> papers</p>
+          <label className="grade-filter">正式评级{' '}
+            <select value={gradeFilter} onChange={(event) => setGradeFilter(event.target.value as GradeFilter)}>
+              <option value="all">全部</option>
+              <option value="S">S 级</option>
+              <option value="A">A 级</option>
+              <option value="B">B 级</option>
+              <option value="ungraded">未评级</option>
+            </select>
+          </label>
           <select value={sort} onChange={(event) => setSort(event.target.value as SortMode)} aria-label="Sort papers">
             <option value="published-newest">Publication date: newest</option>
             <option value="published-oldest">Publication date: oldest</option>
@@ -278,6 +301,8 @@ function App() {
             <option value="title">Title A–Z</option>
           </select>
         </div>
+
+        {gradesLoadError && <p role="status">正式评级暂无法读取；当前显示为未评级，请刷新重试。</p>}
 
         {loadError ? (
           <div className="empty-state">Failed to load the paper list.</div>
@@ -327,6 +352,7 @@ function App() {
                     {paper.links?.slides && <a href={paper.links.slides} target="_blank" rel="noreferrer">Slides PDF</a>}
                   </span>
                 </div>
+                <FormalGrade data={formalGrades} id={paper.id} />
                 {paper.abstract && (
                   <details className="paper-abstract">
                     <summary>Abstract</summary>
