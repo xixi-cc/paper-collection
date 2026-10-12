@@ -654,6 +654,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2603.11142": {
+      "grade": "B",
+      "score": 14,
+      "score_breakdown": [
+        2,
+        1,
+        0,
+        3,
+        1,
+        2,
+        3,
+        2
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "12dfc1e75f6e0dfd5132764078b8150cbb4f83457f5e4536788e26629a27847c",
+      "assessment_sha256": "d518735a3929831e4421864a02ee6ac286cb85d8950614a8cf6e002879c8c079",
+      "registry_seq": 3969,
+      "rationale": "B14: useful exploratory computationalpatching case with modernAI relevance, but outcome semantics, causalcomposition and circuitnecessity/sufficiency notidentified. Onepair/no matchedcontrols and flawedrecoverymetric stronglylimit claims. Independent of oldmetadataexclusion/reputation/quota.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2603.09972": {
       "grade": "A",
       "score": 32,
@@ -829,6 +851,28 @@
       "rationale": "S34: full Att2 task-vector transplantation and forward-preserving gradient intervention give strong mechanism evidence. Complete authoritative body hash verified and preserved; K2 finite-training extrapolation, SA effective model, MI multinomial approximation and stationary-start Bayes correction clearly distinguished. No own scientific writing or independent reproduction",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": true
+    },
+    "2304.02381": {
+      "grade": "B",
+      "score": 19,
+      "score_breakdown": [
+        2,
+        1,
+        3,
+        3,
+        1,
+        3,
+        4,
+        2
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "e61dfc2c033e969d0a942de8c71a1cf1dcad7cf2ef71304441fc91bcb53cc7f0",
+      "assessment_sha256": "a8bb9271036a9de5791f22cede9951e3a0733d5c0fd05b6fe1143cd82292b010",
+      "registry_seq": 3971,
+      "rationale": "B19/40: useful physical-method transfer and exploratory interpretability formulation, with a narrow reported perturbation contrast. It lacks new rigorous theory, invariant identification, broad architecture evidence and statistical/protocol depth needed for A/S. Existing Card membership is not a grade or a reason to preserve/promote a score.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
     },
     "2211.11567": {
       "grade": "B",
@@ -2898,6 +2942,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2102.12086": {
+      "grade": "A",
+      "score": 28,
+      "score_breakdown": [
+        4,
+        2,
+        4,
+        3,
+        4,
+        2,
+        5,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "30926bfaaa188ddc51ea2c1f69e5a9dfc0bf46d47de79440a1eb35c69ff54a4f",
+      "assessment_sha256": "5751ed63f8c73ba27109f0f5896c65e5dcc2a9b53ea602f33b6398294b10d505",
+      "registry_seq": 3967,
+      "rationale": "A28/40: a substantial, durable operator-theoretic review closely aligned with physics/AI representation and control research. Exact conditional spectral/closure results and explicitly retained negative controls merit credit. Repeated mathematical overstatements/formula errors, finite ambiguous control protocols and largely attributed prior foundations preclude S or a new universal AI/linearization mechanism claim.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2204.08155": {
       "grade": "B",
       "score": 23,
@@ -2983,6 +3049,28 @@
       "assessment_sha256": "50660681138ce09100564691eba6afe42ec6214ccd12e05c674435bf6e71242d",
       "registry_seq": 3952,
       "rationale": "A29: substantive predictive-state/GHMM formulation and controlled finite neural decodability across nominally quantum/postquantum examples. NotS: new universal learning/causal mechanism theorem, invariant metric geometry, exact-resource advantage and robust scale/precision evidence absent.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2506.17859": {
+      "grade": "A",
+      "score": 28,
+      "score_breakdown": [
+        4,
+        2,
+        2,
+        5,
+        3,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "6d904c5321947e8945073257abc0e24043c41dd8c9058d4d7811ff745cc75de9",
+      "assessment_sha256": "eb2d85bf58b5089fba8ec6b385597f4a62d7d33af1ce7f4b1ad27acc6d9ebe41",
+      "registry_seq": 3968,
+      "rationale": "独立A28：两策略损失—复杂度竞争提供有价值的ICL有效解释与预测，直接贴近AI基础；Neff推导/概率归一化/曲率断言、经验复杂度5倍修补、训练平台和有限ID范围削弱数学控制与普适性，达不到S。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
@@ -3313,6 +3401,28 @@
       "assessment_sha256": "93a3925bca30dd7a1e2d5c4d48d72bae3c090f4c72d5cbbf385fff1a09d2a16d",
       "registry_seq": 3955,
       "rationale": "A28: substantive effective output-kernel dynamics with explicit collective/splitting modes, bounded adversarial-failure controls and real linear damping reduction. NotS: no general stochastic/finitewidth/longtime closure, nonlinearGAN convergence proof, universal phase law or realisticGAN causal validation; printedalgorithm/normalization issues retained.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2305.03452": {
+      "grade": "B",
+      "score": 22,
+      "score_breakdown": [
+        3,
+        2,
+        0,
+        4,
+        2,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "e993dac84dd326c1582363502d7406e5f31a2ea3db17c81e9dd47cb53d0d7100",
+      "assessment_sha256": "8772a84bfabdad226f5403953aba31aff6cf12d1e77556d3f6a41e05c42e84ad",
+      "registry_seq": 3972,
+      "rationale": "Accept B22, axes3/2/0/4/2/4/4/3: exact component bilinear identity and per-layer feature-pair expansion are useful formulation tools for AI interpretability, without actual physical mechanism. Printed tensor construction requires corrected axes/orientation; full-model right-branch transposes and missing unembedding cannot be treated as a validated implementation. Attention routing remains input dependent, repeated residual quadratic layers create higher-order terms, and arbitrary feature bases/scalings do not identify unique semantic circuits. Preserve valid local algebra and credited prior architecture while excluding training-performance, causal fidelity or safety certification. All12 exactversion original pages including references and AppendixA actually read; no necessary missing source. No author implementation or independent training/safety experiments in supplied material. Ten small reviewer algebra checks are examples rather than author-model reproduction. C02 exact axis interpretation depends on declared matrix orientation: confirms printed construction needs correction, without certifying an unprinted intended convention.",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
@@ -4919,6 +5029,28 @@
       "assessment_sha256": "a87db97fa9fd84aac334d2b51505d9dc8d6e38f16f96722658cd974d59e1d70d",
       "registry_seq": 3938,
       "rationale": "独立B，26/40。真实主动自旋的局部排斥、占据与对齐竞争揭示活动可致失序及更新生成元的重要性，有限尺寸临界证据值得跟进；但精确满占据吸收构型仍存在，不能把随机初态观测当所有吸收态被运动性消除。粗粒化/噪声与稳定性未闭合，附录代数有缺口，指数误差和有限时间/尺寸不足以建立普适临界理论。没有直接现代AI机制，不继承已有Card或选择。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2606.22984": {
+      "grade": "B",
+      "score": 27,
+      "score_breakdown": [
+        3,
+        2,
+        5,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "398c47944ef9e961488ddb8d67517d6104fd9578a7971fce85b855791fad04fb",
+      "assessment_sha256": "d6be07bdef1137dcda656d59abca36c2201a3f744f2f47aad7573ee257cd3c26",
+      "registry_seq": 3970,
+      "rationale": "B27: strong genuine spin-glass physics and useful frontier-informed sampler with controlled ablations and GPU efficiency. Mathematical sampling/convergence guarantees, PBC sparse-window scope, refined-sample gradient, thermodynamic inference and fair end-to-end baselines remain limited. Required deferred protocol materials missing; no inheritedCard/author/priority/quota.",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
