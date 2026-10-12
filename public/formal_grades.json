@@ -2084,6 +2084,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2604.13656": {
+      "grade": "B",
+      "score": 18,
+      "score_breakdown": [
+        2,
+        3,
+        1,
+        3,
+        2,
+        2,
+        3,
+        2
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "3c4c38eb4f754da101aa06bebb5d473775bc6a9148d40594cad527fb80e31d32",
+      "assessment_sha256": "e8ad7885fc693b5d38075b892c2f33c37ad933e24b3964c32e023d8be9fb858f",
+      "registry_seq": 3973,
+      "rationale": "B18: correct exact dataset-specific OLS representation, modest operator insight and tightly constrained scalar-training evidence; no fixed learned OLS solver across new labeled contexts, general training theorem or model-specific Hopfield capacity result.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2602.02385": {
       "grade": "S",
       "score": 34,
@@ -2678,6 +2700,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2309.00244": {
+      "grade": "B",
+      "score": 16,
+      "score_breakdown": [
+        1,
+        1,
+        0,
+        4,
+        1,
+        2,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "c602b56092c1d44f5c83da1ff0096d3ce356094d1db92e79d7aa0cbc5f6dd15e",
+      "assessment_sha256": "c8c4f97522fd472df6a13bc7477c211c3dbdffc3cff092d00c93ae51093056a0",
+      "registry_seq": 3974,
+      "rationale": "B16/40. Strong relevance and research-tool fit, with modest integration/visualization originality. No new load-bearing theory or rigorous formulation; the single qualitative example supplies limited causal/statistical/universality evidence. Score evaluates this exact short toolkit paper and does not inherit discoveries from its references.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2603.02064": {
       "grade": "A",
       "score": 28,
@@ -3140,6 +3184,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2510.17469": {
+      "grade": "B",
+      "score": 15,
+      "score_breakdown": [
+        2,
+        1,
+        0,
+        4,
+        1,
+        2,
+        3,
+        2
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "69e9936848339e9a39dfd3ccf7f636cdbd0210048558df6beadea00fccc9085a",
+      "assessment_sha256": "6ffabf5a084c163ca2389ed30d4cfd6dddab1404fb26fb7f306e15b5a889d1ff",
+      "registry_seq": 3976,
+      "rationale": "Accept B15, scores2/1/0/4/1/2/3/2. Controlled hierarchical grammar conditions offer a useful AI specialization hypothesis. Published heatmaps measure attention specialization, not demonstrated transfer accuracy; CLM maximum layer differs bycondition and0.51 values cannot certify equal performance. Average specialization trajectory does not identify which layer changes or a necessary reasoning mechanism. PCA/clustering/context scans, accuracy/statisticalcontrols and causal interventions are not shown; authors explicitly preserve correlation-versus-causality limitation. No physical law or universal composition mechanism certified. All9 exactv1 original pages including Appendix and refs read; no separately named missing SI. Missing estimator normalization, raw training/protocol/statistical/causal controls are documented limitations and not invented source gaps. Appendix hyperparameters and supplied negative/label-conflict evidence retained. Historicalmetadata exclusion preserved; no Cardadmission/media or independent experiment claimed.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2510.02765": {
       "grade": "A",
       "score": 31,
@@ -3511,6 +3577,28 @@
       "assessment_sha256": "60e47bbaa832bb587749fab458ec5e8ce64b66045c85bd6d978b4fcef4a7b2b6",
       "registry_seq": 3957,
       "rationale": "B25: useful empirical mechanistic account of context memories as computation/cache, with actual layer-wise model-function interventions and contrasting task strategies; theoretical taxonomy exclusions, mediation, universality and physical interpretation remain insufficiently established. No grade inherited from Card, reputation or quota.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2411.00660": {
+      "grade": "B",
+      "score": 11,
+      "score_breakdown": [
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        2,
+        1
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "0d3f81a4ffb6d019545a43a03d8290d20af13b11d9a7811504ac3dc61ff24776",
+      "assessment_sha256": "635dd8209c949e082c2336aa7c8a9737868bde025f96f3fb707674f5990ef812",
+      "registry_seq": 3975,
+      "rationale": "B 11/40：问题直接相关，但核心是相对编码量的定义重排与未成立的热耗映射；scaling推导另有确定代数问题。未建立新物理或AI机制，低于A的28分及S的34分/承重贡献门槛；无配额。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
