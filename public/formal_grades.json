@@ -2986,6 +2986,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2510.03470": {
+      "grade": "B",
+      "score": 21,
+      "score_breakdown": [
+        3,
+        2,
+        1,
+        4,
+        2,
+        2,
+        4,
+        3
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "9d797a2bf02b522b6dbb4d1c64e6997e785ff1851e61391ff92f8adfaf17b172",
+      "assessment_sha256": "85f1af013019284e0b8a69712f40b3d283cb3267deb42785466f8d34d09c6406",
+      "registry_seq": 3979,
+      "rationale": "Accept B21/40, axes3/2/1/4/2/2/4/3. actual original pages4,6,7,12,13,14 confirm correct local first/second residual Taylor coefficients, omitted convergence/uniform-in-depth assumptions and absence of a lower bound from combinatorial path counts. Table1 five-seed scaling evidence is credited within its CIFAR10/modified architecture; n1000 width changes and test-selected maxima limit inference. AppendixB Eq15 remainder/Eq18 derivative typos do not erase the conditional first-order GC result. AppendixC identity insertion preserves zero-loss optima for nonnegative loss, without SGD-accessibility or basin/stability guarantees. reran sealed scalar discriminating diagnostic successfully; no training reproduction. Assigned worker complete text/original-page review and source/assessment/output seals verified. No essential missing paper or supplement. External theorem proof certification, reproducibility and unresolved mechanism limitations stay explicit. Original published cards/metadata and independent Daily provenance preserved; fresh union assessment registered under Collection. No media action.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2205.11916": {
       "grade": "B",
       "score": 23,
@@ -5095,6 +5117,28 @@
       "assessment_sha256": "8c35d6fde3a270530b5a0d7c395a34792b42a04c001539e75370ea288493cc79",
       "registry_seq": 3887,
       "rationale": "独立A，29/40。承重价值是将外部表达、总体模仿目标、因果识别与动作比较部署区分，并给出完整joint恢复与信息受限learner反例；主要数学是标准概率/TV/KL/因果工具，物理内容有限，未覆盖有限网络与真实控制验证，因此未独立确认S。不继承旧Daily S、Card或video等级。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2608.16915": {
+      "grade": "B",
+      "score": 27,
+      "score_breakdown": [
+        4,
+        4,
+        4,
+        1,
+        3,
+        3,
+        4,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "4f10151cb96ba786bd784d4677062c3e8aee770bbf8b3f0f3ea2966581d02923",
+      "assessment_sha256": "e82fcc566e8cc4d988dc2809f439c8038992a092c419ba80a46970708eb4096a",
+      "registry_seq": 3978,
+      "rationale": "B27：精确均值—协方差结构、共同噪声退化与分层反例有明确理论价值；主要贡献为既有随机表示上的结构整理和障碍识别，尚无更强的自洽临界控制或现代AI机制结果。按八轴总分未达A/S，绝非以未解决全局正则性为错误。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
