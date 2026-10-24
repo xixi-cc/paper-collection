@@ -786,6 +786,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "d5f9896b23484efd": {
+      "grade": "A",
+      "score": 31,
+      "score_breakdown": [
+        4,
+        3,
+        4,
+        4,
+        3,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "d5f9896b23484efd451ca4104abc673fb152e70cf96e4174b79debc08fb73147",
+      "assessment_sha256": "a9d7827ecfe58e04bdd8f6016581fa46f27a320065aa7908dc471fb1b1d87b77",
+      "registry_seq": 4012,
+      "rationale": "A31：真实的RG传播子/重标度扩散/尺度投影机制与两域实验值得跟踪；平滑cutoff精确性、有限DCT与零模调度说明缺陷及无误差保证使其不达S。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "e8bfcc6769249a39": {
       "grade": "A",
       "score": 28,
@@ -805,6 +827,28 @@
       "assessment_sha256": "1915f7abd62af57412e47415de3a9187d838e41c0518926f51b82620bdcef7c6",
       "registry_seq": 4010,
       "rationale": "accepts A28 vector [4,3,3,4,3,3,4,4] after reading compact axes and independent source-risk review. The reverse nonlocal kernel and rate/amplitude decomposition carry theoretical value, but the practical isotropic linear sampler, PDF/top-K/prior-rate approximations and Fig6 exact-rate advantage limit distributional, posterior and speedup claims; no such general guarantees are credited. Independent source review: Accept A28 with sealed limits retained. All hash bindings verify and complete worker page evidence is intact. Targeted original-page inspection confirms the nonlocal kernel and rate/amplitude contribution, practical isotropic linear restriction, uncombined PDF/top-K/prior-rate approximations, and Fig6 exact posterior-rate NMSE advantage. The proposal discloses these limitations; no distributional or exact posterior guarantee is credited. Complete exact-version worker fulltext/original-page evidence plus independent targeted scientific review; does not claim direct viewing of reviewer pages. General reverse-generator structure is broader than the practical isotropic linear symmetric stable sampler. Score and scalar event-rate networks are both needed; mixture destinations do not eliminate the score network. Gaussian-stable PDF surrogate, empirical prior, top-K, lookup, terminal initialization, neural and time errors lack combined end-to-end distributional bounds. Prior event rate with likelihood-corrected destinations is not an exact posterior generator; Fig6 accurate posterior rate improves NMSE. Positive stable mixing variable needs index alpha/2; tail surrogate requires c2>0; printed qualifications are retained in audit. OFDM simulation metrics and platform timing do not establish general generative fidelity, global mixing or universal speedup. Missing implementation/training details limit reproducibility, without constituting an essential missing-source blocker. Independent inspection covers eight targeted pages; complete source read belongs to the worker. No independent training, exhaustive priority or proof certification.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "6f97a8735f5c5759": {
+      "grade": "A",
+      "score": 28,
+      "score_breakdown": [
+        4,
+        3,
+        5,
+        0,
+        3,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "7da496f4e5cb9ca40100083d3580fc7e2f3e0a431d60f8825b1b2622c63a51b3",
+      "assessment_sha256": "9151da32c81bbb0544a8e3f8f811695a1b7a263402007f252943495b281b7297",
+      "registry_seq": 4011,
+      "rationale": "A28：三场噪声竞争提供局域HU与大尺度GNF的具体机制；线性闭合、指数差异、有限尺度证据和开放普适类问题限制推广，无AI贡献，不达到S。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
