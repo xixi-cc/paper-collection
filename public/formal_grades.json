@@ -1864,6 +1864,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "1c3af6a53d68b366": {
+      "grade": "A",
+      "score": 29,
+      "score_breakdown": [
+        4,
+        2,
+        4,
+        4,
+        3,
+        3,
+        5,
+        4
+      ],
+      "source_version": "v3",
+      "source_program": "Collection",
+      "source_pdf_sha256": "7dce83233e7bc69d1b1df6bc4c9188ae50bfc93f0316243bde0b8ba967921387",
+      "assessment_sha256": "1f33ffe52de5543755d4318ffff0dc0791b5310e5dd87693af4fe32cfac9cb4d",
+      "registry_seq": 4054,
+      "rationale": "A29：以场、核谱和响应变量统一解释若干深度学习极限，标量核缩放失效与目标方向自适应具有实质机制价值；按综述综合计原创信用。NTK瞬态、有效岭误差项、χ归一化及OU初值等印刷不一致限制公式可靠性，Gaussian/均场与有限模型条件限制外推，不达S。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2603.12901": {
       "grade": "A",
       "score": 32,
@@ -1968,9 +1990,9 @@
       "source_version": "v3",
       "source_program": "Collection",
       "source_pdf_sha256": "8376e1178844d5f4aa9f49e224a188d8e2ce5ef8e5c1377d1fbd718e1240f831",
-      "assessment_sha256": "5c2f6eb6f27b182b66c74d21bfd4ed7e3c8e439caeab14356121602785fa0655",
-      "registry_seq": 3685,
-      "rationale": "Root fulltext A33, not S: useful conditional prediction-horizon scaling mechanism retained; sampling upper bound does not prove necessary detection or universal learning lower bound; entropy-floor and finite-window inference, marginal logarithms, collapse assumptions and empirical systematics limit generality. Official code README/directories read-only, no independent training reproduction.",
+      "assessment_sha256": "1f330feacbe8199fa4dd4a01b4e47d2bdd69dfb28177f1a7bd27b2252399b40a",
+      "registry_seq": 4055,
+      "rationale": "A33：语言相关与熵衰减经数据依赖预测视野连接超额损失，提供有解释力的条件机制与有限语料检验；谱噪声上界不证明必要学习阈值。有限T、熵底、统一尾部和快学习条件承重，增长视野内误差总和可与视野项同阶；不作普适定律或独立训练复现。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
