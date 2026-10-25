@@ -16,7 +16,7 @@ export function FormalGrade({ data, id }: { data: FormalGrades | null; id: strin
       </table>
       <p>评级理由：{displayText(assessment.rationale)}</p>
       <p>评审边界：{displayText(assessment.review_boundary)}</p>
-      <p>关键贡献已确认：{assessment.load_bearing_contribution_confirmed === true ? '是' : assessment.load_bearing_contribution_confirmed === false ? '否' : '未提供'}</p>
+      <p>S级贡献门槛确认：{assessment.grade !== 'S' ? '不适用（当前评级非S）' : assessment.load_bearing_contribution_confirmed === true ? '是' : assessment.load_bearing_contribution_confirmed === false ? '否' : '未提供'}</p>
       <details className="formal-grade-evidence">
         <summary>评审记录</summary>
         <p>Registry 序号：{assessment.registry_seq}</p>
