@@ -1842,6 +1842,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "24be133138c9189b": {
+      "grade": "A",
+      "score": 30,
+      "score_breakdown": [
+        4,
+        4,
+        4,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v4",
+      "source_program": "Collection",
+      "source_pdf_sha256": "51fad12eb7ed9a593d6cd6cbdcecaa4d7e3b779569ce1d4c339b852e6489255c",
+      "assessment_sha256": "6aab723ebd09e80048205192fd26f431a472fdddb0015a311b52eb104b04fb6d",
+      "registry_seq": 4052,
+      "rationale": "A30：单态算法熵与可计算Markov过程的涨落结构、库成本和信息/时间修正构成有用且可核查的理论整合；核心AIT结果有前史，Markov粗粒化/自然通用机依赖、不可计算性与功提取可达性限制物理外推，现代AI机制未建立，不达S。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2603.12901": {
       "grade": "A",
       "score": 32,
@@ -1880,9 +1902,9 @@
       "source_version": "v1",
       "source_program": "Collection",
       "source_pdf_sha256": "894c89f9b7d425959befce0a4b6e606fef43b1883cbe9d0222a012ea38007c43",
-      "assessment_sha256": "adba70d97d60aebb593731a846583407eea402d1c933f9f67067eee7f93860ac",
-      "registry_seq": 3748,
-      "rationale": "B22: conditional self-polar contraction/shape and fixed-radius flat minimization largely valid, explicitly distinct from literal Muon. Self-polar projected flow is nuclear-norm gradient descent; literal XW=Y gradient polar has zero nullspace projection and exactSF only static bridge. Claimed entropy-max theorem absent and natural interpretation counterexample. Figure2 conflicts with monotone singular values; Figure12 missing despite claimed evidence, other caption/data/seed inconsistencies. Isotropic trace Thm4 possible but block derivative dimensional error and row covariance insufficient without vec covariance. Momentum model switch lacks IID stationary conditions; linearized noise not exact optimizer critical batch. Weight decay definitions inconsistent; ATSR definition/interpretation conflict; pointwise Thm2 bound does not imply explicit gap lifetime. AI writing disclosure not itself penalized; no fabrication assertion or independent training reproduction. Full opinion retained; no S card.",
+      "assessment_sha256": "722d14ef23f9911f9cebb343cb0cbad65144a5e924d32decd231ca2b732261c0",
+      "registry_seq": 4053,
+      "rationale": "B22：自极化投影流的条件谱动力学有可核查内容，但不等同于实际Muon；关键熵极大化证明与Fig12证据缺失，噪声协方差、动量及实验口径限制解释范围。保留各项假设，不作全部理论反驳或训练复现。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
