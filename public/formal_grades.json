@@ -1270,6 +1270,72 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "627cdead07cb305c": {
+      "grade": "B",
+      "score": 26,
+      "score_breakdown": [
+        4,
+        2,
+        2,
+        4,
+        3,
+        3,
+        4,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "627cdead07cb305c1803fd106b5f90b468f3d6b4b519d858d93c53f798c9ad1d",
+      "assessment_sha256": "f7a61407326e78fa6eaad23344425cc3013cc025f521f4cb6d4ced342da8e777",
+      "registry_seq": 4031,
+      "rationale": "B26：分离谱尾与GL规范的统一解释有机制价值，经典工具归属清晰；但多维解析速率、谱隙到曲率、惩罚到条件数及一般ERM到mode速率的承重桥接存在明确限制，有限CLIP探针不足以补足。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "b6934c217c1df0f8": {
+      "grade": "A",
+      "score": 30,
+      "score_breakdown": [
+        4,
+        3,
+        4,
+        3,
+        3,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "b6934c217c1df0f8d6e50d42076e4fd49b3134d642d65fbaff1d67cf6da6a915",
+      "assessment_sha256": "3b1f8d8036214a62f5d66ee17f9b99fe155071b59bafd1c4777955bd4100d3b2",
+      "registry_seq": 4032,
+      "rationale": "A30：固定逐态测量、分布式信息瓶颈与KS熵率的联系有明确物理价值；参考态条件、神经替代目标与硬化差距、低维映射的有限证据及熵率外推的不完备不确定度限制普适性。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "9ea26320d5c329eb": {
+      "grade": "A",
+      "score": 30,
+      "score_breakdown": [
+        4,
+        4,
+        5,
+        0,
+        4,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "9ea26320d5c329eb5b61a0977be670782f69aa58a7837333e847af8a11e14ab9",
+      "assessment_sha256": "348e36318980fe77e99b5edb071d7a273d43beb66c5624c192a168eb94acd0cf",
+      "registry_seq": 4033,
+      "rationale": "A30：非平稳多时电流MFT、初态记忆分解与SSEP检验形成清晰理论链；通用相互作用解、常数D及密度展开限制、已有工具继承和无现代AI机制使其未达到S阈值。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "fe7093ed0b7d6a09": {
       "grade": "B",
       "score": 23,
@@ -1289,6 +1355,28 @@
       "assessment_sha256": "7780d200fad27215a731d87e2464746ebaf0019502f63a0533029a2101c7244f",
       "registry_seq": 3977,
       "rationale": "B23：硬核碰撞到非平衡场通量有实质理论贡献并高度契合用户方向；但精确 v1 印出的关联参数化给出负四次项，饱和论证不成立，系数链保留局部一致性问题。再加确定性/高 Pe/长波/近 spinodal 范围，不足 A/S；不是因缺 AI 关键词或无实验而判低。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "744d5ea48e4907c2": {
+      "grade": "B",
+      "score": 23,
+      "score_breakdown": [
+        3,
+        2,
+        3,
+        3,
+        2,
+        3,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "744d5ea48e4907c229c19e2824755787eaea2956f80c6c7be784b06eacc32e62",
+      "assessment_sha256": "5fe87ba169322ca70909e2651d6a15f8d4693f4c953ed43c04a1cf3d0a3221f6",
+      "registry_seq": 4034,
+      "rationale": "B23：MPS矩计算与PEPS—polyomino联系提供有价值的统计物理结构；训练补空间局域化、归一化与有限尺寸误差、PEPS估计链仍有缺口。部分排印等号不一致不自动推翻较弱下界，现有检查也未构成最终定理反例；有限MPS演示的适用范围保留。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
