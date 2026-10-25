@@ -390,6 +390,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "231921777c73da46": {
+      "grade": "A",
+      "score": 33,
+      "score_breakdown": [
+        5,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v3",
+      "source_program": "Collection",
+      "source_pdf_sha256": "231921777c73da4654ae23c1276ed88505bd38ba68e2fd33e9d70f8253b1127d",
+      "assessment_sha256": "a0ec86b15ca3da99d395e79c35a7fb34f0e69fb5c9795c8fbab3840a675bd085",
+      "registry_seq": 4018,
+      "rationale": "A33: load-bearing two-time response-kernel bridge and explicit noncommuting limits; strong physics-of-AI value, while formal mathematical derivation/printed formula issues and fixed-P lazy scope restrict rigor and generality. No quota promotion.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "55048d58247c154b": {
       "grade": "S",
       "score": 35,
@@ -939,6 +961,28 @@
       "rationale": "accepts bounded S34 vector [5,4,3,5,3,5,5,4] and explicitly confirms the contribution gate after source-based independent review. Uniform nonambiguous random grammar, centered class-conditional correlation fluctuations and special first-gradient synonym invariance form a load-bearing explanatory formulation; the analytic crossover and finite sensitivity interventions support it. General multilayer GD convergence, sample-optimality, finite all-pairs recovery and identified real-data grammar are not credited; the better clustering route and printed-factor restrictions remain explicit. Independent source review: Accept bounded S34 for original random-compositional formulation and explicit correlation-to-invariance mechanism. Targeted original-page review confirms restrictions are retained; no universal-GD, information-optimal, or real-data predictive theorem is credited. Complete exact-version worker fulltext/original-page evidence plus independent targeted scientific review; does not claim direct viewing of reviewer pages. Exact uniform nonambiguous aligned grammar; large m,nc,v/SNR and sufficiently populated sampled categories. Not uniform finite-depth/finite-size guarantees. P* is a source-measured fixed-error empirical threshold; Pc is an analytic correlation crossover. Their agreement does not prove a general classification sample-complexity theorem. FC shows additional d=s^L (p24). One-step GD uses tuple-onehot orthogonalization, fixed Gaussian head, all-ones hidden initialization and infinite width (p7). It does not close finite-width multilayer SGD dynamics (p9). Clustering improvement Pc/sqrt(nc) is for maximal occupancy and an explicit layerwise GD/clustering/orthogonalization algorithm; typical-distance asymptotics, no all-pairs finite-sample recovery theorem (pp8,20-21). C40/intermediate C41 normalization and D6/D8 variance-versus-width/D9 prefactor require corrected interpretation; exact coefficients are not certified. Worker additional printing cautions remain retained. Decorrelated control and lazy comparison are finite numerical observations; v=2 in Fig9 is not exactly random. No independent neural/CIFAR reproduction. CIFAR uses plausible unmeasured m,L rather than independently identified grammar; extensions to noise, ambiguity, nonuniformity, language and self-supervision remain prospective. Reviewer targeted 12 original pages; complete 24-page full-text/original-image review belongs to worker. Hash verification is not proof certification.",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": true
+    },
+    "bbaef0aee3fb00f5": {
+      "grade": "B",
+      "score": 27,
+      "score_breakdown": [
+        4,
+        3,
+        5,
+        0,
+        3,
+        3,
+        5,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "bbaef0aee3fb00f52620c37501e319c1da1cf173de22f33aa73fbabeacd47436",
+      "assessment_sha256": "4a2a2d5a69f90e2e5f598941ebce767b2ab4a7d4e321f5d2b8e5130ff271811a",
+      "registry_seq": 4017,
+      "rationale": "B27：非守恒密度/极化粗粒化与图样动力学有明确机制价值；平均场和von Mises闭合、有限波数截断及系数/符号不一致限制数学与普适性。Pe=5、7.5的有限数值滞后/共存证据予以保留；Pe=0仅限定被动极限的外推范围，不用于反驳上述观察。未提供现代AI机制结果。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
     },
     "05c3d9c12deb17b4": {
       "grade": "S",
