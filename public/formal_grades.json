@@ -2194,6 +2194,50 @@
       "review_boundary": "已审读正文及必要附录；未独立复现或逐篇认证生成稿。",
       "load_bearing_contribution_confirmed": false
     },
+    "4d73dc618d0726e0": {
+      "grade": "A",
+      "score": 28,
+      "score_breakdown": [
+        3,
+        3,
+        3,
+        4,
+        3,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v3",
+      "source_program": "Collection",
+      "source_pdf_sha256": "c3c61f0a6f9a32700fc47d9898db573628d72bdea07562ca319ceba046e95c84",
+      "assessment_sha256": "80b91b50a733cc1eb60236e4b5d97001b0bb8105306db7ee32c33597fe16a1b1",
+      "registry_seq": 4077,
+      "rationale": "整合数据、视频模型与评测构建世界模型平台；有限模拟一致性及离线视频预测不能证明闭环控制效果。",
+      "review_boundary": "已审读正文及关键原页；未独立运行模型或验证数据。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "3454844f3a50a629": {
+      "grade": "B",
+      "score": 17,
+      "score_breakdown": [
+        2,
+        1,
+        0,
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "8a6a665cef66598a998e3b2d57dafce4340c28e5ea40aa82973676bdde19ec0f",
+      "assessment_sha256": "769f611b5fcecd7eed5b32373af6e93ef70cdebd6175b563c7c721ed159f78c6",
+      "registry_seq": 4075,
+      "rationale": "依据产业访谈归纳智能体部署障碍；样本选择、自报告和访谈范围限制结论的普遍性。",
+      "review_boundary": "已审读正文和关键原页；未独立验证访谈原始资料。",
+      "load_bearing_contribution_confirmed": false
+    },
     "9ae5933a40d0368d": {
       "grade": "S",
       "score": 35,
@@ -2258,6 +2302,28 @@
       "registry_seq": 4073,
       "rationale": "综述神经算子的表示、科学应用和开放问题；所引加速与离散化结论需结合具体比较条件理解。",
       "review_boundary": "已审读正文与关键原页；未独立复核所引应用或代码。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "cee7619e23629279": {
+      "grade": "B",
+      "score": 25,
+      "score_breakdown": [
+        3,
+        2,
+        3,
+        4,
+        3,
+        3,
+        4,
+        3
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "74644c82c0edfb440b4423d05aa73453f83c1ceda96019948e34982f4bb3a561",
+      "assessment_sha256": "8902833c03b9acc647c5d9b5f4caf97990e20f0522345a6a14cb4a61f4ecf8e7",
+      "registry_seq": 4076,
+      "rationale": "比较神经算子在行人流模型上的误差与困难；边界信息、数值参考及复杂度混杂限制机制归因。",
+      "review_boundary": "已审读正文及必要附录；未独立复现数值实验。",
       "load_bearing_contribution_confirmed": false
     },
     "3e3bd7ec82a2c7f2": {
