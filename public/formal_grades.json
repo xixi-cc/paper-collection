@@ -1886,6 +1886,50 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "e52ccd55b8707b36": {
+      "grade": "A",
+      "score": 32,
+      "score_breakdown": [
+        4,
+        3,
+        5,
+        4,
+        3,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "44f4b819cf2f8dc8abbc677e3ab70ef0af9b905e14e0468bc0b38b2d352d2e80",
+      "assessment_sha256": "edc4db37bbf18b655dba523147941e5f6bf96c7c34d650b47bf5e41e0030b4af",
+      "registry_seq": 4058,
+      "rationale": "谱空间粗粒化和缩放区间提供可计算的重整化群框架；结论依赖等效核、特征重叠与截断近似，数值验证限于特定线性模型。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "3e3bd7ec82a2c7f2": {
+      "grade": "A",
+      "score": 28,
+      "score_breakdown": [
+        4,
+        2,
+        4,
+        3,
+        2,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "23552a44cbe27dee91cca2b6998d92136cb67c5472d04283d39363399b05519b",
+      "assessment_sha256": "104ef4f4d0299aba3720ffe9c34a3f2a301f447dce6a65b2d97db3cb9c4d3691",
+      "registry_seq": 4056,
+      "rationale": "变分重整化群与受限玻尔兹曼机的条件映射具有理论价值；自由能相等不足以保证逐态迹归一，二维数值结果主要提供定性示例。",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2603.12901": {
       "grade": "A",
       "score": 32,
@@ -4853,6 +4897,28 @@
       "assessment_sha256": "359114bf89872689e7762626316f625157a0efc2d3c0b17e2afbda0e756b983a",
       "registry_seq": 3964,
       "rationale": "Substantial and directly useful conditional refit-stability study with real ablation evidence; predominantly empirical measurement, not established universal circuits or gauge-invariant causal theory. Independent B22. Supplemental availability resolution does not upgrade scientific claims.",
+      "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2511.05628": {
+      "grade": "B",
+      "score": 17,
+      "score_breakdown": [
+        2,
+        2,
+        1,
+        3,
+        2,
+        2,
+        3,
+        2
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "d14f7efaed587709f2ea152c132cce50a9eb424611190f6adb6538128e6599c0",
+      "assessment_sha256": "19415cea5fcdc5c519106818f7a532f0d9e49e2f615e2d8a6c41e731150b6d32",
+      "registry_seq": 4057,
+      "rationale": "无偏置 ReLU 网络的输入依赖有效权重提供一种表征视角；单一 MNIST 实验的二维投影不足以证明高维距离演化或因果机制。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
