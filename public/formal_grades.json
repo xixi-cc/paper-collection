@@ -2788,6 +2788,28 @@
       "review_boundary": "已审读正文及文内附录；未独立复核所引实验。",
       "load_bearing_contribution_confirmed": false
     },
+    "897f8f1177809141": {
+      "grade": "S",
+      "score": 34,
+      "score_breakdown": [
+        4,
+        4,
+        3,
+        5,
+        4,
+        4,
+        5,
+        5
+      ],
+      "source_version": "v7",
+      "source_program": "Collection",
+      "source_pdf_sha256": "fa263720581a88a56961ec654ef54f757b4b13dce2e64f6d2158fc0d19e17496",
+      "assessment_sha256": "4bd97800032ce97c9c67b27379d4143268f19c56a67ae0cfc7c6a315e050b10c",
+      "registry_seq": 4102,
+      "rationale": "结合变分信息瓶颈、随机编码与重参数化训练，构造可训练的表征学习方法；互信息估计和对抗实验结论受具体上界及测试条件限制。",
+      "review_boundary": "已审读正文和内部附录；原 PDF 有重建警告，关键页可读，未独立复现。",
+      "load_bearing_contribution_confirmed": true
+    },
     "f069379fcbb20834": {
       "grade": "B",
       "score": 24,
@@ -2830,6 +2852,50 @@
       "registry_seq": 4100,
       "rationale": "将高斯信息瓶颈的最优粗粒化与软截断重整化群联系起来；结论依赖高斯模型和相关变量的选择。",
       "review_boundary": "已审读正文及必要附录；未逐项认证证明或独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "4a26e778bf20d796": {
+      "grade": "S",
+      "score": 34,
+      "score_breakdown": [
+        5,
+        4,
+        5,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "b0a4a283f7ff0c948a35d047f84c011cd1a3236cbbc4031397143637c680fc98",
+      "assessment_sha256": "efecc1712f912b1f554fd3136a8c0cec7619782c0e794ac03116dff900b622f1",
+      "registry_seq": 4101,
+      "rationale": "在大缓冲和单领先模态等条件下，建立信息瓶颈首次转变与重整化群相关模态的定量联系；有限系统和对称性反例限定其适用范围。",
+      "review_boundary": "已审读正文及必要补充内容；未独立复现。",
+      "load_bearing_contribution_confirmed": true
+    },
+    "9c814e3ecbd108ed": {
+      "grade": "A",
+      "score": 32,
+      "score_breakdown": [
+        4,
+        3,
+        1,
+        5,
+        5,
+        5,
+        4,
+        5
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "03c6a3e6ed63e4aff3aa3c868d2efcb9cc6eb7b4a837a523df872d178f650593",
+      "assessment_sha256": "998c090e0726424cc0fd6235f40693749c4b596ea127823defd7144fa4892a21",
+      "registry_seq": 4103,
+      "rationale": "用复杂度加权的跨环境表现形式化智能指标，并综合已有智能序和算法概率思想；参考机可影响排序，实际测试与定理先验的对应仍待验证。",
+      "review_boundary": "已审读正文及关键原页；未独立核验所引全部定理或复现。",
       "load_bearing_contribution_confirmed": false
     },
     "3e3bd7ec82a2c7f2": {
