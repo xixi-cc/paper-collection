@@ -3734,6 +3734,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2508.19151": {
+      "grade": "A",
+      "score": 29,
+      "score_breakdown": [
+        4,
+        2,
+        4,
+        4,
+        3,
+        4,
+        5,
+        3
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "3276bf5cd0fe05612138ed93e66ca84cfbf69324eb143d5427ed757a075f137c",
+      "assessment_sha256": "f1aa59e1980cdfd15dccac0fae516ab6d90c9b04784d7f83f029a437930b6bd4",
+      "registry_seq": 4143,
+      "rationale": "结合统计物理构造与有限实验研究联想记忆的鞍点结构；层级固定点及稳定性论证仍有待澄清。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2603.12901": {
       "grade": "A",
       "score": 32,
@@ -3776,6 +3798,28 @@
       "registry_seq": 4053,
       "rationale": "B22：自极化投影流的条件谱动力学有可核查内容，但不等同于实际Muon；关键熵极大化证明与Fig12证据缺失，噪声协方差、动量及实验口径限制解释范围。保留各项假设，不作全部理论反驳或训练复现。",
       "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2201.12220": {
+      "grade": "A",
+      "score": 32,
+      "score_breakdown": [
+        4,
+        4,
+        2,
+        5,
+        4,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v3",
+      "source_program": "Collection",
+      "source_pdf_sha256": "82d0907313c5abf39aa469aa8caae4e57dcc31c9a4ed063fbaf826ab957355af",
+      "assessment_sha256": "d762d760a25b26af161c430c4c35539893ed68de0012fcb13b90093cd0bca573",
+      "registry_seq": 4144,
+      "rationale": "以随机神经映射与对偶势构造弱最优输运方法，理论和实验结论依赖成本与优化条件。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
     "2510.17515": {
