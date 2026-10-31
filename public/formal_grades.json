@@ -6396,6 +6396,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2404.06453": {
+      "grade": "B",
+      "score": 26,
+      "score_breakdown": [
+        3,
+        2,
+        1,
+        5,
+        3,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "720dbdcb4ee86059153430d337df315d0111ebe528d6839a0ea145b748aa3266",
+      "assessment_sha256": "36846884db5dad385933b875b90e6adcbf643cc83aac32eb8c1ce3a299cb42e8",
+      "registry_seq": 4204,
+      "rationale": "局部归因聚类提供虚拟特征的实证方法；CLIP 是有限语义代理，结果不能证明全局单语义或因果回路。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2307.04755": {
       "grade": "A",
       "score": 32,
@@ -6415,6 +6437,28 @@
       "assessment_sha256": "c4175af176bf154a7325f0f16fa9d21b84f20b40324dbd5938ff433940ffa6cf",
       "registry_seq": 4189,
       "rationale": "论文用分布式信息瓶颈分析复杂系统中的预测信息，并应用于剪切玻璃的局部重排；所得信息分配依赖模型、测量和验证范围。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2504.03933": {
+      "grade": "B",
+      "score": 25,
+      "score_breakdown": [
+        3,
+        2,
+        1,
+        5,
+        3,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "75268428ded9528dbefb80df087b461495a52d4751c8676ffaac8d0ea26ce2a1",
+      "assessment_sha256": "b71743309ff2446084a568c3569c75e9f3924a74ecc24a807c52093f65df6d3d",
+      "registry_seq": 4205,
+      "rationale": "时长与嵌入插值提供可操作干预；印出的因果积分与全区间求和存在未解释差异，有限提示实验不能证明普遍连续语义。",
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
