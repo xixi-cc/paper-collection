@@ -4878,6 +4878,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": true
     },
+    "2505.13230": {
+      "grade": "A",
+      "score": 32,
+      "score_breakdown": [
+        4,
+        3,
+        4,
+        5,
+        3,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v3",
+      "source_program": "Collection",
+      "source_pdf_sha256": "364c6e1a4de6a404faacdd410809da68f133bad3b7d894eac3bde3e55e2acd82",
+      "assessment_sha256": "f83e2eaeb50750adee19a733f760445df6526abd960e42e5cc0c55367a98801f",
+      "registry_seq": 4167,
+      "rationale": "用范数描述训练中泛化误差的尺度变化，并在感知机与有限图像分类实验中检验相关关系；推广和机制仍待验证。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2304.02381": {
       "grade": "B",
       "score": 19,
@@ -4964,6 +4986,28 @@
       "registry_seq": 3726,
       "rationale": "A27: affine-logit binary exact radius and multiclass nonzero strip proof valid, but infinite Taylor convergence does not certify finite-order accuracy or gradient decrease. Symmetric two-sample CE 3epsilon step counterexample; nonlinear radius lower bound fails under common logit shift. Eq26 KL direction reversed while final forward-KL constant can be repaired with Dprime=tKdoubleprime, so do not reject final bound. Small-model10epoch CIFAR/fixed hyperparameters, attention radius never Table2 bottleneck, missing gradient factor in Hessian step comparisons and Figure13 reversed caption formula require scope. Preserve complete opinion; no S card or reproduction.",
       "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2502.20914": {
+      "grade": "A",
+      "score": 30,
+      "score_breakdown": [
+        4,
+        3,
+        3,
+        5,
+        3,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "cb428554da53bc287b16cc7fdddc187be5e98873222525e8c436c4aa7999dddf",
+      "assessment_sha256": "b34684e5869dc4fcb27ee1f2670bad8cb31a15124a7fcfb4e97ee491e5d3ff81",
+      "registry_seq": 4168,
+      "rationale": "以小型网络反例和电路搜索检验机制解释的可识别性；计数与结论受搜索空间和任务条件限制。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
     "2210.13599": {
