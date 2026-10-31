@@ -3756,6 +3756,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2602.08064": {
+      "grade": "B",
+      "score": 27,
+      "score_breakdown": [
+        3,
+        3,
+        1,
+        5,
+        3,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "eab3d4e696133d256ee4134fafd3296598156fc20875206f929a125b32809f04",
+      "assessment_sha256": "9912629d3ad0494571a310fd76878a680e7fb77ffaa760c47ce4f8e394da925f",
+      "registry_seq": 4194,
+      "rationale": "双流归一化构造与多种设置下的训练实验有价值；优势和稳定性限于所测条件，耦合 Jacobian 本身不证明普适稳定。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2603.12901": {
       "grade": "A",
       "score": 32,
@@ -3841,6 +3863,28 @@
       "assessment_sha256": "a3420261cafecd367cb1c002aec5314ef3d69cc4f6da1dfc1398629683b16583",
       "registry_seq": 4145,
       "rationale": "分析分层变分自编码器中不同潜变量层的信息率与生成、表示表现之间的权衡。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2606.00340": {
+      "grade": "B",
+      "score": 27,
+      "score_breakdown": [
+        4,
+        3,
+        2,
+        4,
+        3,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "4ec9f6bc5e990be2b4fab6fda3c4b470e998f7c61a4d9a19ab1e637c1ebef536",
+      "assessment_sha256": "addadd80ea3bccb723d8548732090eb07ef39d70f2ae7b3b47342c81d2359cd9",
+      "registry_seq": 4195,
+      "rationale": "有限步层间学习率分析提供理论视角；结论依赖简化线性模型，近似轨道结果与真实轨道精确最优性的联系尚需审慎。",
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
