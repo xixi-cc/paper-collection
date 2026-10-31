@@ -4746,6 +4746,50 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2604.09429": {
+      "grade": "B",
+      "score": 26,
+      "score_breakdown": [
+        3,
+        2,
+        2,
+        5,
+        3,
+        4,
+        3,
+        4
+      ],
+      "source_version": "v4",
+      "source_program": "Collection",
+      "source_pdf_sha256": "47174af777f5f51c772b9892a2c057c0b7e27485d2aa079ae5b6e0015717a784",
+      "assessment_sha256": "80f6e72761b39806390c173985841ffafbbfe62810a6acb86e8c893bd2ec72ae",
+      "registry_seq": 4198,
+      "rationale": "联合视频与相机轨迹生成提供多任务表示；所测对照改变接入方式，训练依赖重建位姿，几何准确性和场景泛化受限。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2509.10414": {
+      "grade": "B",
+      "score": 26,
+      "score_breakdown": [
+        4,
+        2,
+        1,
+        5,
+        3,
+        3,
+        4,
+        4
+      ],
+      "source_version": "v4",
+      "source_program": "Collection",
+      "source_pdf_sha256": "f4b019291a14483c06bde450461826adc216fa7122a0a641f8bea4a0ee43ead0",
+      "assessment_sha256": "2bcc6c0f76299e215017e3e74c3f8c402d04e7017dcca395b1c594e92bf75101",
+      "registry_seq": 4199,
+      "rationale": "受控任务比较上下文示例、提示与分布偏移的影响；理论形式化需额外条件，有限样本不能证明一般机制或渐近结论。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2603.09972": {
       "grade": "A",
       "score": 32,
