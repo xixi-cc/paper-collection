@@ -4944,6 +4944,50 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2602.09276": {
+      "grade": "A",
+      "score": 28,
+      "score_breakdown": [
+        4,
+        3,
+        1,
+        5,
+        3,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "58edde2d2073ff2769944a59f71fcb2ad2d36689cd096c9ecfe0397f0cc0c278",
+      "assessment_sha256": "4794531dafa44071187fa3b56966591cf018209aff32d6ee1337a21f65a97c27",
+      "registry_seq": 4200,
+      "rationale": "基于有限 LoRA 配置的操作性容量指标与推理策略效果呈相关；阈值文字存在不一致，结论受模型及训练条件限制，不能推断因果。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2606.13276": {
+      "grade": "B",
+      "score": 25,
+      "score_breakdown": [
+        3,
+        3,
+        1,
+        5,
+        2,
+        3,
+        4,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "f05e821a7c62c1a2fdb6adc6527a587d2e430b7a755e6b5308a488c2b69ffd26",
+      "assessment_sha256": "ecf4ec6c58fc998fcd827841c0bd294f5ae8f5ccbd62f4295a71947fa1097eb3",
+      "registry_seq": 4201,
+      "rationale": "模块几何约束在所测小模型中呈现不同谱和损失趋势；基线权重衰减不同，饱和机制未直接验证，不能外推为普适稳定规律。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2509.16447": {
       "grade": "A",
       "score": 30,
