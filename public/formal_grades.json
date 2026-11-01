@@ -5780,6 +5780,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2511.12869": {
+      "grade": "B",
+      "score": 18,
+      "score_breakdown": [
+        2,
+        1,
+        1,
+        4,
+        2,
+        2,
+        4,
+        2
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "9a68432dd860a4ec9e533f87b4b5e8e28c0981bfe196d30b271243ceec2fb6f7",
+      "assessment_sha256": "aedab12c5ef0e163c9cf8c2fe95678d25e9f534b4e90a7a24abc06390a08da03",
+      "registry_seq": 4253,
+      "rationale": "综述多类 LLM 局限，但若干承重证明存在具体缺口；停机问题结论不提供自然查询的错误率下界。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2608.18419": {
       "grade": "B",
       "score": 27,
@@ -7032,6 +7054,28 @@
       "registry_seq": 3640,
       "rationale": "RL/SFT比较须控制process-vs-outcome监督、teacher forcing和model-generated prefixes，而非泛称RL同时学、SFT只能逐步。机制有价值，但一般梯度、多更新解析与算法接口存在未补论证，严格S门槛不过。",
       "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2510.18184": {
+      "grade": "B",
+      "score": 26,
+      "score_breakdown": [
+        3,
+        3,
+        1,
+        5,
+        3,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v3",
+      "source_program": "Collection",
+      "source_pdf_sha256": "9c770ea5413d31a425d4b9e4d69d5361732d177a3fc8d00764fdea771b18b699",
+      "assessment_sha256": "851cac53eb19e2151aed7126d67d3ea1bb2a78cb0c8f53c533d92811ea12c873",
+      "registry_seq": 4252,
+      "rationale": "将 SAE 概念检测与显式规则推理结合；效果依赖标注与规则输入，不证明模型自发发现规则或部署安全。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
     "2407.13594": {
