@@ -7804,6 +7804,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2402.02619": {
+      "grade": "A",
+      "score": 32,
+      "score_breakdown": [
+        4,
+        4,
+        4,
+        5,
+        3,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v11",
+      "source_program": "Collection",
+      "source_pdf_sha256": "97cbdbf07a562031617089ccd2fe1f86af5de1012788307f3ec06a6d7ae116d1",
+      "assessment_sha256": "ecccd025bfd82e58d6946f3716bf55cc957d3bad89ad3825b996cc9ab9351480",
+      "registry_seq": 4269,
+      "rationale": "三态进借位算法与电路干预解释受控算术模型；不同模型的共同骨架及因果证据范围须区分。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2603.05143": {
       "grade": "A",
       "score": 27,
@@ -7847,6 +7869,28 @@
       "rationale": "将矩阵不变统计量学习、逐神经元专门化及深层重叠同时组织为可计算的热力学框架。 矩阵互信息、谱理论与多层重叠的技术深度高；但高斯等价、测度替换及附录B6浓缩/ODE假设未全部证明，且纯二次角落存在未解决分歧。分数依据这些具体缺口，不是因使用replica自动扣分。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": true
+    },
+    "2602.07800": {
+      "grade": "B",
+      "score": 24,
+      "score_breakdown": [
+        3,
+        3,
+        2,
+        4,
+        2,
+        3,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "2068397aa70bf3e6cc3a02e474554a0f03b9e513b5e54269569ca475c95c364b",
+      "assessment_sha256": "3cb7849950162fa53831db0d0eb1dc5e8d10f975d3da779ac881227d7b678634",
+      "registry_seq": 4270,
+      "rationale": "论文提出矩阵指数的网络构造并比较数值编码；所给证明有未修补步骤，实验未证明经典算法的计算优势。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
     },
     "2602.07950": {
       "grade": "A",
