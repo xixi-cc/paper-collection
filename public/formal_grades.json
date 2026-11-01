@@ -6990,6 +6990,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2603.01097": {
+      "grade": "B",
+      "score": 25,
+      "score_breakdown": [
+        3,
+        2,
+        1,
+        5,
+        3,
+        3,
+        4,
+        4
+      ],
+      "source_version": "v5",
+      "source_program": "Collection",
+      "source_pdf_sha256": "08b937f35edf84cb1ac2ab67b8ff4a49a8f4f1d71a7629418555c0fcca66ad68",
+      "assessment_sha256": "847d627514a8a83965a300a8f28638b1e78210f6df891d7dabae4e52530bf12f",
+      "registry_seq": 4248,
+      "rationale": "系统比较 LoRA 知识负载和路由；容量依赖任务与阈值，理想路由优势不等同实际部署。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2511.17852": {
       "grade": "A",
       "score": 30,
@@ -7141,6 +7163,28 @@
       "assessment_sha256": "2c8202bfb82f73217a07f4d5a6118470a5ba7c604a98c52e350be8b3d746dec0",
       "registry_seq": 4215,
       "rationale": "函数保持旋转揭示 Adam 的坐标依赖；梯度 SVD 与更新正交性证据限于所测设置，相关关系及简化等价不构成普遍收敛理论。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2602.02859": {
+      "grade": "B",
+      "score": 23,
+      "score_breakdown": [
+        3,
+        2,
+        1,
+        4,
+        2,
+        3,
+        5,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "8913e09603508d71808654360981e0c4b56b728033cc9248b35b2980bcdf0c61",
+      "assessment_sha256": "494c526004b498ff15e28ae7cce5316a2ffaf6dfd551cd40d437c007d6fab1d1",
+      "registry_seq": 4249,
+      "rationale": "小模型长训练中测试准确率明显回落；摘要称回到随机水平与图表不符，谱异常的因果及预警作用尚待验证。",
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
