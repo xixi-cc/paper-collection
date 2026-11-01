@@ -8838,6 +8838,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2402.05173": {
+      "grade": "A",
+      "score": 33,
+      "score_breakdown": [
+        4,
+        4,
+        4,
+        5,
+        4,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "0bd698d643da950c1c8a35e051f7bd52079b8b72d47adcfe0ed708a19e8ccdef",
+      "assessment_sha256": "71865320d5539f272d326a017be32e03eaaccbdbc3879e5bbbce6c3cf89e2c1e",
+      "registry_seq": 4294,
+      "rationale": "在对称数据与指定 NNGP 设置下，群表示和核谱约束 Transformer 的归纳偏置；有限网络与语言统计的证据受所测范围限制。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2405.04669": {
       "grade": "B",
       "score": 25,
@@ -8902,6 +8924,28 @@
       "registry_seq": 3945,
       "rationale": "独立A，29/40。全训练轨迹共同缩放、µP控制和噪声相关归一化的跨任务证据与统计物理框架有承重价值；但坍缩依赖未来终点/拟合offset/选定frontier，不能逆推唯一compute-optimal或一般普适律。F.1缺额外条件、非线性噪声期望遗漏同阶漂移均值、跨schedule式漏分母，加上有限步长/Adam/目标协方差测量和负例，使完整数学与机制认证不成立；未达S。",
       "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2501.17727": {
+      "grade": "A",
+      "score": 31,
+      "score_breakdown": [
+        4,
+        3,
+        3,
+        5,
+        3,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "981e27c85d85ffeb1e29f8919615e6e16aba3ecdd4e5f6c1981f5bd2c015fa0a",
+      "assessment_sha256": "ed0da436996d1c76a71f10d33018f5297c0bd7171c995e70e1330ad3b1f6a3f2",
+      "registry_seq": 4293,
+      "rationale": "所测随机权重模型可产生与训练模型相近的部分 SAE 自动解释指标；这限制聚合分数的解释，并非否定训练模型特征。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
     "2201.02115": {
