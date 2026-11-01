@@ -5076,6 +5076,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2603.12276": {
+      "grade": "B",
+      "score": 21,
+      "score_breakdown": [
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "8a228119a1bf2e77c6dd74da6304805f0faebe636b455e64d855e95cbb76f462",
+      "assessment_sha256": "7b475deae4120ea089278df472f66033e8931d458a7a3b11daf351a41fa4dd75",
+      "registry_seq": 4232,
+      "rationale": "提出几何核网络；逼近结论依赖额外条件，语言模型对照的学习率描述存在未解释冲突。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2304.02381": {
       "grade": "B",
       "score": 19,
@@ -6857,6 +6879,28 @@
       "rationale": "关键价值是把局部事实记忆与全局几何/推理联系的可检验问题和消融；数学分2反映明确非完整定理、附录构造和论证问题，不是仅因现象图漂亮授S。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": true
+    },
+    "2509.20336": {
+      "grade": "B",
+      "score": 22,
+      "score_breakdown": [
+        3,
+        2,
+        1,
+        4,
+        2,
+        3,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "1e4e68831d05a7cdcb4a7cc1070c047587682a0a63d1e418720733421815be90",
+      "assessment_sha256": "313140cc93b8b374e308430e64624ae28d4eff70fb356c318441cfe87307049e",
+      "registry_seq": 4233,
+      "rationale": "电路追踪为合成图任务提出探索性机制；现有归因与输入对照不足以确立所识别电路的因果必要性。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
     },
     "2602.09783": {
       "grade": "B",
