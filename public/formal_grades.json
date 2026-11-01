@@ -6440,6 +6440,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2604.06169": {
+      "grade": "B",
+      "score": 27,
+      "score_breakdown": [
+        3,
+        3,
+        1,
+        5,
+        4,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "de425cc8f80f25d1e0d428fc99c0b9117dbae4233545de96c6354a590f59fbe3",
+      "assessment_sha256": "82f2935b647a3bbefd6dfb25ad1a392ed42dea68e5487c8b0b82af2502f31c04",
+      "registry_seq": 4230,
+      "rationale": "利用 MLP 快权重进行上下文适配；所报预训练模型结果需新增组件和继续训练，快权重跨文档重置。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2510.00504": {
       "grade": "B",
       "score": 26,
@@ -6591,6 +6613,28 @@
       "assessment_sha256": "9b8756a8c418c0b4615036925d271f828b4970950caedec6f84fa3babbda23b0",
       "registry_seq": 4228,
       "rationale": "在部分语言模型中观察次级注意力汇；筛选存在方向选择，干预和相关性尚不确立其普遍功能。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2510.04500": {
+      "grade": "A",
+      "score": 29,
+      "score_breakdown": [
+        4,
+        3,
+        1,
+        5,
+        3,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v3",
+      "source_program": "Collection",
+      "source_pdf_sha256": "e2c5167881e10f80e116ea5361d2a607c67c99bed33f2c258203085df3c79022",
+      "assessment_sha256": "de2d6fb2fcfd3db4b9bfb0d6de01e210d135f1546c59d1f82e11c2faad14dff6",
+      "registry_seq": 4231,
+      "rationale": "固定非零权重预算的拆分提供特征干扰的受控证据；随机支持理论与实际拆分不同，效果及真实计算成本依赖设置。",
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
