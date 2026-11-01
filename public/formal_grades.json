@@ -5098,6 +5098,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2602.22424": {
+      "grade": "B",
+      "score": 27,
+      "score_breakdown": [
+        4,
+        3,
+        1,
+        5,
+        3,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "9b4658d2b8053a004062f0a7c949df76e59d73cb39e4669feec1e789ab0ddc4d",
+      "assessment_sha256": "aa740a927f28a11114dc45fa20a953acdac301f581d88763eccb54e8716b4bf5",
+      "registry_seq": 4224,
+      "rationale": "比较语言模型内的表示稳定性与干预效果；选头和相似性评价部分重合，跨格式稳定性并不证明必要性或完整电路。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2211.11567": {
       "grade": "B",
       "score": 27,
@@ -5492,6 +5514,28 @@
       "registry_seq": 3917,
       "rationale": "独立B，25/40。信息变量及fixedN混合的SNR方差峰有价值，但本文主体是已有熵率/score/Fisher恒等式与symmetrybreaking综合；新动态连接存在reverse符号/trace到轨迹分离缺口，heterocov完整样本熵方差推广有解析反例，AR路径独有性不成立。未达到S承重贡献可靠性要求，也未以研究相关性补分；不继承旧Card、期刊或影响力。",
       "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2604.08192": {
+      "grade": "B",
+      "score": 26,
+      "score_breakdown": [
+        3,
+        3,
+        1,
+        5,
+        3,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "530f1424f4e7f9aef225f8c0e984886157625d334b2c6cc50ea0489a9089a714",
+      "assessment_sha256": "f04b9013e99ca956afdb8beb023c8b164ed73448f8a283123d50a4a28b46e3dc",
+      "registry_seq": 4225,
+      "rationale": "利用视觉 Transformer 内部电路指标估计模型选择与性能变化；结果是有限场景的相关性，告警阈值依赖有性能标签的校准域。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
     "2506.05447": {
