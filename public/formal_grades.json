@@ -8420,6 +8420,50 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2511.09149": {
+      "grade": "A",
+      "score": 29,
+      "score_breakdown": [
+        3,
+        2,
+        3,
+        5,
+        3,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v5",
+      "source_program": "Collection",
+      "source_pdf_sha256": "27232762dfab986d79eea6886695755ad19b0b1b4b5c318c42c8084beb7a5af9",
+      "assessment_sha256": "7c696a60377b85c93058f41754ba411b92ad8d18d499ec9a7a302a5827c78a8c",
+      "registry_seq": 4284,
+      "rationale": "潜空间通信及训练压缩在所测模型和任务中具有实证价值；跨族需要适配，整体表现与生成速度均依赖具体设置。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2510.22977": {
+      "grade": "B",
+      "score": 27,
+      "score_breakdown": [
+        3,
+        3,
+        2,
+        5,
+        3,
+        3,
+        4,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "518490185f9c4adbdc3c02ad15ba9391ef1ecf773358a00c0e6126c6c1f756ac",
+      "assessment_sha256": "cee1d645e1ae4eaf2c691c21d93133efcd798e2aa9956c5188303f964550e84a",
+      "registry_seq": 4283,
+      "rationale": "受控诊断显示所测推理增强训练与工具忠实失败增加并存；指标与因果解释均受评测及训练设置限制。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2506.19852": {
       "grade": "B",
       "score": 19,
