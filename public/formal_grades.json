@@ -8288,6 +8288,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2511.04217": {
+      "grade": "A",
+      "score": 30,
+      "score_breakdown": [
+        4,
+        4,
+        2,
+        5,
+        3,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "35c85baf9f9302741258438725d48f4dbc394ba14c2dccd52501310b73694033",
+      "assessment_sha256": "0b0a79e0ec4c14592e1341f5b02d40b4788d667d20168f95f67b573fb4224dac",
+      "registry_seq": 4280,
+      "rationale": "多头注意力中的强彩票构造给出条件性高概率掩码存在；高效搜索和现实模型推广尚未证明。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2510.15563": {
       "grade": "A",
       "score": 29,
@@ -8309,6 +8331,28 @@
       "rationale": "精确谱幂alpha1/L与非线性表示歧义厘清猜想的机制；尚未成为一般训练规律。 平衡代数和有下界C1损失下的渐近关系可核算；辅助公式问题可修正，不足以单独否定时间指数。",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
+    },
+    "2501.03937": {
+      "grade": "S",
+      "score": 35,
+      "score_breakdown": [
+        5,
+        4,
+        4,
+        5,
+        4,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "ab24e83345077cd85ad5aa5ccf35634b09158c7c6b156cbda145751c899dcaff",
+      "assessment_sha256": "2e95a7b1475cffaa6305605d3f2b1d5df38f2fbd58ba91b855d9cf462ab0c98f",
+      "registry_seq": 4279,
+      "rationale": "有限宽 DAE 的宏观训练动力学与生成分布给出可解机制模型；结论依赖高维和数据结构条件。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": true
     },
     "2507.11688": {
       "grade": "B",
