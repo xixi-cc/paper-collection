@@ -7210,6 +7210,50 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2601.23169": {
+      "grade": "B",
+      "score": 27,
+      "score_breakdown": [
+        4,
+        4,
+        1,
+        4,
+        3,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "6fc25bcb5975cc3e11e8d67c5e2aedb9470eadccc0f8a8a288252ce3fa422c1d",
+      "assessment_sha256": "0e5ac36666e1514b8d7025bf20cf526159b1d085bc5cd141c852ee420840cf6a",
+      "registry_seq": 4250,
+      "rationale": "共享流和对称聚合实现指定符号重命名协变；准确率及规模仍受任务限制，图注与子图标签存在不一致。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2512.16902": {
+      "grade": "A",
+      "score": 30,
+      "score_breakdown": [
+        4,
+        3,
+        1,
+        5,
+        4,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "ef56181ad629496c3999c2ca26232a22a4b9afee0eac4c0b06c41b027f7820d6",
+      "assessment_sha256": "1605ddde758e966d6b2bf414ba79f12f6a17c69f6b5aca719c1fc4541c0ee5d0",
+      "registry_seq": 4251,
+      "rationale": "通过变量映射及激活干预研究上下文代数；结合律表现有限，覆盖统计不等于真实计算路径。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2301.11934": {
       "grade": "S",
       "score": 34,
