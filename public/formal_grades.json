@@ -5560,6 +5560,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2606.03645": {
+      "grade": "A",
+      "score": 28,
+      "score_breakdown": [
+        4,
+        3,
+        2,
+        5,
+        3,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "e92cb5f4c3c6948cd2f1aaf19c7b7154bb2d92ccf36617f6b9256bf7157ad6fc",
+      "assessment_sha256": "970e23be5f1f8e49bc3ee280c22c76431cb90e0352c28d621d3e8e12280f7b88",
+      "registry_seq": 4254,
+      "rationale": "进位势与定向干预为 LLM 算术提出机制线索；拟合不唯一，纠错依赖监督探针。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2604.08192": {
       "grade": "B",
       "score": 26,
@@ -7075,6 +7097,28 @@
       "assessment_sha256": "851cac53eb19e2151aed7126d67d3ea1bb2a78cb0c8f53c533d92811ea12c873",
       "registry_seq": 4252,
       "rationale": "将 SAE 概念检测与显式规则推理结合；效果依赖标注与规则输入，不证明模型自发发现规则或部署安全。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2508.08435": {
+      "grade": "A",
+      "score": 32,
+      "score_breakdown": [
+        4,
+        4,
+        2,
+        5,
+        4,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v5",
+      "source_program": "Collection",
+      "source_pdf_sha256": "228fd0074ef0094e908014967d8efd4466089b60dfb5b2aa4dda566095b42317",
+      "assessment_sha256": "75e33d7ce39f288a529f36ca7d413097d12c781ede7f55c4bb261ef333c9017b",
+      "registry_seq": 4255,
+      "rationale": "Primer 系统联系快权重与线性 Transformer；精确递推不等同普通 softmax 注意力，神经对应仍属假说。",
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
