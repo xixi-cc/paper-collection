@@ -5274,6 +5274,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2510.13665": {
+      "grade": "A",
+      "score": 30,
+      "score_breakdown": [
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "ba35ae1521fa9b6aa91ba3c509cab2f82307e8bd9ecacc7890d8a2a3cd974df9",
+      "assessment_sha256": "fe49de468b59e2bf0e10d88bdf285765e881dcee2735f7f0fb1258ad725c4dac",
+      "registry_seq": 4227,
+      "rationale": "轴共享架构支持不同张量维度的有条件等变；PDE 跨维结果依赖微调、具体基线适配及训练数据。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2305.01604": {
       "grade": "A",
       "score": 32,
@@ -6284,6 +6306,28 @@
       "registry_seq": 3885,
       "rationale": "Observer-relative learned structure objective is a useful organizing idea; broad unification not established. Exact ridge algebra and proper prior-form calculation; code-length equivalence, finite-noise immunity, global MDL optimum and universal implications not certified.",
       "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2510.04327": {
+      "grade": "B",
+      "score": 24,
+      "score_breakdown": [
+        3,
+        3,
+        1,
+        4,
+        3,
+        3,
+        4,
+        3
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "7b4a90b56880a3c5188f9572e2f69f4aba834ddc18c2c3cbf1e383257a8d1e3a",
+      "assessment_sha256": "08ebeffebf221f2e4041b7a6423fd11d2710243397fa79ee5ec307caf2660071",
+      "registry_seq": 4226,
+      "rationale": "为特定 CNN 和残差网络分析学习率深度尺度；一步更新理论与一轮验证最优为不同量，分段预测依赖两个锚点。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
     "2603.11487": {
