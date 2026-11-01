@@ -6022,6 +6022,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2509.22436": {
+      "grade": "B",
+      "score": 26,
+      "score_breakdown": [
+        4,
+        4,
+        1,
+        4,
+        3,
+        3,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "1ba5377f6e8bb8c9911a3c31fcda9b560e3f0a4066c0509a71e2436bd22d9740",
+      "assessment_sha256": "fd7274b719d2397d76031670640f8a8116cbd900f4b59313cecc8da9d739ec07",
+      "registry_seq": 4221,
+      "rationale": "特定条件下分析 Neural ODE 训练收敛；图中负核特征值与精确 Gram 半正定性存在未解释张力，证明及数值未独立认证。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2512.13898": {
       "grade": "A",
       "score": 28,
@@ -6130,6 +6152,28 @@
       "registry_seq": 3718,
       "rationale": "Root final fulltext B22, not S. Exact stationary law is a Gaussian mixture with known memory-norm weights; normalized memories admit direct exact iid memory-plus-noise sampling, absent from the paper. Incorrect Gaussian baseline noise scale and analytically matched novelty/energy weaken the claimed distinct generation evidence. Correct score/Hessian/dissipativity retained with sufficient-versus-necessary convexity, fixed-query entropy versus stationary bifurcation, energy-barrier scaling, readout, inverse preprocessing, label-conditioned masks and autocorrelation boundaries. Complete root opinion preserved; no rerun, S card or publication.",
       "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2601.03368": {
+      "grade": "B",
+      "score": 23,
+      "score_breakdown": [
+        3,
+        2,
+        2,
+        4,
+        2,
+        3,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "1ff01c618c9203aec621100f467c08ada87a0f71b13216781a2fed88ac3fab9e",
+      "assessment_sha256": "9721dd5db1d99db0ae0565ded60ed1b77098204fe086966489e96a6148349dbb",
+      "registry_seq": 4220,
+      "rationale": "有限 Zipf 熵与 BPE、模型输出统计相联系；单一实证设置、注意力代理和熵吻合不足以证明独立性或普适机制。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
     "2603.11673": {
