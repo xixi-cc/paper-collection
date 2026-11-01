@@ -9278,6 +9278,50 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2608.02064": {
+      "grade": "B",
+      "score": 26,
+      "score_breakdown": [
+        3,
+        3,
+        2,
+        4,
+        3,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "36e25419da7f32bdb06d69f437ea2170f8cc1525c3bd6d08227d6545c02e3c82",
+      "assessment_sha256": "3a69745a70e66764ddf9c5fbe5b1c4764451ad9e73d497aaa55a2f7b9f8210d5",
+      "registry_seq": 4256,
+      "rationale": "几何引导宽度分配提出可检验的固定预算方案；最优性属于假设代理，有限种子比较尚无配对差不确定度。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2405.20605": {
+      "grade": "B",
+      "score": 23,
+      "score_breakdown": [
+        3,
+        2,
+        1,
+        4,
+        2,
+        3,
+        5,
+        3
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "b1d17f53ace5a33c42cbbec913c0dabd9d90b82c416733853307ad2f60db45a0",
+      "assessment_sha256": "ab4377bb04c4670a14e883ef230ad035d7e6f59bbfb83e7a25ad688c1b21beaa",
+      "registry_seq": 4257,
+      "rationale": "局部激活聚类提供可操作的表征分析；符号推理尚未证明，检测依赖标签与样本筛选。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2211.05641": {
       "grade": "B",
       "score": 26,
