@@ -5648,6 +5648,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2604.07822": {
+      "grade": "A",
+      "score": 28,
+      "score_breakdown": [
+        3,
+        3,
+        1,
+        5,
+        3,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "a1a0e8f0507df84ddc70d438ba465a883c1f0002a7fc04845e471eabcb3d10b8",
+      "assessment_sha256": "cfbf7265c9eac2e9e4f115dc393f86faf069e7e2cbca0d5f8cbb6e5f9a2b1a59",
+      "registry_seq": 4223,
+      "rationale": "受控知识图展示组合泛化与深度外推；OOD 原子事实仍用于训练，匹配训练数据时动态与固定循环外推相近。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2412.04703": {
       "grade": "A",
       "score": 30,
@@ -6283,6 +6305,28 @@
       "assessment_sha256": "b769ecffa7033b1eccce54622e07e2069a6ff4abf554f001a09ff6da61b55531",
       "registry_seq": 4193,
       "rationale": "论文用随机摩擦弹簧块模型解释深网络层间特征分离趋势；该模型是条件性的现象学类比，泛化因果关系尚未建立。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2511.02003": {
+      "grade": "A",
+      "score": 28,
+      "score_breakdown": [
+        4,
+        3,
+        4,
+        3,
+        3,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "4ac8adaea7677440503c27f9c34734e948ec584a1acd691dc402fac9a19f02ba",
+      "assessment_sha256": "271a8c12619beb1298e1e59990949c1a530e27550345efc3a5b114d64a852ab2",
+      "registry_seq": 4222,
+      "rationale": "形式分解呈现前馈网络深度局域性；随机训练对应尚未闭合，能量流的学习意义及预测力待检验。",
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
