@@ -8354,6 +8354,50 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": true
     },
+    "2602.09784": {
+      "grade": "A",
+      "score": 29,
+      "score_breakdown": [
+        3,
+        2,
+        4,
+        5,
+        3,
+        4,
+        5,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "57a3ee1af25188faa64518cb29917a31278a0dca9ac87c8dcc1fb92079bdc287",
+      "assessment_sha256": "6ab44909da53c5636ed4b3cc30cfff4fd5506c051266ca8199a202c8e9f997c0",
+      "registry_seq": 4282,
+      "rationale": "答案方向投影与混合激活归因提供候选电路方法；结果不证明唯一计算路径，部分表格尺度及情绪负结果须保留。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2606.12917": {
+      "grade": "B",
+      "score": 24,
+      "score_breakdown": [
+        3,
+        3,
+        2,
+        4,
+        2,
+        3,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "6592359930da373db33a68a83a1c98b985261f30a54deb3f435142b8f9b9fd80",
+      "assessment_sha256": "395d70a5986fd7d0e365bfe2b26aa836c7ef5d4c4ae15dce60fc90e45522615d",
+      "registry_seq": 4281,
+      "rationale": "单模型两个合成回归任务的头部消融提供有限因果定位；负向 patch 与 steering 失败不能推广为普遍机制。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2507.11688": {
       "grade": "B",
       "score": 25,
