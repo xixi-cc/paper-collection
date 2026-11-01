@@ -4790,6 +4790,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2608.13335": {
+      "grade": "S",
+      "score": 35,
+      "score_breakdown": [
+        5,
+        4,
+        4,
+        5,
+        4,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "2bf83169dbac1dce0a85c78198ef818e6c0bb4aa70409fc809be4937e906bed8",
+      "assessment_sha256": "b9063c90493f72ccee353828e5237f7720a37fa5096634a76566d77f68de3852",
+      "registry_seq": 4259,
+      "rationale": "局部二次结构和闭合动力学联系突发学习与训练时间幂律；结论依赖光滑性、谱和可解条件。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": true
+    },
     "2603.09972": {
       "grade": "A",
       "score": 32,
@@ -7407,6 +7429,28 @@
       "rationale": "GeneralDAG squared-weight network flows, edge-deletion connectivity criterion and exact Jacobian rank/isolated-subgraph correspondence. Math3 preserves ReLU Hessian proof gap with cut-edge Gronwall supplement, nuclear nonsmooth misdescription and experimental-count conflicts without denying core theorems.",
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": true
+    },
+    "2510.15262": {
+      "grade": "A",
+      "score": 29,
+      "score_breakdown": [
+        4,
+        3,
+        1,
+        5,
+        3,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "55ac08f41e175fb7d03052f0772c8c3fd8336f41c2dd8a8b3d1afe64ac187aef",
+      "assessment_sha256": "317a8c65bc360c4d9670439da3d3d78c772dfa10595619284e1788113cb3e45a",
+      "registry_seq": 4258,
+      "rationale": "经验谱对齐为 AdamW 下宽度迁移提供可检验规则；指数与效果的跨架构普适性仍待验证。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
     },
     "2504.02918": {
       "grade": "A",
