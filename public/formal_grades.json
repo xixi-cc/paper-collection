@@ -9278,6 +9278,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2402.05424": {
+      "grade": "A",
+      "score": 28,
+      "score_breakdown": [
+        3,
+        3,
+        3,
+        4,
+        3,
+        5,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "348e3c3e23184a64feb7031117605ff9ed6681b2fcfc3bd7a6770c3a449dc876",
+      "assessment_sha256": "6b01244a56aa0dec2f9873a38ea3f9956bd41b5442547e5ecd34dc3a6e04dfec",
+      "registry_seq": 4308,
+      "rationale": "组合图示明确表达张量轴和运算结构，架构及代码示例支持其表达用途，未验证普遍人因收益。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2208.09859": {
       "grade": "B",
       "score": 23,
@@ -9320,6 +9342,28 @@
       "registry_seq": 3943,
       "rationale": "独立B，25/40。物理固定点与残差代理目标之间的训练失效诊断有具体跨ODE/PDE证据，含hardIC控制、seed/超参扫和长训练逃逸；但固定点零残差不能证明参数吸引盆，AllenCahn分段命题仅为避跳点采样身份而非真正PDE稳态/光滑PINN解，低残差比指导网络更优不证明trueglobalopt不可达，二维lossplane与有限benchmark不识别唯一因果机制。原表标签/比例与阈值敏感性进一步限制定量结论。",
       "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2504.12883": {
+      "grade": "A",
+      "score": 32,
+      "score_breakdown": [
+        4,
+        4,
+        3,
+        5,
+        4,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "a9effa571edb74c7a4b9f727ea0c66d20a4f177ba726f78926b9eb3dfada33bb",
+      "assessment_sha256": "64a549f9e979965af97656ff719d21c86694ca4cfda732a077038fbceb851cfc",
+      "registry_seq": 4307,
+      "rationale": "显式参数正则在特定重参数化镜像流中改变隐式偏置；推广依赖结构与优化假设。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
     "2506.22049": {
