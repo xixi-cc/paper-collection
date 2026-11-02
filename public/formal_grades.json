@@ -9234,6 +9234,50 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2403.18494": {
+      "grade": "A",
+      "score": 30,
+      "score_breakdown": [
+        4,
+        3,
+        4,
+        4,
+        3,
+        3,
+        5,
+        4
+      ],
+      "source_version": "v2",
+      "source_program": "Collection",
+      "source_pdf_sha256": "bf1b13af2d639e6eb9bc3de0d9f0a58711810c49438340dd0138d22467b04395",
+      "assessment_sha256": "4b6b0b457af2af4c0f327d4ef78fc2cead56eaad46271531d61a92d4d9b19d37",
+      "registry_seq": 4305,
+      "rationale": "PINN 上观察到梯度信噪比、残差分布与泛化的联系；其阶段及因果关系限于所测模型。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2404.07009": {
+      "grade": "A",
+      "score": 31,
+      "score_breakdown": [
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v3",
+      "source_program": "Collection",
+      "source_pdf_sha256": "24cd556a9cdfa611d360fb6f8c49148d514043444625e645f22c413551cc2dd9",
+      "assessment_sha256": "65ef27c5fadf43bb0996439c02819716eb9105e678ec7553623e113154bf68bb",
+      "registry_seq": 4306,
+      "rationale": "理想技能—文本随机图上，迭代学习显示阈值；真实语言模型映射与关联独立性仍有限制。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2208.09859": {
       "grade": "B",
       "score": 23,
