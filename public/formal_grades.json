@@ -9190,6 +9190,50 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2403.15297": {
+      "grade": "B",
+      "score": 26,
+      "score_breakdown": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        3
+      ],
+      "source_version": "v4",
+      "source_program": "Collection",
+      "source_pdf_sha256": "acee2fc70c5c753edb50765161f46dd9603673f6ef9b726cc7415e998c97516b",
+      "assessment_sha256": "3bbf3cd69d34c01893a099bef49754030425a430f2abde67f4d022bb2ccdd3d3",
+      "registry_seq": 4303,
+      "rationale": "球几何与预设规则构造特定三段论的模型与反例；理论及实验范围限定，原文部分数值不一致。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2308.09952": {
+      "grade": "A",
+      "score": 32,
+      "score_breakdown": [
+        4,
+        3,
+        4,
+        3,
+        5,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v3",
+      "source_program": "Collection",
+      "source_pdf_sha256": "4a9fb13e84a707062e28d9917c309b7178eb8e2eff9331074fdb5a0df2056c93",
+      "assessment_sha256": "e3284c9de932ac52b0a0744b6d535f55344bf7ee36aed82e5f52bece6429c3a3",
+      "registry_seq": 4304,
+      "rationale": "预测约束和重加权有效信息用于学习宏观动力学；因果解释依赖模型与干预分布假设。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2208.09859": {
       "grade": "B",
       "score": 23,
