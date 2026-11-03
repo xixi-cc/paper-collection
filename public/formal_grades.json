@@ -9410,6 +9410,28 @@
       "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "2503.22547": {
+      "grade": "B",
+      "score": 25,
+      "score_breakdown": [
+        3,
+        2,
+        3,
+        4,
+        3,
+        3,
+        4,
+        3
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "25bfaf00b8dd2c064d97a3856070a5079ee0e3c846b070b15d3af3e524caebbe",
+      "assessment_sha256": "597dca69b25677b7ac2a29acfe8b1d79627b37b06c484678b2c8916d35fc283d",
+      "registry_seq": 4312,
+      "rationale": "归一化 token 相关量与投影近似给出条件性的维数代理；语义与性能解释尚需独立验证。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
     "2506.22049": {
       "grade": "B",
       "score": 20,
@@ -9430,6 +9452,28 @@
       "registry_seq": 3928,
       "rationale": "独立B，20/40。GPAS是有价值的forward scale/custombackward解耦配方，25个主文PPL对照、partial7B和stopgradient/位置/门值消融值得保留。gradient-preserving只指gate处反向信号，非实际forward objective derivative、baselinegradient或lossrate保证；AppendixC有variance平方、不等式方向与渐近闭合实质缺口。optimizer/scale/clip/seed/compute和机制因果控制不足，无物理承重或普适LLM训练理论；不继承Card/影响力/配额。",
       "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "2403.03375": {
+      "grade": "A",
+      "score": 32,
+      "score_breakdown": [
+        4,
+        4,
+        3,
+        5,
+        4,
+        4,
+        4,
+        4
+      ],
+      "source_version": "v3",
+      "source_program": "Collection",
+      "source_pdf_sha256": "ed62f3a36bd2179fe93b160892c6a8f915b6ab4586cc433161999c8a5a0bd20b",
+      "assessment_sha256": "e31f8f19ac683c9a2cc19a37cc6bd6f2d62900b970f8f70b3025a2a57eb7c22f",
+      "registry_seq": 4311,
+      "rationale": "受控 Boolean 任务展示伪相关强度与特征复杂度如何影响学习动态；理论结论依赖子网和数据假设。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
     "2510.19093": {
