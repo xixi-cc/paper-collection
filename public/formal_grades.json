@@ -1468,6 +1468,28 @@
       "review_boundary": "全文来源评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
+    "8e61789d08568052": {
+      "grade": "S",
+      "score": 34,
+      "score_breakdown": [
+        5,
+        4,
+        5,
+        1,
+        5,
+        5,
+        5,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "8e61789d08568052cf0ad02b04e9e42b96123682f8d27e5394aa20d0cd3cf8dc",
+      "assessment_sha256": "7c4b79902f66f70ba4e860afbdd4fbb904b22610a9449f5a4ea365c1b0e2b650",
+      "registry_seq": 4331,
+      "rationale": "在特定弱噪声与前沿条件下建立多组分非平衡成核的动力学描述，联系界面结构与稀有入侵。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
+      "load_bearing_contribution_confirmed": true
+    },
     "31091d15c0f8ca60": {
       "grade": "B",
       "score": 24,
@@ -1532,6 +1554,28 @@
       "registry_seq": 4041,
       "rationale": "作为VLA综述，时间图谱、分类与资源及部署问题整理有用，且与现代AI机制直接相关。但本篇未提供新的承重数学或物理理论，不继承被引模型的原创性与实验增益；分类交叠主要是范围和表述限制。异质方法表格并非统一基准，部分数据规模的单位、子集和版本口径未对齐；因果、世界模型和普遍安全仍多为展望，评为B17。",
       "review_boundary": "全文来源评审；未独立复现。",
+      "load_bearing_contribution_confirmed": false
+    },
+    "30685821a868d8a3": {
+      "grade": "A",
+      "score": 30,
+      "score_breakdown": [
+        4,
+        3,
+        5,
+        1,
+        4,
+        4,
+        5,
+        4
+      ],
+      "source_version": "v1",
+      "source_program": "Collection",
+      "source_pdf_sha256": "30685821a868d8a32884bb5d70035f34bdda97df52392619c1ed5e2b18864625",
+      "assessment_sha256": "5d9b507d40be7096ae3a637469375288c60caa0999c31d1f87a7bef1327f4c8f",
+      "registry_seq": 4330,
+      "rationale": "通过长程机械噪声模型连接吸收态临界性、涨落及活动生成机制；真实流体映射和有限维理论仍有条件。",
+      "review_boundary": "基于论文来源的评审；未独立复现。",
       "load_bearing_contribution_confirmed": false
     },
     "98f4831608edb32d": {
