@@ -355,7 +355,7 @@ function App() {
                 </div>
                 <FormalGrade data={formalGrades} id={paper.id} />
                 {paper.abstract && (
-                  <details className="paper-abstract">
+                  <details className="paper-abstract" open>
                     <summary>Abstract</summary>
                     <p><MathText text={paper.abstract} /></p>
                   </details>
