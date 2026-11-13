@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { matchesFormalGrade, parseFormalGrades, type FormalGrades, type GradeFilter } from './formalGrades';
 import { FormalGrade } from './FormalGrade';
+import { MathText } from './MathText';
 
 type Paper = {
   id: string;
@@ -315,8 +316,8 @@ function App() {
                 <div className="paper-card-header">
                   <h2>
                     {(paper.links?.publication ?? paper.links?.arxiv ?? paper.links?.submission ?? paper.url)
-                      ? <a href={paper.links?.publication ?? paper.links?.arxiv ?? paper.links?.submission ?? paper.url} target="_blank" rel="noreferrer">{paper.title}</a>
-                      : paper.title}
+                      ? <a href={paper.links?.publication ?? paper.links?.arxiv ?? paper.links?.submission ?? paper.url} target="_blank" rel="noreferrer"><MathText text={paper.title} /></a>
+                      : <MathText text={paper.title} />}
                   </h2>
                   <button
                     type="button"
@@ -356,7 +357,7 @@ function App() {
                 {paper.abstract && (
                   <details className="paper-abstract">
                     <summary>Abstract</summary>
-                    <p>{paper.abstract}</p>
+                    <p><MathText text={paper.abstract} /></p>
                   </details>
                 )}
               </article>
