@@ -19397,7 +19397,8 @@
       "arxiv": "https://arxiv.org/abs/2609.12594",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.12594/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We study the classical Moreau--Yosida unadjusted Langevin algorithm (MYULA) for $\\pi(\\,\\mathrm{d} x)\\propto e^{-f(x)-g(x)}\\,\\mathrm{d} x$, where $f\\in C^2(\\mathbb{R}^d)$ is $m$-strongly convex with $L_f$-Lipschitz gradient and $g:\\mathbb{R}^d\\to\\mathbb{R}$ is convex and globally $G$-Lipschitz. For the Moreau-smoothed target $\\pi_\\lambda$ and the MYULA invariant law $\\widehat\\pi_{\\lambda,h}$, we prove \\[ \\sqrt m\\,W_2(\\pi_\\lambda,\\widehat\\pi_{\\lambda,h}) =O(h)+\\widetilde O(h^{3/4}) \\] under $0<h(L_f+\\lambda^{-1})\\le c$, with only logarithmic dependence on $\\lambda^{-1}$ in the error coefficients. Combining this estimate with the Moreau approximation bias yields $\\widetilde O(\\varepsilon^{-4/3})$ iterations to achieve $\\sqrt m\\,W_2(\\mu_N,\\pi)\\le\\varepsilon$, for fixed model parameters and initialization. The proof combines a discrete Poisson corrector with active-trace estimates and a shared-noise bound for the exact--Euler two-point curvature."
   },
   {
     "id": "2608.27828",
@@ -19413,7 +19414,8 @@
       "arxiv": "https://arxiv.org/abs/2608.27828",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.27828/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We study the continuum scaling limit of the Langevin dynamics for three-dimensional U(1) lattice Yang--Mills theory. The model is defined on the discrete 3D torus with a general class of plaquette actions that are suitably normalized, including Wilson, Manton, and Villain actions. Under the weak-coupling scaling and in the DeTurck gauge, we prove that, locally in time and in probability, the rescaled logarithmic field converges to the solution of the one-form stochastic heat equation. In particular, the limiting dynamics are universal and do not depend on the higher-order details of the plaquette action."
   },
   {
     "id": "2609.00322",
@@ -19429,7 +19431,8 @@
       "arxiv": "https://arxiv.org/abs/2609.00322",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.00322/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Can an artificial intelligence (AI) generate a scientific hypothesis outside a human collaborator's active hypothesis space (AHS), and can human-AI research be organized to make such breakthroughs more likely? We document such a case while proving a theorem that connects two basic organizing mechanisms of statistical physics: collective behavior arising in zero field from competing interactions and that induced or controlled by an external field. A zero-field $O(n)$-vector open chain with arbitrary inhomogeneous nearest- and next-nearest-neighbor interaction functions $U_i(S_i\\cdot{S}_{i+1})$ and $V_i(S_i\\cdot{S}_{i+2})$ is microscopically, via a temperature-independent mapping at the Hamiltonian level, equivalent to a simpler $O(n)$ open chain with nearest-neighbor interaction $V_i(\\boldsymbol\\sigma_i\\cdot\\boldsymbol\\sigma_{i+1})$ and axial single-spin potential $U_i(\\sigma_i^z)$ for every integer $n\\ge1$ and every system size $L\\ge1$. The homogeneous linear specialization maps the foundational frustrated $J_1$-$J_2$ model onto the canonical $J$-$h$ field model---with $n=1,2,3$ being the Ising, XY, and Heisenberg classical spin models, respectively; the theorem resolved a longstanding challenge for $n=3$ published in 1990. Its proof was done with an AI-synthesized recursive Householder moving frame and understood via a human-recognized hidden reciprocity. An analogous theorem holds when the continuous $O(n)$ spins are replaced by the $q$-state Potts spins, implying a closed-form exact solution of the $J_1$-$J_2$ standard Potts open chain for every $q\\ge2$ and every $L\\ge1$. The emergence of these theorems from a human-AI co-development framework suggests that sustained AI involvement throughout a systematic research program may incubate autonomous scientific breakthroughs and make aspects of the discovery process experimentally testable."
   },
   {
     "id": "2609.00164",
@@ -19445,7 +19448,8 @@
       "arxiv": "https://arxiv.org/abs/2609.00164",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.00164/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Determining exact joint eigenvalue densities is central to random matrix theory. We solve this long-standing problem for non-Hermitian matrices with transposition symmetry (complex symmetric and complex self-dual) at arbitrary matrix size. Up to a Vandermonde factor, they are scattering-state wave functions of the Calogero model, a line of particles interacting through an inverse-square potential, with the coupling strength set by the symmetry. In contrast to many previously known joint densities, the densities cannot be written as a gas of eigenvalues with pairwise interactions. We further compute the complex level spacing distributions and two-point spectral correlation functions, which carry power-law tails, absent in a Coulomb gas. Our results shed light on the interplay among random matrices, integrability, and symmetry."
   },
   {
     "id": "2609.00144",
@@ -19461,7 +19465,8 @@
       "arxiv": "https://arxiv.org/abs/2609.00144",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.00144/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We study Bayesian tracking of a diffusing target monitored by a noisy distributed sensor array. Building on an earlier mapping to KPZ growth with a moving defect (or an equivalent directed polymer pinning problem) we determine the phase structure, beyond the previously-studied one-dimensional case, for both Bayes-optimal and suboptimal inference. In $d=2$, theoretical analysis and numerical simulations both give a depinning transition between a successful tracking phase and a failure phase. Weak-coupling RG shows that Bayes-optimal tracking is always successful in $d=2$, but failure can arise from overconfident (suboptimal) inference. In $d=3$, tracking can succeed, or can fail in two distinct ways: the posterior probability distribution may delocalize (no detection), or may become sharply localized, but at the wrong position (a false detection). The two possibilities correspond to Edwards-Wilkinson or Kardar-Parisi-Zhang statistics for the log-posterior. The three phases meet at a Nishimori-like multicritical point on a Bayes-optimal line in a two-parameter phase diagram. (Model misspecification alone can drive depinning into either unpinned phase: underconfidence gives diffuse failure, while overconfidence gives localized-but-wrong failure.) We analyze the transitions between the various phases numerically and with renormalization group arguments. We show that some of these have unusual critical behavior, which the conventional $\\epsilon$ expansion fails to describe. Recent rigorous results for directed polymers indicate an alternative scenario. Many of our results, including a scaling relation for exponents at pinning transitions and results for RG flows, are relevant to other phase transitions that involve surface growth or directed polymers in 2+1D or 3+1D."
   },
   {
     "id": "2608.31157",
@@ -19477,7 +19482,8 @@
       "arxiv": "https://arxiv.org/abs/2608.31157",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.31157/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Many parameter-efficient methods generate the parameters of a large neural network from a low-dimensional latent representation. Given an architecture $\\Phi$ with $P_\\Phi$ parameter slots, we write $\\boldsymbol{\\theta}_f=\\mathcal{G}(\\boldsymbol{\\xi}_f)$, where $\\mathcal{G}\\colon\\mathbb{R}^M\\to\\mathbb{R}^{P_\\Phi}$ is a parameter generator and $\\boldsymbol{\\xi}_f\\in\\mathbb{R}^M$ is a latent representation of the target function $f$. The architecture $\\Phi$ and the generator $\\mathcal{G}$ are shared across the entire target class, while each target $f$ is represented by its own latent vector $\\boldsymbol{\\xi}_f$, with $\\Phi_{\\mathcal{G}(\\boldsymbol{\\xi}_f)}$ approximating $f$. This framework encompasses hypernetworks, low-dimensional parameterizations, parameter-efficient adaptation, and model compression. Understanding the tradeoff between the latent dimension $M$ and the network budget $P$ is therefore fundamental to characterizing the expressive efficiency of these methods. We study this tradeoff for affine generators and fully connected ReLU architectures. More precisely, optimizing jointly over architectures $\\Phi$ satisfying $P_\\Phi\\leq P$ and affine generators $\\mathcal{G}:\\mathbb{R}^M\\to \\mathbb{R}^{P_\\Phi}$, we prove that the optimal worst-case uniform approximation error over the unit ball of $\\alpha$-H\\\"older functions on $[0,1]^d$, where $0<\\alpha\\leq1$, has the sharp order $ \\bigl(P\\min\\{M,P\\}\\bigr)^{-\\alpha/d}. $ In particular, our result shows that even a fixed-dimensional latent space suffices to achieve vanishing approximation error as the network budget increases."
   },
   {
     "id": "2608.31120",
@@ -19493,7 +19499,8 @@
       "arxiv": "https://arxiv.org/abs/2608.31120",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.31120/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "The motivation for this paper is the investigation of the trade-offs implicit in probabilistic models used in machine learning. Models are often used to make predictions in the form of conditional probabilities. However, a pair of conditional distributions p(x|y) and p(y|x) may not be compatible with any joint distribution p(x,y). Given two such conditionals, determining if there exists a compatible joint is known as the compatibility problem. For discrete random variables, when the conditionals are encoded as probability tables, the compatibility problem has a known solution, which is computationally tractable. In this paper, we formalise and study a succinct version of the problem, encoding conditional distributions as arithmetic circuits. This is applicable to practical applications of probabilistic modelling in high-dimensional settings, including neural network models. We show that, for succinct circuit representations of conditionals, the compatibility problem is intractable. In the case that all probabilities are non-zero, the problem is co-NP-complete. In the case that probabilities can be zero, we give examples to demonstrate that several notions of compatibility can be distinguished, and we prove that multiple versions of the problem are PSPACE-complete. Furthermore, we show that, assuming the polynomial hierarchy does not collapse, there exist compatible succinct conditionals whose joint cannot be expressed succinctly. Implications of these results for probabilistic modelling and machine learning are discussed."
   },
   {
     "id": "2608.30829",
@@ -19509,7 +19516,8 @@
       "arxiv": "https://arxiv.org/abs/2608.30829",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30829/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We study the two-dimensional directed polymer model in a Gaussian environment which is independent in time and spatially correlated, with covariances $h(x)$ either summable or with a critical decay, satisfying $h(x) \\sim (\\log |x|)^a/|x|^2$ as $|x|\\to\\infty$ for some $a>-1$. We determine the precise high-temperature asymptotics of the free energy, confirming a conjecture of Lacoin (Ann. Probab. 2011), later refined by Cosco, Cottini and Donadini (2025). We also establish a phase transition for the diffusively rescaled partition functions: below some critical point they converge to the Lebesgue measure, while above it they converge to zero. A key feature of our approach is that both results are obtained using only second-moment estimates and are based on a simplified change-of-measure argument in the supercritical regime, that may prove useful for other disordered models."
   },
   {
     "id": "2609.00162",
@@ -19525,7 +19533,8 @@
       "arxiv": "https://arxiv.org/abs/2609.00162",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.00162/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Random matrix theory describes complex quantum systems statistically, with symmetry as its organizing principle. We uncover an exact duality between the level statistics of Hermitian and non-Hermitian random matrices in the large-$N$ (matrix size) limit. It acts class by class: the two replica partition functions, given by fermionic nonlinear $\\sigma$ models, are related by analytic continuation. Applied to the three Wigner--Dyson classes, the duality yields the universal bulk eigenvalue pair-correlation functions of non-Hermitian random matrices. This establishes a non-Hermitian counterpart of Dyson's threefold way, organized by transposition symmetry: generic complex, complex symmetric, and complex self-dual matrices. The dissipative spectral form factors of these classes follow in closed form as well. Applied to the seven nonstandard Altland--Zirnbauer classes, the duality yields the exact spectral densities near the origin, the non-Hermitian hard-edge statistics. Most of these statistics were previously known only numerically. Exact diagonalization confirms the analytical predictions, and physical models demonstrate their universality. We expect these results to be the tip of a deeper correspondence between Hermitian and non-Hermitian random matrix theory."
   },
   {
     "id": "2608.31166",
@@ -19541,7 +19550,8 @@
       "arxiv": "https://arxiv.org/abs/2608.31166",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.31166/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for every finite N-player normal-form game under full-information feedback. We introduce ECHO-OFTRL: optimistic follow-the-regularized-leader (OFTRL) equipped with an EMA cascade for high-order optimism (ECHO), where EMA denotes exponential moving average. The algorithm is deterministic and fully uncoupled. If m_max denotes the largest action-set size, then, simultaneously for every horizon T>=1, it guarantees that each of the N players in the game incurs regret upper bounded by O(poly(N, log m_max)). Our algorithm leverages a new form of optimism inspired by modern filter design."
   },
   {
     "id": "2608.30715",
@@ -19557,7 +19567,8 @@
       "arxiv": "https://arxiv.org/abs/2608.30715",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30715/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We prove that a point atom in an endpoint kinetic-energy measure of a three-dimensional incompressible Navier-Stokes flow on the flat torus forces quantitative concentration of the actual pressure. At each restart time tau, a same-state constraint-response comparison evolves u(tau) by the pressure-free componentwise advection-diffusion equation driven by u, and subtracts the resulting passive field z_tau. Writing r_tau = u - z_tau and g_tau = Q z_tau, we obtain an exact relative pressure-work identity. If the atom has mass m, Nash smoothing makes z_tau terminally non-atomic while r_tau retains terminal atomic mass at least m; hence, after every fixed restart, the terminal limsup of the accumulated pressure work is at least m/2. Mesoscopic localization yields scale-explicit lower bounds for gauge-invariant L2 pressure oscillation and for the local L2 mass of the pressure gradient in shrinking terminal cylinders. Consequently, on every terminal neighborhood of the atomic point, the pressure modulo functions of time and its gradient fail to be square integrable. The relative pressure-work principle extends to constrained solenoidal Oseen evolutions: as tau approaches T*, the zero-initial responses vanish in weak-tail topologies, although every fixed restart retains the same lower bound. This identifies a necessary pressure-work mechanism, generated by the incompressibility constraint, that links endpoint atoms to local pressure concentration, without requiring a full regularity hypothesis."
   },
   {
     "id": "2608.30602",
@@ -19573,7 +19584,8 @@
       "arxiv": "https://arxiv.org/abs/2608.30602",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30602/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We establish sharp endpoint mapping properties for the wave operators $W_\\pm(H,-Δ)$ of two-dimensional Schrödinger operators $H=-Δ+V$ with real-valued decaying potentials $V$. Together with the known non-endpoint $L^p$ theory, our results give a complete classification of the $L^p$ mapping properties of the two-dimensional wave operators, and reveal an unexpected reversal of the usual threshold paradigm at the endpoints $p=1$ and $p=\\infty$. When zero is a regular point of $H$, the wave operators fail to be bounded on $L^1(\\mathbb{R}^2)$ and on $L^\\infty(\\mathbb{R}^2)$, but they satisfy the atural substitute estimates of Calderón--Zygmund type: $$ L^1(\\mathbb{R}^2)\\longrightarrow L^{1,\\infty}(\\mathbb{R}^2),\\ \\ \\ \\mathcal{H}^1(\\mathbb{R}^2)\\longrightarrow L^1(\\mathbb{R}^2),\\ \\ \\ L^\\infty(\\mathbb{R}^2)\\longrightarrow \\mathrm{BMO}(\\mathbb{R}^2). $$ When zero is instead a threshold singularity of the first kind---an s-wave resonance with no other threshold obstruction, the wave operators are bounded on both endpoint spaces $L^1(\\mathbb{R}^2)$ and $L^\\infty(\\mathbb{R}^2)$. Thus, in dimension two, an s-wave resonance improves the endpoint behavior of the wave operators, in sharp contrast with dimensions $n\\ge3$, where the only regular case is the favorable one. We also determine the endpoint behavior in the remaining zero-energy spectral configurations of $H$. A p-wave resonance obstructs both the $L^1$- and the $L^\\infty$-boundedness of the wave operators, while in the zero-eigenvalue case we obtain necessary and sufficient conditions for endpoint boundedness, expressed in terms of the presence of s- and p-wave resonances and of explicit second-order harmonic moment cancellations satisfied by the zero-energy eigenfunctions."
   },
   {
     "id": "2608.30417",
@@ -19589,7 +19601,8 @@
       "arxiv": "https://arxiv.org/abs/2608.30417",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30417/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We give a complete characterization of equivariant multi-head self-attention (MHSA): if an MHSA layer is equivariant to a symmetry group $G$, then $G$ can only act by permuting head-clusters, with QK and OV matrices satisfying an equivariance constraint tied to the group action. As a consequence, we prove that any fixed MHSA architecture that achieves exact equivariance by polynomially parameterizing unconstrained MHSA parameters inevitably leads to expressivity loss within the class of equivariant maps: the equivariance locus of unconstrained MHSA forms a union of extremely many Zariski-irreducible components in a reduced parameter space, and any single architecture covers at most one. For $G=D_4$ acting on $C$ copies of the regular representation as the token feature space, we show that there are $\\Omega(C^{64})$ components for eight attention heads."
   },
   {
     "id": "2608.30561",
@@ -19605,7 +19618,8 @@
       "arxiv": "https://arxiv.org/abs/2608.30561",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30561/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Informative label missingness can change the usual efficiency ordering between completely and partially labelled classifiers because the pattern of missing labels may itself carry information about the classification model. We develop a general likelihood-based theory for this phenomenon in parametric multiclass classification. An efficient-information decomposition separates information lost through unavailable class memberships from information contributed by the missing-label mechanism. We then derive a quadratic expansion of plug-in excess risk over the active pairwise faces of the multiclass Bayes boundary, showing that classification efficiency depends on how information gains and losses align with directions that perturb the decision boundary. This yields a classification-weighted generalized-eigenvalue criterion under which informative partial classification may have smaller asymptotic classification risk without globally dominating complete classification in Fisher information. Near missing completely at random, with the marginal missing-label proportion fixed, redistribution of missing labels changes lost class-label information at first order, whereas efficient information from the missingness pattern appears only at second order. Three-class quadratic discriminant calculations, finite-sample experiments, and a semi-synthetic multiclass application illustrate the resulting regime-dependent behaviour."
   },
   {
     "id": "2608.30261",
@@ -19621,7 +19635,8 @@
       "arxiv": "https://arxiv.org/abs/2608.30261",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30261/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We estimate the conditional population-risk curve of a realized smooth nonconvex gradient flow from the training sample. Flow approximate leave-one-out (Flow-ALO) propagates a deletion response and evaluates omitted observations at approximate deleted paths. The risk-curve error decomposes into response approximation, exact-LOO fluctuation, and deletion-to-full risk transfer. On each fixed finite horizon, bounded centered training-loss gradients, a one-sided Hessian lower bound, locally Lipschitz Hessians, and a strict tube-closure condition yield an explicit $(n-1)^{-2}$ bound for the deletion-response error. Bounded evaluation-loss gradients transfer the deletion-response bound to the score without requiring the Hessian to be invertible. Direct first-order jackknife cancellation and exact-LOO concentration control deletion-to-full risk transfer and fluctuation, respectively, completing recovery of the conditional population-risk curve. For bounded smooth two-layer mean-field networks training both layers, the score-error bound is uniform in width."
   },
   {
     "id": "2608.29957",
@@ -19637,7 +19652,8 @@
       "arxiv": "https://arxiv.org/abs/2608.29957",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.29957/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We prove that the stationary density fluctuation field of the one-dimensional weakly asymmetric simple inclusion process converges to the energy solution of the stochastic Burgers equation. The key technical ingredient is a second-order Boltzmann-Gibbs principle tailored to the microscopic current. As a consequence, we also obtain Ornstein-Uhlenbeck fluctuations for the symmetric inclusion process in a weakly condensing regime, a result of independent interest."
   },
   {
     "id": "2608.29416",
@@ -19653,7 +19669,8 @@
       "arxiv": "https://arxiv.org/abs/2608.29416",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.29416/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We study a null model of high-dimensional projection pursuit for i.i.d. Gaussian points at a proportional sample-to-dimension ratio. For data-dependent directions on the sphere or Ising cube, we characterize empirical projection laws attainable by algorithms with dimension-free Lipschitz dependence through a one-dimensional stochastic control problem, yielding matching algorithmic thresholds for perceptron objectives with bounded continuous activations. The hardness proof brings stochastic control into branching overlap-gap methods; the matching incremental AMP algorithm uses a Brownian-bridge revelation of the disorder."
   },
   {
     "id": "2608.29461",
@@ -19669,7 +19686,8 @@
       "arxiv": "https://arxiv.org/abs/2608.29461",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.29461/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Sandbagging models strategically underperform on evaluations while retaining the capabilities being measured. The evaluations that guide frontier-model deployment and governance then understate what these models can do. To understand the mechanism, we propose a causal model of how sandbagging is carried in the residual stream. Early layers write the sandbagging intent onto a single axis of the stream, and a later layer reads that axis and commits the answer. We study three instruction-tuned models (Qwen2.5-7B, Llama-3-8B, and Mistral-7B) and four ways of installing a sandbagging lock (prompting, fine-tuning, reinforcement learning, and circuit breaking). Each lock decides from the prompt whether to sandbag, and the fine-tuned and circuit-broken locks answer honestly whenever a password appears. The causal model predicts a window of layers, after the last sandbagging write and before the answer commit, in which a single-layer reference graft of the sandbagging axis to its honest value restores the full capability. The single-layer graft recovers the capability in 28 of the 33 runs of the prompted, fine-tuned, and RL-trained locks, with a median held-out recovery of 96%. The circuit-broken lock rewrites the whole state through a band of layers, and the single-layer graft fails at every layer. We therefore introduce a second intervention, context grafting, which replays the password's cached key/value activations so that every layer's attention reads them as additional context. Context grafting provably and empirically restores the full capability on all three models, and the recovery is surprisingly insensitive to the exact password content. More broadly, an auditor can use this causal model to design interventional auditing techniques for sandbagging models."
   },
   {
     "id": "2609.29060",
@@ -19685,7 +19703,8 @@
       "arxiv": "https://arxiv.org/abs/2609.29060",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.29060/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Transformers achieve remarkable performance by jointly learning broad families of tasks during pretraining and adapting to unseen tasks from only a short prompt. Yet a rigorous mathematical and statistical understanding of this phenomenon remains limited. This paper aims to study how Transformers exploit shared cross-task structure and how this structure affects the sample complexity of in-context learning (ICL). Specifically, we characterize task-space complexity through covering numbers under a prescribed metric, thereby quantifying the low-dimensional cross-task structure without requiring an explicit parametric representation. The resulting cover provides a set of anchor functions, which we use to introduce a task-identification-and-evaluation procedure: context observations localize an unseen task among the anchor functions, and the response at a query is predicted by aggregating the corresponding anchor function query evaluations. For approximation, we explicitly construct a Transformer with Softmax attention to approximate this procedure. For generalization, we derive an error bound that separates the effects of the number of pretraining tasks and the prompt length. The scaling with respect to the number of pretraining tasks is governed by the intrinsic dimensions of the task space and input domain; once sufficiently many tasks are available, the dependence on the prompt context length becomes dimension-free. To the best of our knowledge, this is the first work to quantify cross-task complexity for general nonlinear task families and explicitly construct a Transformer that exploits their low-dimensional structure to perform ICL. Our theory provides a quantitative explanation of how joint pretraining across related tasks improves in-context generalization."
   },
   {
     "id": "2609.28520",
@@ -19701,7 +19720,8 @@
       "arxiv": "https://arxiv.org/abs/2609.28520",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.28520/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Before acting upon an unobservable physical system, an autonomous agent must determine which latent distinctions govern downstream tasks, how many active interventions are necessary to certify them, and when to abstain to prevent catastrophic errors. Classical observability treats state reconstruction as an unconditioned binary predicate, failing when passive observations cannot break latent degeneracies without perturbation, full microscopic inversion is prohibitively costly, and distinguishing task-irrelevant degrees of freedom wastes interaction budgets. We formalize task-conditioned active observability complexity: the minimum worst-case expected interaction cost required to identify task-relevant states under certified error and safe abstention guarantees. We prove that task-predictive equivalence induces the unique minimal sufficient quotient $\\mathcal{H}/\\!\\sim_\\tau$, leaving active observability complexity strictly invariant while eliminating superfluous distinctions. In deterministic regimes, this complexity is characterized by an optimal adaptive distinguishing tree and Bellman recursion; in noisy regimes, it obeys a stopped-transcript relative-entropy lower bound and adaptive martingale certificates that compose without independence assumptions. We instantiate a prospective certified observer with staged recovery: a nominal verifier defers candidate compilation, triggering active probing only upon evidence, while a history-measurable score shell prunes hypotheses without sacrificing risk bounds. Stress audits across high-dimensional physical systems and thousands of operational trials demonstrate certified state recovery with zero false acceptances and substantial reductions in sensor reads and model steps."
   },
   {
     "id": "2609.27158",
@@ -19717,7 +19737,8 @@
       "arxiv": "https://arxiv.org/abs/2609.27158",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.27158/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "To make claims about representations that generalize beyond a particular trained model, we need to specify when two representations should count as equivalent. The Linear Representation Hypothesis is often discussed without making this equivalence explicit. Different notions of equivalence preserve different structures, so metrics, probes, and interventions that appear to study the same representation may in fact correspond to different hypotheses. We therefore argue that the Linear Representation Hypothesis is not one hypothesis but a family of claims distinguished by representation equivalence. We formalize this idea using group actions, specifying the representation object, the procedure that produces it, and the property ultimately asserted, while accounting for equivalences imposed by the model architecture. This framework clarifies how assumptions can change across metrics, reading points, and analysis stages, and we use it to audit common representation quantities and recent interpretability analyses."
   },
   {
     "id": "2609.27033",
@@ -19733,7 +19754,8 @@
       "arxiv": "https://arxiv.org/abs/2609.27033",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.27033/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Reward fine-tuning aims to update a pre-trained flow-based generative model to improve the downstream reward of its generated samples. Existing methods typically formulate this problem as sampling from a reward-tilted distribution, the solution to a KL-regularized reward-maximization problem. Here, we introduce an optimal transport regularizer built directly from the pre-trained drift. Unlike KL reward tilting, the resulting objective transports individual samples toward higher reward rather than reweighting the base distribution. We show that the resulting problem is equivalent to a deterministic optimal control problem on the flow. Given a pre-trained flow map, this equivalence yields a simulation-free reinforcement learning algorithm for fine-tuning generative flows. We call the resulting framework Wasserstein-Tilted Flow Maps (WTF), the first end-to-end fine-tuning recipe native to flow maps. The output is a fine-tuned flow map that retains strong reward-aligned performance at few-step inference budgets without post-hoc distillation. Experiments on ImageNet-256 and text-to-image show that WTF achieves higher reward with comparable or higher diversity than baselines, while requiring up to $280\\times$ less training compute. More broadly, we argue that accelerated samplers such as flow maps are essential infrastructure for efficient post-training, and that the dominant KL-regularized formulation is only one of many choices worth revisiting."
   },
   {
     "id": "2609.26679",
@@ -19749,7 +19771,8 @@
       "arxiv": "https://arxiv.org/abs/2609.26679",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.26679/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "In grokking an early fit to the training data separates from a much later improvement in generalization. During this delay, training can move from a fixed neural tangent kernel (NTK) regime to one in which task-relevant kernel eigendirections continue to evolve. We provide a quantitative theory for how this transition from lazy to rich learning can produce delayed generalization. For homogeneous networks trained with squared loss and $L_2$ weight decay, we show that a finite residual remains after memorization, with larger residual fractions in target components associated with smaller NTK eigenvalues. These residuals feed back into the dynamics of the NTK itself, and projecting the resulting dynamics onto task-relevant spectral directions yields a reduced system in which residual-driven kernel growth competes with weight decay. This system predicts that the grokking timescale is controlled by the product of learning rate and weight decay, that feature learning slows logarithmically near a critical decay above which task-aligned NTK structure can no longer support generalization, and that stronger decay can prevent fitting altogether. We test these predictions in modular addition. In a homogeneous MLP, task-aligned Fourier structure continues to emerge in the NTK after training accuracy has saturated, and an 84$\\times$90-grid of trained networks across varying learning rate and weight decay recovers the predicted phase geometry and inverse-product scaling of the generalization time with learning rate and weight decay. A one-block Transformer shows similar macroscopic phase structure in a 42$\\times$45-grid, as well as the same transition-time scaling despite violating exact homogeneity. Together, these results provide a mechanistic derivation connecting post-fit feature learning to both the onset of generalization and its phase structure in the learning rate and weight decay plane."
   },
   {
     "id": "2609.26392",
@@ -19765,7 +19788,8 @@
       "arxiv": "https://arxiv.org/abs/2609.26392",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.26392/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Conventional wisdom in deep learning holds that overparameterization---having more parameters $p$ than training samples $n$---is benign: larger models generalize better and, even without regularization, interpolating models generalize well, the test error following a double-descent curve. One might expect the same benign overfitting for diffusion models, whose training reduces to regression, i.e. to minimizing a quadratic score-matching loss. Yet the opposite is observed: overfitting here is catastrophic, driving the model into a memorization regime. We resolve this paradox by combining experiments on U-Nets trained on CelebA with a random-features model for which we derive closed-form learning curves. We show that with a fixed number $m$ of noise realizations per training sample, an interpolation peak does occur, but at $p\\sim nm$ rather than at $p\\sim n$ as in standard regression. The rise of the test loss, however, sets in much earlier, at $p\\sim n$, independently of $m$. This overfitting is malign because, although the implicit regularization of training is fully at work, it drives the model toward the empirical score, which memorizes the training set, rather than toward the true score. A bias-variance decomposition pinpoints the mechanism: the bias of the score estimator starts to grow at $p\\sim n$; past the peak the variance decays, as in regression, whereas the bias keeps growing and both saturate at a large value. Since diffusion models are trained with $m\\gg1$, the peak is pushed to very large model sizes, and therefore sit on the rising branch that precedes it, where malign overfitting is already in play. Nevertheless, overparameterization remains beneficial when paired with regularization: in the random-features theory and in U-Net experiments, optimally regularized large models---via a ridge penalty or early stopping, respectively---outperform any unregularized models."
   },
   {
     "id": "2609.24209",
@@ -19781,7 +19805,8 @@
       "arxiv": "https://arxiv.org/abs/2609.24209",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.24209/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "The Platonic Representation Hypothesis (PRH) claims that independently trained models converge on a shared statistical model of reality, yet recent work finds only weak pointwise similarity between models. In this paper, we show that what models share is not the location of samples in representation space, but the directions (displacement vectors) between them. Under a single orthogonal alignment--rotation and reflection only--these displacement vectors are substantially preserved across 44 independently trained vision and language encoders spanning modalities and asymmetric capability pairs, consistent with the PRH evidence. The samples' absolute positions are not, consistent with recent counter-evidence. Both arise from a single decomposition: representations split into a shared semantic component that is linearly aligned across models, and a private capability component that is not. We trace this geometry to concept-level structure: within a model, parent concepts are orthogonal to their child variation vectors; across models, concept displacements are parallel. Our theory falsifiably predicts (and experiments confirm) that fine-tuning preserves pointwise similarity but collapses displacement, and that relational distillation does the opposite. A major implication is that, because semantics align linearly but capabilities do not, capabilities can be imported from one model to another using a single cached forward pass through the source. We call this Shadow Casting. As a proof of concept, our SHADOWCLIP instantiation outperforms strong fine-tuned baselines at orders of magnitude less compute. A cache can be released alongside open model weights, letting one model's capabilities be downloaded and imported into any number of other models without fine-tuning."
   },
   {
     "id": "2609.21523",
@@ -19797,7 +19822,8 @@
       "arxiv": "https://arxiv.org/abs/2609.21523",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.21523/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "A system may be compressed before its downstream task is fully known. We ask how much retained state is then necessary and how much can be saved by limited advance task information. For a finite family of linear tasks, a task message is revealed before state formation and the exact task only afterwards. For an advice alphabet of size $K$, the exact frontier is \\[ p^*(K)= \\min_{\\substack{\\Pcal\\text{ partition of }\\U\\|\\Pcal|\\le K}} \\max_{C\\in\\Pcal}\\rank(T_C), \\] with the $b$-bit frontier obtained by setting $K=\\min(2^b,|\\U|)$. Thus advance task information reduces state through partitions whose joint task operators have low rank. We also give an approximate singular-value frontier, a common-core lower bound and exact direct-sum law, and strong NP-hardness of finding an optimal advice partition. The hardness persists at every fixed positive approximation tolerance. Three examples illustrate the result. A well-conditioned softmax attention construction gives an exact $524{,}288\\to1{,}024$ coordinate frontier when nine bits resolve one of $512$ continuations. A domain-decomposed digital twin yields an interface-plus-local-state law and a weighted partition problem for heterogeneous regions. A hierarchical multi-task model gives a two-stage frontier in which three bits reduce the required state from $3136$ to $448$ coordinates, with further task information approaching the irreducible $328$-coordinate single-task floor."
   },
   {
     "id": "2609.21312",
@@ -19813,7 +19839,8 @@
       "arxiv": "https://arxiv.org/abs/2609.21312",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.21312/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We study the unforced viscous Katz--Pavlović dyadic model with non-negative smooth initial data for two shell settings. For super-exponential scales $N_n=N_0^{b^n}$, with $N_0>1$ and $1<b<2$, we prove that $\\alpha=1/(b+2)$ is the sharp dissipation threshold: every such datum produces a globally smooth solution at and above this value, whereas suitable compactly supported data lose regularity in finite time below it. For geometric scales $N_n=N_0\\Lambda^n$, global regularity holds when $\\alpha\\geq1/3$ and $4\\alpha-1>(\\log2)/(2\\log\\Lambda)$. In particular, for $\\Lambda>2^{3/2}$, the result reaches $\\alpha=1/3$ and, together with the known classical blow-up theorem, identifies the sharp threshold in classical shell ratios."
   },
   {
     "id": "2609.21680",
@@ -19829,7 +19856,8 @@
       "arxiv": "https://arxiv.org/abs/2609.21680",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.21680/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We prove that every bounded stable entire solution $v$ of the Allen--Cahn equation in $\\R^3$ is one-dimensional. As a consequence, the full De Giorgi conjecture in $\\mathbb{R}^4$ is true. We also obtain local curvature estimates for stable solutions. The proof strategy is inspired by the recent breakthrough work of Chan, Fern\\'{a}ndez-Real, Figalli and Serra [J. Amer. Math. Soc. 2026], by reducing the stabilty condition for the Allen-Cahn equation to a weak stability condition on a surface (the zero set) and then utilizing Gauss-Bonnet formula. For this purpose, we first use the stability condition to get a sublinear bound for a weighted integral that controls the zeros where the solution is far from planar. If such zeros exist, we isolate a bounded set of them and join $1-v^2$ near this set to derivatives of one-dimensional transitions farther away. By controlling the interaction between these transitions, we derive the weak stability condition on the zero set, which is then used to bound a weighted integral of the squared curvature on the regular part of the zero set by a cutoff gradient integral and a controlled error. We use this inequality to bound the intrinsic area and construct logarithmic cutoffs. The resulting compactly supported test function has a negative contribution near this set that exceeds all joining and cutoff errors, contradicting stability."
   },
   {
     "id": "2609.21140",
@@ -19845,7 +19873,8 @@
       "arxiv": "https://arxiv.org/abs/2609.21140",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.21140/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We study $(\\mathbf{O}^\\top \\mathbf{A} \\mathbf{O} + \\mathbf{B})^{-1}$, where $\\mathbf{A}, \\mathbf{B} \\in \\mathbb{R}^{N \\times N}$ are symmetric positive definite, with limiting eigenvalue distributions ${\\rm F}_{\\mathbf{A}}, {\\rm F}_{\\mathbf{B}}$ and spectra bounded and bounded away from zero, and $\\mathbf{O}$ is Haar orthogonal. We analyze the deviation of deterministic-equivalent-type approximation $\\boldsymbol{\\Delta}\\doteq (\\mathbf{O}^\\top \\mathbf{A} \\mathbf{O} + \\mathbf{B})^{-1}- \\mathbf{S}^{-1}$ where $\\mathbf{S} = \\mathbf{B} - z^\\star \\mathbf{I}$. First, let $\\mathbf{O}$ be independent of $(\\mathbf{A}, \\mathbf{B}, \\mathbf{u})$, $\\|\\mathbf{u}\\| = 1$. There is sequence of a standard Gaussian vectors $\\mathbf{g}_N$ independent of $(\\mathbf{A}, \\mathbf{B}, \\mathbf{u})$ with $\\| \\mathbf{S} \\boldsymbol{\\Delta} \\mathbf{S} \\mathbf{u} - \\sqrt{\\frac \\tau N}\\, \\mathbf{g}_N \\| \\to 0$ a.s. Here $z^\\star = -{\\rm R}(-\\chi)$ and $\\tau = {\\rm R}'(-\\chi)(1 + \\eta {\\rm R}'(-\\chi))$, where ${\\rm R}$ is the R-transform of ${\\rm F}_{\\mathbf{A}}$ and $(\\chi, \\eta)$ are the first two inverse moments of the free additive convolution of ${\\rm F}_{\\mathbf{A}}, {\\rm F}_{\\mathbf{B}}$. Let $\\mathbf{K} = \\sum_{i \\le \\lfloor N^q \\rfloor} \\lambda_i \\mathbf{u}_i \\mathbf{v}_i^\\top$, $q \\in [0, C]$, with unit-norm, not necessarily orthogonal $\\mathbf{u}_i, \\mathbf{v}_i$ and $\\limsup_N \\max_i |\\lambda_i| < \\infty$ a.s. If $\\mathbf{O}$ is independent of $(\\mathbf{A}, \\mathbf{B}, \\{\\mathbf{u}_i, \\mathbf{v}_i\\})$, then $N^{-q} {\\rm tr}(\\mathbf{K} \\boldsymbol{\\Delta}) \\to 0$ a.s. The proofs use a dynamical mean-field approach: the generating functions of the free Appell polynomials give a linear dynamics approximating the quantity of interest in the iterated large-$N$, large-time limit, whose fluctuations we analyze."
   },
   {
     "id": "2609.21656",
@@ -19861,7 +19890,8 @@
       "arxiv": "https://arxiv.org/abs/2609.21656",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.21656/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Recent Joint-Embedding Predictive Architectures (JEPAs) prevent representation collapse by constraining learned representations to follow a prescribed target distribution, such as an isotropic Gaussian or the uniform distribution on a hypersphere. Klindt et al. (2026) showed that, under their Euclidean assumptions, matching a Gaussian target can recover Gaussian latent variables up to a linear transformation, and that the Gaussian is the unique distribution with this guarantee. We extend their analysis to latent variables supported on embedded Riemannian manifolds and derive conditions on the latent geometry and positive-pair dynamics under which alignment and exact distribution matching guarantee linear recovery. In particular, when the latent variables are uniformly distributed on a sphere and the representations are matched to the same spherical distribution, every optimal representation recovers the latent state up to an orthogonal transformation. This shows that Gaussian uniqueness is not a universal property of distribution-matched JEPAs: non-Euclidean latent geometries can admit other linearly recoverable distributions. We further derive an approximate-recovery bound that is strictly tighter for the spherical world than for the Gaussian world. Experiments on Gaussian, spherical, and toroidal latent spaces show that geometrically compatible targets yield better linear recovery when optimization succeeds, whereas mismatched targets distort the latent structure. This advantage persists in high-dimensional Clifford-torus worlds."
   },
   {
     "id": "2609.20539",
@@ -19877,7 +19907,8 @@
       "arxiv": "https://arxiv.org/abs/2609.20539",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.20539/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "A popular selling point of diffusion large language models (dLLMs) is their capacity for parallelism: the ability to generate sequences of text far more efficiently than autoregressive models, which require one forward pass per token. Yet among the many competing paradigms for dLLMs, from masked to uniform to Gaussian diffusion, principled understanding of how these different proposals compare in parallelism remains limited. In this work, we initiate a fine-grained comparison of the capacity for parallelism among these three leading approaches and prove the following: - Uniform and Gaussian diffusion can sample in a number of forward passes which scales with the dual total correlation of the underlying distribution, a measure of intrinsic complexity which can be much smaller than the context length. Previously, it was only known how to achieve this using masked diffusion. - For a certain family of random empirical measures, we show that $\\widetilde{\\Theta}(\\sqrt{d})$ forward passes are necessary and sufficient to sample using uniform or Gaussian diffusion, yet there exist approximate score oracles for which $\\widetilde{\\Omega}(d)$ forward passes are needed for masked diffusion. This establishes the first provable separation in parallelism between the three prevailing dLLM paradigms. Contrary to popular intuition that masked diffusions are harder to parallelize because they must commit to token values, the latter separation instead comes from the fact that the critical windows in masked diffusion sampling are asymptotically narrower than those in uniform and Gaussian diffusion sampling."
   },
   {
     "id": "2609.19424",
@@ -19893,7 +19924,8 @@
       "arxiv": "https://arxiv.org/abs/2609.19424",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.19424/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "What can and cannot be predicted by a model when only limited information is available? We answer this question by constructing a ladder of information limits that organizes prediction tasks according to their information requirements: from memoryless and memory-augmented trajectory forecasts to event prediction, stationary statistics, and generative laws. The analysis, which is independent of the model structure or architecture, identifies the minimum attainable error along with the information limitations that give rise to it. The approach distinguishes information hidden in unresolved variables from information recovered through time-delayed observations and connects these contributions to Mori--Zwanzig memory. The ladder also reveals why Lyapunov growth alone cannot characterize reduced-order prediction error, why stationary statistics may remain predictable even when individual trajectories become unpredictable, and why stochasticity can represent (but cannot recover) missing information. Numerical studies of the Kuramoto--Sivashinsky equation and the Lorenz system illustrate these results across the ladder. This unified perspective provides a principled language for understanding the fundamental limitations of ROMs for a given prediction task and for clarifying whether improved predictions require richer observations, greater precision in the input, or additional memory."
   },
   {
     "id": "2609.12079",
@@ -19909,7 +19941,8 @@
       "arxiv": "https://arxiv.org/abs/2609.12079",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.12079/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Hierarchical correlations are a universal feature of any realistic model of data, and the question of how associative memory models may learn these correlations and generalize beyond them to construct new sensible images is an important step towards understanding more complex modern architectures such as diffusion models. We consider a hierarchical model for memories which are sampled and stored in a dense Hopfield network with polynomial activation. We analytically derive conditions for each level of this hierarchy to be locally stable - that is they are local energy minima. We use prototype reconstruction as a minimal model of generalization and we find that it takes only a quasi-polynomial amount of information to generalize beyond particular memories and even particular groups in the hierarchy. We observe a qualitatively analogous phase diagram in the number of memories, sharpness of the activation function (polynomial degree) for data from Fashion-MNIST."
   },
   {
     "id": "2609.12423",
@@ -19925,7 +19958,8 @@
       "arxiv": "https://arxiv.org/abs/2609.12423",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.12423/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We study small solutions to the one-dimensional nonlinear Schrödinger family \\[ \\mathrm{i}\\partial_t u_\\delta=-\\partial_x^2u_\\delta+\\kappa|u_\\delta|^{2+\\delta}u_\\delta, \\qquad 0\\leq\\delta\\leq\\delta_0, \\] uniformly as $\\delta\\to0^+$ and $t\\to\\infty$, across the threshold between cubic modified scattering and nearby-power ordinary scattering. For initial data small in $H^{0,1}(\\mathbb{R})$, with one spatial weight and no physical derivative assumed, we prove a joint-limit asymptotic formula governed by an explicit nonlinear clock. The variable $ \\delta\\log t$ gives three regimes according as it tends to zero, a positive finite limit, or infinity. Within the regime $\\delta\\log t\\to0$, successive Taylor terms of the clock become visible at an infinite hierarchy of time scales, each requiring finer absolute phase accuracy. These scales accumulate at the transition scale, where the exact clock describes them together. In the transition and saturated regimes, the clock is of order $\\delta^{-1}$, so the first-order variation of its coefficient contributes a finite phase correction."
   },
   {
     "id": "2609.13078",
@@ -19941,7 +19975,8 @@
       "arxiv": "https://arxiv.org/abs/2609.13078",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.13078/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We establish one form of the vortex filament conjecture for the three-dimensional Gross-Pitaevskii equation. Given any smooth closed embedded binormal flow of curves on a compact time interval, we construct, in the small-core limit $\\varepsilon\\to0$, a family of exact solutions whose degree-one vortex filaments converge uniformly to the prescribed flow. Near the filament the solutions have the standard planar vortex profile, while away from it their phase gradients converge to the associated Biot-Savart field. We also derive a refined modulation law for the vortex filament."
   },
   {
     "id": "2609.12598",
@@ -19957,7 +19992,8 @@
       "arxiv": "https://arxiv.org/abs/2609.12598",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.12598/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "A single-molecule experiment on a driven enzyme or motor resolves only a few of the transitions the machine makes, yet one would like to know how much free energy it dissipates in total, including on the steps that stay hidden. The mean and the fluctuations of the currents on the watched transitions are shown to certify this hidden dissipation, with no knowledge of the transition rates and no access to the hidden transitions: when the watched transitions span the cycles of the network, the observed-current covariance recovers the full density-contracted quadratic current geometry, including the contribution of transitions that are never seen. The mechanism is that fluctuations are set by the dynamical activity, or traffic, the symmetric partner of the current. Contracting the large-deviation cost of empirical currents over density fluctuations identifies the observed-current covariance with a traffic-weighted metric, and turns partial observation into a minimum-energy completion problem over the unseen cycles, whose solution is the certified hidden cost. Existing current-fluctuation uncertainty relations bound dissipation from chosen currents but do not say when partial observation fixes the hidden contribution; the cycle-observability condition derived here does. The statements concern long-time means and fluctuations; finite-time estimates require separate error control."
   },
   {
     "id": "2609.11063",
@@ -19973,7 +20009,8 @@
       "arxiv": "https://arxiv.org/abs/2609.11063",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.11063/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Large language models learn similar behaviours, yet it remains unclear what structure they share or how to change one behaviour without disturbing others. The Fisher-Rao geometry of next-token probabilities connects these questions: behaviour determines this geometry up to output-preserving symmetries, whereas activation geometry depends on coordinates. Across transformer, state-space and recurrent models, output geometries agree more strongly than activation geometries, and shared geometry supports semantic-category transfer. Agreement with human word choices increases with predictive accuracy, scale and training, and improves further after model-only calibration. Token probabilities and read-out geometry jointly predict the spectrum and its effective dimension. Controlled language assignments show that geometry follows the language law across architectures. Pretraining corpus statistics predict held-out fact acquisition without recalibration, while randomised experiments show that deeper evidence substantially delays acquisition across every tested architecture and evidence construction. Finally, the geometry prescribes minimum-disturbance local interventions, predicts their relative cost, and supports reusable control: updates learned on donor prompts transfer to unseen prompts while better preserving behaviour on reference prompts than Euclidean control. The same geometric correction improves steering, editing, attribution, dictionary learning and fine-tuning."
   },
   {
     "id": "2609.10879",
@@ -19989,7 +20026,8 @@
       "arxiv": "https://arxiv.org/abs/2609.10879",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.10879/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Recent work has identified incremental learning in shallow networks trained on single-index and multi-index models. However, existing analyses often rely on simplifying settings, such as small initialization, correlation loss, or layer-wise training. These choices reduce neuron interactions and leave some feature learning dynamics under standard initialization unexplored. We study training dynamics for polynomial-width two-layer networks learning orthogonal multi-index targets under standard initialization using polynomially many samples. We first prove that incremental learning still occurs: the loss decreases sequentially according to the Hermite expansion of the target, with lower-order components learned before higher-order components recover the individual target directions. In this standard initialization regime, training also shows a competitive reallocation of parameter mass: after the total mass fits the target mean and stabilizes, mass shifts into the target subspace and then concentrates on aligned neurons. Our theoretical analysis uses slightly modified gradient flow, while vanilla gradient descent empirically exhibits the same qualitative dynamics. Technically, we introduce a symmetry-based finite-width approximation via symmetrized networks, rather than comparing directly with an infinite-width limit. This yields better control of approximation errors and may be of independent interest."
   },
   {
     "id": "2609.09589",
@@ -20005,7 +20043,8 @@
       "arxiv": "https://arxiv.org/abs/2609.09589",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.09589/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Deep neural networks exhibit regular macroscopic behavior despite highly nonlinear dynamics in vast parameter spaces. We develop a statistical-mechanical description of learning directly in function space, treating parameter configurations as microscopic realizations and functions with their dynamical operators as macroscopic variables. For mean-squared loss, the exact error dynamics are governed by the learning operator \\(M=JJ^\\ast\\). Combining the dynamical Boltzmann weight of the conditional stochastic dynamics with the parameter-space density of states, whose local curvature defines a statistical operator \\(B\\), and integrating over local fluctuations yields $$ \\Phi_{\\mathrm{fluc}}(M;B)=\\frac{\\sigma_\\xi^2}{2}\\log\\det(M^{-1}+B)+\\mathrm{const}. $$ At fixed spectrum, this term is rotationally stationary when \\([M,B]=0\\), is minimized by pairing large eigenvalues of \\(M\\) with small eigenvalues of \\(B\\), and generates a local restoring contribution against rotational mismatch. For ReLU-type function spaces under mild stable statistical conditions, \\(B=\\sigma_\\xi^2L^\\ast\\mathcal K L\\), where \\(L\\) measures coarse-grained second-order structure. Thus the low-\\(B\\) sector corresponds, up to bounded anisotropy of \\(\\mathcal K\\), to low structural curvature, implying a preference for faster relaxation along smooth, data-adaptive directions. These results identify function space as a natural macroscopic level for studying stable collective organization in learning."
   },
   {
     "id": "2609.05727",
@@ -20021,7 +20060,8 @@
       "arxiv": "https://arxiv.org/abs/2609.05727",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.05727/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We develop Newton Matching, a unified framework for fine-tuning and sampling in generative modeling. The target is $\\pi\\propto\\mu e^{\\tau r}$, where $r$ is the reward, $\\tau>0$ the inverse temperature, and $\\mu$ denotes the pretrained model's terminal density for fine-tuning or the constant $1$ for sampling. We shift the paradigm from isolated losses to iterative optimization over canonical models: population minimizers of standard conditional matching for terminal densities. Under compatible smooth-realization assumptions, canonical velocities form a manifold diffeomorphic to the density manifold. Transporting the Fisher-Rao metric and mixture connection to this manifold, we show that the reverse-KL Hessian equals the metric, so the Newton direction coincides with the negative Fisher-Rao gradient. At terminal density $\\rho$, each stage takes a tangential step generated by the regularized reward $r-\\frac1\\tau\\log(\\rho/\\mu)$, followed by terminal-density-preserving canonicalization. This canonical retraction yields an exact finite-stepsize density characterization. For the ideal iteration, we prove strict reverse-KL descent away from the target for $0 < \\eta \\le \\tau$, global convergence under mild conditions, and local quadratic convergence for full steps ($\\eta=\\tau$). Covariance and gradient forms, each with forward or reverse regression-pair constructions, yield sample-wise tangential-update losses with the same population minimizer, without importance sampling or full-trajectory backpropagation. We develop approximate updates and define critical-point consistency as vanishing tangential displacement if and only if $\\rho=\\pi$. We recover representative methods as exact realizations, critical-point-consistent approximations, or objective-altering variants, enabling modular algorithm design. Our work advances the theory and algorithms of reinforcement learning for generative models."
   },
   {
     "id": "2609.03858",
@@ -20037,7 +20077,8 @@
       "arxiv": "https://arxiv.org/abs/2609.03858",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.03858/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Attention mechanisms are central to modern foundation models, yet their training dynamics remain poorly understood, especially when the attention matrices have extensive rank. In this work, we study attention-indexed models, a broad framework that can represent multi-layer and multi-head attention architectures. First, we show that, in a suitable high-dimensional limit, the population-loss landscape is characterized by a finite set of trace order parameters. In contrast, online stochastic gradient descent (SGD) is governed by an infinite hierarchy of matrix moments, which we show can be exponentially well-approximated by a finite truncated system. Second, this framework reveals that attention parameterization itself can act as an architectural implicit bias. Direct optimization of an attention matrix $S\\in\\mathbb{R}^{d\\times d}$ can remain trapped in an uninformative state. Tied attention ($S=WW^\\top$) induces an automatic symmetry-breaking mechanism and yields weak recovery in $\\Theta(d^2\\log d)$ samples. For untied attention, $S=UV^\\top$, we uncover a fast-slow mechanism: the pre-activation mean first evolves on a fast timescale, while the overlaps evolve on a slower one. Weak recovery on the $\\Theta(d^2\\log d)$ scale occurs when the state selected by the fast dynamics breaks the initial symmetry."
   },
   {
     "id": "2609.02049",
@@ -20053,7 +20094,8 @@
       "arxiv": "https://arxiv.org/abs/2609.02049",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.02049/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "LLMs latent-state reasoning methods replace discrete intermediate tokens with continuous states, such as weighted mixtures of token embeddings, to retain multiple possible reasoning directions rather than committing to one. Yet pretrained language models often fail to preserve these mixtures. We study why through a combination of theoretical analysis and controlled empirical investigations on a variety of models. We identify three independent, distinct sources of failure. First, transformer architectures already distort mixture geometry, and training substantially amplifies this effect. Moreover, the failure can occur even if the model transports mixtures perfectly linearly: the softmax readout and autoregressive feedback form a dynamical system that either amplifies small differences until one component of the mixture dominates or contracts different mixtures until they become indistinguishable. We verify this theoretical prediction empirically: the observed transition between contraction and amplification occurs near the theoretical threshold derived by our analysis, and pretrained-model rollouts lie predominantly on the amplifying side. Finally, we generalize to mixtures of many components and show that exact preservation generally requires context-dependent correction, whose required dimensionality can grow with the number of components."
   },
   {
     "id": "2609.01034",
@@ -20069,7 +20111,8 @@
       "arxiv": "https://arxiv.org/abs/2609.01034",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.01034/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "The central flow of Cohen et al. (2025) is an empirically accurate continuous-time model of gradient descent at the edge of stability in deep learning, However, its derivation is heuristic. We propose a perturbative regime in which the central flow is the limit of gradient descent: we assume that the loss decomposes as $f = g + \\varepsilon h$; in the limit $\\varepsilon \\to 0$, the dynamics of gradient descent with learning rate $\\eta$ converge to the gradient flow of $h$ constrained to the minimizers of $g$ of sharpness at most $2/\\eta$. Our approach is formal rather than rigorous; it treats gradient descent as a singularly perturbed dynamical system in $\\varepsilon$. Three timescales emerge: a fast timescale of oscillations along the sharpest direction, an intermediate timescale of the self-stabilization mechanism, and a slow timescale of the dynamics along the minimizers of $g$-the central flow. Using the method of multiple scales, a classical formal method from singular perturbation theory, we derive the expansion of the dynamics in $\\varepsilon$: the central flow emerges as the leading-order term in the expansion, while the self-stabilization mechanism appears in the next-order term. We study this mechanism beyond previous analyses: with a single eigenvalue at the edge of stability, we compute the slow drift of the energy of the fluctuations; with several eigenvalues at the edge of stability, we derive the self-stabilization system and explain why fluctuations persist."
   },
   {
     "id": "2609.00279",
@@ -20085,7 +20128,8 @@
       "arxiv": "https://arxiv.org/abs/2609.00279",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2609.00279/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "This work shows that diffusion models learned with standard denoising loss can provide effective global MCMC proposals for complex high-dimensional target densities. The method is motivated by the observation that sequentially applying a forward and reverse diffusion process defines a Markov chain with a target stationary distribution for an ideal denoiser trained on samples of the target distribution. This observation can be made exact for any denoiser by applying a Metropolis-Hastings step whose acceptance ratio includes the density of the forward and reverse paths of a discrete time SDE approximation. We therefore propose to train denoising diffusion models on locally convergent MALA samples to learn global MCMC proposals. We call the composition of the global denoiser-based path sampler and a local MALA sampler Denoising Diffusion Monte Carlo (DDMC). Experiments show that DDMC can provide global proposals with high acceptance across a variety of complex target densities. Our results offer preliminary evidence that the established scaling behavior of standard diffusion training transfers directly to exact sampling from high-dimensional unnormalized densities."
   },
   {
     "id": "2608.30072",
@@ -20101,7 +20145,8 @@
       "arxiv": "https://arxiv.org/abs/2608.30072",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.30072/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Token prediction is a central pre-training objective for modern language models. Despite its empirical success, why token prediction learns broadly useful representations remains incompletely understood. We develop a statistical framework connecting token prediction with representation geometry, encoder approximation, and downstream performance. Under a softmax prediction head, we show that accurate token prediction organizes token embeddings according to similarities between the distributions of contexts in which different token types appear, as measured by Hellinger distance, with explicit errors governed by prediction accuracy and token frequency. Meanwhile, the contextual representation provides a low-dimensional coordinate for the conditional distribution of the target token relative to these embeddings. We further introduce a self-consistency principle showing that repeated applications of a shared representation block can progressively refine the contextual representation without introducing additional block parameters. Among representations with the same prediction accuracy, this recurrent construction favors those that can be stably reconstructed from their contexts. Finally, we establish downstream guarantees for token generation, token community recovery, and classification by a linear probe, showing how prediction accuracy and recovered geometry translate into performance beyond the pre-training objective. Together, these results explain how the simple objective of predicting tokens can recover semantic geometry and produce broadly useful representations. A controlled simulation illustrates the theoretical mechanisms."
   },
   {
     "id": "2608.28827",
@@ -20117,7 +20162,8 @@
       "arxiv": "https://arxiv.org/abs/2608.28827",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28827/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We establish quantitative convergence to the target and uniform-in-time propagation of chaos for Langevin-regularized Stein variational gradient descent. The Stein interaction need not be small relative to the confining Langevin drift and does not generally yield a contractive particle coupling. At the mean-field level, the Stein and Langevin components dissipate the same relative entropy in the kernel-induced Stein and $2$-Wasserstein geometries, producing the squared kernel Stein discrepancy and relative Fisher information. Under a log-Sobolev inequality for the target, this yields exponential last-iterate convergence. We also derive a finite-particle entropy identity relative to the product target, giving exponential-in-time convergence of the empirical measure up to polynomial sampling errors. For propagation of chaos, we develop two complementary finite-time approaches. A synchronous coupling, combined with exponential moment estimates for the nonlinear mean-field diffusion, yields explicit single-exponential bounds in Wasserstein distance and kernel Stein discrepancy (KSD). Moving-product entropy gives joint-law relative entropy control relative to the evolving mean-field product law and, through entropy superadditivity and concentration, fixed-marginal relative entropy and total variation bounds and empirical KSD estimates. Under an additional $T_2$ inequality for the initial law, it also yields Wasserstein bounds. Combining these finite-time estimates with target convergence at a logarithmic cutoff time gives polynomial uniform-in-time propagation of chaos rates in expectation for empirical KSD and $W_2^2$, and for fixed-marginal total variation and $W_2^2$. All bounds control the last iterate in physical time. We also compare the two finite-time mechanisms and identify regimes in which each gives the sharper polynomial exponent."
   },
   {
     "id": "2608.28964",
@@ -20133,7 +20179,8 @@
       "arxiv": "https://arxiv.org/abs/2608.28964",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28964/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "This paper studies the 2D Navier--Stokes equation on a bounded domain with Navier-slip boundary conditions, driven by spatially localized stationary forcing generated by a stochastic heat equation. We prove exponential mixing for the associated Navier--Stokes--heat system, and consequently exponential convergence of the velocity law under stationary forcing. The main difficulty is that the white noise is confined to a subdomain and reaches the velocity indirectly through the heat component. To address the degeneracy, the proof combines Malliavin calculus with PDE control theory. The key ingredient is a stabilization scheme that converts localized Navier--Stokes controls into time-regular controls compatible with the heat dynamics."
   },
   {
     "id": "2608.28949",
@@ -20149,7 +20196,8 @@
       "arxiv": "https://arxiv.org/abs/2608.28949",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28949/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We study a class of product-reference diffusion algorithms for sampling from a discrete distribution. We show that their sampling performance can be characterized using a path-based measure of data geometry that we call the interaction growth complexity (IGC). We show that a bivariate IGC kernel gives an exact representation of both the KL discretization error and a simple one-step upper bound. The simpler univariate IGC density can be used to study the effect of stepsize choices on the iteration complexity required to obtain $\\epsilon$-accurate samples in KL divergence. Samplers that traverse the path with equi-spaced steps in log-squared-reliability-odds have performance that depends on the aggregate IGC mass, whereas refined choices of stepsizes have a lower complexity depending on a square-root functional. In the fine-grid limit, both of these characterizations become sharp. We also allow general product reference distributions and show that the reference law can substantially reshape the IGC profile and the resulting sampling complexity; in particular, references far from both the uniform and the data marginals can yield dimension-dependent improvements. Finally, the aggregate IGC mass admits bounds in terms of total correlation and dual total correlation, thereby connecting the pathwise geometry to classical measures of multivariate dependence."
   },
   {
     "id": "2608.28150",
@@ -20165,7 +20213,8 @@
       "arxiv": "https://arxiv.org/abs/2608.28150",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28150/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Which geometry controls the rank complexity of normalized softmax attention? We study maximum-row-$\\ell_1$ approximation rank, exactly the least unrestricted rank preserving every bounded vector-valued output. Two sharp worst-case laws isolate support geometry: for fixed $d$ and error $\\varepsilon$, spherical self-attention has rank $\\Theta_{d,\\varepsilon}(\\min\\{n,(1+\\beta)^{(d-1)/2}\\})$, while full-ball geometry adds one radial degree and, for $\\beta\\ge\\beta_0(d,\\varepsilon)$ and $n\\ge C_d e^{\\beta/8}$, gives $\\Theta_{d,\\varepsilon}(\\beta^{d/2})$. For a fixed head, row-softmax quotients out row-scalar logit directions: the remaining visible query--key interaction dimension $r$ yields an $r/2$ per-instance upper law, and bounded constructions show this exponent is minimax sharp. Approximate interaction subspaces incur an explicit residual output error and yield a tolerance-indexed SVD dimension. On an 84-head BERT-base calibration set, we observe modest effective-dimension reductions across many head--temperature settings, together with positive associations with finite constructive rank upper certificates. Together, these results separate support geometry, which sets worst-case temperature scaling, from softmax-visible interaction geometry, which controls per-head approximation complexity."
   },
   {
     "id": "2608.28010",
@@ -20181,7 +20230,8 @@
       "arxiv": "https://arxiv.org/abs/2608.28010",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28010/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Flow matching enables likelihood-free training, yet alignment methods increasingly reuse conditional flow matching (CFM) losses as endpoint negative log-likelihoods (NLLs) and their old/new differences as log-likelihood ratios. We characterize when these substitutions are valid. For linear Gaussian paths, we exactly decompose endpoint NLL into entropy, a weighted CFM objective, an interior velocity--score residual, and a boundary residual. Thus CFM-only estimates and differences are exact only when the corresponding residuals cancel. At the off-policy population optimum, ordinary CFM is not generally a pointwise NLL estimator, whereas \\(w_{\\mathrm{sc}}(t)=(1-t)/t\\) removes the interior residual; this positive result does not extend generally to training or on-policy alignment. On-policy log-ratios can remain biased even for identical endpoint laws or after surrogate optimization. Experiments across dimensions, distributions, and geometries support these conclusions and the mechanisms that make inexact ratios useful. **More broadly, the decomposition provides a theoretical basis for adapting likelihood-based LLM methods to flow matching, while distinguishing exact substitutions from controlled surrogates.**"
   },
   {
     "id": "2608.29122",
@@ -20197,7 +20247,8 @@
       "arxiv": "https://arxiv.org/abs/2608.29122",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.29122/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "In a quantum many-body system, a periodic drive can often generate effective static forces on the slow collective degrees of freedom. We study the static forces generated by light on electronic order parameters in solid-state systems. We show that the forces can have nonconservative components that originate from dissipation, i.e., optical absorption. This effect is demonstrated in two nontrivial examples. In excitonic insulators, via interband excitations, the light field generates a nonconservative force on the phase of the excitonic order parameter. This force leads to an acceleration of the phase, which manifests as a shift of the photon emission peak from an exciton condensate. In materials with an incommensurate charge density wave, a propagating light field generates a nonconservative force on the phase of its order parameter. It drives the charge density wave into sliding motion, leading to a DC electric current via topological Thouless pumping."
   },
   {
     "id": "2608.28059",
@@ -20213,7 +20264,8 @@
       "arxiv": "https://arxiv.org/abs/2608.28059",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.28059/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "In-context learning (ICL) allows a pretrained model to infer a new task from examples supplied in its prompt without updating its parameters. In linear models of ICL, the prediction error develops a double-descent singularity when the number of pretraining samples becomes comparable to the number of learnable parameters. We formulate this interpolation singularity as a critical phenomenon of a quenched disordered system. By comparing annealed and quenched descriptions of the same linear ICL model, we identify the connected sample-to-sample fluctuations of the learned parameters as the microscopic origin of the singular error. A Landau potential is constructed by integrating the cavity self-consistency equation for the renormalized ridge parameter $\\xi$. The role of (magnetization) order parameter is played by $\\xi$, while the bare ridge parameter $\\lambda$ becomes its conjugate magnetic field. The normalized sample complexity $\\tau$ acts as a temperature and the double-descent singularity occurs at the critical temperature $\\tau_c =1$. The Landau susceptibility is precisely the quantity that diverges in the fluctuation contribution to the prediction error. The order parameter is closely related to the fraction of zero eigenvalues of the empirical relaxation matrix in the ridgeless limit, which define flat directions in the learning dynamics. The Landau theory is generically cubic in the order parameter with critical exponents $(\\beta_{\\rm cr},\\delta_{\\rm cr},\\gamma_{\\rm cr})=(1,2,1)$. In the large-context regime, there appears a pseudogap-like regime characterized by suppressed order parameter. Predictions of the Landau theory are independently confirmed from numerical solutions of the original learning problem with good quantitative agreement. Our results pave the way for solid statistical-physics understanding of the interpolation criticality in linear in-context learning."
   },
   {
     "id": "2608.27540",
@@ -20229,7 +20281,8 @@
       "arxiv": "https://arxiv.org/abs/2608.27540",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.27540/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We develop a mathematical theory of superposition in neural networks using tools from frame theory and compressed sensing. In our model, a sparse binary vector \\(x\\) of active features is encoded through an overcomplete dictionary \\(W\\), and feature recovery is performed by applying \\(\\operatorname{ReLU}(W^\\top W x+b)\\) with an appropriate bias vector \\(b\\). We prove several recovery theorems for this model. In the random-support setting, we establish high-probability support recovery for nearly tight, low-coherence dictionaries, with guarantees when the expected sparsity is up to order \\(d/\\log n\\). In the worst-case support setting, we give a sharp and computable criterion for which sparsity levels permit support recovery. We apply this criterion to Gaussian random matrices and equiangular tight frames. For real equiangular tight frames with \\(n>d+1\\), we determine the exact recovery threshold in terms of the coherence. The proof of this result for real equiangular tight frames relies on a novel characterization---which should be of independent interest to frame theorists---of the distribution of signs in the Gram matrix."
   },
   {
     "id": "2608.26556",
@@ -20245,7 +20298,8 @@
       "arxiv": "https://arxiv.org/abs/2608.26556",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.26556/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "A looped transformer performs inference by iterating a weight-tied map, making its computation a dynamical process whose cost is set by the resulting inference dynamics. Here we show that networks with identical architecture and objective, trained to identical accuracy, nevertheless realize distinct dynamical phases depending strongly on initialization, and that the bifurcation defining each phase determines how test-time compute scales. The phases are distinguished by their bifurcation mechanisms, including a saddle-node fold and a Neimark-Sacker-type transition to bounded nonstationary motion. In the fold phase, a one-dimensional normal-form reduction predicts both the relaxation-time and spectral-gap amplitudes from local derivatives of the trained map, yielding the parameter-free relation $τ(\\varepsilon)[1-λ_{\\max}(-\\varepsilon)]\\toπ$. Composed with a regular distribution of problem difficulty, the same critical slowing down produces the workload-level tail $P(τ>N)\\sim N^{-2}$. In the Neimark--Sacker phase, the fold scaling law disappears rather than merely changing its prefactor. Thus, test-time compute is not determined by architecture alone. It is governed by the dynamical phase of the solution found by training."
   },
   {
     "id": "2608.26288",
@@ -20261,7 +20315,8 @@
       "arxiv": "https://arxiv.org/abs/2608.26288",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.26288/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Muon has emerged as a strong optimizer for the matrix-valued parameters in large language model pretraining, approximately orthogonalizing its momentum with a few Newton-Schulz iterations. Existing theory either replaces this iteration with the exact polar factor it approximates, or treats its finite depth as an approximation error, and thus the iteration Muon actually runs can only hurt the guarantees. We show that finite Newton-Schulz can instead be beneficial for nonsmooth nonconvex optimization. To this end, we analyze Muon through the online-to-nonconvex conversion, which views the update rule as an online learner and converts its regret bound into a stationarity guarantee. The finite Newton-Schulz iteration smooths the discontinuous polar map into a Lipschitz map of the singular values, and Muon with finite Newton-Schulz can be regarded as an online learner with a smoothed spectral potential. This smoothing is exactly what the conversion needs: we prove that a Newton-Schulz depth growing only logarithmically in the target accuracy suffices for convergence to stationary points in nonsmooth nonconvex optimization, whereas Muon with the exact-polar update may fail to converge. The resulting sample complexity bounds match the best-known guarantees for nonsmooth nonconvex optimization and are optimal for smooth nonconvex optimization up to problem-dependent factors. The argument extends beyond Newton-Schulz to general spectral maps with the same smoothing property."
   },
   {
     "id": "2608.25990",
@@ -20277,7 +20332,8 @@
       "arxiv": "https://arxiv.org/abs/2608.25990",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.25990/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Orthogonal optimisers such as Muon can substantially accelerate large language model pretraining relative to Adam, yet the mechanism remains incompletely understood. We investigate this through an out-of-sample spectral probing analysis of Transformer loss landscapes. At checkpoints along real training trajectories, we decompose each momentum buffer into its singular directions and estimate the loss-optimal step size along each direction on held-out data. The resulting spectral profile is anisotropic yet stable across batches and training stages, and consistent across the optimisers and model scales: a volatile head operating at the Edge-of-Stability supports a much smaller step size than the tolerant bulk, which permits substantially larger steps. This profile provides a unified spectral allocation account of why Muon outperforms Adam, which outperforms SGD. It also exposes a limitation of Muon's uniform scaling: it still underutilises the bulk. Guided by this finding, we introduce Spectral-Aware Muon (SAMuon), which holds the head at the Muon scale and amplifies the bulk using a static spectral prior. We provide two variants: the complete SAMuon follows the measured profile using a low-rank randomised SVD and the simplified SAMuon-lite uses a two-level approximation via rank-one power iteration. Neither method adds persistent optimiser state or notable extra FLOPs beyond Muon at scale, and the idealised exact-whitening versions of both retain Muon's asymptotic convergence rate under standard assumptions. Across \"modded-nanogpt\" models from 124M to 1B parameters, both variants outperform tuned AdamW and Muon (Scion implementation) baselines in all evaluated model-scale and batch-size configurations. SAMuon requires 13.3% to 24.0% fewer training tokens to reach the same validation loss as Muon, while SAMuon-lite retains most of this gain with near-zero wall-clock overhead."
   },
   {
     "id": "2608.25055",
@@ -20293,7 +20349,8 @@
       "arxiv": "https://arxiv.org/abs/2608.25055",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.25055/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We develop a rigorous mean-field theory for transformer networks that captures two large-scale limits inherent in the architecture: the number of tokens $N\\to\\infty$ in the input sequence and the number of attention heads $H\\to\\infty$ in each layer. It further considers an infinite number of layers leading to a time-continuous formulation. The resulting framework couples two interacting mean-field objects: a token distribution $μ_t\\in\\mathcal P(\\mathbb R^d)$, which evolves through network depth $t\\in[0,T]$ according to a McKean--Vlasov transport equation, and the attention-parameter distribution $ρ_s\\in\\mathcal P(Θ)$, that evolves through training time $s\\ge0$ according to a Wasserstein gradient flow of the empirical risk, with optional entropic or Tikhonov regularization. We establish a comprehensive analytical foundation for the system coupling the transformer and the training dynamics; in particular, we establish global well-posedness of the resulting nonlinear Fokker--Planck system describing the coupled mean-field and training dynamics. Beyond well-posedness, we connect the mean-field formulation to optimization. For shallow, single-layer attention models, we prove exponential convergence to the entropy-regularized global optimum under a log-Sobolev condition. For genuinely deep, compositional transformers, we establish local linear convergence under a Neural Tangent Kernel non-degeneracy condition."
   },
   {
     "id": "2608.23938",
@@ -20309,7 +20366,8 @@
       "arxiv": "https://arxiv.org/abs/2608.23938",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.23938/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Modern score-based generative models have achieved remarkable empirical success in high-dimensional tasks such as image, audio, and video synthesis. These models reduce distribution learning to a sequence of regression problems that, if solved exactly on finite data, would ultimately reproduce the training samples. Their ability to generalize must therefore arise from the implicit or explicit regularization during training. In this work, we develop a generative counterpart to the theory of benign overfitting and algorithmic regularization for overparameterized neural networks in the supervised lazy-training regime. We study denoising score matching in a vector-valued reproducing kernel Hilbert space with an inner-product kernel. In the proportional high-dimensional regime $n\\asymp d$, we derive exact risk trajectories under gradient flow training. These trajectories exhibit three phases governed by qualitatively distinct estimators: a spectral estimator that generalizes, a pure-noise score with localized peaks that interpolate the training objective, and an empirical Bayes estimator that memorizes the data. We then analyze how these estimators combine along the reverse-time SDE and characterize the distribution of the resulting samples. The analysis reveals familiar mechanisms from supervised learning, including kernel linearization and self-induced regularization from the nonlinear part of the kernel, but also reveals a distinct phenomenology specific to generative modeling."
   },
   {
     "id": "2608.23696",
@@ -20325,7 +20383,8 @@
       "arxiv": "https://arxiv.org/abs/2608.23696",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.23696/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Despite their remarkable success in modeling complex data, generative models face a fundamental tradeoff. Global approaches can capture full structural coherence but suffer from high computational costs, while local models are efficient but often fail to reproduce long-range correlations and global coherence. The renormalization group (RG) bridges this gap by seamlessly connecting spatial structures across different length scales, retaining quasi-local descriptions at each step while preserving long-range correlations. We introduce renormalization group flow matching (RGFM), a generative framework that systematically structures data generation across different spatial scales. By using an exact RG flow as the probability path, RGFM progressively generates data from long- to short-wavelength structures. To reconcile scalability with global structure, we exploit two key properties of the RG: quasi-locality and scale separation. We rigorously show that the RGFM probability flow can be accurately approximated by local velocity fields acting over a spatial range $O(Λ^{-1}[\\ln L+\\ln(1/\\varepsilon)])$ for RG wavenumber scale $Λ$, linear system size $L$, and prescribed error tolerance $\\varepsilon$. This property enables local generative modeling with patches of size $O(\\ln L)$ and a computational cost that scales nearly linearly with the system volume. We numerically demonstrate that local RGFM reproduces long-range correlations far beyond its receptive field in representative one-dimensional distributions, while conventional local flow matching exhibits substantial errors at long distances. On FFHQ images, RGFM yields far more coherent and higher-quality samples than local flow matching at 64x64 and 256x256. Our results establish RG-guided probability flows as a promising route toward scalable generative modeling that captures long-range structure using only local computation."
   },
   {
     "id": "2608.22007",
@@ -20341,7 +20400,8 @@
       "arxiv": "https://arxiv.org/abs/2608.22007",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.22007/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "The components of a transformer communicate by writing to and reading from a shared residual stream, and mechanistic interpretability has mapped these connections by hand, one circuit at a time. We present the communication map, which charts every potential communication channel in a language model from weights alone, generalizing the composition score of Elhage et al. (2021) into a single coupling coefficient covering all 18 connection classes, from entire attention head circuits to single neurons. The census of all candidate channels, from $6.3\\times10^{8}$ in GPT-2 to $1.3\\times10^{11}$ in Pythia-6.9B, finds that 70-89% of head pairs are oriented far from chance, some coupled strongly and others actively avoiding each other. The full map costs 15 seconds for GPT-2 and 11 minutes for Pythia-6.9B on one consumer GPU. Two applications demonstrate the utility of the map. In Application 1, the strongest head-to-head couplings recover the known induction circuits blind and group them into communities, and ablating one such community destroys the model's in-context copying. In Application 2, pooling every head's coupling coefficients identifies a distinct two-dimensional stream subspace, whose deletion abolishes the induction capability in six models up to Pythia-6.9B. This subspace is different from those identified by either activation PCA or outlier dimensions. We release the map, the statistical machinery, and the intervention suite."
   },
   {
     "id": "2608.22197",
@@ -20357,7 +20417,8 @@
       "arxiv": "https://arxiv.org/abs/2608.22197",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.22197/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "World-action models predict a future outcome and then infer an associated action. Although this factorization can improve representation learning and data efficiency, it is unclear whether it provides stronger control capability than direct behavior cloning when both are trained from the same observational demonstrations. We compare a direct behavior-cloning policy, an imitation-trained world-action policy, and a policy optimized with an action-conditioned world model. At the controller-class level, every world-action policy can be flattened into a direct stochastic policy with the same closed-loop trajectory distribution. At the population level, under realizability, exact optimization, common deployment information, and distribution-preserving deployment, direct behavior cloning and world-action imitation both recover the observational behavior policy. Thus, future prediction changes the learning factorization but not the unrestricted external policy class or ideal imitation target. Action-conditioned world-model learning differs by predicting outcomes under specified actions and comparing them through a control objective. We characterize the irreducible action-specific prediction error of future models that do not condition on the candidate action, identify conditions under which a world-action joint can recover an interventional forward model, and show that observational demonstrations do not identify action effects in general. Finally, we construct an environment family in which every observational learner has positive worst-case regret, whereas one informative intervention permits zero regret. The key distinction is therefore between predicting futures associated with observed behavior and predicting consequences of specified actions for policy optimization."
   },
   {
     "id": "2608.20013",
@@ -20373,7 +20434,8 @@
       "arxiv": "https://arxiv.org/abs/2608.20013",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.20013/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Thermodynamic uncertainty relations connect current fluctuations to dissipation and are often rooted in fluctuation-response principles. In underdamped dynamics, conventional mean-current uncertainty relations can fail. This work derives an exact finite-time fluctuation-response equality for underdamped Langevin dynamics with arbitrary time-dependent driving and general additive observables, yielding sharp response bounds, a variance variational principle, a saturable friction-response TUR, and an exact variational principle for total entropy production."
   },
   {
     "id": "2608.20328",
@@ -20389,7 +20451,8 @@
       "arxiv": "https://arxiv.org/abs/2608.20328",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.20328/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "This work develops fluctuation-response theory for non-Markovian jump processes directly on observed event records. Compensated transition-count martingale increments form a complete orthogonal basis for trajectory fluctuations. Their event-consequence coefficients equal intensity-normalized history-conditioned responses, yielding exact finite-time and finite-frequency relations, response-heterogeneity gaps, response-sufficiency tests, and activity-controlled response-kinetic uncertainty relations."
   },
   {
     "id": "2608.19325",
@@ -20405,7 +20468,8 @@
       "arxiv": "https://arxiv.org/abs/2608.19325",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.19325/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "This work proposes a theory of 1+1d monitored quantum dynamics with SU(2) symmetry. An effective replicated loop model contains a replica-pairing field and a gapless diffusive z=2 SU(2)-charge background. The theory predicts coincident spin-sharpening and entanglement transitions, with volume-law entanglement and total-spin learning time t~L^3 in the ordered pairing phase, versus logarithmic entanglement and t~L^2 after disordering. The analysis is controlled by a large-loop-fugacity expansion."
   },
   {
     "id": "2608.19144",
@@ -20421,7 +20485,8 @@
       "arxiv": "https://arxiv.org/abs/2608.19144",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.19144/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Continuous-time generative models are often built from endpoint-conditioned bridges, but generation requires a different object: a non-anticipative Markov decoder that only observes the current state and time. We identify this bridge-to-decoder compression as a structural bottleneck shared by diffusion models, flow matching, rectified flow, Schrödinger bridges, and field-based generative models. We introduce the Markovization gap, the time-integrated conditional variance of the bridge velocity given the Markov state. It is the MMSE of predicting endpoint-conditioned motion from the information available to a sampler, and it measures an irreducible loss incurred before any neural network is trained. To make this bottleneck comparable across model families, we define Bridge Graphical Models (BGMs), which separate endpoint coupling, bridge law, Markovian projection, and current-preserving dynamics representation as independent design choices. The same formalism also represents Poisson and electrostatic models as field-line bridge kernels with a corresponding field-line Markovization gap. Across synthetic, latent, and pixel-space pilots on CIFAR-10 and Fashion-MNIST, a feature-space proxy gap estimated in minutes before training ranks design choices in the same direction as downstream training loss and FID under fixed architecture, bridge, sampler, and compute. These results support the Markovization gap as a pre-training diagnostic for bridge and coupling design."
   },
   {
     "id": "2608.18415",
@@ -20437,7 +20502,8 @@
       "arxiv": "https://arxiv.org/abs/2608.18415",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.18415/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "The edge of stability refers to a phenomenon in deep learning with gradient-based optimizers where the Hessian eigenvalues of the loss remain stable above a threshold that the classical descent lemma predicts to be unstable. Previous works formulate the edge of stability with respect to the maximum Hessian eigenvalue and the learning rate. However, we observe that many first-order methods, including gradient descent, significantly violate the stability bound predicted by these theories by a factor as large as ×21.1. Moreover, this deviation turns out to be systematic and highly dependent on the underlying optimizer, which is not captured by previous formulations. This calls for a new formulation of the stability threshold, which we derive from the directional Hessian and the gradient-alignment score with respect to the actual update taken by the optimizer, rather than the maximum curvature mode. Our new formulation of the realized edge of stability not only removes optimizer-dependent offsets and provides more consistent predictions of the stability threshold, but also introduces new diagnostic tools that reveal the unique role of the optimizer in actively balancing between the temporal and spatial budgets in first-order optimization."
   },
   {
     "id": "2608.18834",
@@ -20453,7 +20519,8 @@
       "arxiv": "https://arxiv.org/abs/2608.18834",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.18834/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Let D be a bounded domain in R^d, let κ>0 be fixed, and let W be a fractional Brownian sheet on R × R^d. Consider the Stratonovich parabolic Anderson model with Dirichlet boundary condition on D and flat initial condition. We calculate exact asymptotics for the expectation and standard deviation of the total mass as t tends to zero under the assumption that W's Hurst indices are all at least 1/2 and that the model's moments are finite for small enough positive time. The asymptotics are determined by competition between geometry, fluctuations, and renormalization, producing phase-transition phenomena controlled by the Hurst indices."
   },
   {
     "id": "2608.16915",
@@ -20469,7 +20536,8 @@
       "arxiv": "https://arxiv.org/abs/2608.16915",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.16915/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "The Constantin-Iyer formula represents a smooth solution of the incompressible Navier-Stokes equations on $\\mathbb{T}^3$ as $u=\\mathbb{P}\\,\\mathbb{E}[(\\nabla A_t)^\\top(u_0\\circ A_t)]$, the projected expectation of a stochastic Weber field. We separate this expectation into the product of the means and a centred covariance, and show that the covariance -- together with the second moment of the inverse deformation gradient and the two-point covariance -- satisfies a closed deterministic advection-diffusion equation: because every Lagrangian label is driven by the same Brownian path, the quadratic covariation collapses into a Laplacian and no moment hierarchy appears. From these equations we obtain an energy/production balance, pointwise and Holder covariance bounds, and an exact degeneracy of the two-point operator in the separation variable. A second group of results concerns the mean displacement, which solves a forced heat equation along the flow; its $L^2$ norm is controlled unconditionally by the initial energy, while an exact family of Navier-Stokes shear flows shows that no analogous Holder bound can hold uniformly down to $t=0$. We further isolate several obstructions, each backed by an explicit counterexample -- the norm of an expected deformation gradient does not control the expected norm, even for genuine stochastic flows of smooth divergence-free drifts; a spatial Holder bound on the mean does not imply parabolic Campanato decay -- and we prove a gauge-invariant quotient criterion equivalent to the Serrin norm of the velocity, together with a Liouville-type rigidity theorem for ancient solutions whose mean coordinate is affine of rank at least one. No claim is made regarding global regularity; the missing steps are stated explicitly as open problems."
   },
   {
     "id": "2608.17646",
@@ -20485,7 +20553,8 @@
       "arxiv": "https://arxiv.org/abs/2608.17646",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.17646/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "This monograph develops elimination geometry (EG), a typed, native-loss, audit-oriented framework for studying when locally optimal objects can be realized by a shared deployment rule. Elimination and compression may erase distinctions required by prediction, inference, control, or representation. EG asks which distinctions are lost, whether the induced defect is visible to the declared task, and whether changing information, architecture, action space, or deployment domain can repair it. EG separates local solvability, global realizability, and finite-sample certifiability. It derives native defects from the original objective and distinguishes architecture obstruction from model approximation, generalization, and implementation error. The monograph synthesizes tools from geometry, optimization, information theory, statistics, and machine learning into interfaces for integrability, representation admissibility, resource constraints, observational overlap, and common deployment. Formal results address regular, coordination, singular, compositional, and resource-limited mechanisms with explicit antecedents and claim boundaries. Applications include sparse model selection, distribution-free prediction, observational treatment policies, routed expert and retrieval systems, and learned score fields. Obstruction-Aware Learning and Inference links structural diagnosis to finite-data authorization, mechanism-matched intervention, and independent validation. Reproducible synthetic and real-data studies illustrate how certificates can guide architecture repair while recording failed gates and unresolved cases. The framework requires the deployment contract, native endpoint, competing explanations, information and compute budgets, and validation rule to be fixed before a persistent performance floor is attributed to architecture."
   },
   {
     "id": "2608.13208",
@@ -20501,7 +20570,8 @@
       "arxiv": "https://arxiv.org/abs/2608.13208",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.13208/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Kinetically constrained lattice gases are interacting particle systems with conserved number of particles, having degenerate rates caused by a kinetic constraint. Over the past decade, there has been major progress in the study of their non-conservative counterpart, kinetically constrained spin models: in dimensions 1 and 2, we have a good understanding of the universality classes of these models. However, the conservative systems are much more challenging to analyze, and very few results are available. The purpose of this paper is to describe universality in the one dimensional case. We will characterize the three universality classes, determining whether such a model is always ergodic, never ergodic, or exhibits an ergodicity phase transition."
   },
   {
     "id": "2608.11695",
@@ -20517,7 +20587,8 @@
       "arxiv": "https://arxiv.org/abs/2608.11695",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.11695/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We construct the local-in-time solution of the generalised anisotropic direction-dependent curvature flow in dimension $d \\geq 2$ forced by a white-in-time and smooth-in-space Gaussian noise. This seems to be the first construction with a white-in-time noise which also allows spatial dependence, even in the simpler case of isotropic stochastic mean curvature flow. The main difficulty is that the stochastic PDE describing the flow has a multiplicative noise depending nonlinearly on both the solution and its gradient. The key technique is a transform developed in \\cite{BKMZ20} based on rough characteristics that removes this rough multiplicative term. We also illustrate the relationship of this transform with previously known special situations.\n  As an application of the construction, we show that in a short time interval, the sharp interface limit of the stochastic Allen-Cahn equation with nonlinear diffusion and the same noise (slightly smoothened in time) is given by the above direction-dependent stochastic curvature flow."
   },
   {
     "id": "2608.11544",
@@ -20533,7 +20604,8 @@
       "arxiv": "https://arxiv.org/abs/2608.11544",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.11544/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "In many high-stakes domains, extreme events carry substantial consequences, yet learning the heavy-tailed distributions that govern them from finite samples remains challenging: the quantities of interest are driven by a few extreme observations, so the tail is under-sampled relative to its importance. Even generative models tailored for heavy tails capture the tail region inadequately in practice. We propose the Conditional Value-at-Risk (CVaR)-penalized Generative Particle Algorithm (CVaR-GPA), a tail-agnostic algorithm for fine-tuning generative models toward heavy-tailed targets, built as a time discretization of the Wasserstein gradient flow of the Lipschitz-regularized KL divergence penalized by a CVaR discrepancy term. Such a flow can be initialized from the output samples of the pre-trained model, which are then transported along the gradient descent of the loss functional, without requiring access to the pre-trained model's internal architecture. The Lipschitz-regularized KL divergence requires minimal assumptions on the target, while the CVaR penalty focuses the flow on the tail. The CVaR penalty depends on the target only through a scalar tail statistic, inducing a velocity field that remains active in the under-sampled tail region at a dimension-free estimation cost. The resulting velocity field, and hence the depth of the transport map, implicitly adapts to the target, without target-specific modifications. Across four targets, including two real-world, high-dimensional datasets (daily streamflow in the Ohio River basin ($d=64$) and the Fama-French portfolios ($d=25$) with tail indices ranging from $1.05$ to $3.34$), fine-tuning with CVaR-GPA reduces global and tail errors by geometric-mean factors of $14.0 \\times$ and $9.8 \\times$, respectively, across seven pre-trained models spanning GANs, diffusion models, and other generative flows, with a single set of hyperparameters."
   },
   {
     "id": "2608.11690",
@@ -20549,7 +20621,8 @@
       "arxiv": "https://arxiv.org/abs/2608.11690",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.11690/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Continual learning must absorb new tasks without erasing old ones, and replay---mixing a small buffer of past examples into current training---is among the most effective remedies for catastrophic forgetting. Yet its generalization behavior is shaped by two coupled effects that existing analyses fold into a single hypothesis-level quantity: finite memory replaces each past distribution with an empirical proxy, and repeated reuse couples the buffer, the current data, and the final hypothesis through a shared optimization trajectory. We develop a layer-wise information-theoretic framework that separates these effects at every depth. Our main result decomposes the expected generalization gap into a replay-induced representation drift and an optimization-dependence term, the latter further resolved into stability, plasticity, interaction, and residual-coupling components. Two refinements make the framework operational. A Wasserstein relaxation of the drift term, valid under support mismatch, yields a depth-dependent drift--sensitivity trade-off whose minimizer identifies which interior layer to stabilize. An SGLD instantiation of the optimization term reduces it to a trajectory-level log-determinant budget, exposing a curvature-aware gradient-alignment statistic that serves as an online diagnostic of task-wise forgetting. Controlled and benchmark experiments confirm the predicted memory scaling, the interior funnel, and the alignment signal's link to forgetting."
   },
   {
     "id": "2608.11215",
@@ -20565,7 +20638,8 @@
       "arxiv": "https://arxiv.org/abs/2608.11215",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.11215/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a statistical-physics observation into a method: replace each LLM agent by a low-parameter model fitted from a few hundred to a few thousand cheap queries, then run the society at any $N$ on a laptop. Whether this works is decided before the simulation runs, chiefly by what each agent perceives. We introduce an [interaction order x memory] taxonomy that maps perception and memory to an effective theory and a predicted $N$-trend of the surrogate error. We validate it on a faithful reimplementation of the LLM macroeconomy EconAgent and seven further named LLM simulations, with agent decisions cloned from genuine LLM elicitations (primarily DeepSeek) for a few dollars; the predicted error trends hold cell by cell, and the two refuted predictions, both on a strongly saturating response and traced to its curvature, are themselves matched quantitatively by the theory with no free parameters."
   },
   {
     "id": "2608.11073",
@@ -20581,7 +20655,8 @@
       "arxiv": "https://arxiv.org/abs/2608.11073",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.11073/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Amorphous solids subjected to athermal quasistatic oscillatory shear undergo a transition from periodic reversible dynamics to irreversible diffusive dynamics at yielding. How irreversibility arises in such deterministic, strongly dissipative systems remains unclear. Here we directly test the proposal that post-yield irreversibility originates from chaotic dynamics and exponential sensitivity to initial conditions. Contrary to this interpretation, perturbations initially contract rather than grow, even in the irreversible regime, with nearby trajectories remaining close for extended periods. Separation occurs only through rare branching events, after which the distance grows diffusively at the rate expected for independent trajectories. The waiting times to branching are exponentially distributed, defining a steady-state branching rate that vanishes in trained reversible limit cycles and becomes finite above yielding. A mean-field soft-spot model reproduces these branching statistics and reveals their microscopic origin: a small perturbation can reverse the activation order of two nearly degenerate plastic instabilities, altering the subsequent sequence of plastic events. These results show how local stability and global irreversibility can coexist in a dissipative many-body system and identify instability-selection-induced branching as a distinct dynamical route to irreversibility in driven amorphous solids."
   },
   {
     "id": "2608.10232",
@@ -20597,7 +20672,8 @@
       "arxiv": "https://arxiv.org/abs/2608.10232",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.10232/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Recent world-action models (WAMs) show that co-training policies with future prediction can provide physical priors for action generation. Building on the future-prediction ability of video models, many WAMs generate future videos and recover actions with inverse-dynamics models, or use these predicted videos as goal conditions for action generation. In both cases, the world model is trained mostly on successful demonstrations and has little reason to predict the consequences of bad actions. We introduce FACT, a causal World-Action Model that predicts future video and task progress conditioned on the executed action. This action-conditioned interface allows failure rollouts to supervise action consequences, turning bad actions into valid future targets rather than being discarded. Failure-aware training makes the progress predictor aware of both successful and failed action outcomes, which can optionally be used to score sampled action candidates at inference. Extensive experiments on simulation and real-world bimanual manipulation tasks show that FACT outperforms many existing baselines, improves as failure data are incorporated into training, and reduces success-biased future hallucination under bad actions. See more details at https://fact-wam.github.io/"
   },
   {
     "id": "2608.08735",
@@ -20613,7 +20689,8 @@
       "arxiv": "https://arxiv.org/abs/2608.08735",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.08735/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We rely on a hydrodynamic description of living tissues to describe the interface separating two of them with distinct constitutive properties. Using the difference in their homeostatic pressures as a control parameter, we show that the interface generates an emergent capillary surface tension that depends on the hydrodynamic scale, and that makes it very stable to large wavelengths perturbations. Using the difference of active forces the two tissues experience as a control parameter, we not only find that the front propagation mechanism shifts from the pushed wave to the Burgers wave, but we also find that the emergent surface tension is not sufficient to stabilize the interface at large enough drive and low enough viscosity."
   },
   {
     "id": "2608.08546",
@@ -20629,7 +20706,8 @@
       "arxiv": "https://arxiv.org/abs/2608.08546",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.08546/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We propose a general framework for automatic force field refinement guided by phase diagrams, grounded in Lee-Yang phase transition theory. The central idea is to directly use the partition function modulus as a phase-diagram-guided optimization target. Evaluating the modulus at points close to the real axis, where the Lee-Yang zeros are mostly associated with the phase transition, is more physically meaningful and avoids the numerical difficulty of explicitly solving for the zeros. This approach requires no system-specific order parameters or response properties for characterizing phase transition points, making it universal across various discontinuous phase transitions and material systems. We validate the method on refining parameters of a Lennard-Jones potential covering both gas-liquid and solid-liquid transitions, and a Cu embedded-atom method potential based on experimental melting curves. The refined force fields reproduce the target phase diagrams with significant improvement across all systems. For Cu, the refinement simultaneously improves predictions of enthalpy and heat capacity, which are observables beyond the optimization target. These results establish Lee-Yang theory as a practical tool for contemporary force field development."
   },
   {
     "id": "2608.06427",
@@ -20645,7 +20723,8 @@
       "arxiv": "https://arxiv.org/abs/2608.06427",
       "card": "https://xixi-cc.github.io/daily-article-card/papers/2608.06427/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Generative models can reproduce an observational distribution while encoding an incorrect causal structure. We study a sequential game in which a structural causal generator proposes observational and interventional distributions, while an adversarial experimentalist selects interventions intended to maximally falsify the generator. The discriminator is therefore not merely a real-versus-synthetic classifier: it is indexed by an intervention and tests whether the generator reproduces the corresponding post-intervention law. We introduce Adversarial Causal Intervention Falsification (ACIF), formulate oracle and implementable versions of the game, and distinguish three objects that are often conflated: observational fit, interventional equivalence over an admissible query class, and point identification of a structural causal model. For finite model and intervention classes, we prove: (i) an exact reduction of the adversarial objective to a worst-intervention integral probability metric; (ii) identification up to interventional equivalence, with point identification under a separating intervention family; (iii) existence of mixed-strategy equilibria; (iv) finite-sample uniform convergence and margin-based model-selection guarantees; and (v) a logarithmic elimination guarantee for a disagreement-driven sequential design under a balanced-separation condition. We also give a complete linear-Gaussian example in which two observationally indistinguishable causal directions are separated by a single well-chosen intervention. The framework clarifies what an adversarial causal discriminator can and cannot certify, and provides a principled bridge between causal generative modeling, active causal discovery, and experimental design."
   },
   {
     "id": "2609.00867",
@@ -20661,7 +20740,8 @@
       "arxiv": "https://arxiv.org/abs/2609.00867",
       "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2609.00867/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We prove uniform-in-N partition-function estimates at all positive temperatures for the centered modulated energy of logarithmic, Riesz, and Bessel--Riesz kernels on R^d in the locally square-integrable range 0<=s<d/2. They yield finite-particle exponential integrability, quadratic behavior at small parameter, explicit kernel-dependent growth at large parameter, and uniform entropy control of the associated Gibbs measures. As applications, we obtain uniform Renyi-divergence and relative-entropy bounds for interacting Gibbs equilibria and entropic mean-field convergence near thermal equilibrium; the optimal N^-1 normalized relative-entropy rate for the three-dimensional Coulomb flow; and an N^-1/2 Gaussian approximation for fixed-time finite-dimensional fluctuations. Finally, the modulated energy converges to a random variable in the second Wiener chaos, and for every positive parameter the partition functions converge to its Laplace transform, represented by a Carleman--Fredholm determinant. This formula identifies the sharp small-parameter behavior and, when the reference density is bounded below on a ball, the sharp large-parameter growth."
   },
   {
     "id": "2607.20034",
@@ -20677,7 +20757,8 @@
       "arxiv": "https://arxiv.org/abs/2607.20034v1",
       "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2607.20034/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Activity, when it takes the form of motility, is generally seen to promote order in many-body systems. Here we present a one-dimensional lattice model that, in the non-motile limit, exhibits absorbing ferromagnetic states. When activity is introduced through biased motility, these absorbing state are destabilised and the system instead undergoes a transition from an ordered flock to a disordered state as the alignment strength is decreased. A finite-size scaling analysis of physical quantities reveals a continuous transition with critical exponents satisfying the hyperscaling relation in one dimension, providing quantitative evidence for the activity-induced disorder."
   },
   {
     "id": "2606.22984",
@@ -20693,7 +20774,8 @@
       "arxiv": "https://arxiv.org/abs/2606.22984v2",
       "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2606.22984/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "Efficient sampling of the Boltzmann distribution in frustrated spin glasses is central to statistical mechanics and combinatorial optimization. Despite advances in machine-learning-based approaches, two issues persist: limited understanding of why variational models fail to benefit from increased scale, unlike the monotonic scaling law of large language models; and high computational cost on large systems that negates advantages over classical sampling methods. Here, we develop a physics-inspired transformer with interpretable sparse attention and spin-tailored positional embeddings to address these challenges. By further leveraging FlashAttention for parallel ancestral sampling, it achieves up to two orders of magnitude speedup over vanilla variational autoregressive networks, enabling neural-network simulations of spin-glass systems to unprecedented sizes on a single GPU. It can resolve full probability distributions, free energies, and overlap statistics across temperatures, for Sherrington-Kirkpatrick and 2D or 3D Edwards-Anderson models, where existing machine-learning methods encounter limitations at certain temperatures. This framework thus establishes a scalable paradigm for frustrated spin-glass systems."
   },
   {
     "id": "2604.16288",
@@ -20709,6 +20791,7 @@
       "arxiv": "https://arxiv.org/abs/2604.16288v1",
       "card": "https://xixi-cc.github.io/daily-article-card/collection-papers/2604.16288/"
     },
-    "source_detail": "arXiv"
+    "source_detail": "arXiv",
+    "abstract": "We study phase transitions for repulsive-attractive mean-field free energies on the circle. For a $\\frac{1}{n+1}$-periodic interaction whose Fourier coefficients satisfy a certain decay condition, we prove that the critical coupling strength $K_c$ coincides with the linear stability threshold $K_\\#$ of the uniform distribution and that the phase transition is continuous, in the sense that the uniform distribution is the unique global minimizer at criticality. The proof is based on a sharp coercivity estimate for the free energy obtained from the constrained Lebedev--Milin inequality. We apply this result to three motivating models for which the exact value of the phase transition and its (dis)continuity in terms of the model parameters was not fully known. For the two-dimensional Doi--Onsager model $W(\\theta)=-|\\sin(2\\pi\\theta)|$, we prove that the phase transition is continuous at $K_c=K_\\#=3\\pi/4$. For the noisy transformer model $W_\\beta(\\theta)=(e^{\\beta\\cos(2\\pi\\theta)}-1)/\\beta$, we identify the sharp threshold $\\beta_*$ such that $K_c(\\beta) = K_\\#(\\beta)$ and the phase transition is continuous for $\\beta \\leq \\beta_*$, while $K_c(\\beta)<K_\\#(\\beta)$ and the phase transition is discontinuous for $\\beta > \\beta_*$. We also obtain the corresponding sharp dichotomy for the noisy Hegselmann--Krause model $W_{R}(\\theta) = (R-2\\pi|\\theta|)_{+}^2$ ."
   }
 ]
