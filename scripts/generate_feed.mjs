@@ -20,6 +20,19 @@ function isoDate(value) {
 }
 
 const papers = JSON.parse(await readFile(SOURCE_PATH, 'utf8'));
+// Preserve explicit user removals when older catalogues are imported or synced.
+const removals = JSON.parse(await readFile(resolve('data/collection-removals.json'), 'utf8'));
+if (removals.schema_version !== 1 || !Array.isArray(removals.paper_ids)
+  || !removals.paper_ids.every((id) => typeof id === 'string')
+  || new Set(removals.paper_ids).size !== removals.paper_ids.length) {
+  throw new Error('Invalid collection removal manifest');
+}
+const removedIds = new Set(removals.paper_ids);
+const restored = papers.filter((paper) => removedIds.has(paper.id)).map((paper) => paper.id);
+if (restored.length) {
+  throw new Error(`User-removed catalogue entries were reintroduced: ${restored.join(', ')}`);
+}
+
 const entries = [...papers]
   .sort((left, right) => String(right.date ?? '').localeCompare(String(left.date ?? '')))
   .slice(0, 80);
